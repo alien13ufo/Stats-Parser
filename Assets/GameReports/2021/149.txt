@@ -1,0 +1,66 @@
+ Pittsburgh Steelers (5-4) at Miami Dolphins (9-0)
+
+Miami Gardens, FL - 81 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:steelers: Pittsburgh Steelers (5-4) 	0 	0 	10 	7 	- 	17
+:dolphins: Miami Dolphins (9-0) 	3 	7 	7 	7 	- 	24
+Team Stats Comparison
+  	:steelers: Pittsburgh Steelers 	:dolphins: Miami Dolphins
+Injuries 	
+
+Charlie Johnson, OLB - Moderate Foot Fracture
+
+Ashton Britt, FS - Moderate Toe Sprain
+	
+
+Marcus Barry, RB - Moderate Biceps Pull
+
+ 
+Offensive Line Rating 	8.2 	8.5
+Sacks 	2 	4
+Punting 	44.6 	43.1
+Punt Return Yards 	21 	6
+Kick Return Yards 	18 	23
+Turnovers 	2 	0
+3rd Down Conversion 	6/12 	3/8
+4th Down Conversion 	0/1 	0/0
+Penalties 	4/46 	8/85
+:steelers: Pittsburgh Steelers
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+R.J. Stanford 	15/26 	166 	1 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kalei Keil 	19 	87 	1 	45T 	0/0
+R.J. Stanford 	3 	10 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Austin Medina 	6 	61 	1 	0 	0/0
+Jake Schmidt 	3 	41 	0 	1 	0/0
+Charlie Paul 	2 	21 	0 	0 	0/0
+Eric Watson 	2 	17 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Quentin Smith 	4/1 	1.0 	0/0 	0/0 	0/0
+Charlie Johnson 	2/0 	1.0 	0/0 	0/0 	0/0
+Ron Mobley 	5/0 	- 	0/0 	1/0 	0/0
+David Drake 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Michael Turner 	1/2 	2/2 	50 - 59
+	
+:dolphins: Miami Dolphins
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	25/31 	240 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	15 	50 	1 	10 	0/0
+Daniel Curtis 	6 	31 	0 	13 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+J.C. Weldon 	8 	72 	0 	1 	0/0
+Greg Cobb 	5 	71 	1 	0 	0/0
+Gordon Kleinsasser 	4 	46 	0 	0 	1/0
+Michael Potts 	3 	38 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Laurent Christensen 	2/0 	- 	1/0 	0/0 	0/0
+Dexter Flowers 	4/2 	1.5 	0/0 	1/0 	0/0
+Josh Wilson 	4/0 	1.0 	0/0 	0/1 	0/0
+Brent Ouellette 	2/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	1/1 	3/3 	37 

@@ -1,0 +1,67 @@
+ Tampa Bay Buccaneers (4-3) at Seattle Seahawks (2-5) ?
+
+Seattle, WA - 49 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (4-3) 	7 	3 	3 	10 	- 	23
+:seahawks: Seattle Seahawks (2-5) 	14 	7 	7 	3 	- 	31
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:seahawks: Seattle Seahawks
+Injuries 	WR Cotton Lewis - Severe ACL Rupture 	No Injuries
+Top Player Grade 	DT Frank Williams (9.02) 	QB Jarius Jones (8.84)
+Worst Player Grade 	SS Kevin Jackson (1.75) 	OT James Poindexter (3.56)
+Offensive Line Rating 	8.21 	8.30
+Sacks 	2 	2
+Punting 	42.1 	45.3
+Punt Return Yards 	14 	22
+Kick Return Yards 	75 	83
+Turnovers 	1 	0
+3rd Down Conversion 	4/15 	3/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/56 	4/33
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	19/31 	222 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG ? 	F/L
+DeNorris Jackson 	16 	62 	0 	11 	1/0
+Jeremiah Newton 	3 	-8 	0 	1 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony McCardell 	5 	80 	1 	0 	0/0
+Richard Wilson 	3 	51 	0 	0 	0/0
+Cotton Lewis 	4 	39 	0 	1 	0/0
+Quintavius Pearson 	3 	20 	1 	1 	0/0
+Jeremiah Newton 	2 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darris Hayes 	4/0 	1.0 	0/0 	0/0 	0/0
+Frank Williams 	2/2 	1.0 	0/0 	0/0 	0/0
+Cameron Newhouse 	3/0 	- 	0/1 	0/0 	0/0
+Andre Brooks 	6/0 	- 	0/0 	0/0 	0/0
+Thomas Barry 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	3/3 	2/2 	40, 27, 35
+	
+:seahawks: Seattle Seahawks
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	22/32 	290 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	20 	116 	1 	26 	0/0
+Jarius Jones 	2 	11 	1 	7T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Josiah McCray 	6 	102 	1 	0 	0/0
+Tyler White 	3 	74 	0 	2 	0/0
+Curtis Settles 	2 	36 	1 	0 	0/0
+Roger Bailey 	3 	23 	0 	0 	0/0
+Tony Huff 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK ? 	INT/PD 	FF/FR 	TD/SFTY
+Zion Adakwa 	5/0 	- 	1/0 	0/0 	0/0
+Kenji Sagatomo 	5/1 	1.0 	0/0 	0/0 	0/0
+Malcolm Douglas-Scott 	4/0 	1.0 	0/0 	1/0 	0/0
+Reggie Howard 	3/2 	- 	0/0 	0/0 	0/0
+Kristian Little 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	1/1 	4/4 	40 ?

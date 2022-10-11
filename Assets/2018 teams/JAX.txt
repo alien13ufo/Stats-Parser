@@ -1,0 +1,44 @@
+QB Christopher Brooks 5-11 207 3 Kansas [Scrambling] 75
+QB Byron Harper 6-3 225 R Utah [Scrambling] 77
+QB Allan Taylor 6-0 202 4 Virginia Tech [Scrambling] 97
+RB John Adams 5-11 171 R Syracuse [Speed] 74
+RB Ricky Moore 5-8 186 4 West Virginia [Power] 74
+RB Ike Nimmo 5-9 219 1 Virginia Tech [Speed] 77
+FB Neill Sharper 6-2 212 3 LSU [Power] 83
+WR Wesly Chandler 6-0 170 4 Boise State [Target] 81
+WR Terry Cross 6-2 173 2 Oklahoma St. [Target] 70
+WR Audray Gabriel 6-2 189 4 Washington [Speed] 67
+WR Curtis Settles 6-0 207 R Penn State [Speed] 80
+TE Tom Ellis 6-3 265 4 USC [Run Blocking] 79
+TE Derek Harrison 6-1 251 4 Rutgers [Pass Blocking] 94
+OT Glenn Boyd 6-6 311 1 Florida State [Pass Blocking] 83
+OT Thomas Donaldson 6-4 302 2 VirginiaTech [RunBlocking] 78
+OT Philip Rose 6-8 308 2 AirForce [RunBlocking] 66
+OT Pete Wilson 6-4 294 R Tennessee [Pass Blocking] 73
+OG Robert Roaf 6-7 267 2 Michigan State [Run Blocking] 88
+OG Dexter Woodley 6-6 318 4 Penn State [Pass Blocking] 63
+OG Dave Young 6-4 296 2 Oregon [Pass Blocking] 82
+C Patrick Ena 6-5 306 2 Texas A&M [Pass Blocking] 81
+C Tim Keaton 6-7 286 R West Virginia [Run Blocking] 73
+DE Preston Bryant 6-8 280 1 Michigan State [Pass Stop] 80
+DE Shamar Manning 6-1 276 R Florida State [Run Stop] 75
+DE Tony Shaw 6-6 280 2 Florida State [Pass Stop] 73
+DE Robert Thomas 6-3 275 R Air Force [Pass Stop] 68
+DT Larry Holmes 6-6 275 1 LSU [Run Stop] 74
+DT Rich Moore 6-7 307 3 LSU [Pass Stop] 90
+DT Sam Munoz 6-3 274 1 Rutgers [Pass Stop] 65
+OLB Hugh Boerigter 6-2 251 2 Stanford [Pass Man-to-Man] 80
+OLB Brett Wilson 6-1 235 R Louisville [Pass Man-to-Man] 73
+OLB Jeff Williams 6-2 237 3 Wisconsin [Run Man-to-Man] 88
+ILB Correll Carroll 6-0 223 R Syracuse [Pass Man-to-Man] 70
+ILB Melvin Cooper 6-2 227 2 Tennessee [Run Man-to-Man] 77
+ILB Richard Wilson 6-2 231 3 Oregon State [Run Man-to-Man] 85
+CB Gary Chamberlain 6-1 174 2 Notre Dame [Man Coverage] 79
+CB John Rogers 6-1 197 2 Boston C. [Zone Coverage] 63
+CB Joshua Sloan 5-11 208 4 Baylor 71 [Man Coverage] 83
+CB Donald Tucker 6-1 179 R Boise State [Man Coverage] 68
+SS Larry Reeves 5-11 204 4 Tennessee [Man Coverage] 91
+FS Kevin Johnson 6-0 174 R Syracuse [Man Coverage] 78
+FS Jake Pugh 5-11 193 1 Florida State [Man Coverage] 71
+K Lew Roberg 6-0 177 2 North Carolina [Power] 76
+P Jason Sochia 5-10 169 1 Notre Dame [Accuracy] 86

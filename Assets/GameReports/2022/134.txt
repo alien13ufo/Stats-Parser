@@ -1,0 +1,67 @@
+ Philadelphia Eagles (5-3) at New York Giants (1-6-1) ?
+
+East Rutherford, NJ - 54 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (5-3) 	7 	10 	7 	14 	- 	38
+:giants: New York Giants (1-6-1) 	3 	7 	0 	6 	- 	16
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:giants: New York Giants
+Injuries 	TE Erik Bray - Mild Groin Pull 	No Injuries
+Top Player Grade 	QB Allan Taylor (8.85) 	DE Khairi Bryant (8.29)
+Worst Player Grade 	OLB James Turner (2.77) 	OG Marcus Slade (3.50)
+Offensive Line Rating 	8.28 	8.08
+Sacks 	3 	2
+Punting 	46.0 	43.3
+Punt Return Yards 	46 	4
+Kick Return Yards 	57 	126
+Turnovers 	1 	1
+3rd Down Conversion 	7/12 	4/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/84 	5/36
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	22/33 	247 	2 	0 	1/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	13 	76 	1 	22T 	0/0
+Marshawn Miller 	13 	62 	0 	14 	0/0
+Allan Taylor 	6 	31 	2 	9T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Michael Hawkins 	5 	90 	1 	0 	0/0
+Justin Evans 	5 	57 	0 	0 	0/0
+Cameron Whelahan 	3 	32 	0 	1 	0/0
+Christopher Johnson 	3 	23 	1 	0 	0/0
+Roy Davis 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Bowden 	4/0 	- 	1/1 	0/0 	0/0
+Ulysses Smith 	4/0 	1.0 	0/0 	0/0 	0/0
+Tommy Brooks 	2/0 	1.0 	0/0 	0/0 	0/0
+Ryan Frey 	2/1 	1.0 	0/0 	0/0 	0/0
+Joe Johnson 	6/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/1 	5/5 	50
+	
+:giants: New York Giants
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Will Thompson 	16/33 	190 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	8 	36 	1 	11 	1/0
+Daniel Nance 	7 	15 	0 	5 	0/0
+- ? 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tevin Lattimore 	3 	56 	0 	1 	0/0
+Tom Oldham 	3 	31 	0 	0 	0/0
+Curtis Jeffreys 	2 	30 	0 	0 	0/0
+Evan Medley 	3 	27 	1 	1 	0/0
+Daniel Nance 	2 ? 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Khairi Bryant 	4/2 	1.0 	0/0 	1/0 	0/0
+Curtis Lewis 	4/1 	1.0 	0/0 	0/0 	0/0
+Brad Mungro 	4/0 	- 	0/0 	0/1 	0/0
+D'Qwell Moore 	4/0 	- 	0/1 ? 	0/0 	0/0
+Louis Peterson 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Wells 	1/1 	1/1 	39 ?

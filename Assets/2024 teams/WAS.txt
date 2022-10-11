@@ -1,0 +1,55 @@
+QB Tanner Bowman 6-2 203 3 Penn State [Pocket] [+1] 92 ?
+QB Ryan Clark 6-1 187 8 Oregon State [Hybrid] [0] 88
+RB Maurice White 5-11 231 1 Oklahoma [Power] [+1] 85
+RB Chester Henson 5-11 226 10 USC [Speed] [+1/C] 82
+RB Kevin Muse 5-8 193 4 SMU [Power] [0] 80
+FB Matthew O'Connor 6-1 247 5 Mississippi State [Run Blocking] [0] 86
+WR Sam Hiller-Weeden 6-3 205 4 Fresno State [Target] [-1] 91
+WR Ty Royal 6-3 156 2 Oklahoma [Target] [0] [+] 82
+WR Patrick Burke 6-4 165 7 Auburn [Target] [0] 83
+WR A.J. Byrne 6-1 216 5 Wake Forest [Target] [0] 82
+WR Gabriel Munson 6-1 204 R SMU [Target] [-1] 75
+WR Uriel Tapia 6-3 206 2 Nevada [Target] [0] 75
+TE Darren Jones 6-7 241 6 Baylor [Receiving] [-1] 90
+TE William Johnson 6-1 257 4 Michigan State [Receiving] [0] 82
+TE Abdoul Brinson 6-2 198 R Louisiana-Monroe [Receiving] [-1] [#] 79
+TE Oliver Sherrill 6-3 199 3 NC State [Blocking] [0] 81
+TE Frank Moffett 6-5 211 1 Fresno State [Receiving] [+1/C] [+] 76
+OT Walter Adair 6-1 310 8 Army [Run Blocking] [+2/C] 91
+OT Gabe? M?orrison? 6-4 278 R? Michigan [Pa?ss Blocking] [-?1?] 8?2???
+OT Connor Kraus 6-1 312 4 Northwestern [Pass Blocking] [0] 82
+OT Jon Hartman 6-5 271 1 Maryland [Run Blocking] [0] 79
+OG Nick Ramos 6-4 297 4 Colorado State [Pass Blocking] [0] 89
+OG Todd Hevesy 6-2 284 6 Michigan State [Pass Blocking] [0] [++] 82
+OG Angelo Denny 6-6 268 2 UCLA [Pass Blocking] [0] [+] 80
+OG Bryce Wallace 6-3 306 1 Purdue [Run Blocking] [0] 79
+C Matt Cole 6-6 290 6 USC [Pass Blocking] [+2/C] 99
+C Kenny Rosas 6-3 278 R New Mexico State [Run Blocking] [0] 75
+DE Jonathan Bridges 6-6 267 5 Penn State [Blitz] [-1] 91
+DE Isaiah Riggins 6-3 253 5 South Carolina [Blitz] [+1] 82
+DE John Peterson 6-5 294 5 USF [Blitz] [-1] 81?
+DT Fred Romanowski 6-2 279 9 Michigan [1-Gap] [0/C] [+] 86
+DT Jeremi Alexander 6-6 264 6 Texas [1-Gap?] [0] 82
+DT Darnell Herron 6-0 286 1 Arizona [1-Gap] [-1] 77
+OLB Derrick Martin 6-0 241 9 UCLA [Blitz] [+1] 90
+OLB Thomas Barry 6-1 225 7 Arizona State [Coverage] [0] 89
+OLB Anthony Brown 6-1 223 6 Arizona State [Coverage] [0] 83
+OLB Dean Smalley 6-3 215 3 Minnesota [Coverage] [0] [+] 79
+OLB Isaac Lindsay 6-3 221 R Oklahoma [Coverage] [+2] [+] 75
+ILB Nicolas Haskell 6-4 215 5 Wisconsin [Mike] [0/C] 84
+ILB Raheem Burkett 6-3 240 4 Penn State [Will] [-1] 82
+ILB Elliot McElmore 6-1 244 1 TCU [Will] [+1/C] [#] 78
+ILB Ajani Terry 6-3 228 R Wyoming [Will] [0/C] 79
+ILB Steven Vereen 6-2 226 1 Boston College [Mike] [0] 76
+CB Michael Barber 6-0 183 7 Florida State [Man Coverage] [+1/C] 85
+CB Tre'Davious Dikes 6-2 199 2 Oregon [Man Coverage] [0] 86
+CB Miles Gray 5-10 195 3 Tennessee [Man Coverage] [+1] 82?
+CB Michael Hernandez 6-1 185 4 Alabama [Man Coverage] [0] 80
+FS Samir Driver 5-11 198 1 Alabama [Man Coverage] [0] 83
+FS Damani Crump-Jackson 5-11 198 3 Colorado State [Man Coverage] [-1] 79
+SS Cameron Whitney 6-2 183 3 Connecticut [Man Coverage] [+1] [#] 89
+SS Steven Gordon 6-1 213 1 Kent State [Man Coverage] [0] 77
+K Mason Williams 5-9 152 R Illinois [Accuracy] [0] 82
+P John Collins 5-9 194 10 North Carolina [Power] [0] 92
+LS B.Q. Foster 6-3 222 3 Southern Utah [Specialized] [0] 81?
+PR Jesse Scott 5-11 179 6 Purdue [Hybrid] [0] 89

@@ -1,0 +1,30 @@
+QB Christian Skaggs 6-1 214 R Florida State [Pocket] 83
+QB Eric McCready 6-1 197 R LSU [Scrambling] 48
+RB JJ Hammond 5-11 229 R Oklahoma [Power] 68
+FB Greg Williams 6-0 251 R South Carolina [Speed] 56
+WR Dan Nomellini 6-1 182 R Texas [Target] 80
+WR Kurt Hill 5-9 196 R Miami [Target] 79
+WR Walter Grzeskowiak 6-5 178 R Ole Miss [Speed] 60
+WR Peppi Denson 6-4 177 R Boston College [Speed] 53
+TE Spec Davidson 6-2 243 R Georgia [Pass Blocking] 72
+OT Stephen Geredine 6-1 335 R Clemson [Pass Blocking] 61
+OT Cliff DeLong 6-8 292 R Rice [Pass Blocking] 50
+OG Bob Ruegamer 6-3 302 R Texas [Run Blocking] 70
+OG Ivory Lott 6-5 301 R Penn State [Pass Blocking] 51
+C Joe Cherry 6-1 321 R Oklahoma State [Pass Blocking] 70
+OG Howard Page 6-6 307 R West Virginia [Pass Blocking] 60
+OT Mark Sweeney 6-3 323 R Penn State [Pass Blocking] 58
+DE Dick Gray 6-2 281 R Oregon [Run Stop] 49
+DT Terrence Adams 6-7 284 R Boston College [Run Stop] 66
+DE Darian Mauti 6-5 297 R Ole Miss [Run Stop] 55
+DE Jason Smith 6-4 278 R Georgia [Run Stop] 48
+OLB R-Kal McNeil 6-1 253 R Texas A&M [Run Zone] 49
+ILB Mike Smith 6-2 241 R Oregon [Pass Zone] 72
+ILB Robert Reynolds 6-1 237 R Kentucky [Pass Zone] 49
+OLB Mike Petruziello 6-1 233 R Stanford [Run Man-to-Man] 48
+CB Ron Mitchell 6-0 187 R Notre Dame [Man Coverage] 53
+FS Rock Darius 6-1 171 R USC [Man Coverage] 49
+SS Jermaine Ford 6-1 189 R Rutgers [Zone Coverage] 56
+CB Mike Wonsley 6-1 180 R Clemson [Zone Coverage] 48
+K Myron Sweeney 6-4 177 R Minnesota [Accuracy] 57
+P Michael Hale 5-11 188 R Kentucky [Accuracy] 55

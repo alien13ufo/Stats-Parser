@@ -1,0 +1,76 @@
+ San Francisco 49ers (1-11) at Pittsburgh Steelers (8-4) ?
+
+Pittsburgh, PA - 41 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (1-11) 	0 	14 	10 	3 	- 	27
+:steelers: Pittsburgh Steelers (8-4) 	7 	7 	0 	17 	- 	31
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:steelers: Pittsburgh Steelers
+Injuries 	
+
+No Injuries
+
+ 
+	
+
+OT Victor O'Connell - Severe Toe Sprain
+
+CB Ronnie Bailey - Mild Achilles Tendonitis
+Top Player Grade 	OLB Brandom Thomas (7.94) 	SS Dane Wilson (9.26)
+Worst Player Grade 	OT Dylan Hastings (2.83) 	OT Maxwell Carmichael (1.89)
+Offensive Line Rating 	8.19 	8.19
+Sacks 	2 	3
+Punting 	43.5 	50.1
+Punt Return Yards 	-2 	7
+Kick Return Yards 	84 	52
+Turnovers 	1 	1
+3rd Down Conversion 	4/11 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/71 	5/49
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	21/31 	250 	2 	0 	0/0
+- 	-/- 	- 	- 	- ? 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	15 	72 	0 	12 	1/1
+Todd Lester 	9 	62 	1 	37 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jarius Shaw-Dodd 	7 	82 	0 	1 	0/0
+Miles Collins 	4 	50 	1 	0 	0/0
+Tom Branch 	3 	45 	0 	1 	0/0
+Daniel Marshall 	3 	32 	1 	0 	0/0
+Joshua Freeman 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brandon Thomas 	4/0 	- 	1/0 	0/0 	0/0
+Parker Holmes 	4/1 	1.0 	0/0 	0/0 	0/0
+Dennis Niland 	1/0 	0.5 	0/0 	0/0 	0/0
+Michael McBride 	1/0 	0.5 	0/0 	0/0 	0/0
+Daleroy Smart 	8/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	2/2 	3/3 	49, 32
+	
+:steelers: Pittsburgh Steelers
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	24/39 	289 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	13 	70 	1 	9 	0/0
+Kalei Keil ? 	3 	-4 	0 	-1 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Samuel Jolley 	8 	102 	1 	1 	0/0
+Jake Schmidt 	3 	66 	1 	0 	0/0
+Ja'Wuan Howard 	4 	52 	1 	2 	0/0
+William Anderson 	2 	29 	0 	0 	0/0
+Chester Henson 	2 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Patrick Murphy 	5/1 	1.0 	0/0 	0/0 	0/0
+Carlos Washington 	2/1 	1.0 	0/0 	0/0 	0/0
+Marcus Carver 	2/0 	1.0 ? 	0/0 	0/0 	0/0
+Ron Mobley 	7/1 	- 	0/0 	0/0 	0/0
+Dane Wilson 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Lorenzo Rodgers 	1/1 	4/4 	35 

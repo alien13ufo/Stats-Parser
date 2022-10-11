@@ -1,0 +1,67 @@
+ New York Jets (7-8) at Buffalo Bills (6-9) ?
+
+Buffalo, NY - 20 F :snowy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jets: New York Jets (7-8) 	3 	10 	0 	7 	- 	20
+:bills: Buffalo Bills (6-9) 	7 	0 	0 	3 	- 	10
+Team Stats Comparison
+  	:jets: New York Jets 	:bills: Buffalo Bills
+Injuries 	WR James Jones - Mild Concussion 	No Injuries
+Top Player Grade 	WR Israel Hawker (8.01) 	OLB Brian Hernandez (7.82)
+Worst Player Grade 	OLB Dennis Himes (2.32) 	SS Kevin Briggs (2.06)
+Offensive Line Rating 	8.34 	8.23
+Sacks 	2 	0
+Punting 	47.6 	43.3
+Punt Return Yards 	21 	5
+Kick Return Yards 	42 	92
+Turnovers 	0 	1
+3rd Down Conversion 	4/11 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/23 	8/66
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	22/33 	240 	2 	0 	0/0
+- 	-/- 	- 	- 	- ? 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	15 	62 	0 	13 	0/0
+Ben Curry 	2 	6 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Israel Hawker 	7 	109 	1 	0 	0/0
+Paul Howell 	4 	53 	1 	0 	0/0
+Adam Coles 	2 	35 	0 	0 	0/0
+Eli Austin 	4 	26 	0 	0 	0/0
+William Bouchard 	3 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jonathan Bridges 	2/1 	1.0 	0/0 	1/0 	0/0
+Kyle Pratt 	2/0 	1.0 	0/0 	0/0 	0/0
+Keith Hooks 	2/0 	- 	0/0 	0/1 	0/0
+Adam Lovelace 	7/0 	- 	0/0 	0/0 	0/0
+Corey Quinn 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	2/2 	2/2 	29, 21
+	
+:bills: Buffalo Bills
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	17/32 	189 	1 	0 	1/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	10 	35 	0 	9 	0/0
+- ? 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca Sr. 	5 	70 	0 	1 	0/0
+Isaiah Cronin 	3 	34 	0 	0 	0/0
+Tyron Chambers 	2 	31 	1 	1 	0/0
+Drew Abbott 	3 	23 	0 	0 	0/0
+Matt Thomas 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brian Hernandez 	8/2 	- 	0/0 	0/0 	0/0
+Cyrus Paulsen 	5/0 	- 	0/0 	0/0 	0/0
+Mark Bassett 	5/0 	- 	0/0 	0/0 	0/0
+Sammy Grey 	3/0 	- 	0/0 ? 	0/0 	0/0
+Richard Suarez 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	1/2 	1/1 	30 - 45 ?

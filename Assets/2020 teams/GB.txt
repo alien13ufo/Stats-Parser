@@ -1,0 +1,53 @@
+QB Jason Johnson 5-11 190 6 UCLA [Pocket] 93
+QB Alex Rodgers 6-3 198 2 Kentucky [Pocket] 80
+RB Jaz Durant 6-1 195 1 Auburn [Speed] 80
+RB Gil Novacek 5-11 188 2 Arizona [Power] 79
+FB Fredrick Marshall 6-2 174 R TCU [Pass Blocking] 79
+FB Damion Stewart 6-0 227 2 Notre Dame [Run Blocking] 76
+WR Dan Nomellini 6-1 182 6 Texas [Target] 96
+WR Tom Grant 6-0 172 6 LSU [Speed] 87
+WR Justin McCain 6-2 181 R North Carolina [Speed] 78
+WR Roger Bailey 5-10 159 1 Oregon State [Speed] 76
+WR Michael Allen 6-2 214 R Wisconsin [Target] 74
+WR T.J. Ropati 6-1 159 1 Louisville [Speed] 72
+TE Bernard Taylor 6-1 267 6 Tennessee [Receiving] 90
+TE Luke Graf 6-3 196 R Nebraska [Receiving] 76
+TE Preston Gold 6-3 259 5 Tennessee [Blocking] 80
+OT Quinn Bouman 6-4 310 4 Ohio State [Run Blocking] 89
+OT David Hughes 6-0 294 3 Utah [Pass Blocking] 86
+OT Erik Russell 6-6 296 5 Ohio State [Pass Blocking] 77
+OT Maxwell Carmichael 6-7 264 R Clemson [Run Blocking] 73
+OG Rodrick Norton 6-4 318 5 Auburn [Pass Blocking] 84
+OG Lucas Hopkins 6-6 261 R Missouri [Run Blocking] 81
+OG John Young 6-6 291 1 LSU [Pass Blocking] 76
+OG Tavian Brown 6-7 286 3 Arizona State [Pass Blocking] 73
+OG Greg Coughlin 6-2 324 1 Northern Illinois [Pass Blocking] 70
+C Lucas Hurd 6-4 276 R Alabama [Pass Blocking] 83
+C Sam Savage 6-2 282 2 Texas Tech [Run Blocking] 71
+DE Barron Anthony 6-3 278 5 USC [Blitz] 90
+DE Mike Taylor 6-4 295 5 Virginia [Contain] 84
+DE Blair Kopay 6-3 275 6 Iowa [Contain] 80
+DE Charles Lewis 6-5 266 4 Mississippi State [Contain] 76
+DT Mark Bassett 6-5 299 5 Minnesota [1-Gap] 84
+DT Carter Jackson 6-6 273 3 Boise State [1-Gap] 79
+DT Chris Williams 6-8 303 6 Oklahoma State [2-Gap] 73
+DT David Crawford 6-5 317 R Georgia [2-Gap] 69
+ILB Peyton Roaches 6-2 224 2 LSU [Will] 82
+ILB Hugo Miller 6-1 241 4 Kentucky [Will] 77
+ILB Ryan Hanspard 6-1 217 3 Penn State [Will] 75
+ILB James Robertson 6-2 235 R Texas [Mike] 73
+OLB Damione Ellis 6-2 249 6 Oklahoma State [Coverage] 88
+OLB W.M. Mitchell 5-10 217 4 Michigan [Coverage] 85
+OLB Garrison Jackson 6-1 226 4 Oklahoma State [Coverage] 74
+OLB Todd Barry 6-2 221 3 Penn State [Blitz] 72
+CB Antonio Burch 6-2 188 4 Michigan [Man Coverage] 82
+CB/WR Marquise Reed 6-1 173 R Clemson [Man Coverage] 82
+CB Cameron Bowman 6-0 180 1 Arizona [Man Coverage] 79
+CB Vontae Johnson 6-3 207 1 Stanford [Man Coverage] 74
+FS Donovan Faulk 6-2 214 1 BYU [Man Coverage] 82
+FS Marion Ekern 5-9 169 3 Alabama [Man Coverage] 76
+SS Julio Barnes 5-11 194 2 Utah [Man Coverage] 84
+SS Taz Tomlinson 5-10 183 4 Minnesota [Man Coverage] 77
+SS Brian Miles 5-10 165 1 Washington [Man Coverage] 74
+K Brian Evans 5-9 175 3 Florida [Accuracy] 86
+P Steve Smith 6-4 169 4 Oklahoma [Power] 89

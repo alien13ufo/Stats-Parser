@@ -1,0 +1,67 @@
+ Chicago Bears (3-8) at New England Patriots (2-9) ?
+
+Foxborough, MA - 39 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (3-8) 	0 	14 	3 	3 	- 	20
+:patriots: New England Patriots (2-9) 	7 	7 	3 	7 	- 	24
+Team Stats Comparison
+  	:bears: Chicago Bears 	:patriots: New England Patriots
+Injuries 	No Injuries 	ILB James Carson - Moderate Achilles Bruise
+Top Player Grade 	DE Andrew Fazande (8.50) 	CB Dave Stokley (8.67)
+Worst Player Grade 	SS Jesse Hutchins (2.06) 	FS Rodney Olson (3.20)
+Offensive Line Rating 	7.94 	8.10
+Sacks 	2 	2
+Punting 	45.5 	47.3
+Punt Return Yards 	19 	7
+Kick Return Yards 	73 	45
+Turnovers 	1 	1
+3rd Down Conversion 	3/12 	3/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/54 	3/25
+:bears: Chicago Bears
+Spread Option - Option 2RB ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L ?
+Mohammed Foster 	16/26 	189 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	12 	49 	0 	9 	0/0
+Norris Horton 	10 	40 	1 	18T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Donnie Allen 	5 	53 	0 	0 	0/0
+Charlie Paul 	2 	45 	0 	1 	0/0
+David Gaines 	3 	33 	1 	0 	0/0
+Peter Foster 	2 	25 	0 	0 	0/0
+Elijah Talley 	1 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jaylen Harris 	1/0 	- 	1/1 	0/0 	0/0
+Andrew Fazande 	3/0 	1.5 	0/0 	0/0 	0/0
+Jeff Holleyman 	2/0 	0.5 	0/0 	0/0 	0/0
+Alyn Namath 	7/0 	- 	0/0 	0/0 	0/0
+Akeel Morris 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Anthony Harris 	2/2 	2/2 	39, 41
+	
+:patriots: New England Patriots
+Spread Option - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Luke Trickett 	14/24 	170 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Shawn Cole 	19 	61 	1 	8 	0/0
+Luke Trickett 	5 	29 	1 	10 	0/0
+Michael Duckworth 	3 	9 	0 	5 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamel Beckham 	5 	57 	0 	0 	0/0
+Geno Harris ? 	2 	46 	1 	0 	0/0
+Carlos Perez 	2 	21 	0 	1 	0/0
+Gary Jones 	3 	17 	0 	0 	0/0
+Michael Duckworth 	1 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dave Stokley 	2/0 	- 	1/1 	0/0 	0/0
+Phillip Davenport 	5/0 	1.0 	0/0 	0/0 	0/0
+Joey Davis 	2/0 	1.0 	0/0 	0/0 	0/0
+Mark Craig 	5/0 	- 	0/0 	0/0 	0/0
+Norris Nolan 	4/0 	- 	0/0 	0/0 ?? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	1/2 	3/3 	42 - 50 ?

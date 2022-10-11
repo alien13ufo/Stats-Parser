@@ -1,0 +1,64 @@
+ Houston Texans (0-0) at Jacksonville Jaguars (0-0)
+
+Jacksonville, FL - 91 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (0-0) 	0 	7 	10 	3 	- 	20
+:jaguars: Jacksonville Jaguars (0-0) 	0 	7 	7 	21 	- 	35
+Team Stats Comparison
+  	:texans: Houston Texans 	:jaguars: Jacksonville Jaguars
+Injuries 	
+
+No Injuries
+
+ 
+	
+
+Travis Charles, CB - Severe Concussion
+
+Isaiah Peko, RB - Mild Ankle Sprain
+Offensive Line Rating 	8.4 	8.2
+Sacks 	4 	2
+Punting 	43.5 	47.1
+Punt Return Yards 	0 	11
+Kick Return Yards 	58 	41
+Turnovers 	0 	0
+3rd Down Conversion 	5/12 	6/10
+4th Down Conversion 	0/0 	0/1
+Penalties 	5/39 	7/45
+:texans: Houston Texans
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	22/30 	296 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Arturo Pacheco 	20 	69 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kendall Brandon 	6 	95 	1 	0 	0/0
+Jeremy Scarborough 	6 	75 	1 	0 	0/0
+Marvin White 	5 	61 	0 	0 	0/0
+Hakeem Black 	3 	47 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Robert Fulton 	6/1 	2.0 	0/0 	0/0 	0/0
+Richard Jones 	5/1 	1.0 	0/0 	0/0 	0/0
+Joseph Blair 	2/0 	1.0 	0/0 	0/0 	0/0
+Frederick Fain 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	2/3 	2/2 	44, 37 - 49
+	
+:jaguars: Jacksonville Jaguars
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Barkley 	16/22 	211 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	21 	97 	1 	22 	0/0
+Isaiah Peko 	9 	29 	2 	11T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Raheem Robinson 	5 	80 	1 	0 	0/0
+Gary Faneca 	5 	58 	0 	0 	0/0
+Derek Harrison 	2 	41 	1 	0 	0/0
+Tyrone Turner 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Larry Reeves 	7/0 	- 	0/1 	0/0 	0/0
+Ron Rice 	2/0 	1.0 	0/0 	0/0 	0/0
+Preston Bryant 	2/0 	1.0 	0/0 	0/0 	0/0
+Christian Haywood 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	0/1 	5/5 	- 55 

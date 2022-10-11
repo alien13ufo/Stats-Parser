@@ -1,0 +1,67 @@
+ Chicago Bears (3-7) at Washington Redskins (6-4) ?
+
+Landover, MD - 49 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (3-7) 	7 	0 	3 	7 	- 	17
+:redskins: Washington Redskins (6-4) 	3 	14 	3 	7 	- 	27
+Team Stats Comparison
+  	:bears: Chicago Bears 	:redskins: Washington Redskins
+Injuries 	WR Charlie Paul - Moderate Concussion 	No Injuries
+Top Player Grade 	ILB Kevin Harris (7.45) 	WR Sam Hiller-Weeden (8.78)
+Worst Player Grade 	SS Jesse Hutchins (3.01) 	OLB Craig Davis (2.80)
+Offensive Line Rating 	8.00 	8.49
+Sacks 	0 	1
+Punting 	41.2 	45.6
+Punt Return Yards 	8 	15
+Kick Return Yards 	75 	40
+Turnovers 	1 	0
+3rd Down Conversion 	3/12 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/65 	4/57
+:bears: Chicago Bears
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mohammed Foster 	16/26 	140 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	12 	67 	1 	9 	0/0
+Mohammed Foster 	5 	28 	0 	11 	0/0
+Norris Horton 	10 	20 	0 	5 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L ?
+Peter Foster 	5 	47 	0 	0 	0/0
+Charlie Paul 	3 	41 	1 	0 	0/0
+David Gaines 	3 	20 	0 	0 	0/0
+Elijah Talley 	2 	12 	0 	0 	0/0
+Donnie Allen 	2 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jaylen Harris 	2/0 	- 	0/2 	0/0 	0/0
+Kevin Harris 	7/1 	- 	0/0 	0/0 	0/0
+Andrew Fazande 	4/1 	- 	0/0 	0/0 	0/0
+David Medley 	3/0 	- 	0/0 	0/0 	0/0
+Jesse Hutchins 	2/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Anthony Harris 	1/1 	2/2 	24
+	
+:redskins: Washington Redskins
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	20/30 	250 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	17 	101 	1 	16 	0/0
+Johnny Taylor 	3 	5 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	8 	106 	1 	0 	0/0
+Patrick Burke 	4 	51 	0 	0 	0/0
+Eddie McFadden 	2 	45 	1 	0 	0/0
+Ty Royal 	2 ? 	19 	0 	1 	0/0
+Tony DeMarco 	1 	14 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Mike Hill 	3/1 	1.0 	0/0 	0/0 	0/0
+Tre'Davious Dikes 	1/0 	- 	1/0 	0/0 	0/0
+Nicolas Haskell 	5/0 	- 	0/0 	0/0 	0/0
+Fred Romanowski 	5/0 	- 	0/0 	0/0 	0/0
+Miles Gray 	4/0 	- 	0/0 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Thomas McMahan 	2/3 	3/3 	40, 43 - 49 

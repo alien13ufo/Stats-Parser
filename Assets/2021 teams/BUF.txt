@@ -1,0 +1,59 @@
+QB Kamau Davis 6-2 218 6 Indiana [Pocket] 88
+QB Joaquin Younger 6-5 215 3 Oregon [Hybrid] 81
+QB David Kaplan 6-1 189 2 San Jose State [Pocket] 78
+RB Chad Dess 6-1 241 6 Virginia [Power] 90
+RB C.J. Sheffield 5-11 192 1 Purdue [Power] 81
+RB John Adams 5-11 171 3 Syracuse [Speed] 74
+RB Will Hammond 5-8 201 2 Tulsa [Power] 76
+FB Richard Holt 5-8 230 1 Miami [Run Blocking] 82
+WR Isaiah Cronin 6-1 174 2 Ohio State [Speed] 82
+WR Kevin Garvin 6-4 224 1 Boise State [Target] 80
+WR Tyron Chambers 6-4 220 R Arkansas [Target] 82
+WR Drew Abbott 5-10 197 R Alabama [Speed] 75
+WR Douglas Chadwick 5-10 182 4 Indiana [Target] 75
+TE Matt Thomas 6-3 219 3 Hawaii [Receiving] 83
+TE Chance Billingsley 6-3 224 R Fresno State [Blocking] 81
+TE A.J. Carter 6-6 226 6 Boston College [Blocking] 76
+OT Mike Woods 6-2 317 2 Michigan State [Pass Blocking] 90
+OT Robert Barraza 6-6 347 6 ECU [Run Blocking] 84
+OT Nico Renner 6-6 312 R Michigan [Run Blocking] 81
+OT Wesley Delarosa 6-4 294 3 Rice [Run Blocking] 77
+OG Rob Lipscomb 6-2 307 7 Boston College [Pass Blocking] 87
+OG Jim Hutchinson 6-1 302 4 UCLA [Pass Blocking] 82
+OG Billy Watkins 6-3 310 2 Vanderbilt [Run Blocking] 74
+OG Joe Hutchinson 6-8 257 3 Texas [Run Blocking] 72
+C John Hinton 6-2 298 5 Michigan State [Pass Blocking] 80
+C Mendy Morrow 6-4 254 R Arizona [Run Blocking] 79
+DE Anthony Ortiz 6-7 262 4 Oklahoma State [Blitz] 93
+DE Rodney Galbreath 6-8 301 7 South Carolina [Blitz] 89
+DE Gabe Werner 5-11 255 2 Arizona State [Contain] 71
+DE Richard Coleman 6-4 257 3 Arizona [Contain] 72
+DT Anthony Whipple 6-0 324 2 Wisconsin [2-Gap] 79
+DT Carter Sutton 6-6 324 R Ohio State [2-Gap] 74
+DT Byron Ibarra 6-2 315 2 Iowa State [2-Gap] 69
+ILB Mike Bledsoe 6-1 231 6 Virginia Tech [Will] 84
+ILB Hunter Taylor 6-2 231 4 Washington [Mike] 79
+ILB Richard Suarez 6-4 219 2 Boston College [Mike] 79
+ILB Stephen McKenzie 6-1 234 4 Wisconsin [Will] 75
+OLB Brian Hernandez 6-3 217 3 Maryland [Blitz] 88
+OLB Chester Williams 6-2 219 5 Auburn [Coverage] 80
+OLB Jamir Sample 6-2 231 1 Clemson [Blitz] 77
+OLB T.J. Harriman 6-3 227 1 Marist [Coverage] 72
+CB Archie Velasquez 5-9 186 5 Georgia [Man Coverage] 75
+CB Patrick Chaney 5-9 199 R Purdue [Man Coverage] 75
+CB Antonio Hotchkiss 5-9 187 4 Ohio State [Man Coverage] 77
+CB Sean Taylor 5-9 193 R Western Michigan [Man Coverage] 81
+CB John Smith 5-11 203 3 Baylor [Man Coverage] 60
+FS Chris Bengtson 6-1 193 5 Daytona Beach CC [Man Coverage] 80
+FS Sammy Grey 5-10 214 1 Washington State [Man Coverage] 81
+SS Keyshawn Ayanbadejo 6-1 217 7 Florida State [Man Coverage] 83
+SS Gregory Noel 5-11 199 1 Georgia State [Man Coverage] 80
+K Darryl Lemus 5-10 181 4 Northwestern [Accuracy] 78
+P Patrick Schofield 6-2 192 2 Cincinnati [Power] 83
+KR Richard Dodge 6-3 186 2 Bowling Green [Speed] 81
+C Josh Brown 6-2 266 1 Dayton [Run Blocking] 72
+OLB Christopher Ross 6-2 228 R USF [Coverage] 68
+K Joseph Bull 6-4 188 R Southern Miss [Accuracy] 76
+OG Brendan McCurdy 6-5 316 1 Georgia State [Run Blocking] 72
+CB Thomas Brown 6-0 190 1 Purdue [Man Coverage] 68
+SS Dwayne Tatum 6-1 189 R Stanford [Zone Coverage] 73

@@ -1,0 +1,67 @@
+ New York Jets (0-1) at Baltimore Ravens (1-0)
+
+Baltimore, MD - 77 F :windy: ??
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jets: New York Jets (0-1) 	7 	3 	7 	0 	- 	17
+:ravens: Baltimore Ravens (1-0) 	13 	3 	3 	3 	- 	22
+Team Stats Comparison
+  	:jets: New York Jets 	:ravens: Baltimore Ravens
+Injuries 	DE Alvis Brumm - Moderate Toe Fracture 	No Injuries
+Top Player Grade 	DT Kyle Pratt (7.16) 	K Dennis Scott (8.43)
+Worst Player Grade 	RB Emmanuel Fields (3.00) 	OG George Greene (4.30)
+Offensive Line Rating 	8.25 	8.16
+Sacks 	1 	3
+Punting 	43.5 	47.3
+Punt Return Yards 	12 	36
+Kick Return Yards 	67 	47
+Turnovers 	1 	0
+3rd Down Conversion 	4/12 	4/13
+4th Down Conversion 	0/0 	1/1
+Penalties 	5/70 	4/24
+:jets: New York Jets
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	24/40 	260 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Emmanuel Fields 	9 	8 	0 	5 	0/0
+Marvin Washington 	2 	5 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell 	6 	85 	1 	0 	0/0
+Israel Hawker 	6 	72 	0 	1 	0/0
+Adam Coles 	3 	35 	0 	1 	0/0
+Eli Austin 	2 	32 	1 	0 	0/0
+Marvin Washington 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kyle Pratt 	5/2 	0.5 	0/0 	0/0 	0/0
+Samir Dixon 	4/2 	0.5 	0/0 	0/0 	0/0
+Chris Tucker 	6/0 	- 	0/0 	0/0 	0/0
+Sebastian Vaughn 	4/0 	- 	0/0 	0/0 	0/0
+Dennis Himes 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	1/2 	2/2 	34 - 46
+	
+:ravens: Baltimore Ravens
+Option 2RB - Flexbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	12/18 	139 	0 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	21 	97 	1 	11 	0/0
+Brett Fisher ? 	6 	49 	0 	17 	0/0
+Gabriel Shields 	5 	23 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Wells 	4 	45 	0 	0 	0/0
+Adrian Allen 	2 	42 	0 	0 	0/0
+Danny Patrick 	2 	26 	0 	0 	0/0
+Gabriel Shields 	2 	11 ? 	0 	0 	0/0
+Moussa Goode 	1 	6 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Troy Marshall 	2/0 	- 	1/1 	0/0 	0/0
+Tyrone Jones 	5/0 	1.5 	0/0 	0/0 	0/0
+Kenyatta Henderson 	3/0 	1.0 	0/0 	0/0 	0/0
+Lucas Benton 	4/0 	0.5 	0/0 	0/0 	0/0
+Peyton Roaches 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	5/5 	1/1 	45, 30, 48, 39, 40 ?

@@ -1,0 +1,65 @@
+ New England Patriots (0-1) at Minnesota Vikings (0-1) ?
+Minneapolis, MN - 77 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:patriots: New England Patriots (0-1) 	14 	3 	7 	7 	0 	31
+:vikings: Minnesota Vikings (0-1) 	17 	0 	7 	7 	3 	34
+Team Stats Comparison
+  	:patriots: New England Patriots 	:vikings: Minnesota Vikings
+Injuries 	DE Mark Logan - Severe Hamstring Tendonitis 	OLB Devin Goss - Mild Calf Strain
+Top Player Grade 	QB Reggie Watkins (8.53) 	WR Mohamed Charles (8.95)
+Worst Player Grade 	SS Norris Nolan (4.02) 	CB Levern White (4.26)
+Offensive Line Rating 	8.29 	8.41
+Sacks 	2 	2
+Punting 	48.6 	43.6
+Punt Return Yards 	14 	19
+Kick Return Yards 	67 	62
+Turnovers 	1 	1
+3rd Down Conversion 	6/12 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/52 	4/36
+:patriots: New England Patriots
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	23/33 	309 	3 	1 	0/0
+Darren Werner 	2/2 	16 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Michael Duckworth 	19 	85 	1 	18 	0/0
+John Harris 	5 	24 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Geno Harris 	6 	98 	1 	0 	0/0
+Gary Jones 	6 	67 	1 	0 	0/0
+Jamel Beckham 	3 	43 	1 	1 	0/0
+Carlos Perez 	3 	32 	0 	0 	0/0
+Tommy Pottios 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jayshawn Watts 	4/0 	- 	1/0 	0/0 	0/0
+Phillip Davenport 	5/1 	1.0 	0/0 	0/0 	0/0
+Rich Moore 	2/1 	1.0 	0/0 	0/0 	0/0
+Mark Craig 	5/0 	- 	0/0 	0/0 	0/0
+James Carson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	1/1 	4/4 	43
+	
+:vikings: Minnesota Vikings
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	31/50 	397 	4 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	4 	28 	0 	6 	0/0
+Evan Grant 	7 	24 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mohamed Charles 	7 	108 	1 	0 	0/0
+Eugene Jackson 	7 	102 	0 	0 	0/0
+Jacory Kessler 	5 	74 	1 	0 	0/0
+Wayne Wegert 	5 	53 	1 	0 	0/0
+Keith Dunn ? 	3 	45 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Robert Bleeker 	2/0 	- 	1/1 	0/0 	0/0
+Sebastian Smallwood 	4/2 	1.0 	0/0 	0/0 	0/0
+Jamal Patton 	1/0 	1.0 	0/0 	0/0 	0/0
+Cleveland Merrill 	6/2 	- 	0/0 	0/0 	0/0
+Eric Jones 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Sam Gilligan 	2/2 	4/4 	38, 35 

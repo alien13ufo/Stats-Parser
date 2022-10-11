@@ -1,0 +1,48 @@
+QB Derek Keys 6-1 195 3 PennState [Scrambling] 78
+QB Ryan Clark 6-1 187 2 OregonState [Scrambling] 84
+QB Rob Green 6-2 175 R Virginia Tech [Scrambling] 70
+RB Don Williams 5-10 226 4 Washington [Speed] 87
+RB Pete Choboian 6-0 166 R Penn State [Speed] 76
+RB Walter Harris 5-11 168 R Oregon State [Power] 68
+FB John Evans 6-1 210 3 Arizona [Speed] 80
+FB Tom Hubbard 6-4 209 R Army [Speed] 71
+WR Tai Miller 6-4 186 1 Oklahoma [Target] 85
+WR Ray Lee Marconi 6-5 180 4 Syracuse [Speed] 82
+WR Lance Bolling 6-4 164 1 Stanford [Speed] 72
+WR Curtis Jeffreys 5-11 207 R SDSU [Target] 70
+WR Leslie Serrano 6-5 185 1 Purdue [Target] 66
+TE Jason McClairen 6-4 220 R Texas A&M [Pass Blocking] 80
+TE LeRoy Dunn 6-6 239 1 NC State [Pass Blocking] 73
+TE Creston Fuller 6-1 215 1 Minnesota [Pass Blocking] 61
+OT Mike Ledbetter 6-1 313 2 GeorgiaTech [RunBlocking] 82
+OT Wayne Duffy 6-0 309 4 Cincinnati [Run Blocking] 75
+OT Preston Gill 6-2 320 3 Virginia [RunBlocking] 88
+OG Calvin Milloy 6-2 332 4 Texas Tech [Pass Blocking] 85
+OG Tommy Merritt 6-6 325 3 Stanford [PassBlocking] 77
+OG Ben Verba 6-0 283 R Texas A&M [Pass Blocking] 70
+C Enoch Dickinson 6-1 276 3 Minnesota [PassBlocking] 93
+C James Heyward 6-1 265 R Notre Dame [Run Blocking] 69
+DE Mike Hill 6-7 289 3 California [PassStop] 86
+DE Ray McBride 6-6 275 2 Alabama [Run Stop] 85
+DE Brian Bynum 6-6 275 1 Kansas State [Pass Stop] 74
+DE Travian Rodgers 6-0 261 1 Tennessee [Run Stop] 68
+DT Je'Rod Wimbush 6-4 277 3 Auburn [PassStop] 87
+DT Kenneth Clarke 6-1 308 1 Jones County JC [Pass Stop] 76
+ILB J.T. Holcomb 5-11 230 2 Michigan [RunMan-to-Man] 79
+ILB Lance Nattiel 6-0 239 R Texas [Pass Man-to-Man] 79
+ILB Thomas Cooke 6-2 232 3 Kansas [RunMan-to-Man] 76
+ILB Andre Carter 6-2 245 R Mississippi State [Run Man-to-Man] 67
+OLB Darian Mathis 6-0 253 4 Texas Tech [Pass Man-to-Man] 82
+OLB Thomas Stewart 6-2 254 3 Purdue [RunMan-to-Man] 83
+OLB Todd Barry 6-2 221 1 Penn State [Run Man-to-Man] 69
+CB Kadeem Martin 5-9 175 2 PennState [ZoneCoverage] 82
+CB Jayshawn Watts 6-0 176 R Boise State [Zone Coverage] 80
+CB Lee Davis 6-2 174 R Oklahoma [Zone Coverage] 72
+CB Jesse Solano 5-11 176 1 Cincinnati [Man Coverage] 69
+CB Gordon Moreland 5-11 187 3 Texas [ZoneCoverage] 67
+FS Leonard Tice 5-11 178 2 Nebraska [Zone Coverage] 74
+FS LaMichael Jones 6-3 173 1 Stanford [Man Coverage] 75
+SS Mark Brown 6-2 180 3 Florida [ManCoverage] 84
+SS Bennie Richardson 5-10 172 R Maryland [Man Coverage] 74
+K Lloyd Williams 6-2 183 3 Washington [Accuracy] 75
+P Sylvester Word 6-3 192 2 Missouri [Power] 85

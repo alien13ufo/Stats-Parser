@@ -1,0 +1,57 @@
+ Los Angeles Rams (9-2) at Arizona Cardinals (4-7)
+
+Glendale, AZ - 74 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:rams: Los Angeles Rams (9-2) 	21 	6 	10 	7 	- 	44
+:cardinals: Arizona Cardinals (4-7) 	3 	7 	0 	0 	- 	10
+Team Stats Comparison
+  	:rams: Los Angeles Rams 	:cardinals: Arizona Cardinals
+Injuries 	Terrell Holland, RB - Mild Shoulder Rotator Cuff 	Art Baber, WR - Severe Achilles Rupture
+Offensive Line Rating 	7.9 	8.1
+Sacks 	2 	2
+Punting 	48.6 	43.2
+Punt Return Yards 	44 	12
+Kick Return Yards 	0 	67
+Turnovers 	0 	3
+3rd Down Conversion 	5/9 	2/14
+4th Down Conversion 	0/0 	1/3
+Penalties 	6/40 	7/51
+:rams: Los Angeles Rams
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	25/34 	360 	4 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	17 	74 	1 	12 	0/0
+Trainer Joyce 	4 	26 	1 	21T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Allama Banta 	9 	136 	2 	0 	0/0
+Norman Spencer 	5 	84 	1 	1 	0/0
+Andrew Williamson 	3 	66 	1 	1 	0/0
+Chad Dess 	3 	41 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Thomas Patterson 	1/0 	- 	1/0 	0/0 	0/0
+Isaiah Polsfoot 	1/0 	- 	1/0 	0/0 	0/0
+Anthony Beltran 	5/2 	1.5 	0/0 	0/0 	0/0
+Leigh Davey 	2/0 	0.5 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Stanley Brewster 	1/2 	5/6 	33 - 46
+	
+:cardinals: Arizona Cardinals
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	20/30 	210 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Fred Tindale 	12 	31 	0 	12 	1/1
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Banks 	6 	84 	1 	0 	0/0
+Ricky Chambers 	7 	68 	0 	0 	0/0
+Art Baber 	3 	25 	0 	0 	0/0
+Cameron Lindsey 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Asante Willis 	4/0 	1.0 	0/0 	0/0 	0/0
+Jeffrey King 	2/0 	1.0 	0/0 	0/0 	0/0
+Tom Reis 	9/1 	- 	0/1 	0/0 	0/0
+Rob Evans 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	1/1 	1/1 	41 

@@ -1,0 +1,55 @@
+ Dallas Cowboys (6-4) at Las Vegas Raiders (6-3)
+Las Vegas, NV -  	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cowboys: Dallas Cowboys (6-4) 	5 	0 	7 	10 	- 	22
+:raiders: Las Vegas Raiders (6-3) 	3 	7 	3 	7 	- 	20
+Team Stats Comparison
+  	:cowboys: Dallas Cowboys 	:raiders: Las Vegas Raiders
+Injuries 	No Injuries 	Jamie Shank, OG - Severe Achilles Rupture
+Offensive Line Rating 	8.7 	7.9
+Sacks 	3 	2
+Punting 	44.1 	46.6
+Punt Return Yards 	18 	11
+Kick Return Yards 	0 	0
+Turnovers 	1 	1
+3rd Down Conversion 	5/12 	4/14
+4th Down Conversion 	0/0 	1/1
+Penalties 	5/45 	6/81
+:cowboys: Dallas Cowboys
+Wing T 2RB - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	12/18 	146 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	19 	103 	1 	17 	0/0
+Adrian Robinson 	13 	46 	0 	20 	1/1
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kurt Hill 	4 	46 	1 	0 	0/0
+Francisco Gibson 	3 	35 	0 	0 	0/0
+Vaughan Abraham 	2 	29 	0 	0 	0/0
+Benjamin Franklin 	1 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Travis Chatman 	2/0 	- 	1/2 	0/0 	0/0
+Javier Grady 	3/0 	1.5 	0/0 	0/0 	0/1
+Joseph Randolph 	3/0 	1.0 	0/0 	0/0 	0/0
+Adam Taylor 	4/0 	0.5 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	2/2 	2/2 	33, 28
+	
+:raiders: Las Vegas Raiders
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	17/28 	184 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	20 	85 	1 	13 	0/0
+Quincy Turner 	7 	27 	0 	11 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Brian Gary 	5 	67 	0 	0 	0/0
+Mike Tripplett 	4 	45 	1 	1 	0/0
+Brian Becker 	2 	31 	0 	0 	0/0
+Lamont Crawford 	3 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Timothy Smith 	2/0 	1.0 	0/0 	0/0 	0/0
+Jamal Norwood 	2/0 	1.0 	0/0 	0/0 	0/0
+Gregg Martin 	6/2 	- 	0/0 	0/0 	0/0
+Alex Martin 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	2/3 	2/2 	44, 32 - 55 

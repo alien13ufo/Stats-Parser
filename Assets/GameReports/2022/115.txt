@@ -1,0 +1,67 @@
+ Philadelphia Eagles (3-3) at Minnesota Vikings (2-5) ?
+
+Minneapolis, MN - 50 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (3-3) 	7 	14 	14 	3 	- 	38
+:vikings: Minnesota Vikings (2-5) 	7 	6 	7 	0 	- 	20
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:vikings: Minnesota Vikings
+Injuries 	OLB Donald Collier - Moderate Hip Strain 	TE James Chandler - Severe ACL Rupture
+Top Player Grade 	QB Allan Taylor (8.36) 	WR Jacory Kessler (7.53)
+Worst Player Grade 	CB Joshua Sloan (3.19) 	OLB Devin Goss (4.05)
+Offensive Line Rating 	8.50 	8.33
+Sacks 	1 	0
+Punting 	45.3 	43.0
+Punt Return Yards 	18 	0
+Kick Return Yards 	47 	94
+Turnovers 	0 	2
+3rd Down Conversion 	6/11 	5/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/52 	5/32
+:eagles: Philadelphia Eagles
+Spread - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	17/32 	280 	2 	0 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	19 	89 	1 	15 	0/0
+Sean Egloff 	4 	29 	1 	14 	0/0
+Allan Taylor 	7 	23 	1 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sebastian Babb 	4 	80 	1 	0 	0/0
+Cameron Whelahan 	4 	68 	0 	0 	0/0
+Michael Hawkins 	2 	58 	1 	0 	0/0
+Justin Evans 	3 	35 	0 	0 	0/0
+Christopher Johnson 	2 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Logan Holmes 	1/0 	- 	1/0 	0/0 	0/0
+Tommy Brooks 	4/2 	1.0 	0/0 	1/0 	0/0
+Ryan Frey 	3/0 	- 	0/0 	0/1 	0/0
+Rodrick Milligan 	6/0 	- 	0/0 	0/0 	0/0
+Martin Whiting 	4/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/1 	5/5 	51
+	
+:vikings: Minnesota Vikings
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	24/39 	250 	2 	1 	1/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	13 	51 	0 	9 	0/0
+Evan Grant ? 	3 	9 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jacory Kessler 	5 	95 	1 	0 	0/0
+Wayne Wegert 	3 	65 	0 	0 	0/0
+Luke Cobb 	5 	40 	1 	0 	0/0
+Mohamed Charles 	4 	23 	0 	1 	0/0
+Eugene Jackson 	3 	19 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Phillip Gillis 	4/0 	- 	0/0 	1/0 	0/0
+Jared Lee 	5/2 	- 	0/0 ? 	0/0 	0/0
+Devin Goss 	4/1 	- 	0/0 	0/0 	0/0
+Eric Jones 	6/0 	- 	0/0 	0/0 	0/0
+Sebastian Smallwood 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Sam Gilligan 	2/2 	2/2 	49, 47 

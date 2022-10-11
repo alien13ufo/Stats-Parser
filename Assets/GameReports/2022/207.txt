@@ -1,0 +1,67 @@
+ Washington Redskins (7-5) at Detroit Lions (10-2) ?
+
+Detroit, MI - 34 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:redskins: Washington Redskins (7-5) 	7 	7 	3 	3 	- 	20
+:fibur: Detroit Lions (10-2) 	3 	7 	10 	6 	- 	26
+Team Stats Comparison
+  	:redskins: Washington Redskins 	:fibur: Detroit Lions
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	WR Sam Hiller-Weeden (8.36) 	RB Kenyon Randall (8.90)
+Worst Player Grade 	CB Joe Gammon (2.75) 	ILB Griffin Perrin (3.50)
+Offensive Line Rating 	8.28 	8.32
+Sacks 	1 	1
+Punting 	42.1 	46.2
+Punt Return Yards 	5 	21
+Kick Return Yards 	85 	46
+Turnovers 	1 	0
+3rd Down Conversion 	2/10 	4/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/60 	5/36
+:redskins: Washington Redskins
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	23/40 	250 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	12 	39 	1 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	8 	92 	1 	0 	0/0 ?
+Patrick Burke 	3 	53 	0 	0 	0/0
+Ty Royal 	4 	38 	0 	1 	0/0
+Tony DeMarco 	3 	23 	0 	1 	0/0
+Eddie McFadden 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+MIke Hill 	3/1 	1.0 	0/0 	0/0 	0/0
+Nathaniel Jeffries 	5/2 	- 	0/0 	0/0 	0/0
+Steven Jordan 	6/0 	- 	0/0 	0/0 	0/0
+Nicolas Haskell 	4/1 	- 	0/0 	0/0 	0/0
+Cameron Whitney 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	2/3 	2/2 	40, 22 - 40
+	
+:fibur: Detroit Lions
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	21/27 	230 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	21 	138 	1 	40 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Cook 	4 	72 	0 	0 	0/0
+Rashad Simon 	5 	50 	0 	0 	0/0
+Rex Walsh 	3 	40 	1 	0 	0/0
+Glenn Franckowiak 	2 	26 	0 	0 	0/0
+Emory Johnson 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK ? 	INT/PD 	FF/FR 	TD/SFTY
+Kofi Neal 	4/0 	- 	1/1 	0/0 	0/0
+Earl Jackson 	3/1 	1.0 	0/0 	0/0 	0/0
+Willard McCready 	7/0 	- 	0/0 	0/0 	0/0
+Cameron Jones 	4/0 	- 	0/0 	0/0 	0/0
+Richard Ryan 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Brent Hankton 	4/4 	2/2 	51, 38, 29, 48 

@@ -1,0 +1,49 @@
+QB Todd Lester 6-0 194 1 California [Scrambling] 86
+QB Gary Baldacci 5-11 183 2 West Virginia [Pocket] 78
+QB Ralph McCrary 5-11 208 2 Texas Tech [Pocket] 75
+RB Brian Kiel 6-1 213 3 Florida [Power] 80
+RB Brian Houghton 5-7 190 1 Georgia [Power] 73
+RB Dub Spanno 6-0 184 3 Arizona State [Power] 72
+RB Kern Trapp 5-8 177 R Washington [Power] 67
+FB Victor Brunson 6-1 231 1 Mississippi St. [Power] 69
+WR Kevin Branch 6-5 187 1 Mississippi State [Speed] 87
+WR John Whisenhunt 6-3 170 2 Notre Dame [Target] 74
+WR Cecil Windsor 6-5 188 3 Georgia [Target] 74
+WR Andy Goode 6-2 166 2 Arkansas [Speed] 74
+TE Ben Thomas 6-6 224 1 FloridaState [PassBlocking] 83
+TE Hugh Warren 6-6 229 1 Oklahoma [Run Blocking] 77
+OT Robert Haynes 6-6 301 R Michigan State [Run Blocking] 82
+OT Kenyon Hendricks 6-7 285 1 USC [PassBlocking] 79
+OT Jon Monk 6-5 326 2 Wisconsin [PassBlocking] 77
+OT Clint Dyal 6-7 316 1 Penn St. [Run Blocking] 74
+OT Antwon Breedlove 6-5 302 2 Oklahoma [Pass Blocking] 73
+OT Anthony Webb 6-6 330 R Kansas [Pass Blocking] 66
+OG Wilson Hutchinson 6-2 299 2 TexasA&M [RunBlocking] 78
+OG Riley Vanover 6-8 285 1 Tennessee [RunBlocking] 69
+OG John Bailey 6-5 283 R Cincinnati [Pass Blocking] 66
+C Richard Kelly 6-8 317 3 WashingtonState [PassBlocking] 75
+DT Chad Villalobos 6-7 292 2 Purdue [RunStop] 77
+DT John Corley 6-8 285 2 BoiseState [RunStop] 71
+DT Francisco Caudill 6-4 279 1 Arizona [Pass Stop] 67
+DT Ed Batch 6-5 295 R Virginia Tech [Pass Stop] 66
+DE Bobby Johnson 6-6 276 3 LSU [Run Stop] 72
+DE Michael Morris 6-5 285 1 California [Pass Stop] 71
+DE Tim Carson 6-3 285 2 Minnesota [Run Stop] 70
+DE Eason DeLong 6-1 288 R South Carolina [Run Stop] 67
+ILB Daleroy Smart 5-11 224 1 WashingtonState [RunMan-to-Man] 87
+ILB Bryant Palmer 6-1 225 1 Tennessee [Pass Man-to-Man] 77
+ILB Natrone Laird 6-1 248 3 Oklahoma [Pass Man-To-Man] 74
+OLB Chris Reed 6-1 230 R Oklahoma State [Run Man-to-Man] 77
+OLB Hartee Drazenovich 6-1 240 3 Georgia [RunMan-to-Man] 76
+OLB David Peters 6-1 242 2 Rutgers [PassZone] 69
+CB Bashir Rodriguez 6-1 194 2 Georgia Tech [Man Coverage] 85
+CB Jason Brown 6-1 186 R Wisconsin [Man Coverage] 73
+CB David Simpson 6-2 191 2 Baylor [ZoneCoverage] 73
+CB Michael Bland 6-0 172 1 Vanderbilt [Man Coverage] 64
+FS Christopher Payne 6-1 205 R Fresno State [Man Coverage] 71
+FS Terry Ross 6-2 168 1 Michigan [Man Coverage] 69
+SS Mike Robinson 6-0 196 3 Virginia Tech [ZoneCoverage] 73
+SS Frank Curran 6-1 200 1 Ole Miss [Man Coverage] 71
+SS Dale Martin 5-10 183 R Notre Dame [Zone Coverage] 66
+K Paul McGowan 5-10 189 2 Mississippi State [Power] 75
+P Tay Steele 6-1 181 3 Arizona State [Accuracy] 72

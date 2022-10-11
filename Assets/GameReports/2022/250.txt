@@ -1,0 +1,67 @@
+ Cincinnati Bengals (9-6) at Pittsburgh Steelers (10-5) ?
+
+Pittsburgh, PA - 39 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (9-6) 	0- 	0 	3 	0 	- 	3
+:steelers: Pittsburgh Steelers (10-5) 	7 	14 	0 	7 	- 	28
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:steelers: Pittsburgh Steelers
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	OT Blake Pile (9.31) 	DE Carlos Washington (9.56)
+Worst Player Grade 	FS Edward Harrison (2.70) 	C Riley McDunnough (2.95)
+Offensive Line Rating 	8.16 	8.29
+Sacks 	1 	4
+Punting 	41.5 	47.2
+Punt Return Yards 	6 	33
+Kick Return Yards 	84 	26
+Turnovers 	2 	0
+3rd Down Conversion 	2/11 	3/8
+4th Down Conversion 	0/0 	0/0
+Penalties 	10/106 	12/97
+:bengals: Cincinnati Bengals
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	20/45 	210 	0 	1 	1/1
+- 	-/- 	- 	- 	- 	0/0 ?
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	5 	14 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	5 	56 	0 	1 	0/0
+Jamir Blackburn 	5 	54 	0 	1 	0/0
+Cap Christian 	3 	50 	0 	2 	0/0
+Ron Thomas 	2 	24 	0 	0 	0/0
+Steven Maloney 	3 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Timothy Key 	1/0 	1.0 	0/0 	0/0 	0/0
+Sila Lotomau 	4/2 	- 	0/0 	0/0 	0/0
+Nick Upshaw 	6/1 	- 	0/0 	0/0 	0/0
+Germane Dixon 	5/0 	- 	0/0 	0/0 	0/0
+Brett Bailey 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	1/1 	4/4 	33
+	
+:steelers: Pittsburgh Steelers
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	25/35 	288 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	20 	125 	2 	29T 	0/0
+Kalei Keil 	3 	-1 	0 	2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jake Schmidt 	9 	102 	1 	0 	0/0
+Kavika Russell 	3 	75 	1 	0 	0/0
+Samuel Jolley 	4 	46 	0 	1 	0/0
+Ja'Wuan Howard ? 	3 	30 	0 	0 	0/0
+Eric Watson 	3 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kordell McKinnon 	3/0 	- 	1/0 	0/0 	0/0
+Carlos Washington 	3/0 	2.0 	0/0 	0/0 	0/0
+Marcus Carver 	3/0 	1.0 	0/0 	1/0 	0/0
+Quentin Smith 	1/0 	1.0 	0/0 ? 	0/0 	0/0
+Dane Wilson 	7/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Lorenzo Rodgers 	0/1 	4/4 	- 52 

@@ -1,0 +1,67 @@
+ Arizona Cardinals (0-3) at Minnesota Vikings (1-2) ?
+
+Minneapolis, MN - 58 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (0-3) 	21 	0 	3 	0 	- 	24
+:vikings: Minnesota Vikings (1-2) 	14 	7 	3 	3 	- 	27
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:vikings: Minnesota Vikings
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	RB Trevon Yeldon (7.79) 	WR Jacory Kessler (8.21)
+Worst Player Grade 	SS Rob Evans (4.02) 	DE Jamal Patton (4.15)
+Offensive Line Rating 	8.24 	8.50
+Sacks 	1 	3
+Punting 	48.2 	44.2
+Punt Return Yards 	20 	0
+Kick Return Yards 	68 	41
+Turnovers 	0 	0
+3rd Down Conversion 	5/13 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/50 	4/38
+:cardinals: Arizona Cardinals
+Pistol - Pro Style ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	17/30 	221 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Trevon Yeldon 	21 	105 	1 	19 	1/0
+Paul Davenport 	4 	24 	0 	11 	0/0
+- 	- 	- 	- 	- 	0/0 ?
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Banks 	4 	60 	1 	0 	0/0 ?
+Ricky Chambers 	3 	50 	0 	0 	0/0
+Art Baber 	3 	34 	1 	0 	0/0
+Jay Dunn 	2 	30 	0 	0 	0/0
+Emanuelu Lesa 	2 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Asante Willis 	6/1 	- 	0/0 	0/0 	0/0
+Josiah Harden 	4/1 	- 	0/0 	0/0 	0/0
+Aaron Samuelsson 	4/0 	- 	0/1 	0/0 	0/0
+William Thomas 	4/0 	- 	0/0 	0/0 	0/0
+Tom Reis 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	1/2 	3/3 	39 - 60
+	
+:vikings: Minnesota Vikings
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	22/37 	246 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	13 	80 	1 	25 	0/0
+Evan Grant 	3 	8 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jacory Kessler 	9 	116 	1 	0 	0/0
+Mohamed Charles 	3 	48 	1 	0 	0/0
+Luke Cobb 	2 	30 	0 	0 	0/0
+Wayne Wegert 	3 	22 	0 	0 	0/0
+Eugene Jackson 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Paul Goodman 	4/2 	- 	0/0 	1/0 	0/0
+Cleveland Merrill 	7/0 	- 	0/0 	0/0 	0/0
+Eric Jones 	4/0 	- ? 	0/0 	0/0 	0/0
+Devin Goss 	3/0 	- 	0/0 	0/0 	0/0
+Sebastian Smallwood 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Sam Gilligan 	2/2 	3/3 	44, 24 ?

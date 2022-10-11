@@ -1,0 +1,65 @@
+ Denver Broncos (2-0) at Cincinnati Bengals (1-1) ?
+Cincinnati, OH - 72 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (2-0) 	3 	0 	3 	3 	- 	9
+:bengals: Cincinnati Bengals (1-1) 	6 	7 	14 	7 	- 	34
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:bengals: Cincinnati Bengals
+Injuries 	QB Todd Jennings - Severel ACL Rupture 	FS Edward Harrison - Moderate Concussion
+Top Player Grade 	DE Deyonte Davis (6.83) 	QB Joel King (8.93)
+Worst Player Grade 	DT Emanuel Serrano (4.02) 	OLB Germane Dixon (6.01)
+Offensive Line Rating 	8.49 	8.02
+Sacks 	4 	2
+Punting 	46.4 	42.2
+Punt Return Yards 	15 	43
+Kick Return Yards 	79 	26
+Turnovers 	2 	0
+3rd Down Conversion 	2/11 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/67 	4/32
+:broncos: Denver Broncos
+Spread - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Eric Jennings 	13/26 	146 	0 	2 	1/0
+Todd Jennings 	4/5 	38 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	16 	57 	0 	12 ? 	0/0
+Emmett Spears 	6 	15 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ken Peelle 	5 	53 	0 	1 	0/0
+Artemio Ramirez 	3 	42 	0 	0 	0/0
+William Doherty 	2 	25 	0 	1 	0/0
+Doug Bosley 	2 	22 	0 	0 	0/0
+Emmett Spears 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Joe Palmer 	6/0 	1.0 	0/0 	0/0 	0/0
+Deyonte Davis 	2/0 	1.5 	0/0 	0/0 	0/0
+Andrew Phillips 	2/0 	1.0 	0/0 	0/0 	0/0
+Emanuel Serrano 	1/0 	0.5 	0/0 	0/0 	0/0
+Evan Walsh 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	3/3 	0/0 	53, 51, 23
+	
+:bengals: Cincinnati Bengals
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	30/40 	409 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	13 	104 	1 	41T 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Steven Maloney ? 	8 	133 	1 	0 	0/0
+Adrian Jankowski 	10 	118 	1 	0 	0/0
+Jamir Blackburn 	5 	82 	1 	0 	0/0
+Christopher Harris 	2 	37 	0 	1 	0/0
+Ron Thomas 	2 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Blake Turner 	2/0 	- 	1/0 	0/0 	0/0
+Aaron Stiles 	2/0 	- 	1/0 	0/0 	0/0
+Sila Lotomau 	3/1 	1.0 	0/0 	0/0 	0/0
+Prince Matos 	2/0 	1.0 	0/0 	0/0 	0/0
+Nick Upshaw 	4/2 	- ? 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	2/2 	4/4 	44, 32 

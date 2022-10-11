@@ -1,0 +1,57 @@
+ Baltimore Ravens (4-6) at Cincinnati Bengals (2-8)
+
+Cincinnati, OH - 40 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:ravens: Baltimore Ravens (4-6) 	7 	14 	7 	7 	- 	35
+:bengals: Cincinnati Bengals (2-8) 	0 	6 	14 	10 	- 	30
+Team Stats Comparison
+  	:ravens: Baltimore Ravens 	:bengals: Cincinnati Bengals
+Injuries 	No Injuries 	No Injuries
+Offensive Line Rating 	8.0 	7.5
+Sacks 	4 	2
+Punting 	43.3 	44.1
+Punt Return Yards 	39 	13
+Kick Return Yards 	23 	19
+Turnovers 	0 	1
+3rd Down Conversion 	4/10 	5/13
+4th Down Conversion 	0/0 	1/1
+Penalties 	5/25 	7/62
+:ravens: Baltimore Ravens
+Option - Wishbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	16/21 	223 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Davey Jones 	24 	120 	2 	17 	0/0
+Brett Fisher 	8 	36 	1 	20T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Knight 	5 	71 	1 	0 	0/0
+David Wells 	3 	44 	0 	0 	0/0
+Adrian Allen 	3 	43 	0 	1 	0/0
+Sean Waller 	2 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Louis Peterson 	5/0 	2.0 	0/0 	0/0 	0/0
+Eric Burden 	3/0 	1.0 	0/0 	0/1 	1/0
+Matthew Davis 	3/0 	1.0 	0/0 	1/0 	0/0
+Adam Newman 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	0/1 	5/5 	- 50
+	
+:bengals: Cincinnati Bengals
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	23/29 	306 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	17 	95 	0 	23 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	7 	105 	1 	0 	0/0
+Jamir Blackburn 	5 	79 	1 	0 	0/0
+Brandon Lane 	4 	64 	1 	0 	1/1
+Christopher Harris 	3 	39 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+E.J. McQuarters 	2/0 	1.5 	0/0 	0/0 	0/0
+Brett Bailey 	3/0 	0.5 	0/0 	0/0 	0/0
+Mike Hulsey 	6/0 	- 	0/0 	0/0 	0/0
+Nick Upshaw 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	3/3 	3/3 	55, 38, 41 

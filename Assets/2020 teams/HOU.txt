@@ -1,0 +1,53 @@
+QB Alex Leshoure 6-1 205 1 Boston College [Pocket] 83
+QB Tommy Jones 6-3 198 2 Michigan [Hybrid] 82
+QB Darren Werner 6-1 206 6 Iowa [Pocket] 86
+RB Arturo Pacheco 5-10 194 R Iowa State [Speed] 81
+RB Rickie Baird 5-11 171 4 Cincinnati [Speed] 79
+RB Sean Egloff 6-0 207 1 Oklahoma [Speed] 79
+FB Broderick Snell 5-11 235 6 Texas [Pass Blocking] 81
+FB Mark Macleod 6-1 221 1 Eastern Michigan [Run Blocking] 77
+WR Marvin White 6-4 184 4 Ohio State [Speed] 89
+WR Billy Rodgers 6-1 164 4 North Carolina [Target] 82
+WR Gordon Kleinsasser 6-6 200 3 Michigan [Target] 81
+WR Jeremy Scarborough 5-11 216 1 Colorado State [Target] 80
+WR Arturo Beckham 6-1 176 R Arizona State [Speed] 75
+TE Isaiah Davidson 6-6 247 4 Boise State [Blocking] 83
+TE Stanley Sherk 6-7 232 2 Virginia Tech [Blocking] 79
+OT Aaron Gugliemi 6-2 310 5 Tennessee [Pass Blocking] 89
+OT Matt Bogle 6-1 341 4 Ohio State [Pass Blocking] 90
+OT Dillon Bridges 6-2 295 1 Fresno State [Pass Blocking] 76
+OT Harry Mock 6-4 334 R Iowa State [Run Blocking] 74
+OG John Chance 6-7 315 5 Oregon State [Run Blocking] 93
+OG Jason Osorio 6-2 275 2 Virginia Tech [Pass Blocking] 86
+OG Stan Flutie 6-1 297 2 UCLA [Pass Blocking] 75
+OG Nicholas Quick 6-6 260 R Clemson [Pass Blocking] 71
+C Rodney Atkins 6-1 291 2 Navy [Run Blocking] 78
+C David Greene 6-2 279 R Hawaii [Pass Blocking] 68
+DE Kaulana Groth 6-7 304 5 Ohio State [Contain] 89
+DE Robert Fulton 6-0 266 1 LSU [Contain] 85
+DE Freeman Schubert 6-6 260 2 Arizona State [Contain] 78
+DE Ronald Harris 6-3 251 1 UCLA [Contain] 72
+DT Nathan Knowlton 6-6 277 3 Boise State [1-Gap] 81
+DT Joseph Blair 6-2 294 3 Utah [1-Gap] 79
+DT James Hawkins 6-5 267 1 Kansas [1-Gap] 72
+ILB Blair Williams 6-2 247 5 Colorado [Mike] 90
+ILB Dillon Grant 5-11 249 R Alabama [Mike] 76
+ILB Barty Tillman 6-2 222 2 Clemson [Will] 77
+ILB Robert Andrews 5-11 215 1 Michigan [Mike] 69
+OLB Chester Williams 6-2 219 4 Auburn [Coverage] 81
+OLB Richard Jones 5-11 236 1 Washington State [Coverage] 82
+OLB Jeff Brooks 6-0 230 3 Florida [Coverage] 81
+OLB Ahmed London 6-2 239 R West Virginia [Coverage] 77
+CB Tom Wyman 5-10 180 R TCU [Man Coverage] 80
+CB Wayne Hape 5-10 184 5 USC [Man Coverage] 78
+CB Antonio Hotchkiss 5-9 187 3 Ohio State [Man Coverage] 76
+CB Brent Johnson 5-11 181 2 Utah [Zone Coverage] 79
+CB Dashon Hodge-Stevens 5-11 212 1 Virginia Tech [Man Coverage] 78
+CB Leveon Brooks 6-2 189 1 Arizona [Man Coverage] 72
+FS Reynaldo Harris 5-9 174 4 Miami [Man Coverage] 90
+FS Michael Bryan 5-10 177 1 Oklahoma [Zone Coverage] 78
+SS Darren Manning 6-4 189 4 Tennessee [ZoneCoverage] 90
+SS Kliff Papac 6-0 161 4 Syracuse [Zone Coverage] 75
+K Riley McNeil 6-2 183 R Northwestern State [Accuracy] 75
+P Joe Wood 5-9 192 4 Michigan [Power] 92
+PR Vaughn Gash 6-3 183 6 Tennessee [Speed] 85

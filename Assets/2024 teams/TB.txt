@@ -1,0 +1,55 @@
+QB Norris Brooksheer 6-3 207 7 Oklahoma [Pocket] [+1/C] 89
+QB R.J. Stanford 5-11 203 6 Arkansas [Hybrid] [+1] 82 ?
+QB Samuel Connor 6-3 194 R Eastern Washington [Pocket] [0] 76
+QB Eugene Salas 6-3 214 R Arkansas State [Pocket] [0] 7?5
+RB Jeremiah Newton 6-0 174 4 Iowa [Speed] [0] 80
+RB? Ethan Newby 5-9 205 2 Florida [Speed] [0?] 73
+FB Maurice Ervin 5-8 207 3 Virginia Tech [Pass Blocking] [0] 81
+WR A.J. Edwards 6-4 217 1 Alabama [Speed] [-2] 84
+WR Jarvis Heard 5-9 195 R LSU [Speed?] [0] 81
+WR Jeremy Bridges 6-0 231 R Oklahoma State [Target] [+2] 78
+WR Randall Johnson 6-1 180 3 Southern Miss [Target] [+1] [+] 77
+WR Jamaal Brown-Sanderson 6-1 211 5 Penn State [Target] [0] 75
+WR Benjamin Franklin 5-9 160 4 Rutgers [Speed] [0] 78
+TE Marius Greenwood 6-2 228 5 South Carolina [Blocking] [+1] 80
+TE Jaime Bautista 6-1 203 1 Kansas [Receiving] [0/C] 78
+OT Gene Miller 6-6 297 9 Ohio State [Pass Blocking] [-3/C] 87
+OT Dahntay Dickerson 6-5 295 R Temple [Run Blocking] [0] 83
+OT Demonte Green 6-3 326 2 Illinois [Pass Blocking] [0] 83
+OT Kenneth Porter 6-5 290 5 Notre Dame [Run Blocking] [0] 83
+OG Zak Cole 6-0 301 8 Alabama [Run Blocking] [0] 84
+OG Jack Brown 6-1 299 8 Florida [Pass Blocking] [0] 83
+OG Ethan Champion 6-7 259 3 USC [Pass Blocking] [+1] 82
+OG Terrell Oliver 6-7 337 1 Georgia State [Run Blocking] [0] [#] 79
+C Jonathan Smith 6-2 262 4 Northwestern [Run Blocking] [0] 80
+C T.J. Brumm 6-1 267 7 Arizona State [Pass Blocking] [0] 80
+DE Charles Johnson 6-8 261 6 Hawaii [Blitz] [+1] 88?
+DE Gustavo Adcock 6-3 271 5 LSU [Contain] [0] 78
+DE Sebastian Traylor 6-2 250 5 Penn State [Contain] [-1] 77
+DE Damien Bethea 6-6 269 1 USC [Contain] [0] 77
+DT Omar Adcock 6-5 311 2 Fresno State [1-Gap] [0] 81
+DT Olivier Ponder 6-5 281 R Akron [2-Gap] [-1] 80
+DT Keiki Simi 6-1 301 R Middle Ten?nessee State [2-Gap] [-2] 74
+DT Jack Holland 6-6 333 R Colorado [2-Gap] [-1] 73
+ILB Andre Brooks 6-1 256 10 Wisconsin [Mike] [+1/C] 86
+ILB Julien Daly 6-1 234 4 Kansas State [Mike] [0] [#] 80
+ILB Shane Slade 6-0 245 R Minnesota [Mike] [0/C] 76
+ILB Paul Quick 6-2 231 R UTSA [Will] [0] [#] 68
+ILB Luis Watkins 6-0 237 5 Wisconsin [Will] [0] [#] 76
+OLB Peter Williams 6-0 213 6 Virginia Tech [Coverage] [0] [+] 82
+OLB Nathaniel Jeffries 5-11 253 3 Tennessee [Blitz] [-3] 79
+OLB Jeremy Woodall 6-2 236 1 Purdue [Coverage] [0/C] [#] 78
+OLB Jamie Price 6-0 240 4 Ohio State [Blitz] [0] [#] 78
+CB Demetrius Still 6-0 162 5 LSU [Zone Coverage] [0] 82?
+CB Jamir Lacey 5-11 166 R Oregon [Zone Coverage] [0] [#] 80
+CB T.J. Hunter 6-0 203 6 Penn State [Zone Coverage] [0] 77
+CB Franklin Crawford Jr. 5-11 174 2 Northern Iowa [Zone Coverage] [0] 81 ?
+CB Ronyell Buchanon 6-1 171 7 Florida State [Zone Coverage] [-2] 81
+FS Aaron Blakely 6-1 182 4 Wisconsin [Man Coverage] [+1] 86
+SS Darren Manning 6-4 189 8 Tennessee [Zone Coverage] [+1] 93
+SS Ricky Chambers 5-10 214 R Iowa [Man Coverage] [+1/C] 74
+SS Jon Mallory 6-1 200 1 Boston College [Man Coverage] [0] 77
+K Jarret Veals 5-10 178 9 Miami [Power] [0] 97
+P Yuri Garisov 6-3 222  ?6 Aubur?n [Accuracy] [0] 8?5 ?
+PR D.J. Barnes 5-10 161 1 Ohio State [Hybrid] [0] 83
+KR Derek Payton 5-11 197 2 Colorado [Hybrid] [0] 78

@@ -1,0 +1,53 @@
+QB Ryan Clark 6-1 187 4 Oregon State [Hybrid] 89
+QB Rob Zeko 6-3 183 2 Marshall [Hybrid] 77
+QB Matthew Dobbs 6-1 213 R Virginia Tech [Scrambling] 75
+RB Michael Duckworth 5-7 179 4 Michigan State [Speed] 85
+RB Sean Bell 6-1 209 R Baylor [Speed] 80
+RB Nathan Wilson 5-8 224 1 Alabama [Power] 78
+RB Grady Mitchell 6-1 231 1 Boise State [Power] 75
+FB John Evans 6-1 210 5 Arizona [Pass Blocking] 83
+WR Tai Miller 6-4 186 3 Oklahoma [Target] 90
+WR Ryan Mitchell 5-11 176 5 Ohio State [Speed] 88
+WR Ray Lee Marconi 6-5 180 6 Syracuse [Speed] 83
+WR Kevin McMullen 6-1 153 1 Mississippi State [Speed] 77
+WR Lance Bolling 6-4 164 3 Stanford [Speed] 72
+WR Curtis Jeffreys 5-11 207 2 SDSU [Target] 74
+TE Bill Jenkins 6-5 242 5 Virginia Tech [Blocking] 82
+TE Jason McClairen 6-4 220 2 Texas A&M [Receiving] 84
+TE Antonio Heath 6-5 190 R Tulsa [Blocking] 78
+TE LeRoy Dunn 6-6 239 3 NC State [Blocking] 73
+OT Mike Cavanaugh 6-6 323 5 NC State [Pass Blocking] 83
+OT Nick Grant 6-6 296 3 LSU [Pass Blocking] 81
+OT Preston Gill 6-2 320 5 Virginia [Run Blocking] 88
+OT Scott Jennings 6-4 307 1 Iowa [Run Blocking] 78
+OG Calvin Milloy 6-2 332 6 Texas Tech [Pass Blocking] 84
+OG Henry Brown 6-4 291 1 Louisville [Run Blocking] 83
+OG Julian Jarrell 6-6 336 R Wyoming [Pass Blocking] 76
+C Enoch Dickinson 6-1 276 5 Minnesota [Pass Blocking] 96
+C Jonathan Smith 6-2 262 R Northwestern [Run Blocking] 74
+DE Ray McBride 6-6 275 4 Alabama [Blitz] 91
+DE Gabriel Beauchamp 6-1 256 R Akron [Blitz] 80
+DE Brian Bynum 6-6 275 3 Kansas State [Blitz] 75
+DE Russell Dixon 6-7 259 1 Georgia [Contain] 74
+DE Travian Rodgers 6-0 261 3 Tennessee [Contain] 71
+DT Je'Rod Wimbush 6-4 277 5 Auburn [1-Gap] 87
+DT Maximillian Baker 6-3 304 1 Georgia Tech [1-Gap] 80
+DT Kenneth Clarke 6-1 308 3 Jones County JC [2-Gap] 76
+ILB C.J. Thomas 6-4 240 R Georgia [Mike] 82
+ILB J.T. Holcomb 5-11 230 4 Michigan [Mike] 76
+ILB Lance Nattiel 6-0 239 2 Texas [Mike] 82
+ILB Thomas Cooke 6-2 232 5 Kansas [Will] 77
+OLB Darian Mathis 6-0 253 6 Texas Tech [Coverage] 85
+OLB Thomas Stewart 6-2 254 5 Purdue [Coverage] 84
+OLB Stephen Cannon 5-11 228 1 San Diego State [Coverage] 76
+CB Cameron Marshall 6-1 170 R Penn State [Zone Coverage] 81
+CB Kadeem Martin 5-9 175 4 Penn State [Zone Coverage] 82
+CB Israel Greer 6-0 192 1 Nevada [Zone Coverage] 76
+CB Lee Davis 6-2 174 2 Oklahoma [Zone Coverage] 74
+CB Jesse Solano 5-11 176 3 Cincinnati [Man Coverage] 71
+FS LaMichael Jones 6-3 173 3 Stanford [Man Coverage] 80
+FS Martin Hernandez 6-2 197 1 Miami [Man Coverage] 78
+SS Andrew Wade 6-0 206 1 Boston College [Man Coverage] 78
+SS Bennie Richardson 5-10 172 2 Maryland [Man Coverage] 74
+K Chris Wells 6-0 192 1 Michigan [Power] 73
+P Sylvester Word 6-3 192 4 Missouri [Power] 85

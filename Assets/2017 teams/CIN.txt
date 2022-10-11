@@ -1,0 +1,43 @@
+QB Blake Shell 6-5 194 2 Virginia Tech [Pocket] 89
+QB Anthony Newson 6-1 226 R Washington [Pocket] 75
+QB Bernard Gbaja-Biamila 6-5 224 1 Georgia [Pocket] 69
+RB Rob Blackmon 6-0 206 3 Auburn [Speed] 89
+RB Justin Gugliemi 5-10 181 R Georgia State [Power] 71
+RB Jason Fullwood 5-9 191 R Wisconsin [Power] 68
+FB Tom Edwards 5-11 211 1 Florida [Power] 82
+WR Ryan Mitchell 5-11 176 2 Ohio State [Speed] 85
+WR Carlos Warren 5-11 178 2 Michigan [Target] 81
+WR Douglas Chadwick 5-10 182 R Indiana [Target] 75
+WR Ahmaad Baxter 6-1 178 3 Auburn [Speed] 65
+TE Tony DeMarco 6-3 247 1 TCU [Pass Blocking] 81
+TE Anthony Baumhower 6-1 237 R Oklahoma State [Pass Blocking] 69
+OT Tai Burns 6-6 317 2 LSU [Pass Blocking] 82
+OT Dante Paige 6-4 306 1 WestVirginia [PassBlocking] 74
+OT Blake Pile 6-5 311 1 USC [Run Blocking] 90
+OT Jack Hall 6-8 318 1 Utah [Run Blocking] 74
+OT Joe Spilis 6-1 296 1 Tennessee [Pass Blocking] 70
+OG Rob Lipscomb 6-2 307 3 Boston College [Pass Blocking] 89
+OG Art Wagner 6-0 297 2 Florida [Run Blocking] 84
+OG Dwight Anderson 6-5 313 1 Florida St. [Run Blocking] 67
+C Kevin Siemon 6-3 279 1 Penn State [Run Blocking] 86
+C Mike Johnson 6-5 312 2 Oregon [RunBlocking] 63
+DE Brett Bailey 6-3 261 R Auburn [Run Stop] 80
+DE E.J. McQuarters 6-7 257 1 Clemson [Pass Stop] 77
+DT Bill Kelly 6-1 282 2 NC State [Pass Stop] 79
+DT Michael McFarland 6-8 311 3 Rutgers [Pass Stop] 64
+DT Ode Bell 6-2 292 R Colorado [Pass Stop] 67
+ILB Nick Upshaw 6-2 241 3 Ohio State [Run Man-to-Man] 91
+ILB Mike Smith 6-2 241 3 Oregon [Pass Zone] 80
+ILB Charles Banks 5-11 226 R Texas [Run Zone] 66
+OLB Germane Dixon 6-2 253 3 Notre Dame [Pass Man-to-Man] 87
+OLB Terry Hill 6-0 221 1 Notre Dame [Pass Man-to-Man] 83
+OLB Eddie Johnson 6-0 227 1 Georgia Tech [Pass Zone] 71
+OLB Mike Matthews 6-2 209 R Wisconsin [Pass Man-to-Man] 69
+OLB William Paulson 5-10 221 1 Baylor [Run Zone] 60
+CB Jacoby Seaverns 6-2 190 2 Oklahoma [Man Coverage] 94
+CB Marlin Schrader 5-11 192 R Washington State [Man Coverage] 70
+FS Jim Sisemore 5-10 181 3 Notre Dame [Man Coverage] 89
+SS Calvin Celestin 6-1 202 R USC [Man Coverage] 79
+SS George Neal 5-8 171 1 Kansas [Zone Coverage] 66
+K Vincenzo Aiola 6-1 175 1 TCU [Power] 70
+P Tommy Brown 6-1 171 2 Minnesota [Accuracy] 79

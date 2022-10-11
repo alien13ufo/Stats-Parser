@@ -1,0 +1,66 @@
+ Denver Broncos (2-3) at Dallas Cowboys (2-3)
+
+Arlington, TX - 72 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (2-3) 	3 	3 	0 	0 	- 	6
+:cowboys: Dallas Cowboys (2-3) 	14 	10 	7 	0 	- 	31
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:cowboys: Dallas Cowboys
+Injuries 	
+
+John Zatkoff, C - Moderate Groin Pull
+
+Darren Jones, TE - Mild Concussion
+	
+
+No Injuries
+
+ 
+Offensive Line Rating 	8.3 	8.5
+Sacks 	0 	2
+Punting 	42.7 	45.2
+Punt Return Yards 	8 	2
+Kick Return Yards 	42 	0
+Turnovers 	1 	0
+3rd Down Conversion 	3/14 	4/10
+4th Down Conversion 	0/1 	0/0
+Penalties 	4/37 	6/57
+:broncos: Denver Broncos
+Pro Style - Vertical Offense
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Jennings 	15/30 	152 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	9 	13 	0 	6 	1/1
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ken Peelle 	5 	56 	0 	1 	0/0
+Darrell Mack 	3 	52 	0 	1 	0/0
+Artemio Ramirez 	2 	17 	0 	0 	0/0
+William Doherty 	2 	15 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Jonah 	9/0 	- 	0/0 	0/0 	0/0
+Ray Truax 	5/0 	- 	0/0 	0/0 	0/0
+Michael Carroll 	5/0 	- 	0/0 	0/0 	0/0
+Charles Johnson 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	2/2 	0/0 	44, 27
+	
+:cowboys: Dallas Cowboys
+Wing T 2RB - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	9/10 	107 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	24 	147 	1 	50T 	0/0
+Adrian Robinson 	12 	74 	2 	32T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Francisco Gibson 	2 	43 	1 	0 	0/0
+Erasmus High 	2 	27 	0 	0 	0/0
+Benjamin Franklin 	1 	20 	0 	1 	0/0
+Kurt Hill 	2 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Joseph Randolph 	3/0 	1.0 	0/0 	0/0 	0/0
+Kendall Hill 	1/0 	1.0 	0/0 	0/0 	0/0
+Adam Taylor 	6/0 	- 	0/1 	0/0 	0/0
+Cleo Blair 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	1/1 	4/4 	36 

@@ -1,0 +1,57 @@
+ Dallas Cowboys (5-3) at Tampa Bay Buccaneers (5-3)
+
+Tampa, FL - 83 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cowboys: Dallas Cowboys (5-3) 	0 	3 	3 	7 	- 	13
+:buccaneers: Tampa Bay Buccaneers (5-3) 	0 	7 	0 	10 	- 	17
+Team Stats Comparison
+  	:cowboys: Dallas Cowboys 	:buccaneers: Tampa Bay Buccaneers
+Injuries 	Jace Brown, OG - Moderate Foot Sprain 	Derrick Martin, OLB - Moderate Ankle Sprain
+Offensive Line Rating 	8.7 	8.3
+Sacks 	0 	0
+Punting 	45.5 	41.2
+Punt Return Yards 	46 	6
+Kick Return Yards 	21 	23
+Turnovers 	1 	1
+3rd Down Conversion 	3/13 	3/11
+4th Down Conversion 	0/0 	0/1
+Penalties 	5/42 	4/30
+:cowboys: Dallas Cowboys
+Wing T 2RB - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	12/19 	149 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	22 	92 	1 	15 	1/1
+Adrian Robinson 	8 	16 	0 	5 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Benjamin Franklin 	3 	46 	0 	0 	0/0
+Kurt Hill 	2 	44 	0 	0 	0/0
+Francisco Gibson 	2 	28 	0 	1 	0/0
+Alex Gash 	3 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Travis Chatman 	1/0 	- 	1/2 	0/0 	0/0
+Cleo Blair 	6/0 	- 	0/0 	0/0 	0/0
+Romulus Jackson 	6/0 	- 	0/0 	0/0 	0/0
+Jeff Mangum 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	0/0 	0/0 	-
+	
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	23/34 	287 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	18 	64 	0 	12 	0/0
+Taylor Heiden 	3 	6 	0 	3 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Quintavius Pearson 	7 	99 	0 	0 	0/0
+Richard Wilson 	4 	65 	1 	0 	0/0
+Anthony McCardell 	3 	51 	0 	1 	0/0
+William Moore 	3 	39 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Newhouse 	2/0 	- 	1/0 	0/0 	0/0
+Frank Williams 	9/3 	- 	0/0 	0/0 	0/0
+Julien Daly 	5/1 	- 	0/0 	0/0 	0/0
+Micah Singletary 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	1/2 	2/2 	41 - 55 

@@ -1,0 +1,67 @@
+ New England Patriots (3-9) at Tennessee Titans (8-4) ?
+
+Nashville, TN - 51 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:patriots: New England Patriots (3-9) 	0 	0 	7 	0 	- 	7
+:titans: Tennessee Titans (8-4) 	7 	7 	0 	14 	- 	28
+Team Stats Comparison
+  	:patriots: New England Patriots 	:titans: Tennessee Titans
+Injuries 	SS Norris Nolan - Moderate Concussion 	No Injuries
+Top Player Grade 	WR Geno Harris (6.93) 	QB Thomas Wheeler (9.05)
+Worst Player Grade 	FS Rodney Olson (2.04) 	TE Johnny Duerson (3.22)
+Offensive Line Rating 	8.25 	8.18
+Sacks 	0 	1
+Punting 	48.2 	45.3
+Punt Return Yards 	6 	23
+Kick Return Yards 	84 	45
+Turnovers 	1 	0
+3rd Down Conversion 	2/11 	3/8
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/59 	5/31
+:patriots: New England Patriots
+Spread Option - Pistol
+PASSING 	C/A 	YDS 	TD ? 	INT 	F/L
+Luke Trickett 	15/27 	160 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Shawn Cole 	15 	36 	0 	9 	0/0
+Luke Trickett 	6 	20 	0 	8 	0/0
+Michael Duckworth 	4 	6 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Geno Harris 	4 	74 	1 	0 	0/0
+Carlos Perez 	3 	29 	0 	0 	0/0
+Jamel Beckham 	3 	21 	0 	0 	0/0
+Gary Jones 	2 	20 	0 	0 	0/0
+Abdoulaye Boone 	2 	17 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Rufus Horn 	7/0 	- 	0/0 	0/0 	0/0
+Jayden Salter 	5/0 	- 	0/0 	0/0 	0/0
+Phillip Davenport 	5/0 	- 	0/0 	0/0 	0/0
+Norris Nolan 	4/0 	- 	0/0 	0/0 	0/0
+Rodney Olson 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	0/0 	1/1 	-
+	
+:titans: Tennessee Titans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	27/40 	350 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	15 	102 	3 	28 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Williams 	8 	120 	0 	1 	0/0
+Greg Newman 	4 	85 	1 	0 	0/0
+Derek Blalock 	5 	63 	0 	1 	0/0
+Cody Hunter 	4 	32 	0 	0 	0/0
+Greg Newman 	3 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Alex Collins 	4/0 	- 	1/1 	0/0 	0/0
+Derrick Thomas 	2/0 	1.0 	0/0 ? 	0/0 	0/0
+Randy Humphreys 	7/1 	- 	0/0 	0/0 	0/0
+Tyler Jones 	3/3 	- 	0/0 	0/0 	0/0
+Joseph Whiteside 	3/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	0/1 	4/4 	- 52 ?

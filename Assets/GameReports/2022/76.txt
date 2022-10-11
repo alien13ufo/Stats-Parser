@@ -1,0 +1,67 @@
+ San Francisco 49ers (1-3) at Detroit Lions (3-1) ??
+
+Detroit, MI - 56 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (1-3) 	0 	6 	7 	7 	- 	20
+:fibur: Detroit Lions (3-1) 	14 	3 	7 	6 	- 	30
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:fibur: Detroit Lions
+Injuries 	No injuries 	OLB Scott Wallace - Severe Achilles Rupture
+Top Player Grade 	WR Miles Collins (7.43) 	OLB Cameron Jones (8.25)
+Worst Player Grade 	DE Dennis Niland (3.56) 	OG Ruben Winstead (4.53)
+Offensive Line Rating 	8.25 	8.49
+Sacks 	1 	1
+Punting 	45.6 	44.1
+Punt Return Yards 	11 	13
+Kick Return Yards 	75 	43
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/67 	6/42
+:49ers: San Francisco 49ers ?
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Orly Vaccaro 	18/34 	231 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	18 	68 	1 	14 	0/0
+Orly Vaccaro 	5 	29 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Miles Collins 	5 	77 	0 	0 	0/0
+Kevin Branch 	3 	56 	1 	0 	0/0
+Jarius Shaw-Dodd 	3 	35 	0 	1 	0/0
+Daniel Marshall 	2 	30 	0 	0 	0/0
+Troy McCray 	2 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brandon Thomas 	5/0 	- 	1/0 	0/0 	0/0
+Chris Reed 	3/0 	0.5 	0/0 	0/0 	0/0
+Parker Holmes 	3/0 	0.5 	0/0 	0/0 	0/0
+Daleroy Smart 	6/1 	- 	0/0 	0/0 	0/0
+Michael McBride 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	2/2 	2/2 	49, 46
+	
+:fibur: Detroit Lions ?
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	23/38 	290 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	19 	84 	0 	27 	0/0
+Calvin Jones 	6 	39 	1 	14 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Cook 	6 	80 	1 	0 	0/0
+Emory Johnson ? 	4 	53 	0 	0 	0/0
+Anthony Fasani 	3 	43 	1 	0 	0/0
+Rex Walsh 	4 	40 	0 	0 	0/0
+Glenn Franckowiak 	3 	29 	0 	0 	0/0
+DEFENSE 	T/TFL ? 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kofi Neal 	5/0 	- 	1/1 	0/0 	0/0
+Cameron Jones 	4/0 	1.0 	0/0 	0/0 	0/0
+Richard Ryan 	6/2 	- 	0/0 	0/0 	0/0
+Kieron Brooks 	3/1 	- 	0/0 	0/0 	0/0
+Chris Tolbert 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	3/3 	3/3 	50, 28, 35 ?

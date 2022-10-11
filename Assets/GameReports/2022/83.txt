@@ -1,0 +1,67 @@
+ San Francisco 49ers (1-4) at Cincinnati Bengals (3-2) ?
+
+Cincinnati, OH - 51 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (1-4) 	0 	3 	3 	0 	- 	6
+:bengals: Cincinnati Bengals (3-2) 	7 	10 	7 	0 	- 	24
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:bengals: Cincinnati Bengals
+Injuries 	No Injuries 	OLB Germane Dixon - Moderate Hamstring Tendonitis
+Top Player Grade 	ILB Daleroy Smart (7.57) 	SS R.C. Rone (8.50)
+Worst Player Grade 	FS Prince McGill (3.45) 	OG Melvin Lee (2.00)
+Offensive Line Rating 	8.19 	8.29
+Sacks 	2 	2
+Punting 	42.1 	46.4
+Punt Return Yards 	18 	37
+Kick Return Yards 	63 	29
+Turnovers 	2 	1
+3rd Down Conversion 	2/12 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/53 	4/36
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Orly Vaccaro 	16/32 	190 	0 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	10 	37 	0 	11 	0/0
+Orly Vaccaro 	9 	31 	0 	19 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Miles Collins 	4 	55 	0 	0 	0/0
+Kevin Branch 	3 	50 	0 	1 	0/0
+Jarius Shaw-Dodd 	3 	23 	0 	0 	0/0
+Daniel Marshall 	2 	20 	0 	0 	0/0
+Joshua Freeman 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Daleroy Smart 	6/0 	- 	1/0 	0/0 	0/0
+Parker Holmes 	3/1 	1.0 	0/0 	0/0 	0/0
+Michael McBride 	2/0 	1.0 	0/0 	0/0 	0/0
+Prince McGill 	3/0 	- 	0/1 	0/0 	0/0
+Harold Kennedy 	3/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	2/2 	0/0 	- 49, 39
+	
+:bengals: Cincinnati Bengals
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	21/40 	226 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	18 	52 	1 	20T 	0/0
+Tom Edwards 	1 	2 	1 	2T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamir Blackburn 	6 	95 	1 	1 	0/0
+Adrian Jankowski ? 	6 	59 	0 	1 	0/0
+Ron Thomas 	3 	26 	0 	0 	0/0
+Christopher Harris 	2 	15 	0 	0 	0/0
+Steven Maloney 	2 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Blake Turner 	2/0 	- 	1/1 	0/0 	0/0
+Kamari Cheatham 	1/0 ? 	- 	1/0 	0/0 	0/0
+Nick Upshaw 	4/0 	1.0 	0/0 	0/0 	0/0
+Brett Bailey 	3/0 	1.0 	0/0 	0/0 	0/0
+R.C. Rone 	3/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Justin Nielsen 	1/1 	3/3 	36 

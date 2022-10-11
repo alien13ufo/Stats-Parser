@@ -1,0 +1,55 @@
+ Chicago Bears (0-0) at Minnesota Vikings (0-0)
+
+Minneapolis, MN - 76 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (0-0) 	7 	7 	3 	7 	- 	24
+:vikings: Minnesota Vikings (0-0) 	7 	3 	7 	0 	- 	17
+Team Stats Comparison
+  	:bears: Chicago Bears 	:vikings: Minnesota Vikings
+Injuries 	No Injuries 	No Injuries
+Offensive Line Rating 	7.6 	8.3
+Sacks 	2 	4
+Punting 	42.5 	42.6
+Punt Return Yards 	5 	10
+Kick Return Yards 	40 	24
+Turnovers 	1 	1
+3rd Down Conversion 	6/12 	4/14
+4th Down Conversion 	0/0 	0/1
+Penalties 	5/41 	7/64
+:bears: Chicago Bears
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	22/30 	285 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Quincy Honeycutt 	15 	66 	0 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Donnie Allen 	8 	94 	0 	0 	0/0
+David Gaines 	4 	60 	1 	1 	0/0
+Brandon Snead 	3 	43 	1 	0 	0/0
+Aaron Pagliei 	2 	40 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeff Holleyman 	4/0 	1.0 	0/0 	0/0 	0/0
+David Medley 	2/0 	1.0 	0/0 	0/0 	0/0
+Morris Millen 	6/1 	- 	0/0 	0/0 	0/0
+Jeremiah Joseph 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Will Ladd 	1/1 	3/3 	45
+	
+:vikings: Minnesota Vikings
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	24/41 	277 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Josh Taylor 	7 	25 	0 	7 	1/1
+Keith Dunn 	2 	5 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sonny Beckett 	8 	88 	1 	0 	0/0
+Eugene Jackson 	5 	62 	0 	0 	0/0
+Mohamed Charles 	3 	61 	1 	0 	0/0
+Josh Taylor 	2 	35 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Devon Drummond 	3/0 	- 	1/1 	0/0 	0/0
+Justin Glass 	3/0 	1.5 	0/0 	0/0 	0/0
+Jamal Patton 	1/0 	1.5 	0/0 	0/0 	0/0
+Paul Goodman 	6/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sean Doty 	1/2 	2/2 	35 - 41 

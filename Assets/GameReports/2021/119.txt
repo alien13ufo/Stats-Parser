@@ -1,0 +1,66 @@
+ Arizona Cardinals (3-4) at Buffalo Bills (2-5)
+
+Buffalo, NY - 53 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (3-4) 	0 	0 	3 	7 	- 	10
+:bills: Buffalo Bills (2-5) 	7 	0 	2 	7 	- 	16
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:bills: Buffalo Bills
+Injuries 	
+
+No Injuries
+
+ 
+	
+
+Patrick Chaney, CB - Severe ACL Rupture
+
+Sammy Grey, FS - Mild Hip Strain
+Offensive Line Rating 	7.7 	8.1
+Sacks 	2 	2
+Punting 	46.6 	43.2
+Punt Return Yards 	19 	-3
+Kick Return Yards 	0 	0
+Turnovers 	1 	1
+3rd Down Conversion 	5/15 	4/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/107 	12/102
+:cardinals: Arizona Cardinals
+Option - Wing T
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	11/18 	137 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Fred Tindale 	25 	82 	0 	19 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Noah Hills 	3 	45 	0 	0 	0/0
+Butch Harper 	2 	42 	0 	0 	0/0
+Ricky Chambers 	1 	20 	1 	0 	0/0
+Emanuelu Lesa 	3 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Omar McManus 	5/1 	2.0 	0/0 	1/0 	0/0
+Jeffrey King 	3/0 	- 	0/0 	0/1 	0/0
+Asante Willis 	7/1 	- 	0/0 	0/0 	0/0
+Tom Reis 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	1/2 	1/1 	33 - 59
+	
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Kamau Davis 	25/40 	317 	2 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+C.J. Sheffield 	13 	60 	0 	39 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Garvin 	8 	120 	1 	0 	0/0
+C.J. Sheffield 	6 	76 	0 	0 	0/0
+Isaiah Cronin 	3 	71 	1 	0 	0/0
+Matt Thomas 	2 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sammy Grey 	6/0 	- 	1/0 	0/0 	0/0
+Anthony Ortiz 	3/0 	1.0 	0/0 	0/0 	0/0
+Rodney Galbreath 	2/0 	1.0 	0/0 	0/0 	0/0
+Mike Bledsoe 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Darryl Lemus 	3/4 	1/1 	42, 28, 34 - 48 

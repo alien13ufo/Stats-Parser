@@ -1,0 +1,44 @@
+QB Lawyer Johnson 6-0 194 R Wisconsin [Pocket] 80
+QB Sean Hadnot 6-5 217 1 Alabama [Pocket] 79
+RB Greg Hadnot 5-9 192 1 Oklahoma [Power] 83
+RB Shaun Evans 5-8 191 2 TexasTech [Speed] 81
+RB Kenneth Farr 5-8 183 R Kentucky [Power] 79
+RB Gary Carr 6-1 197 R Utah [Speed] 67
+FB Brian Gelbaugh 6-1 226 1 California [Power] 73
+WR Ken Peelle 6-6 214 3 Florida State [Target] 84
+WR Tom Grant 6-0 172 3 LSU [Speed] 83
+WR Jake Bates 5-8 181 2 UCLA [Target] 82
+WR Curley Rivera 5-10 174 2 Alabama [Target] 73
+WR Robert Hunt 6-4 192 1 MichiganState [Speed] 68
+TE Gary Jones 6-5 238 2 UCLA [PassBlocking] 86
+TE Cecil Meinert 6-6 250 3 Auburn [PassBlocking] 68
+TE Ralph Wells 6-6 239 3 TexasA&M [PassBlocking] 63
+OT Ryan Robinson 6-6 299 R OklahomaState [RunBlocking] 83
+OT Herman Harrison 6-4 302 R Baylor [PassBlocking] 79
+OT Boomer Wages 6-7 330 3 Tennessee [RunBlocking] 71
+OT Robert Newman 6-2 280 R Maryland [PassBlocking] 70
+OT Tee Shipkey 6-2 293 1 Michigan [PassBlocking] 62
+OG Douglas Quinn 6-8 307 2 Northwestern [PassBlocking] 82
+OG Delvin Hodgins 6-5 287 2 Michigan [PassBlocking] 81
+C Spencer Flutie 6-5 304 3 TexasTech [RunBlocking] 74
+C Brian Moreau 6-8 283 R Missouri [RunBlocking] 68
+C Dave Ramsey 6-5 279 1 ArizonaState [RunBlocking] 65
+DE Mark Logan 6-3 287 2 Syracuse [RunStop] 86
+DE Julian Kosar 6-4 267 R Notre Dame [Pass Stop] 68
+DE Richard Scott 6-8 287 2 AirForce [PassStop] 64
+DT Jeremy Owen 6-8 290 R BYU [RunStop] 75
+DT Markus Peoples 6-3 311 3 Florida [PassStop] 71
+ILB Andre Brooks 6-1 256 3 Wisconsin [PassZone] 96
+ILB Willard Arnold 6-2 249 2 Texas [PassZone] 86
+ILB Charles Washington 6-0 232 1 Arizona [RunZone] 65
+OLB Bill Gehrke 5-11 241 1 USC [PassZone] 81
+OLB Lloyd Gallagher 6-1 238 1 Kentucky [RunMan-to-Man] 71
+CB Jamie Mixon 6-1 187 1 Rutgers [ManCoverage] 78
+CB Tony Preston 5-10 166 1 California [ManCoverage] 74
+CB Will Baker 5-11 190 3 Oklahoma [ManCoverage] 72
+FS James Klein 5-8 180 R Auburn [ZoneCoverage] 72
+FS John Le 5-10 195 R Baylor [Zone Coverage] 68
+SS Norris Nolan 5-10 178 R TexasA&M [ZoneCoverage] 75
+SS Obafemi Edwards 5-11 190 2 Michigan [ZoneCoverage] 71
+P Tony Taylor 5-10 206 3 FloridaState [Power] 86
+K Brad Weathersby 6-2 204 2 GeorgiaTech [Power] 88

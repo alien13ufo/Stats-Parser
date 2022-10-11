@@ -1,0 +1,70 @@
+ Baltimore Ravens (1-3) at New York Jets (4-0)
+
+East Rutherford, NJ - 64 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:ravens: Baltimore Ravens (1-3) 	14 	7 	14 	3 	- 	38
+:jets: New York Jets (4-0) 	14 	10 	7 	14 	- 	45
+Team Stats Comparison
+  	:ravens: Baltimore Ravens 	:jets: New York Jets
+Injuries 	
+
+Craig Foster, OT - Moderate Calf Pull
+
+ 
+
+ 
+	
+
+Kwazi Robb, OLB - Moderate Hamstring Tendonitis
+
+Sebastian Vaughn, SS - Severe Concussion
+
+Daquan Darcey, OLB - Severe Ankle Sprain
+Offensive Line Rating 	7.8 	8.3
+Sacks 	2 	0
+Punting 	43.6 	50.2
+Punt Return Yards 	2 	21
+Kick Return Yards 	66 	0
+Turnovers 	0 	0
+3rd Down Conversion 	7/13 	6/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/35 	6/52
+:ravens: Baltimore Ravens
+Option - Wishbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	19/27 	295 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	26 	129 	1 	21 	0/0
+Brett Fisher 	8 	68 	1 	30T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Wells 	7 	102 	2 	0 	0/0
+Sean Waller 	4 	82 	1 	0 	0/0
+A.J. Byrne 	3 	45 	0 	1 	0/0
+Moussa Goode 	2 	37 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tommy Wietecha 	3/0 	1.0 	0/0 	0/0 	0/0
+Marlin Eason 	2/0 	1.0 	0/0 	0/0 	0/0
+Tyrone Jones 	7/0 	- 	0/1 	0/0 	0/0
+Traveon Howard 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	1/1 	5/5 	47
+	
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	22/33 	268 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Emmanuel Fields 	23 	108 	2 	19 	0/0
+Marvin Washington 	4 	56 	1 	44T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Israel Hawker 	5 	87 	1 	0 	0/0
+Paul Howell 	6 	82 	1 	0 	0/0
+Matt Stone 	4 	33 	1 	0 	0/0
+Rocky Kruse 	3 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Reshad Jenkins 	8/0 	- 	0/0 	0/0 	0/0
+Chris Tucker 	6/0 	- 	0/0 	0/0 	0/0
+Bob Ballard 	5/1 	- 	0/0 	0/0 	0/0
+Alvis Brumm 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	1/1 	6/6 	40 

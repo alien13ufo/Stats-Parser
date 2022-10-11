@@ -1,0 +1,67 @@
+ Pittsburgh Steelers (9-4) at Seattle Seahawks (7-5-1) ?
+
+Seattle, WA - 34 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:steelers: Pittsburgh Steelers (9-4) 	7 	3 	0 	7 	- 	17
+:seahawks: Seattle Seahawks (7-5-1) 	7 	3 	0 	13 	- 	23
+Team Stats Comparison
+  	:steelers: Pittsburgh Steelers 	:seahawks: Seattle Seahawks
+Injuries 	FS T.J. Lawrence - Moderate Concussion 	No Injuries
+Top Player Grade 	DE Carlos Washington (9.25) 	RB Marcus Williams (9.05)
+Worst Player Grade 	CB Joel Prince (2.60) 	SS Kevin Faulkner (1.85)
+Offensive Line Rating 	8.13 	8.22
+Sacks 	1 	2
+Punting 	46.0 	43.5
+Punt Return Yards 	2 	-1
+Kick Return Yards 	84 	43
+Turnovers 	1 	0
+3rd Down Conversion 	3/12 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/25 	6/36
+:steelers: Pittsburgh Steelers
+Pro Style - Spread ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	19/34 	209 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	10 	37 	1 	8 	0/0
+Kalei Keil 	3 	-2 	0 	2 	0/0
+- 	- 	- 	- 	- 	0/0 ?
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Samuel Jolley 	5 	71 	0 	1 	0/0
+Eric Watson 	3 	39 	0 	1 	0/0
+Ja'Wuan Howard 	2 	30 	0 	0 	0/0
+William Anderson 	3 	28 	1 	0 	0/0
+Jake Schmidt 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Carlos Washington 	3/1 	1.0 	0/0 	0/0 	0/0
+Patrick Murphy 	6/2 	- 	0/0 	0/0 	0/0
+Ron Mobley 	4/1 	- 	0/0 	0/0 	0/0
+Quentin Smith 	6/0 	- 	0/0 	0/0 	0/0
+Dane Wilson 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Lorenzo Rodgers 	1/1 	2/2 	33
+	
+:seahawks: Seattle Seahawks
+Option - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tucker Dowden 	18/29 	170 	0 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	23 	128 	2 	18 	0/0
+Tucker Dowden 	9 	58 	0 	30 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tony Huff 	4 	58 	0 	0 	0/0
+Josiah McCray 	4 	34 	0 	1 	0/0
+Curtis Settles 	3 	30 	0 	0 	0/0
+William Johnson 	3 	21 	0 	0 	0/0
+Marcus Williams 	2 	16 	0 	0 	0/0
+DEFENSE ? 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Matt Cowan 	4/0 	- 	1/3 	0/0 	0/0
+Brian Glenn 	5/0 	1.0 	0/0 	0/0 	0/0
+Adam Williams 	2/0 	1.0 	0/0 	0/0 	0/0
+Zion Adakwa 	7/0 	- 	0/0 	0/0 	0/0
+Malcolm Douglas-Scott 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	3/3 	2/2 	49, 23, 36 ?

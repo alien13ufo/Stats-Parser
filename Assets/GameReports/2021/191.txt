@@ -1,0 +1,57 @@
+ New York Jets (8-3) at Pittsburgh Steelers (5-6)
+
+Pittsburgh, PA - 36 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jets: New York Jets (8-3) 	7 	0 	7 	3 	- 	17
+:steelers: Pittsburgh Steelers (5-6) 	7 	3 	3 	14 	- 	27
+Team Stats Comparison
+  	:jets: New York Jets 	:steelers: Pittsburgh Steelers
+Injuries 	Darnerien Sohn, OT - Mild Biceps Strain 	No Injuries
+Offensive Line Rating 	8.6 	8.3
+Sacks 	1 	0
+Punting 	47.5 	45.3
+Punt Return Yards 	2 	16
+Kick Return Yards 	0 	22
+Turnovers 	1 	0
+3rd Down Conversion 	5/12 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/85 	3/26
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	21/35 	261 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	14 	41 	0 	13 	0/0
+Marvin Washington 	4 	18 	0 	11 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Ratterman 	6 	90 	0 	2 	0/0
+Israel Hawker 	4 	61 	1 	0 	0/0
+Adam Coles 	3 	45 	0 	1 	0/0
+Tom Branch 	3 	42 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Daquan Darcey 	4/0 	1.0 	0/0 	0/0 	0/0
+Reshad Jenkins 	5/0 	- 	0/2 	0/0 	0/0
+Chris Tucker 	6/0 	- 	0/1 	0/0 	0/0
+Bob Ballard 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	1/1 	2/2 	31
+	
+:steelers: Pittsburgh Steelers
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+R.J. Stanford 	14/20 	179 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kaleil Keil 	24 	122 	1 	23 	0/0
+R.J. Stanford 	4 	20 	1 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Austin Medina 	5 	67 	1 	0 	0/0
+Charlie Paul 	5 	61 	0 	0 	0/0
+Eric Watson 	2 	36 	0 	0 	0/0
+Chan Pease 	1 	9 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Joel Prince 	2/0 	- 	1/0 	0/0 	0/0
+Ray Taylor 	8/0 	- 	0/0 	0/0 	0/0
+Quentin Smith 	5/1 	- 	0/0 	0/0 	0/0
+Carlos Washington 	3/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Michael Turner 	2/2 	3/3 	44, 32 

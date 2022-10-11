@@ -1,0 +1,53 @@
+QB A.J. Jefferson 6-3 194 6 North Carolina [Pocket] [+1/C] 89
+QB Christian Barkley 6-3 211 4 Texas Tech [Pocket] [0] 86
+QB Sean Sitton 6-4 196 3 Arkansas [Pocket] [0] 79
+RB Trevon Yeldon 6-0 233 1 Oregon [Power] [0] 86
+RB Arturo Pacheco 5-10 194 3 Iowa State [Speed] [-1] 81
+RB Jermaine Lockett 5-10 178 3 Auburn [Speed] [0] 79
+RB Keith Dunn 5-11 179 8 Penn State [Power] [-1] 79
+FB Matthew Ramos 5-11 231 4 Arizona [Run Blocking] [0] 84
+WR Marcus Banks 5-11 201 7 Ohio State [Target] [-1] 87
+WR Ricky Chambers 6-1 193 6 Alabama [Target] [0] 85
+WR Tyrone Cunningham 6-0 222 4 Arizona [Target] [0] 82
+WR Tom Oldham 6-0 155 3 Iowa State [Speed] [0] 82
+WR Norman Spencer 5-9 159 3 Maryland [Speed] [+1] 73
+WR Jay Dunn 6-3 152 1 Oklahoma State [Speed] [0] 70
+?TE Noah Hills 6-2 206 2 Kansas [Receiving] [0] 84
+TE Emanuelu Lesa 6-4 196 3 TCU [Receiving] [+1] 80
+TE James Ware 6-8 236 8 Northwestern [Blocking] [0] 79
+TE Casey Swann 6-1 206 R Miami (OH) [Receiving] [0] 67
+OT Beckett Miller 6-1 300 2 Oklahoma State [Pass Blocking] [0] 86
+OT Mike Ledbetter 6-1 313 7 Georgia Tech [Run Blocking] [-1/C] 85
+OT Jack Allen 6-4 279 5 USC [Run Blocking] [+2/C] 84
+OG Doug Aska 6-6 301 5 Miami(FL) [Run Blocking] [+3/C] 94
+OG Brian Olszewski 6-6 274 5 Florida [Run Blocking] [0] 85
+OG Wilson Hutchinson 6-2 299 8 Texas A&M [Run Blocking] [0] 84
+OG Mike Weir 6-6 324 4 Indiana [Run Blocking] [0] 81
+C Aden Hastings 6-2 282 3 Iowa State [Pass Blocking] [-3] 80?
+C Raymond Kline 6-3 253 4 Texas [Run Blocking] [0] 78
+DE Josiah Harden 6-3 249 2 North Carolina [Blitz] [-3] 84
+DE Samir Sample 6-2 267 R Texas Tech [Blitz] [+1] 82
+DE Omar McManus 5-11 258 3 Fresno State [Blitz] [-1] 80
+DE Derrick Thomas 6-7 272 7 Texas A&M [Blitz] [-1] 75?
+DT Nathan Knowlton 6-6 277 6 Boise State [1-Gap] [0] 78
+DT Enoch Coleman 6-6 297 5 BYU [1-Gap] [0] 77
+DT Israel Parson 6-5 281 R Bowling Green [1-Gap] [-3] 76
+ILB Akeel Morris 6-5 234 3 Nevada [Mike] [-3/C] 87
+ILB Jackie Eaton 6-0 234 8 Virginia Tech [Will] [+3/C] 81?
+ILB Troy McClain 6-1 232 R Memphis [Mike] [-2] 78
+OLB Asante Willis 6-1 229 5 Kentucky [Coverage] [+1/C] 84
+OLB William Thomas 6-4 215 4 BYU [Coverage] [+1/C] 83
+OLB Alexander Baumgartner 6-0 224 6 Oklahoma [Coverage] [0] 78 ?
+OLB Jerry Thornton 6-2 229 3 Texas Tech [Coverage] [-1] 75?
+CB Corey Quinn 6-0 191 6 Oregon [Zone Coverage] [-1] 89
+CB Ian Garner 6-0 199 4 Minnesota [Zone Coverage] [+1] 88
+CB Aaron Samuelsson 6-2 202 5 Michigan State [Zone Coverage] [0] 84
+CB Joel Prince 6-1 207 9 NC State [Zone Coverage] [0] 77
+CB Ozzie Spillman 5-10 171 1 Arizona [Zone Coverage] [+2/C] 75
+FS Oronde Jackson 5-10 173 5 Air Force [Zone Coverage] [0] 83
+FS J?ose Ortiz 6-1 204 4 Tennessee [Zone Coverage] [0] 81
+FS Darren Rucker 6-0 212 4 Pittsburgh [Zone Coverage] [0] 77
+SS Shaq Turner 5-9 192 1 Texas State [Zone Coverage] [-1] 84
+SS Jared Calloway 6-1 196 4 Duke [Zone Coverage] [0] 78
+K Harrison Hacker 5-11 194 R South Dakota State [Power] [+1] 82
+P Steve Noonan 6-2 199 8 LSU [Accuracy] [0/C] 98

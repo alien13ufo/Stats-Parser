@@ -1,0 +1,57 @@
+ New York Jets (5-0) at Miami Dolphins (6-0)
+
+Miami Gardens, FL - 82 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jets: New York Jets (5-0) 	0 	3 	10 	6 	- 	19
+:dolphins: Miami Dolphins (6-0) 	14 	14 	7 	0 	- 	35
+Team Stats Comparison
+  	:jets: New York Jets 	:dolphins: Miami Dolphins
+Injuries 	Matt Stone, TE - Moderate Ankle Sprain 	No Injuries
+Offensive Line Rating 	8.4 	8.3
+Sacks 	0 	0
+Punting 	45.4 	44.0
+Punt Return Yards 	14 	-2
+Kick Return Yards 	20 	0
+Turnovers 	2 	1
+3rd Down Conversion 	6/13 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/56 	4/35
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	19/35 	211 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Emmanuel Fields 	18 	66 	0 	12 	0/0
+Marvin Washington 	4 	15 	0 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell 	6 	70 	1 	0 	0/0
+Marvin Washington 	4 	45 	1 	0 	0/0
+Israel Hawker 	3 	41 	0 	1 	0/0
+Tom Branch 	2 	32 	0 	0 	1/1
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Daquan Darcey 	5/0 	- 	1/0 	0/0 	0/0
+Dennis Himes 	7/0 	- 	0/1 	0/0 	0/0
+Reshad Jenkins 	6/0 	- 	0/1 	0/0 	0/0
+Chris Tucker 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	2/2 	1/2 	51, 42
+	
+:dolphins: Miami Dolphins
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	21/35 	326 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	20 	99 	1 	23 	0/0
+Alex Engram 	2 	4 	1 	3T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Greg Cobb 	6 	110 	1 	0 	0/0
+J.C. Weldon 	6 	104 	1 	0 	0/0
+Marion Reeder 	4 	65 	1 	1 	0/0
+Gordon Kleinsasser 	3 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jerry Walker 	5/0 	- 	1/0 	0/0 	0/0
+Cory Betts 	2/0 	- 	0/1 	1/0 	0/0
+T.J. Lawrence 	5/0 	- 	0/0 	0/1 	0/0
+Phillip Moore 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	0/1 	5/5 	- 51 

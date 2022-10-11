@@ -1,0 +1,67 @@
+ Pittsburgh Steelers (6-0) at Denver Broncos (2-3) ?
+
+Denver, CO - 45 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:steelers: Pittsburgh Steelers (6-0) 	10 	3 	3 	7 	- 	23
+:broncos: Denver Broncos (2-3) 	10 	7 	0 	3 	- 	20
+Team Stats Comparison
+  	:steelers: Pittsburgh Steelers 	:broncos: Denver Broncos
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	OLB Patrick Murphy (8.08) 	OG Russell Benson-Gifford (9.30)
+Worst Player Grade 	CB Ronnie Bailey (3.41) 	FS Kevin Hartley (2.80)
+Offensive Line Rating 	8.16 	8.64
+Sacks 	0 	3
+Punting 	44.5 	46.2
+Punt Return Yards 	16 	25
+Kick Return Yards 	77 	51
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	5/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/77 	7/63
+:steelers: Pittsburgh Steelers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	26/39 	235 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L ?
+Kalei Keil 	14 	39 	0 	9 	0/0
+Jermaine Lockett 	5 	23 	1 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ja'Wuan Howard 	7 	81 	0 	1 	0/0
+Eric Watson 	5 	45 	1 	0 	0/0
+Jake Schmidt 	4 	43 	0 	0 	1/0
+Samuel Jolley 	3 	30 	0 	1 	0/0
+William Anderson 	3 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Patrick Murphy 	4/0 	- 	1/0 	0/0 	0/0
+Quentin Smith 	4/2 	- 	0/0 	0/0 	0/0
+Carlos Washington 	3/1 	- 	0/0 	0/0 	0/0
+Dane Wilson 	5/0 	- 	0/1 	0/0 	0/0
+T.J. Lawrence 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Lorenzo Rodgers 	3/3 	2/2 	53, 25, 39
+	
+:broncos: Denver Broncos
+Pro Style - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Eric Jennings 	21/34 	214 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	18 	63 	0 	12 	0/0
+Emmett Spears 	8 	51 	1 	41T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darren Jones 	5 	52 	0 	1 	0/0
+Ken Peelle 	4 	50 	0 	0 	0/0
+Artemio Ramirez 	4 	45 	1 	0 	0/0
+Emmett Spears 	3 	31 	0 	1 	0/0
+Doug Bosley 	3 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Reggie Griffin 	3/0 	- ? 	1/1 	0/0 	0/0
+Michael Carroll 	4/1 	2.0 	0/0 	0/0 	0/0
+Charles Johnson 	4/0 	1.0 	0/0 	0/0 	0/0
+Evan Walsh 	4/0 	- 	0/1 	0/0 	0/0
+Jonathan Parker 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Sam Sarahi 	2/3 	2/2 	44, 39 - 55 

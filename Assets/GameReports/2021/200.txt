@@ -1,0 +1,57 @@
+ Detroit Lions (4-8) at Minnesota Vikings (4-8)
+
+Minneapolis, MN - 28 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:fibur: Detroit Lions (4-8) 	10 	7 	3 	7 	- 	27
+:vikings: Minneapolis Vikings (4-8) 	7 	14 	7 	7 	- 	35
+Team Stats Comparison
+  	:fibur: Detroit Lions 	:vikings: Minneapolis Vikings
+Injuries 	Jeremy Cook, WR - Mild Concussion 	Joe Smith, OG - Moderate Achilles Bruise
+Offensive Line Rating 	8.5 	7.9
+Sacks 	3 	1
+Punting 	45.5 	43.7
+Punt Return Yards 	27 	19
+Kick Return Yards 	43 	29
+Turnovers 	2 	0
+3rd Down Conversion 	5/11 	6/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/35 	5/56
+:fibur: Detroit Lions
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Blake Shell 	30/50 	295 	3 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Logan Pruitt 	7 	30 	0 	8 	0/0
+Calvin Jones 	3 	15 	0 	10 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rex Walsh 	9 	86 	1 	1 	0/0
+Tyrone Cunningham 	6 	71 	0 	1 	0/0
+Jeremy Cook 	4 	42 	1 	1 	0/0
+Dennis Carr 	3 	28 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Doug Carolan 	2/0 	2.0 	0/0 	0/0 	0/0
+Cameron Jones 	5/0 	1.0 	0/0 	0/0 	0/0
+Willard McCready 	3/0 	- 	0/2 	0/0 	0/0
+Andre Brooks 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	2/2 	3/3 	42, 27
+	
+:vikings: Minneapolis Vikings
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	28/44 	333 	4 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	12 	74 	1 	29 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mohamed Charles 	7 	98 	1 	1 	0/0
+Wayne Wegert 	7 	92 	2 	0 	0/0
+Jacory Kessler 	4 	66 	1 	1 	0/0
+Tony Gross 	4 	45 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Devon Drummond 	2/0 	- 	1/1 	0/0 	0/0
+Robert Bleeker 	3/0 	- 	1/0 	0/0 	0/0
+Todd Byers 	3/0 	1.0 	0/0 	0/0 	0/0
+Cleveland Merrill 	7/1 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Eric Graves 	0/1 	5/5 	- 46 

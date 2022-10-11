@@ -1,0 +1,67 @@
+ Tennessee Titans (9-4) at Buffalo Bills (5-8) ?
+
+Buffalo, NY - 28 F :snowy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (9-4) 	3 	0 	6 	10 	- 	19
+:bills: Buffalo Bills (5-8) 	3 	3 	7 	0 	- 	13
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:bills: Buffalo Bills
+Injuries 	OT Brandon Reamon - Moderate Shoulder Rotator Cuff 	No Injuries
+Top Player Grade 	CB Jack Ramsey (7.93) 	WR Tyron Chambers (7.85)
+Worst Player Grade 	OT Jeremy Summers (2.70) 	SS Kevin Briggs (2.16)
+Offensive Line Rating 	8.18 	8.18
+Sacks 	2 	2
+Punting 	46.1 	38.5
+Punt Return Yards 	6 	8
+Kick Return Yards 	43 	71
+Turnovers 	1 	2
+3rd Down Conversion 	3/12 	3/13
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/53 	4/32
+:titans: Tennessee Titans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	18/35 	160 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	13 	44 	1 	9 ? 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Greg Newman 	4 	56 	0 	1 	0/0
+Kevin Williams 	3 	36 	0 	1 	0/0
+Cody Hunter 	2 	28 	1 	1 	0/0
+Derek Blalock 	3 	18 	0 	0 	0/0
+Hastin Rider 	3 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jack Ramsey 	2/0 	- 	1/0 	0/0 	0/0
+Tyler Jones 	3/0 	1.0 	0/0 	0/0 	0/0
+Derrick Thomas 	2/0 	1.0 	0/0 	0/0 	0/0
+Terrence Plummer 	6/0 	- 	0/0 	1/0 	0/0
+Randy Humphreys 	6/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	2/3 	1/2 	30, 38 - 47
+	
+:bills: Buffalo Bills
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	17/34 	185 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	18 	77 	0 	33 	1/1
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyron Chambers 	5 	70 	1 	1 	0/0
+Marshawn Matthison 	3 	32 	0 	0 	0/0
+Gary Faneca Sr. ? 	3 	26 	0 	2 	0/0
+Isaiah Cronin 	2 	21 	0 	0 	0/0
+Drew Abbott 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Patrick Chaney 	1/0 	- 	1/0 	0/0 	0/0
+Rodney Galbreath 	2/1 	1.0 	0/0 	0/0 	0/0
+Anthony Ortiz 	3/0 	1.0 	0/0 	0/0 	0/0
+D.J. Reed 	2/0 	- 	0/3 	0/0 	0/0
+Kyle Cunningham 	3/0 	- 	0/1 ? 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	2/4 	1/1 	38, 23 - 49, 45 

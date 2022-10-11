@@ -1,0 +1,40 @@
+QB Reggie Watkins 6-4 200 3 Alabama [Pocket] 87
+QB Donald Caldwell 6-3 233 R NC State [Pocket] 77
+RB Booker T Washington 6-1 208 2 OklahomaState [Speed] 86
+RB James Harris 5-8 198 1 Oregon St. [Speed] 74
+FB Robert Williamson 6-2 245 3 Rutgers [Speed] 75
+WR Paul Howell 6-0 191 2 Mississippi State [Target] 87
+WR David Wells 6-5 187 1 Oregon State [Speed] 83
+WR Kenny Cross 6-1 179 1 BYU [Speed] 74
+WR Sam Salaam 6-3 193 3 Louisville [Target] 73
+TE Vishante Freeman 6-7 260 3 Virginia Tech [Pass Blocking] 71
+TE Danny Patrick 6-5 223 1 North Carolina [Pass Blocking] 85
+OT Craig Foster 6-2 318 2 Arizona [Pass Blocking] 82
+OT Carlos Gothard 6-8 290 R Clemson [Run Blocking] 78
+OT Stephen Geredine 6-1 335 3 Clemson [Pass Blocking] 71
+OT Scott Jones 6-1 343 3 Syracuse [PassBlocking] 77
+OG Dejuan Holmes 6-7 283 R USC [Pass Blocking] 74
+OG Ernie Leahy 6-6 297 2 Notre Dame [Pass Blocking] 72
+OG Fred Watts 6-3 293 2 Nebraska [Pass Blocking] 82
+C Jim Boso 6-6 286 1 Miami [Pass Blocking] 78
+DE Barron Anthony 6-3 278 2 USC [Pass Stop] 91
+DE Tommy Wietecha 6-2 277 3 Tennessee [PassStop] 85
+DE Dennis Thomas 6-3 274 R Arizona State [Run Stop] 65
+DE Steve Roberts 6-8 261 R Texas Tech [Pass Stop] 65
+DT Marlin Eason 6-3 286 R Texas [Run Stop] 79
+DT John Griffin 6-6 285 1 USC [Pass Stop] 74
+ILB Frank Lee 6-1 227 3 Florida State [PassMan-to-Man] 79
+ILB Gary Bower 6-2 229 R Utah [Run Man-to-Man] 74
+ILB Omar Moore 6-0 228 1 Arkansas [Run Man-to-Man] 71
+OLB Tyrone Jones 5-11 233 2 LSU [Run Man-to-Man] 98
+OLB Eugene Parker 6-2 234 1 Arizona [RunMan-to-Man] 69
+OLB Lynn Peterson 5-11 209 R Iowa [Pass Man-to-Man] 67
+CB Sammy Muhammad 5-10 178 1 Missouri [Man Coverage] 83
+CB Lynn Perry 6-3 187 R LSU [Man Coverage] 76
+CB Nate Steed 5-11 176 2 UCLA [ManCoverage] 71
+SS Adam Newman 6-0 175 R Iowa State [Zone Coverage] 80
+SS Norman Rodriguez 5-10 179 3 Utah [Man Coverage] 72
+FS Alyn Namath 6-1 172 3 Georgia [Man Coverage] 78
+K Dennis Scott 6-1 206 R Florida State [Power] 81
+K Greg Duper 6-0 171 1 Clemson [Power] 74
+P Steve Noonan 6-2 199 2 LSU [Accuracy] 91

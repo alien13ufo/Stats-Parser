@@ -1,0 +1,65 @@
+ Chicago Bears (0-1) at Philadelphia Eagles (1-0) ?
+Philadelphia, PA - 76 F :cloudy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (0-1) 	3 	0 	3 	0 	- 	6
+:eagles: Philadelphia Eagles (1-0) 	7 	14 	0 	3 	- 	24
+Team Stats Comparison
+  	:bears: Chicago Bears 	:eagles: Philadelphia Eagles
+Injuries 	WR Aaron Pagliei - Severe Achilles Rupture 	TE Sebastian Babb - Moderate Concussion
+Top Player Grade 	CB Ivory Hull (7.89) 	DE Ryan Frey (9.45)
+Worst Player Grade 	OG Jim Thomas (2.95) 	C Tim Kerns (4.33)
+Offensive Line Rating 	7.86 	8.07
+Sacks 	2 	4
+Punting 	42.6 	43.6
+Punt Return Yards 	22 	48
+Kick Return Yards 	46 	22
+Turnovers 	2 	1
+3rd Down Conversion 	3/14 	4/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/57 	4/31
+:bears: Chicago Bears
+Option 2RB - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mohammed Foster 	11/17 	135 	0 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	17 	82 	0 	36 	1/1
+Quincy Honeycutt 	10 	46 	0 	17 	0/0
+Mohammed Foster 	4 	21 	0 	10 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Donnie Allen 	3 	50 	0 	0 	0/0
+David Gaines 	2 	32 	0 	0 	0/0
+Charlie Paul 	2 	22 	0 	1 	0/0
+Vaughan Abraham 	2 	19 	0 	0 	0/0
+Dwayne Maddox 	2 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ivory Hull 	2/0 	- 	1/1 	0/0 	0/0
+Morris MIllen 	5/0 	1.0 	0/0 	0/0 	0/0
+Andrew Fazande 	3/0 	1.0 	0/0 	0/0 	0/0
+Kevin Harris 	5/2 	- 	0/0 	0/0 	0/0
+David Medley 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Anthony Harris 	2/4 	0/0 	28, 24 - 46, 41
+	
+:eagles: Philadelphia Eagles
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	18/29 	222 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Miller 	20 	80 	1 	12 	0/0
+Troy White 	3 	9 	0 	4 	0/0
+Allan Taylor ? 	1 	4 	1 	4T 	0/0
+RECEIVING ? 	REC 	YDS 	TD 	DRP 	F/L
+Sebastian Babb 	5 	75 	0 	0 	0/0
+Michael Hawkins 	3 	41 	1 	0 	0/0
+Cameron Whelahan 	2 	40 	0 	0 	0/0
+Christopher Johnson 	3 	23 	0 	0 	0/0
+Justin Evans 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Donald Collier 	5/0 	- 	1/0 	0/0 	0/0
+Ryan Frey 	4/2 	2.0 	0/0 	0/0 	0/0
+Ulysses Smith 	3/2 	2.0 	0/0 ? 	0/0 	0/0
+Rodrick Milligan 	6/0 	- 	0/0 	0/0 	0/0
+Martin Whiting 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/2 	3/3 	44 - 54 ?

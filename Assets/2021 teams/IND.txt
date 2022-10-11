@@ -1,0 +1,66 @@
+QB Aaron Shea 6-2 204 3 Missouri [Pocket] 94
+QB Robert Martin 6-1 184 4 Colorado State [Pocket] 82
+QB Corey Mendoza 6-5 223 3 Purdue [Pocket] 76
+RB Elijah Harden 5-8 187 1 Florida State [Speed] 80
+RB Lavontae Jackson 5-10 234 3 SMU [Power] 77
+RB Keyshawn Polsfoot 6-1 206 2 Army [Speed] 73
+RB Justin Samuels 6-4 187 2 Fresno State [Power] 71
+FB Cory Hendricks 6-1 239 3 Oklahoma [Pass Blocking] 84
+WR Mosi Bartos 5-8 161 5 Boston College [Speed] 94
+WR Ryan Mitchell 5-11 176 6 Ohio State [Speed] 86
+WR Keith Setzer 6-2 213 3 Boise State [Speed] 79
+WR Joe Wallace 5-11 193 6 Baylor [Speed] 77
+WR Messiah Bernard 6-2 205 2 LSU [Target] 72
+TE Shane Kaufman 6-2 237 3 LSU [Blocking] 80
+TE Cayden Reese 6-3 207 R Air Force [Receiving] 78
+TE Tyler Dotson 6-5 210 1 Notre Dame [Receiving] 75
+OT Richard Carter 6-7 309 6 Rutgers [Pass Blocking] 89
+OT Phillip Edwards 6-7 294 2 Georgia [Run Blocking] 85
+OT Leslie Hoover 6-1 339 6 Michigan [Run Blocking] 78
+OT Kevin Barker 6-8 314 5 Georgia Tech [Pass Blocking] 77
+OG Jimmie Shelton 6-6 304 5 Cincinnati [Run Blocking] 94
+OG Ian Hendrickson 6-5 319 1 Arizona [Run Blocking] 83
+OG William Kinard 6-5 294 3 Texas [Run Blocking] 79
+OG Prince Calloway 6-5 333 R West Virginia [Pass Blocking] 75
+C Tim Thomas 6-3 288 3 Florida [Pass Blocking] 79
+C Sailo Sofara 6-1 281 1 BYU [Run Blocking] 73
+DE Jonathan Goodwin 6-2 246 2 Utah [Contain] 87
+DE Anthony Miller 6-3 253 1 Tennessee [Blitz] 85
+DE Keyshawn Vance 6-2 240 4 Iowa [Contain] 77
+DE Darius Smith 6-4 242 1 Wofford [Blitz] 70
+DT Hudson Adam 6-0 310 R West Virginia [2-Gap] 81
+DT Dalton McWatters 6-3 269 4 Florida State [1-Gap] 77
+DT Alfredo Walker 6-8 320 3 Missouri [2-Gap] 71
+DT Forest Chase 6-4 324 2 Wake Forest [2-Gap] 70
+ILB Kelly Mitchell 6-3 217 3 Michigan State [Will] 88
+ILB Doug Odoms 6-1 235 6 Washington [Mike] 81
+ILB Griffin Perrin 5-11 231 1 Michigan State [Will] 78
+ILB Damion Taylor 6-4 233 R James Madison [Mike] 74
+OLB Keyuo Clark 6-1 242 6 Florida State [Coverage] 86
+OLB Lukas Forman 6-3 233 2 Connecticut [Coverage] 85
+OLB Rob Walls 6-1 227 4 Georgia [Blitz] 75
+OLB Tom Johnson 6-1 218 3 Georgia State [Coverage] 74
+CB Aaron Samuelsson 6-2 202 3 Michigan State [Zone Coverage] 83
+CB Samir Ware 5-11 200 2 Clemson [Man Coverage] 79
+CB Malachi Douglas 6-1 184 R Clemson [Zone Coverage] 79
+CB Jeremy Bell 5-10 170 4 Kansas [Man Coverage] 78
+FS Sean Burton 6-0 202 6 Oklahoma [Zone Coverage] 95
+FS Dwayne Carter 5-10 176 1 The Citadel [Zone Coverage] 78
+SS Chris Brown 5-11 176 4 Alabama [Zone Coverage] 89
+SS Jonathan Norman 6-2 203 R Virgnia Tech [Zone Coverage] 79
+K Leon Augustine 5-9 200 1 North Texas [Power] 79
+K Dana Currier 5-9 208 3 Marshall [Power] 77
+P Andrew Lindsay 6-0 183 1 North Carolina [Accuracy] 82
+ILB Erik Whitten 6-1 229 R Washington State [Will] 70
+WR Trung Vu 6-2 201 1 Marshall [Target] 70
+WR Rashad Simon 6-4 187 5 Boise State [Target] 90
+QB Kevin Fulford 6-5 226 R Davidson [Pocket] 71
+FB Carter Helms 5-10 203 R Charlotte [Pass Blocking] 74
+WR Cameron Beatty 6-3 220 R Virginia [Target] 67
+OT Johnathan Wagner 6-3 285 1 Illinois State [Pass Blocking] 72
+OG Gary Kuechenberg 6-4 267 3 Washington [Pass Blocking] 73
+DT David Hendrickson 6-6 314 R Illinois [2-Gap] 67
+OLB Nicholas Selby 6-3 217 R Kansas [Coverage] 68
+CB Javier Wiggins 6-0 177 1 Nebraska [Zone Coverage] 71
+FS Eric Finney 6-2 203 R Wyoming [Zone Coverage] 70
+P Hunter Smallwood 5-8 158 R Notre Dame [Accuracy] 76

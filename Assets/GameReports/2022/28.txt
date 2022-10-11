@@ -1,0 +1,65 @@
+ Dallas Cowboys (1-0) at San Francisco 49ers (0-1) ?
+Santa Clara, CA - 72 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cowboys: Dallas Cowboys (1-0) 	7 	7 	7 	7 	- 	28
+:49ers: San Francisco 49ers (0-1) 	0 	0 	0 	0 	- 	0
+Team Stats Comparison
+  	:cowboys: Dallas Cowboys 	:49ers: San Francisco 49ers
+Injuries 	ILB Tom Lavergne - Severe ACL Rupture 	No Injuries
+Top Player Grade 	WR Rodney Montgomery (8.50) 	ILB Daleroy Smart (6.94)
+Worst Player Grade 	TE Michael Baxter (5.09) 	QB Philip Rea (3.95)
+Offensive Line Rating 	8.51 	7.99
+Sacks 	2 	0
+Punting 	45.3 	45.3
+Punt Return Yards 	58 	11
+Kick Return Yards 	0 	64
+Turnovers 	0 	2
+3rd Down Conversion 	6/12 	1/11
+4th Down Conversion 	0/0 	0/1
+Penalties 	7/51 	3/33
+:cowboys: Dallas Cowboys
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	21/31 	280 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Adrian Robinson 	17 	79 	2 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- ? 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rodney Montgomery 	7 	100 	1 	0 	0/0
+Francisco Gibson 	4 	65 	0 	1 	0/0
+Austin Medina 	3 	60 	0 	0 	0/0
+Alex Gash 	2 	23 	1 	0 	0/0
+Charles Sherrill 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeremy Evans 	2/0 	- 	1/0 	0/0 	0/0
+Dashon Hodge-Stevens 	1/0 	- 	1/0 	0/0 	0/0
+Javier Grady 	3/1 	1.0 	0/0 	0/0 	0/0
+Joseph Randolph 	2/0 	1.0 	0/0 	0/0 	0/0
+Cleo Blair 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	0/1 	4/4 	- 50
+	
+:49ers: San Francisco 49ers
+Wing T 2RB - Wishbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Philip Rea 	5/15 	59 	0 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	15 	47 	0 	7 	0/0
+Vernon Haggan 	5 	11 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Branch 	2 	28 	0 	0 	0/0
+Jarius Shaw-Dodd 	2 	18 	0 	0 	0/0
+Miles Collins 	1 	13 	0 	0 	0/0
+- ? 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Daleroy Smart 	6/1 	- 	0/1 	0/0 	0/0
+Bryce O'Donnell 	4/0 	- 	0/0 	0/0 	0/0
+Michael McBride 	4/0 	- 	0/0 	0/0 	0/0
+Parker Holmes 	3/0 	- 	0/0 	0/0 	0/0
+Brandon Thomas 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Vincent Comer 	0/1 	0/0 	- 50 

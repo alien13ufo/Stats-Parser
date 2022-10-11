@@ -1,0 +1,67 @@
+ Miami Dolphins (12-3) at New England Patriots (3-12) ?
+
+Foxborough, MA - 29 F :snowy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:dolphins: Miami Dolphins (12-3) 	0 	7 	3 	0 	- 	10
+:patriots: New England Patriots (3-12) 	0 	7 	14 	7 	- 	28
+Team Stats Comparison
+  	:dolphins: Miami Dolphins 	:patriots: New England Patriots
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	OT Ben Goode (6.53) 	OLB Phillip Davenport (8.92)
+Worst Player Grade 	WR Sam Baugh (1.26) 	OLB Julian Neville (2.70)
+Offensive Line Rating 	7.82 	8.20
+Sacks 	1 	5
+Punting 	44.1 	46.2
+Punt Return Yards 	7 	27
+Kick Return Yards 	101 	41
+Turnovers 	1 	0
+3rd Down Conversion 	3/11 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/52 	5/39
+:dolphins: Miami Dolphins ?
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Steven Gore 	21/37 	208 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daniel Curtis 	9 	18 	0 	6 	0/0
+Caleb Sherwin 	4 	9 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Oscar Fisk 	6 	75 	1 	0 	0/0
+Marcus Ratterman 	4 	32 	0 	2 	0/0
+Sam Baugh 	3 	25 	0 	1 	0/0
+Elias Langston 	3 	24 	0 	0 	0/0
+Caleb Sherwin 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Isaiah Riggins 	5/2 	1.0 	0/0 	0/0 	0/0
+Benjamin Thompson 	7/0 	- 	0/0 	0/0 	0/0
+Jerry Walker 	4/0 	- 	0/0 	0/0 	0/0
+Ashton Britt 	4/0 	- 	0/0 	0/0 	0/0
+Brent Ouellette 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	1/1 	1/1 	28
+	
+:patriots: New England Patriots
+Spread - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Luke Trickett 	20/33 	221 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING ? 	ATT 	YDS 	TD 	LNG 	F/L
+Daniel Hutchins 	20 	102 	1 	16 	0/0
+Luke Trickett 	5 	18 	0 	10 	0/0
+Michael Duckworth 	6 	16 	1 	8 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Geno Harris 	7 	95 	1 	0 	0/0
+Carlos Perez 	3 	42 	0 	0 	0/0
+Abdoul Causey 	4 	34 	1 	1 	0/0
+Tommy Pottios 	3 	21 	0 	0 	0/0
+Abdoulaye Boone 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dave Stokley 	2/0 	- 	1/0 	0/0 	0/0
+Phillip Davenport 	5/0 	2.0 	0/0 	0/0 	0/0
+Nasir Womack 	3/2 	1.5 	0/0 	0/0 	0/0
+Campbell McMartin 	2/0 	1.0 	0/0 	0/0 	0/0
+Jayden Salter 	7/0 	- 	0/0 	0/0 ?? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	0/1 	4/4 	- 52 

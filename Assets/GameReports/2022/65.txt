@@ -1,0 +1,67 @@
+Cincinnati Bengals (2-2) at Cleveland Browns (3-1) ?
+
+Cleveland, OH - 54 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (2-2) 	7 	14 	7 	7 	- 	35
+:browns: Cleveland Browns (3-1) 	0 	3 	7 	7 	- 	17
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:browns: Cleveland Browns
+Injuries 	DT Sila Lotomau - Moderate Foot Fracture 	WR Morgan Patton - Mild Concussion
+Top Player Grade 	WR Adrian Jankowski (9.42) 	DT Je'Rod Wimbush (6.85)
+Worst Player Grade 	CB Kamari Cheatham (4.45) 	CB Kadeem Martin (3.43)
+Offensive Line Rating 	8.18 	8.48
+Sacks 	1 	2
+Punting 	46.4 	43.2
+Punt Return Yards 	36 	10
+Kick Return Yards 	35 	64
+Turnovers 	0 	1
+3rd Down Conversion 	4/8 	5/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/75 	4/37
+:bengals: Cincinnati Bengals
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	28/45 	366 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	16 	114 	2 	34T 	1/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L ?
+Adrian Jankowski 	10 	156 	1 	0 	0/0
+Jamir Blackburn 	3 	102 	2 	0 	0/0
+Christopher Harris 	4 	39 	0 	1 	0/0
+Brandon Lane 	3 	28 	0 	0 	0/0
+Steven Maloney 	2 	24 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Aaron Stiles 	3/0 	- 	1/0 	0/0 	0/0
+Brett Bailey 	3/1 	1.0 	0/0 	0/0 	0/0
+Nick Upshaw 	7/1 	- 	0/0 	0/0 	0/0
+Germane Dixon 	4/1 	- 	0/0 	0/0 	0/0
+Sila Lotomau 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	0/1 	5/5 	- 52
+	
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	14/27 	146 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	16 	50 	0 	8 	0/0
+Grady Mitchell 	10 	32 	1 	16T 	0/0
+Ryan Clark 	4 	14 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tai Miller 	5 	64 	0 	0 	0/0
+Ray Lee Marconi 	2 	41 	1 	0 	0/0
+Morgan Patton ? 	2 	13 	0 	0 	0/0
+Dean Burkhart 	2 	11 	0 	1 	0/0
+Sean Bell 	2 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Je'Rod Wimbush 	4/2 	1.0 	0/0 	0/0 	0/0
+Jabari Fletcher 	3/0 	1.0 	0/0 	0/0 	0/0
+C.J. Thomas 	8/1 	- 	0/0 	1/0 	0/0
+Antonio Oliver 	3/0 	- 	0/0 	0/0 	0/0
+Kadeem Martin 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+A.K. McGowan 	1/1 	2/2 	40 ?

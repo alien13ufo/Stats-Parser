@@ -1,0 +1,55 @@
+ Miami Dolphins (2-0) at Indianapolis Colts (1-1)
+
+Indianapolis, IN - 73 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:dolphins: Miami Dolphins (2-0) 	10 	7 	14 	0 	- 	31
+:colts: Indianapolis Colts (1-1) 	0 	3 	7 	0 	- 	10
+Team Stats Comparison
+  	:dolphins: Miami Dolphins 	:colts: Indianapolis Colts
+Injuries 	D.J. Gibson, TE - Moderate Toe Sprain 	No Injuries
+Offensive Line Rating 	8.3 	8.1
+Sacks 	4 	2
+Punting 	42.2 	44.5
+Punt Return Yards 	44 	9
+Kick Return Yards 	22 	46
+Turnovers 	0 	2
+3rd Down Conversion 	6/12 	3/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/84 	4/39
+:dolphins: Miami Dolphins
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	21/32 	322 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	17 	77 	1 	19 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+J.C. Weldon 	6 	104 	1 	0 	0/0
+Greg Cobb 	5 	84 	1 	0 	0/0
+Marion Reeder 	3 	60 	1 	1 	0/0
+Gordon Kleinsasser 	3 	47 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Justin Davis 	4/0 	- 	1/0 	0/0 	0/0
+Cory Betts 	3/0 	- 	1/0 	0/0 	0/0
+Dexter Flowers 	2/1 	2.0 	0/0 	0/0 	0/0
+Josh Wilson 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	1/1 	4/4 	45
+	
+:colts: Indianapolis Colts
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	30/49 	325 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Elijah Harden 	9 	15 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Keith Setzer 	8 	112 	1 	0 	0/0
+Elijah Harden 	5 	54 	0 	0 	0/0
+Ryan Mitchell 	4 	52 	0 	1 	0/0
+Mosi Bartos 	4 	49 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jonathan Goodwin 	4/0 	1.0 	0/0 	0/0 	0/0
+Anthony Miller 	2/0 	1.0 	0/0 	0/0 	0/0
+Lukas Forman 	8/0 	- 	0/1 	0/0 	0/0
+Chris Brown 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dana Currier 	1/1 	1/1 	27 

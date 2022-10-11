@@ -1,0 +1,67 @@
+ New York Jets (4-7) at Minnesota Vikings (3-8) ?
+
+Minneapolis, MN - 39 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jets: New York Jets (4-7) 	7 	14 	0 	14 	- 	35
+:vikings: Minnesota Vikings (3-8) 	0 	7 	3 	14 	- 	24
+Team Stats Comparison
+  	:jets: New York Jets 	:vikings: Minnesota Vikings
+Injuries 	OT Arthur Bonds - Severe Toe Fracture 	No Injuries
+Top Player Grade 	QB Erik Wegert (9.75) ? 	DE Sebastian Smallwood (7.60)
+Worst Player Grade 	OT Oliver Lewis (2.17) 	DE Jamal Patton (2.89)
+Offensive Line Rating 	8.06 	8.20
+Sacks 	1 	2
+Punting 	46.5 	45.6
+Punt Return Yards 	18 	6
+Kick Return Yards 	53 	84
+Turnovers 	0 	1
+3rd Down Conversion 	4/9 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/56 	4/23
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	25/35 	300 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	17 	82 	0 	22 	0/0
+Ben Curry 	3 	19 	1 	11 	0/0
+Erik Wegert 	1 	1 	1 	1T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Israel Hawker 	7 	110 	1 	0 	0/0
+Paul Howell 	8 	85 	1 	0 	0/0
+Eli Austin 	3 	40 	0 	1 	0/0
+William Bouchard 	2 	32 	1 	0 	0/0
+Jason Dupree 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Samuel Shaw 	2/0 	- 	1/0 	0/0 	0/0
+Alvis Brumm 	3/1 	0.5 	0/0 	0/0 	0/0
+Jonathan Bridges 	2/0 	0.5 	0/0 	0/0 	0/0
+Adam Lovelace 	7/0 	- 	0/0 	0/0 	0/0
+Sebastian Vaughn 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	0/0 	5/5 	-
+	
+:vikings: Minnesota Vikings
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	22/38 	275 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Evan Grant 	8 	40 	0 	10 	0/0
+Keith Dunn 	5 	35 	1 	11 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mohamed Charles ? 	5 	67 	0 	1 	0/0
+Jacory Kessler 	3 	64 	0 	1 	0/0
+Luke Cobb 	3 	58 	1 	0 	0/0
+Wayne Wegert 	4 	40 	1 	0 	0/0
+Eugene Jackson 	3 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sebastian Smallwood 	4/0 	1.0 	0/0 	0/0 	0/0
+Paul Goodman 	4/0 	1.0 	0/0 	0/0 	0/0
+Eric Jones 	5/0 	- 	0/0 	0/0 	0/0
+Phillip Gillis 	5/0 	- 	0/0 	0/0 	0/0
+Marcus Brown 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ??
+Sam Gilligan 	1/1 	3/3 	44 

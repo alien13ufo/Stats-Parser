@@ -1,0 +1,67 @@
+ Jacksonville Jaguars (6-3) at Houston Texans (4-5) ?
+
+Houston, TX - 74 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jaguars: Jacksonville Jaguars (6-3) 	7 	7 	3 	7 	- 	24
+:texans: Houston Texans (4-5) 	0 	14 	3 	0 	- 	17
+Team Stats Comparison
+  	:jaguars: Jacksonville Jaguars 	:texans: Houston Texans
+Injuries 	FS Shamar Sutton - Severe Achilles Rupture 	No Injuries
+Top Player Grade 	DT Shamar Ware (8.75) 	SS Frederick Fain (9.01)
+Worst Player Grade 	CB Travis Charles (4.32) 	WR Spencer Saul (4.50)
+Offensive Line Rating 	8.29 	8.21
+Sacks 	2 	1
+Punting 	47.0 	46.4
+Punt Return Yards 	10 	5
+Kick Return Yards 	56 	78
+Turnovers 	1 	1
+3rd Down Conversion 	5/11 	3/13
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/30 	7/51
+:jaguars: Jacksonville Jaguars
+Pro Style - Spread ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	20/35 	289 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	17 	94 	0 	16 	0/0
+Isaiah Peko 	4 	25 	1 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Taylor Eifert 	5 	70 	0 	0 	0/0
+Raheem Robinson 	6 	67 	1 	0 	0/0
+Marcus Holmes 	2 	54 	0 	1 	0/0
+Tyrone Turner 	2 	50 	1 	1 	0/0
+Derek Harrison 	2 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jonathan Blankenship 	1/0 	- 	1/0 	0/0 	0/0
+Ron Rice 	3/2 	1.0 	0/0 	0/0 	0/0
+Shamar Ware 	2/0 	1.0 	0/0 	1/0 	0/0
+Larry Reeves 	5/0 	- 	0/1 	0/0 	0/0
+Christian Haywood 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	1/1 	3/3 	25
+	
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	19/34 	232 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Arturo Pacheco ? 	13 	46 	0 	7 	1/0
+Justin Barksdale 	5 	41 	1 	27T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Scarborough 	6 	99 	1 	0 	0/0
+Marvin White 	3 	47 	0 	0 	0/0
+Arturo Beckham 	2 	32 	0 	1 	0/0
+Spencer Saul 	3 	16 	0 	2 	0/0
+Kendall Brandon 	2 	14 	0 	0 	0/0
+DEFENSE 	T/TFL ? 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Miles Slater 	3/0 	- 	1/0 	0/0 	0/0
+Bob Ballard 	3/1 	1.0 	0/0 	0/0 	0/0
+Blair Williams 	6/1 	- 	0/0 	0/0 	0/0
+Frederick Fain 	4/0 	- 	0/2 	0/0 	0/0
+Reynaldo Harris 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Riley McNeil 	1/2 	2/2 	39 - 50 

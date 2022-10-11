@@ -1,0 +1,67 @@
+ Houston Texans (4-7) at Tennessee Titans (7-4) ?
+
+Nashville, TN - 43 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (4-7) 	0 	6 	6 	0 	- 	12
+:titans: Tennessee Titans (7-4) 	10 	0 	7 	10 	- 	27
+Team Stats Comparison
+  	:texans: Houston Texans 	:titans: Tennessee Titans
+Injuries 	WR Oscar Marroquin - Severe ACL Rupture 	OG James Redd - Moderate Hamstring Bruise
+Top Player Grade 	TE Kendall Brandon (7.89) 	CB Jack Ramsey (8.50)
+Worst Player Grade 	CB Tom Wyman (2.60) 	OG Ian Barden (4.11)
+Offensive Line Rating 	8.30 	8.20
+Sacks 	1 	1
+Punting 	44.6 	40.9
+Punt Return Yards 	4 	26
+Kick Return Yards 	86 	36
+Turnovers 	2 	1
+3rd Down Conversion 	3/13 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/36 	4/23
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	16/29 	170 	2 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Justin Barksdale 	13 	45 	0 	7 	0/0 ?
+Arturo Pacheco 	3 	8 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kendall Brandon 	5 	50 	1 	0 	0/0
+Marvin White 	2 	34 	0 	1 	0/0
+Jeremy Scarborough 	3 	32 	0 	0 	0/0
+Spencer Saul 	2 	22 	0 	1 	0/0
+Oscar Marroquin 	1 	20 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Andre Gasaway 	2/0 	- 	1/0 	0/0 	0/0
+Robert Fulton 	3/0 	1.0 	0/0 	0/0 	0/0
+Blair Williams 	6/0 	- 	0/0 	0/0 	0/0
+Frederick Fain 	4/0 	- 	0/0 	0/0 	0/0
+Reynaldo Harris 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	0/1 	0/1 	- 61
+	
+:titans: Tennessee Titans
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	25/39 	260 	1 	1 	0/0
+- ? 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	15 	71 	2 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cody Hunter 	5 	59 	0 	0 	0/0
+Kevin Williams 	6 	56 	1 	0 	0/0
+Greg Newman 	3 	50 	0 	0 	0/0
+Hastin Rider 	4 	43 	0 	0 	0/0
+Derek Blalock 	3 ? 	37 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jack Ramsey 	3/0 	- 	1/0 	0/0 	0/0
+Michael Hernandez 	1/0 	- 	1/0 	0/0 	0/0
+Derrick Thomas 	3/1 	1.0 	0/0 	0/0 	0/0
+Joseph Whiteside 	5/1 	- 	0/0 	0/0 	0/0
+Jeffrey Aranda 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Leon Woodruff 	2/2 	3/3 	50, 26 ?

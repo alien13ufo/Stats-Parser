@@ -1,0 +1,52 @@
+QB Norris Brooksheer 6-3 207 6 Oklahoma [Pocket] [+1/C] 90
+QB Rory Weston 5-10 235 3 Alabama [Pocket] [+2] 83 ?
+QB Kyle Jefferson 6-2 204 R Purdue [Pocket] [+1] 79 ?
+RB Chester Henson 5-11 226 9 USC [Speed] [0/C] 85
+RB Ricky Vega 5-10 214 1 Penn State [Speed] [0] 80
+RB Kalei Keil 6-1 201 2 Notre Dame [Power] [0] 80
+FB Marc Carlisle 5-8 232 2 USC [Run Blocking] [0] 80
+WR Samuel Jolley 6-2 218 5 Houston [Speed] [0] 84
+WR Eric Watson 5-10 181 3 Boise State [Speed] [0] 83
+WR Ja'Wuan Howard? 6-2 186 1 Georgia [?Target] [0] 81
+WR Harry Whiteside 6-5 169 5 Texas [Target] [0] 80
+WR Daniel Marshall 6-1 174 3 Arizona State [Speed] [0] 77?
+WR Patrick Reardon 5-9 188 R Colorado [Speed] [-2] 72
+TE Jake Schmidt 6-6 235 7 Ohio State [Receiving] [0/C] 89
+TE Kavika Russell 6-1 223 5 Oklahoma [Receiving] [+1] 80
+OT Greg Sewell 6-4 324 6 Texas Tech [Pass Blocking] [0] 90
+OT Giovanni Garrison 6-5 288 4 ECU [Pass Blocking] [-2] 82
+OT Rafael Vitale 6-7 284 R Nebraska [Pass Blocking] [0] 80
+OT Victor O’Connell 6-7 271 2 Georgia Tech [Run Blocking] [0] 79
+OT Maxwell Carmichael 6-7 264 3 Clemson [Run Blocking] [-1] 77
+OG P.B. Holmes 6-4 293 4 Purdue [Run Blocking] [+1] 94
+OG Clayton Williams 6-3 278 5 North Carolina [Run Blocking] [+2/C] 86
+OG Richard Pennington 6-3 316 4 Ohio State [Pass Blocking] [+1/C] 77
+OG Duane King 6-7 285 R Eastern Washington [Pass Blocking] [+1/C] 75
+C Riley McDunnough 6-2 268 1 McNeese State [Pass Blocking] [0] 80
+C Philip Reed 74 268 3 Penn State [Run Blocking] [0] 74
+DE Carlos Washington 6-0 261 2 Michigan [Blitz] [-2] 91
+DE Jeremy McKinney 6-1 243 R San Diego State [Contain] [0/C] 81
+DE Marcus Carver 6-7 286 6 Florida [Blitz] [0] 78
+DE Jesse Boyd 6-6 276 5 Fresno State [Contain] [0] 75
+DT Ronald Barker 6-4 299 3 Boston College [2-Gap] [-1] 82
+DT Carl Connor 6-6 285 6 Auburn [2-Gap] [0] 78
+DT Maxwell Quezada 6-4 279 1 Nebraska [2-Gap] [0] 77
+ILB Ray Taylor 6-0 225 4 Syracuse [Mike] [0] 85
+ILB Ron Mobley 6-1 247 9 Georgia [Will] [+2/C] 85
+ILB Christopher Clayton 6-0 240 2? Penn? State? [Mik?e] ??[-2???] 8?????0
+ILB Abdoul Gordon 6-1 217 2 Kentucky [Mike] [0] 79
+ILB Jairo Arce 6-3 225 R Utah State [Will] [+1] 76
+OLB Patrick Murphy 6-2 201 5 Minnesota [Blitz] [0] 91
+OLB Samuel Weiner 6-3 235 4 Penn State [Coverage] [0] 78
+OLB Blake Raines 6-2 233 1 Army [Blitz] [0] 74
+CB Kordell McKinnon 6-0 195 2 Michigan State [Zone Coverage] [0] 86
+CB Keith Wells 6-2 177 7 Michigan State [Zone Coverage] [+2] 87
+CB Samuel Shaw 6-0 180 3 Nebraska [Zone Coverage] [0] 81????
+CB Noah Crawley 5-10 187 3 Oklahoma State [Zone Coverage] [0] 79
+CB Donovan Singleton-Blake 5-10 199 1 USC [Zone Coverage] [0] 74
+FS T.J. Lawrence 6-0 217 3 Notre Dame [Zone Coverage] [-1] 83
+FS Alex Collins 6-0 214 9 Auburn [Man Coverage] [0] 82?
+SS Dane Wilson 6-1 178 8 LSU [Zone Coverage] [+3] 94
+SS Mark Dean 5-10 205 4 Nevada [Zone Coverage] [0] 81
+K Lorenzo Rodgers 6-3 195 1 Air Force [Power] [0] 83
+P Forest Garrett 6-0 193 9 Florida [Accuracy] [0] 96

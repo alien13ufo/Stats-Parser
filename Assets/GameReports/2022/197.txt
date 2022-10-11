@@ -1,0 +1,67 @@
+ Denver Broncos (4-8) at Baltimore Ravens (5-7) ?
+
+Baltimore, MD - 50 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (4-8) 	7 	3 	0 	0 	- 	10
+:ravens: Baltimore Ravens (5-7) 	0 	13 	7 	3 	- 	23
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:ravens: Baltimore Ravens
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	DT Michael Carroll (7.82) 	OLB Kenyatta Henderson (8.14)
+Worst Player Grade 	OG Kerwin McGeoghan (2.50) 	DE Lucas Benton (2.64)
+Offensive Line Rating 	8.30 	8.22
+Sacks 	2 	2
+Punting 	45.3 	43.2
+Punt Return Yards 	8 	24
+Kick Return Yards 	72 	45
+Turnovers 	1 	1
+3rd Down Conversion 	3/12 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/62 	5/35
+:broncos: Denver Broncos
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Randy Roberts 	16/30 	137 	1 ? 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0 ?
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	16 	101 	0 	25 	0/0
+Nathaniel Ruff 	4 	5 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darren Jones 	5 	46 	0 	1 	0/0
+William Doherty 	3 	30 	1 	0 	0/0
+Ken Peelle 	2 	23 	0 	1 	0/0 ?
+Artemio Ramirez 	2 	19 	0 	0 	0/0
+Sebastian Porter 	2 	17 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Reggie Griffin 	2/0 	- 	1/1 	0/0 	0/0
+Michael Carroll 	5/2 	1.0 	0/0 	0/0 	0/0
+Deyonte Davis 	4/0 	1.0 	0/0 	0/0 	0/0
+Cameron Jonah 	8/1 	- 	0/0 	0/0 	0/0
+Andrew Phillips 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	1/1 	1/1 	49
+	
+:ravens: Baltimore Ravens
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mikeal Black 	13/27 	125 	0 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	16 	124 	1 	20 	0/0
+Booker T. Washington 	14 	72 	1 	30 	0/0
+Mikeal Black 	4 	12 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Wells 	4 	45 	0 	1 	0/0
+Ryan Mitchell 	4 	42 	0 	0 	0/0
+Danny Patrick 	2 	21 	0 	1 	0/0
+Sean Waller 	1 	9 	0 	0 	0/0
+Darrell Mack 	2 	8 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Samuel Sands 	3/0 	- 	1/0 	0/0 	0/0
+Kenyatta Henderson 	5/0 	1.0 	0/0 	0/0 	0/0
+Tyrone Jones 	4/0 	1.0 	0/0 	0/0 	0/0
+Traveon Howard 	6/0 	- 	0/0 	0/0 ? 	0/0
+Adam Newman 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	3/3 	2/2 	45, 23, 36 

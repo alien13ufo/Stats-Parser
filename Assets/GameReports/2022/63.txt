@@ -1,0 +1,67 @@
+ Tennessee Titans (2-1) at Indianapolis Colts (2-2) ?
+
+Indianapolis, IN - 57 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (2-1) 	14 	7 	14 	7 	- 	42
+:colts: Indianapolis Colts (2-2) 	3 	7 	0 	0 	- 	10
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:colts: Indianapolis Colts
+Injuries 	No Injuries 	FS Dwayne Carter - Moderate Quadriceps Pull
+Top Player Grade 	DE Tyler Jones (9.72) ? 	TE Tyler Dotson (7.85)
+Worst Player Grade 	FS Alex Collins (5.25) 	CB Malachi Douglas (2.94)
+Offensive Line Rating 	8.29 	8.42
+Sacks 	3 	2
+Punting 	46.2 	43.7
+Punt Return Yards 	61	24
+Kick Return Yards 	28 	105
+Turnovers 	0 	2
+3rd Down Conversion 	5/8 	3/14
+4th Down Conversion 	0/0 ? 	1/2
+Penalties 	9/68 	5/35
+:titans: Tennessee Titans ?
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	24/35 	375 	3 	0 	0/0
+Kareem Taylor 	6/8 	54 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chris Bell 	10 	53 	1 	12 	0/0
+Nikita Crowe 	8 	45 	0 	15 	0/0
+- 	- 	- 	- 	- 	0/0 ?
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tommy Furrey 	10 	125 	1 	1 	0/0
+Kevin Williams 	10 	106 	1 	0 	0/0
+Cody Hunter 	5 	95 	1 	1 	0/0 ??
+Greg Newman 	3 	34 	1 	0 	0/0 ?
+Hastin Rider 	4 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jordan Harris 	3/0 	- 	1/2 	0/0 	0/0
+Jack Ramsey 	2/0 	- 	0/2 	0/0 	0/0
+Tyler Jones 	5/1 	2.0 	0/0 	1/1 	0/0
+Tyrese Thompson 	4/0 	1.0 	0/0 	0/0 	0/0
+Tywan Tafoya 	8/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	0/0 	6/6 	-
+	
+:colts: Indianapolis Colts
+Vertical - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	34/64 	364 	1 	1 	1/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	4 	14 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyler Dotson 	12 	155 	1 	0 	0/0
+Rashad Simon 	8 	84 	0 	1 	0/0
+Keith Setzer 	4 	40 	0 	2 	0/0
+Shane Strong 	3 	35 	0 	1 	0/0
+Mosi Bartos 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Damion Taylor 	5/0 	1.0 	0/0 	0/0 	0/0
+Lukas Forman 	3/0 	1.0 	0/0 	0/0 	0/0
+Samir Ware 	7/0 	- 	0/0 	0/0 	0/0
+Malachi Douglas 	6/0 	- 	0/0 	0/0 	0/0
+Jonathan Norman 	5/0 	- 	0/0 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	1/1 	1/1 	36 

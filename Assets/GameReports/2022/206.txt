@@ -1,0 +1,67 @@
+ Chicago Bears (3-9) at Seattle Seahawks (6-5-1) ?
+
+Seattle, WA - 45 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (3-9) 	0 	10 	7 	6 	- 	23
+:seahawks: Seattle Seahawks (6-5-1) 	7 	3 	7 	7 	- 	24
+Team Stats Comparison
+  	:bears: Chicago Bears 	:seahawks: Seattle Seahawks
+Injuries 	No Injuries 	WR Roger Bailey - Mild Concussion
+Top Player Grade 	ILB Akeel Morris (8.34) 	OT John Eaton (8.95)
+Worst Player Grade 	OLB Patrick Haines (3.29) 	FS Gray Corbin (2.90)
+Offensive Line Rating 	8.05 	8.21
+Sacks 	1 	1
+Punting 	44.6 	45.3
+Punt Return Yards 	8 	14
+Kick Return Yards 	89 	53
+Turnovers 	1 	1
+3rd Down Conversion 	4/12 	4/12
+4th Down Conversion 	0/0 	1/1
+Penalties 	8/56 	4/23
+:bears: Chicago Bears
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mohammed Foster 	16/21 	160 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L ?
+Vaughan Abraham 	14 	81 	1 	15 	1/1
+Mohammed Foster 	8 	31 	1 	19 	0/0
+Norris Horton 	9 	4 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Gaines 	5 	60 	0 	0 	0/0 ?
+Donnie Allen 	3 	41 	0 	0 	0/0
+Peter Foster 	2 	21 	1 	0 	0/0
+Charlie Paul 	2 	14 	0 	0 	0/0
+Elijah Talley 	1 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jaylen Harris 	3/0 	- 	1/0 	0/0 	0/0
+Akeel Morris 	6/2 	1.0 	0/0 	0/0 	0/0
+David Medley 	3/1 	- 	0/0 	0/0 	0/0
+Kevin Harris 	5/0 	- 	0/0 	0/0 	0/0
+Jeff Holleyman 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Anthony Harris 	1/1 	2/3 	36
+	
+:seahawks: Seattle Seahawks
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	22/36 	250 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	19 	102 	1 	26 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tony Huff 	7 	109 	1 	0 	0/0
+Josiah McCray 	3 	56 	0 	2 	0/0
+Roger Bailey 	4 	45 	0 	0 	0/0
+Curtis Settles 	3 	21 	1 	1 	0/0
+Marcus Williams 	2 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brian Glenn 	4/1 	1.0 	0/0 	0/0 	0/0
+Kenji Sagatomo 	3/0 	- 	0/0 	1/0 	0/0
+Adam Williams 	5/0 	- 	0/0 ? 	0/1 	0/0
+Zion Adakwa 	7/1 	- 	0/0 	0/0 	0/0
+Malcolm Douglas-Scott 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Chris Ritter 	1/2 	3/3 	40 - 57 

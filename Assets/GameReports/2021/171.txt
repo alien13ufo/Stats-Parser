@@ -1,0 +1,57 @@
+ Buffalo Bills (3-7) at Los Angeles Chargers (0-10)
+
+Inglewood, CA - 70 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (3-7) 	0 	3 	3 	0 	- 	6
+:chargers: Los Angeles Chargers (0-10) 	14 	7 	7 	0 	- 	28
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:chargers: Los Angeles Chargers
+Injuries 	No Injuries 	Robert Grant, OG - Moderate Turf Toe
+Offensive Line Rating 	8.0 	7.6
+Sacks 	2 	2
+Punting 	43.7 	44.1
+Punt Return Yards 	29 	91 (1)
+Kick Return Yards 	21 	0
+Turnovers 	2 	0
+3rd Down Conversion 	3/14 	4/9
+4th Down Conversion 	0/2 	0/0
+Penalties 	5/25 	6/35
+:bills: Buffalo Bills
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Kamau Davis 	15/28 	170 	0 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+C.J. Sheffield 	14 	24 	0 	6 	0/0
+John Adams 	7 	14 	0 	4 	1/1
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyron Chambers 	6 	56 	0 	0 	0/0
+Matt Thomas 	3 	53 	0 	0 	0/0
+Drew Abbott 	2 	34 	0 	2 	0/0
+Joaquin Younger 	1 	14 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Rodney Galbreath 	3/0 	1.0 	0/0 	0/0 	0/0
+Anthony Ortiz 	3/0 	1.0 	0/0 	0/0 	0/0
+Jamir Sample 	5/0 	- 	0/1 	0/0 	0/0
+Sammy Grey 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Darryl Lemus 	2/3 	0/0 	23, 28 - 40
+	
+:chargers: Los Angeles Chargers
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	21/28 	256 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	19 	84 	0 	16 	0/0
+Mamadou Heard 	6 	44 	1 	27T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	6 	70 	1 	0 	0/0
+Tommy Pottios 	4 	65 	1 	1 	0/0
+M.L. Kriewaldt 	3 	42 	0 	1 	0/0
+Gerald Morrison 	3 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Prince Williams 	2/0 	- 	1/1 	0/0 	0/0
+Jason Bryant 	6/0 	1.0 	0/0 	0/0 	0/0
+Shane Easley 	3/0 	1.0 	0/0 	0/0 	0/0
+Tunch Richardson 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	0/0 	4/4 	- 

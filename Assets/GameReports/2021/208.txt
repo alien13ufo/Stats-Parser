@@ -1,0 +1,57 @@
+ Green Bay Packers (11-1) at Chicago Bears (7-5)
+
+Chicago, IL - 32 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:packers: Green Bay Packers (11-1) 	7 	7 	3 	14 	- 	31
+:bears: Chicago Bears (7-5) 	7 	7 	3 	3 	- 	20
+Team Stats Comparison
+  	:packers: Green Bay Packers 	:bears: Chicago Bears
+Injuries 	Cameron Bowman, CB - Moderate Foot Dislocation 	Aaron Pagliei, WR - Mild Concussion
+Offensive Line Rating 	8.4 	7.6
+Sacks 	3 	1
+Punting 	45.5 	45.4
+Punt Return Yards 	8 	12
+Kick Return Yards 	20 	37
+Turnovers 	0 	2
+3rd Down Conversion 	4/9 	5/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/45 	3/32
+:packers: Green Bay Packers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	21/34 	237 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Gil Novacek 	18 	77 	1 	17 	0/0
+Fredrick Marshall 	1 	1 	1 	1T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Justin McCain 	5 	75 	1 	0 	0/0
+Dan Nomellini 	5 	71 	0 	0 	0/0
+Luke Graf 	4 	40 	1 	0 	0/0
+T.J. Ropati 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Marion Ekern 	4/0 	- 	1/0 	0/0 	0/0
+Paul Barkley 	4/1 	1.0 	0/0 	1/0 	0/0
+Barron Anthony 	2/2 	1.0 	0/0 	0/0 	0/0
+Carter Jackson 	1/0 	1.0 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	1/1 	4/4 	45
+	
+:bears: Chicago Bears
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	20/29 	240 	2 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Lavontae Jackson 	18 	54 	0 	7 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Donnie Allen 	6 	84 	1 	0 	0/0
+David Gaines 	4 	45 	0 	0 	0/0
+Aaron Pagliei 	4 	43 	1 	1 	0/0
+Lavontae Jackson 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Andrew Fazande 	3/0 	1.0 	0/0 	0/0 	0/0
+Trevor Reed 	8/0 	- 	0/1 	0/0 	0/0
+Alyn Namath 	3/0 	- 	0/1 	0/0 	0/0
+Akeel Morris 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Daniel Olson 	2/2 	2/2 	28, 25 

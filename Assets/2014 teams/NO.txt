@@ -1,0 +1,40 @@
+QB Allan Taylor 6-0 202 R Virginia Tech [Scrambling] 82
+QB Adolfo Brown 6-4 212 R Illinois [Scrambling] 49
+RB Kevin Richards 5-11 182 R Miami (FL) [Speed] 80
+RB Bobby Hundon 5-11 179 R Missouri [Speed] 56
+FB Tom Johnston 6-2 241 R Stanford [Speed] 57
+WR Greg Newman 5-9 168 R Alabama [Target] 79
+WR Vaughn Gash 6-3 183 R Tennessee [Speed] 69
+WR Horace Williams 6-2 200 R Virginia [Speed] 53
+WR Curtis Strange 6-2 189 1 Ole Miss [Target] 40
+TE Vishante Freeman 6-7 260 R Virginia Tech [Pass Blocking] 67
+OT Randy Phelps 6-5 320 R Utah [Pass Blocking] 63
+OT Maurice Alexander 6-2 319 R Georgia Tech [Pass Blocking] 53
+OG Steve Holmes 6-1 309 R Ohio State [Run Blocking] 53
+OG Jim Rashad 6-1 300 R Georgia [PassBlocking] 50
+C Shawn Fernandez 6-1 308 R Iowa [Run Blocking] 54
+C Josiah Mitchell 6-4 286 1 Florida [Run Blocking] 40
+OG Jerry Santiago 6-6 311 R Florida [Run Blocking] 59
+OG Jim Rashad 6-1 300 R Georgia [PassBlocking] 50
+OT Paul Holt 6-6 318 R Oregon [Pass Blocking] 53
+OT Shawn Woolfolk 6-7 313 R Oklahoma State [Pass Blocking] 52
+DE Chuck Smith 6-6 268 R Oklahoma State [Pass Stop] 70
+DT Charlie Autry 6-2 317 R Virginia [Pass Stop] 69
+DT Brock Blackburn 6-6 334 1 Oregon [Run Stop] 40
+DE Gary Rounds 6-2 285 R Miississippi State [Run Stop] 57
+DE Chris Phelps 6-3 244 1 Minnesota [Pass Stop] 40
+OLB Ray Flores 6-1 234 R BYU [Run Man-to-Man] 71
+ILB Don Godwin 6-0 239 R Mississippi State [Pass-Zone] 58
+ILB John Zimmerman 6-0 239 R Cincinnati [Pass-Zone] 58
+ILB Marion Donahue 6-3 229 1 Maryland [Run Man-to-Man] 40
+OLB Koren Slaughter 6-2 221 R Clemson [Run Man-to-Man] 54
+OLB LeRoy Holmes 6-3 243 1 Pittsburgh [Pass Man-to-Man] 40
+CB Bob Brewer 6-1 179 R Oklahoma State [Man Coverage] 71
+CB Joshua Sloan 5-11 208 R Baylor 71 [Man Coverage] 71
+CB Kevin Hasselbeck 5-9 182 R Wake Forest [Man Coverage] 54
+SS Casey Gardner 6-0 194 R Boston College [Zone Coverage] 60
+FS Gary Bryant 5-11 207 R West Virginia [Zone Coverage] 64
+FS Vince Gillian 5-11 185 1 Boston College [Man Coverage] 40
+K Cecil Jones 6-1 213 R Georgia [Power] 60
+P Tay Steele 6-1 181 R Arizona State [Accuracy] 63
+P Lyle Paz 6-3 169 R Rutgers [Accuracy] 48

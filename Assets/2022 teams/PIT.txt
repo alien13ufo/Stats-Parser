@@ -1,0 +1,56 @@
+QB Norris Brooksheer 6-3 207 5 Oklahoma [Pocket] [+1/C] 89 ?
+QB Jeremy Henry 6-3 204 4 USF [Pocket] [0] 83
+QB Rory Weston 5-10 235 2 Alabama [Pocket] [+2] 82
+RB Chester Henson 5-11 226 8 USC [Speed] [0/C] 87
+RB Kalei Keil 6-1 201 1 Notre Dame [Power] [0] 79
+RB Jermaine Lockett 5-10 178 2 Auburn [Speed] [0] 78
+FB Marc Carlisle 5-8 232 1 USC [Run Blocking] [0] 80
+WR Samuel Jolley 6-2 218 4 Houston [Speed] [0] 84
+WR Eric Watson 5-10 181 2 Boise State [Speed] [0] 82
+WR Ja'Wuan Howard 6-2 186 R Georgia [Target] [0] 80
+WR William Anderson 6-3 207 2 Alabama [Target] [-1] 82
+WR Malaefou Lewis 5-8 181 4 Arizona State [Target] [0] 75
+WR James Montgomery 6-1? 161 2 Florida State [Speed] [0] 71
+WR Jeremiah Henry 6-1 194 R Towson [Target] [0] 70
+WR Michael Hall 6-3 218 2 Penn State [Target] [0] 70?
+TE Jake Schmidt 6-6 235 6 Ohio State [Receiving] [0/C] 88
+TE Kavika Russell 6-1 223 4 Oklahoma [Receiving] [+1] 78?
+TE Sheldon Morrison 6-4 231 2 McNe?ese State [Blocking] [-1] 72?
+OT Greg Sewell 6-4 324 5 Texas Tech [Pass Blocking] [0] 91
+OT Giovanni Garrison 6-5 288 3 ECU [Pass Blocking] [-2] 80
+OT Victor O’Connell 6-7 271 1 Georgia Tech [Run Blocking] [0] 77
+OT Steve Johnson 6-7 283 3 LSU [Run Blocking] [0] 75
+OT Maxwell Carmichael ?6-7 264 2 Clemson [Run Blocking] [-?1] 76
+OG P.B. Holmes 6-4 293 3 Purdue [Run Blocking] [+1] 90
+OG Phillip Dickson 6-7 289 5 Boise State [Run Blocking] [+1] 81
+OG ?Richard ?Pennington 6-3 316 3 Ohio State [Pass Blocking] [+1/C] 76
+OG Joe Kramer 6-5 290 5 Texas Tech [Pass Blocking] [+1] 77
+C Riley McDunnough 6-2 268 R McNeese State [Pass Block?ing] [?0] 79????
+C John Hinton 6-2 298 6 Michigan State [Pass Blocking] [0] 78
+DE Carlos Washington 6-0 261 1 Michigan [Blitz] [-2] 85
+DE Marcus Carver 6-7 286 5 Florida [Blitz] [0] 79
+DE Jesse Boyd 6-6 276 4 Fresno State [Contain] [0] 75
+DE Mekhi Tolbert 6-0 258 R Iowa State [Contain] [0] 71
+DE Matthew Mayfield 6-1 238 R Kansas State [Blitz] [0] 69
+DT Quentin Smith 6-8 294 8 Ohio State [1-Gap] [-1/C] 89
+DT Toussaint Tasker 6-5 294 5 UCLA [2-Gap] [0] 76?
+ILB Ray Taylor 6-0 225 3 Syracuse [Mike] [0] 84
+ILB Ron Mobley 6-1 247 8 Georgia [Will] [+2/C] 86
+ILB Luis Watkins 6-0 237 3 Wisconsin [Will] [0] 77
+ILB Donny Hunter 5-11 207 4 Ohio State [Mike] [+1] 75?
+OLB Patrick Murphy 6-2 201 4 Minnesota [Blitz] [0] 90
+OLB Charlie Johnson 6-2 230 5 South Carolina [Coverage] [+1] 87
+OLB Bill Gehrke 5-11 241 6 USC [Coverage] [0] 77
+OLB Blake Raines 6-2 233 R Army [Blitz] [0] 71???
+CB Kordell McKinnon 6-0 195 1 Michigan State [Zone Coverage] [0] 83
+CB Ronnie Bailey 5-9 186 2 LSU [Man Coverage] [0] 80
+CB Joel Prince 6-1 207 8 NC State [Zone Coverage] [0] 80
+CB Noah Crawley 5-10 187 2 Oklahoma State [Zone Coverage] [0] 77
+CB Donovan Singleton-Blake 5-10 199 R USC [Zone Coverage] [0] 73??????????
+FS T.J. Lawrence 6-0 217 2 Notre Dame [Zone Coverage] [-1] 82
+FS Sergio Munoz 5-11 209 1 SMU [Zone Coverage] [0] 74?
+FS Justin Ivy-Sewell 6-1 210 1 Boise State [Man Coverage] [0] 74
+SS Dane Wilson 6-1 178 7 LSU [Zone Coverage] [+2] 94?
+SS Mark Dean 5-10 205 3 Nevada [Zone Coverage] [0] 80
+K Lorenzo Rodgers 6-3 195 R Air Force [Power] [0] 81???????
+P Forest Garrett 6-0 193 8 Florida [Accuracy] [0] 96

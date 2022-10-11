@@ -1,0 +1,46 @@
+QB Alex Bridgewater 6-0 182 3 Louisville [Scrambling] 85
+QB Taylor Heiden 6-3 197 2 Arkansas [Scrambling] 86
+RB James Otero 5-8 191 3 Kansas [Power] 89
+RB Will Craven 6-1 177 1 Vanderbilt [Power] 70
+RB Jason Fullwood 5-9 191 1 Wisconsin [Power] 66
+WR Richard Wilson 6-5 173 3 Purdue [Speed] 85
+WR Ricky Chambers 6-1 193 1 Alabama [Target] 83
+WR Quintavius Pearson 6-0 196 R Louisville [Target] 78
+WR Kevin Williams 6-0 165 2 Boston College [Speed] 74
+TE Jerry Cipa 6-0 236 1 USC [Run Blocking] 82
+TE Ruben Bowman 6-1 231 R Northwestern [Run Blocking] 67
+OT Gene Miller 6-6 297 3 Ohio State [Pass Blocking] 88
+OT John Young 6-3 275 R Ohio State [Run Blocking] 78
+OT Kendall Shepherd 6-3 293 1 UCLA [Pass Blocking] 65
+OT Kelly Bethea 6-2 236 4 Iowa [Run Blocking] 83
+OT James Jones 6-6 285 1 Iowa [Pass Blocking] 74
+OT R.W. Pittman 6-7 309 3 Minnesota [PassBlocking] 65
+OG Jack Brown 6-1 299 2 Florida [Pass Blocking] 79
+OG Pat Dorenbos 6-0 276 1 Oregon [Pass Blocking] 69
+OG Zak Cole 6-0 301 2 Alabama [Run Blocking] 86
+OG Harmon Cooper 6-5 284 1 Florida State [Run Blocking] 73
+C John Spears 6-1 265 1 Kentucky [Run Blocking] 73
+DE Darris Hayes 6-6 289 1 Ole Miss [Pass Stop] 81
+DE Josh Kassulke 6-4 298 2 Michigan [Pass Stop] 70
+DE Rudi Sinceno 6-7 283 3 Texas A&M [Run Stop] 79
+DT Frank Williams 6-8 293 3 Alabama [Run Stop] 94
+DT Jeremi Alexander 6-6 264 R Texas [Run Stop] 75
+DT Chris Williams 6-8 303 4 Oklahoma State [Run Stop] 73
+OLB Derrick Martin 6-0 241 3 UCLA [Run Man-to-Man] 94
+OLB Thomas Barry 6-1 225 1 Arizona State [Pass Zone] 81
+OLB David Robinson 6-1 233 1 Kansas [Run Zone] 66
+ILB Justin Bullard 6-1 230 3 Missouri [RunMan-to-Man] 74
+ILB Ron Mobley 6-1 247 4 Georgia [Pass Zone] 89
+ILB Tom Henderson 6-0 234 2 Iowa [Pass Zone] 83
+ILB Dick McCready 6-2 218 R West Virginia [Pass Zone] 79
+CB Cameron Newhouse 5-11 177 3 Oklahoma State [Man Coverage] 84
+CB Sean Hawthorne 5-8 182 2 Ole Miss [Zone Coverage] 75
+CB Manch Matthews 6-3 198 1 Purdue [Zone Coverage] 74
+CB Daron Haag 6-3 177 R Arizona [Man Coverage] 71
+CB Nashville Dawson 5-10 167 1 California [Zone Coverage] 64
+FS Edward Harrison 5-10 168 1 Northwestern [Man Coverage] 80
+SS Kevin Jackson 6-2 187 1 Virginia [Zone Coverage] 70
+SS Kevin Nguyen 5-10 159 R Marshall [Man Coverage] 80
+SS Dan Maxwell 5-10 181 4 Boise State [Zone Coverage] 74
+K Jarret Veals 5-10 178 3 Miami [Power] 94
+P Forest Garrett 6-0 193 4 Florida [Accuracy] 95

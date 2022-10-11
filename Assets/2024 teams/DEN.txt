@@ -1,0 +1,55 @@
+QB Todd Jennings 6-6 201 6 Penn State [Pocket] [+3] [+] 85?
+QB Troy McMurray 6-2 189 1 Stanford [Scrambling] [+1/C] 82
+QB Matthew Dobbs 6-1 213 4 Virginia Tech [Scrambling] [+2/C] 79
+RB Amral Brown 5-6 231 R Oklahoma State [Power] [0] [#] 82
+RB Arturo Pacheco 5-10 194 4 Iowa State [Speed] [-1] [#] 80
+RB Brendan Milton 5-9 210 2 Purdue [Power] [+2] 77
+RB Nathaniel Ruff 5-6 176 2 Akron [Speed] [0] 76
+FB Hunter Borden 5-11 246 R Rice [Run Blocking] [0] 79
+WR Derrick Schwartz 6-0 155 6 Kentucky [Speed] [0] 88
+WR Marcus Holmes 6-1 172 2 Tennessee [Speed] [0] 86?
+WR Gavin Faulk 6-2 200 1 Connecticut [Target] [0] 82
+WR Anthony Swanson 6-0 229 1 Georgia Tech [Target] [0] 79
+WR Norman Spencer 5-9 159 4 Maryland [Speed] [+1] 74
+TE Aaron Thibodeaux 6-4 213 1 Ohio [Receiving] [0/C] 81
+TE Oscar Fisk 6-8 245 6 Washington [Receiving] [0] 80
+TE Zachary Shields 6-1 230 1 Stanford [Blocking] [0] 75
+OT Gary Tomlinson 6-6 304 7 Wisconsin [Run Blocking] [+1] 90
+OT Marc Allen 6-6 281 2 Western Michigan [Pass Blocking] [-1/C] 85
+OT Joel Snow 6-4 265 3 Michigan State [Run Blocking] [+1] 84
+OT Paul Myers 6-2 320 3 Alabama [Run Blocking] [0] 80
+OG Russell Benson-Gifford 6-7 260 4 South Carolina [Pass Blocking] [+1] 93
+OG Will Doughty 6-3 271 4 Alabama [Pass Blocking] [+1] 86?
+OG Wyatt Roach 6-2 335 R Ole Miss [Pass Blocking] [0] 73
+OG Isaiah Medrano 6-7 266 2 Army [Run Blocking] [0] 72
+C John Zatkoff 6-7 296 8 Alabama [Pass Blocking] [+1/C] 92?
+C Kevin Thompson 6-3 283 4 California [Run Blocking] [0] 80
+DE Deyonte Davis 6-4 265 3 Tennessee State [Blitz] [-2] 89
+DE Oghale Adelangwe 6-4 241 R Penn State [Blitz] [+1] 82
+DE Andrew Phillips 6-3 250 5 Florida [Contain] [0] 78
+DE Thomas Goss 6-3 257 4 Oklahoma [Blitz] [+1] [#] 76
+DE Darius Smith 6-4 242 4 Wofford [Blitz] [0] 73
+DT Michael Carroll 6-8 265 5 Hawaii [1-Gap] [-1] 85
+DT Darius Green 6-6 328 3 Connecticut [2-Gap] [0] 80?
+DT Micheal Black 6-5 281 5 UCLA [2-Gap] [0/C] [+] 78 ?
+DT Matthew Waldron 6-6 292 1 Pittsburgh [1-Gap] [+1] 77
+ILB Cameron Jonah 6-1 243 8 Hartnell College [Mike] [+2/C] 92
+ILB Griffin Perrin 5-11 231 4 Michigan State [Will] [0] 81?
+ILB Austin Clemons 6-1 253 3 Stanford [Mike] [0] 75
+OLB Evan Walsh 5-11 218 2 Nevada [Coverage] [0] 84
+OLB Shamar Addison 6-0 243 3 Florida State [Coverage] [-1] 82
+OLB William Thomas 6-4 215 5 BYU [Coverage] [+1/C] 80
+OLB Logan Ware 6-1 218 3 Houston [Coverage] [0] 74
+CB Cameron Newhouse 5-11 177 9 Oklahoma State [Man Coverage] [0/C] 90
+CB Jordan Westbrook 5-11 191 1 Purdue [Man Coverage] [+2] 82
+CB Chris Tolbert 6-0 161 5 Washington [Zone Coverage] [+2] 81
+CB Tom Wyman 5-10 180 4 TCU [Man Coverage] [0] 80
+CB Timothy Parks 6-0 178 3 Virginia [Man Coverage] [0] 75??
+FS Seth Scott 6-2 193 2 Colorado [Man Coverage] [+1] 82
+FS Logan Harley 6-2 206 R Syracuse [Man Coverage] [0] 79
+FS Isaac Watkins 6-0 194 2 Nevada [Zone Coverage] [0] 76
+SS Rob Evans 6-3 182 6 West Virginia [Man Coverage] [0] 83
+SS Jaylin Glenn 5-10 199 R Middle Tennessee State [Zone Coverage] [-3] 80
+SS Eric Pritchett 5-11 182 1 Michigan [Zone Coverage] [0] 77
+K Louis Dwyer 5-9 223 1 Oklahoma [Power] [0] 81
+P Luke McHenry 6-4 188 4 Ball State [Power] [-1] 86

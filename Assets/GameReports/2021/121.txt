@@ -1,0 +1,62 @@
+ Cleveland Browns (1-7) at Detroit Lions (2-5)
+
+Detroit, MI - 43 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (1-7) 	0 	21 	7 	0 	- 	28
+:fibur: Detroit Lions (2-5) 	7 	3 	7 	0 	- 	17
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:fibur: Detroit Lions
+Injuries 	
+
+C.J. Thomas, ILB - Severe Hamstring Rupture
+
+A.K. McGowan, K - Severe Groin Pull
+	No Injuries
+Offensive Line Rating 	8.1 	8.1
+Sacks 	3 	1
+Punting 	43.5 	50.2
+Punt Return Yards 	-4 	18
+Kick Return Yards 	23 	43
+Turnovers 	0 	2
+3rd Down Conversion 	6/12 	4/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/77 	4/40
+:browns: Cleveland Browns
+Spread Option - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	19/24 	293 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	23 	110 	1 	17 	0/0
+Ryan Clark 	7 	46 	1 	23T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason McClairen 	6 	110 	1 	0 	0/0
+Tai Miller 	4 	56 	0 	0 	0/0
+Dean Burkhart 	2 	43 	1 	0 	0/0
+Ray Lee Marconi 	3 	41 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+LaMichael Jones 	4/0 	- 	1/0 	0/0 	0/0
+Lee Davis 	1/0 	- 	1/0 	0/0 	0/0
+Caleb McNamara 	6/1 	1.0 	0/0 	0/0 	0/0
+Je'Rod Wimbush 	3/0 	1.0 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	0/1 	4/4 	- 38
+	
+:fibur: Detroit Lions
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Blake Shell 	20/37 	231 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Calvin Jones 	13 	35 	0 	14 	1/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony Fasani 	5 	88 	1 	0 	0/0
+Jeremy Cook 	6 	63 	1 	0 	0/0
+Tyrone Cunningham 	3 	38 	0 	1 	0/0
+Dennis Carr 	3 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Earl Jackson 	7/2 	1.0 	0/0 	0/0 	0/0
+Cameron Jones 	6/0 	- 	0/0 	0/0 	0/0
+Kofi Neal 	6/0 	- 	0/0 	0/0 	0/0
+Andre Brooks 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	1/1 	2/2 	44 

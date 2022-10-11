@@ -1,0 +1,45 @@
+QB Reggie Watkins 6-4 200 R Alabama [Pocket] 69
+QB Keenan Nece 6-0 213 R LSU [Pocket] 49
+RB Bryan Davis 5-8 195 R Texas A&M [Power] 76
+RB John Wong 5-9 202 R Oregon State [Speed] 57
+FB Richard Myers 6-2 242 R Pittsburgh [Power] 69
+FB Chad McKinney 6-0 235 R Baylor [Power] 53
+WR Charlie White 6-0 171 R Minnesota [Target] 68
+WR Cecil Windsor 6-5 188 R Georgia [Target] 67
+WR Ed Lloyd 6-4 185 R NC State [Speed] 49
+WR Randy Helms 5-8 172 R Pittsburgh [Speed] 49
+TE Monsanto Williams 6-2 251 R Miami [Pass Blocking] 54
+TE Don Sprague 6-1 252 R Washington State [Pass Blocking] 52
+OT Jason Kelly 6-6 319 R Minnesota [Pass Blocking] 66
+OT Roger Demaree 6-6 323 1 Kentucky [Run Blocking] 40
+OG Jerris Jordan 6-5 296 R Georgia [Pass Blocking] 66
+OG Tony Nott 6-2 283 R Michigan State [Pass Blocking] 49
+C Rodney Williams 6-4 290 R Boston College [Run Blocking] 69
+OG Willis Walton 6-5 275 1 Florida [Run Blocking] 40
+OT Herbert Smith 6-0 330 R Cincinnati [Run Blocking] 52
+OG Stan Whigham 6-3 290 R Miami [Pass Blocking] 49
+OT Joe Owens 6-5 298 R Missouri [Run Blocking] 59
+OT David Moreland 6-6 300 1 Syracuse [Pass Blocking] 40
+DE Blair Kopay 6-3 275 R Iowa [Run Stop] 77
+DE Bobby Johnson 6-6 276 R LSU [Run Stop] 67
+DE Shaun Bartoszek 6-5 253 R Louisville [Run Stop] 51
+DT Terry Dewalt 6-2 312 R Minnesota [Run Stop] 70
+DT Grover Morris 6-6 334 1 Rutgers [Pass Stop] 40
+OLB Hal Rodriguez 6-1 251 R Utah [Pass Zone] 64
+OLB Deuce Harris 5-11 223 R Michigan [Pass Man-to-Man] 58
+OLB Adrian Leo 6-2 229 R Washington [Pass Man-to-Man] 56
+OLB Larry Knight 6-1 237 R Texas [Pass Man-to-Man] 50
+ILB Bill Sualua 6-0 240 R Oklahoma State [Run Zone] 61
+ILB Daniel Hankins 6-0 226 R BYU [Run Man-to-Man] 58
+ILB Willie Crocker 5-11 235 R West Virginia [Run Man-to-Man] 52
+ILB Willie Langer 5-11 239 R South Carolina [Run Man-to-Man] 50
+CB David Wilburn 5-10 195 R Stanford [Man Coverage] 81
+CB Charles Francis 6-2 186 R Georgia [Zone Coverage] 67
+CB Oscar Taylor 6-0 171 R West Virginia [Zone Coverage] 54
+CB Margin Thompson 6-0 185 R Vanderbilt [Man Coverage] 51
+FS Warren Johnson 5-10 177 R Penn State [Zone Coverage] 65
+CB Skip Michel 5-10 178 R South Carolina [Zone Coverage] 51
+SS R.C. Rone 6-1 204 R Oklahoma State [Zone Coverage] 74
+CB John Jefferson 5-10 189 R BYU [Zone Coverage] 49
+K Thomas Thomas 5-8 187 R Cincinnati [Power] 53
+P Gary Montalvo 6-4 206 R Indiana [Accuracy] 53

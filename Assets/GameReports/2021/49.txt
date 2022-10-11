@@ -1,0 +1,61 @@
+ Miami Dolphins (3-0) at New England Patriots (1-2)
+
+Foxborough, MA - 67 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:dolphins: Miami Dolphins (3-0) 	0 	7 	0 	21 	- 	28
+:patriots: New England Patriots (1-2) 	7 	0 	14 	3 	- 	24
+Team Stats Comparison
+  	:dolphins: Miami Dolphins 	:patriots: New England Patriots
+Injuries 	Todd Hevesy, OG - Severe Elbow Fracture 	Elvis Williams, RB - Moderate Wrist Fracture
+Offensive Line Rating 	8.1 	8.2
+Sacks 	2 	3
+Punting 	42.4 	45.3
+Punt Return Yards 	11 	8
+Kick Return Yards 	0 	0
+Turnovers 	0 	1
+3rd Down Conversion 	5/9 	7/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/70 	5/58
+
+:dolphins: Miami Dolphins
+
+(Pro Style - Pistol)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	23/29 	315 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	21 	103 	1 	20 	0/0
+Daniel Curtis 	3 	11 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+J.C. Weldon 	8 	125 	2 	0 	0/0
+Greg Cobb 	5 	102 	1 	0 	0/0
+Marion Reeder 	3 	38 	0 	0 	0/0
+Gordon Kleinsasser 	3 	24 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jerry Walker 	3/0 	- 	1/0 	0/0 	0/0
+Jack Durrence 	4/0 	1.0 	0/0 	0/0 	0/0
+Phillip Moore 	7/0 	- 	0/1 	0/0 	0/0
+Josh Wilson 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	0/1 	4/4 	- 51
+	
+
+:patriots: New England Patriots
+
+(Spread - Pro Style)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	23/36 	290 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Elvis Williams 	9 	41 	0 	18 	1/0
+Daniel Hutchins 	11 	38 	0 	14 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Jones 	7 	86 	0 	0 	0/0
+Jamel Beckham 	5 	81 	1 	1 	0/0
+Geno Harris 	3 	45 	1 	0 	0/0
+Carlos Perez 	3 	42 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Mark Logan 	4/0 	1.5 	0/0 	0/0 	0/0
+Peter Williams 	3/0 	1.0 	0/0 	0/0 	0/0
+Jeremy Owen 	2/0 	0.5 	0/0 	0/0 	0/0
+Norris Nolan 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	1/3 	3/3 	40 - 52, 49 

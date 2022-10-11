@@ -1,0 +1,53 @@
+QB Todd Jennings 6-6 201 4 Penn State [Pocket] [+3] 86
+QB Eric Jennings 5-10 227 2 Kansas [Pocket] [+1] 81
+RB J.B. Blacknall 5-8 207 2 UAB [Power] [0] 87?
+RB Emmett Spears 5-10 195 4 Kent State [Speed] [0/C] 82
+RB Bernard Shook 5-8 182 R USC [Speed] [0] 76
+FB Marq Walsh 6-1 229 5 Washington [Pass Blocking] [0] 85?
+FB Ali Hester 5-9 243 1 Illinois [Pass Blocking] [0/C] 77
+WR Artemio Ramirez 6-1 171 3 Oregon [Speed] [0] 84
+WR Ken Peelle 6-6 214 8 Florida State [Target] [-1] 84?
+WR William Doherty 6-6 228 2 USC [Target] [0] 81
+WR Sebastian Porter 6-1 208 R UTSA [Target] [0] 77 
+TE Darren Jones 6-7 241 4 Baylor [Receiving] [-1] 91?
+TE Doug Bosley 6-4 245 6 Wisconsin [Receiving] [+1/C] 79
+TE Floyd Arnold 6-2 233 2 Colorado State [Receiving] [0] 74?
+OT Gary Tomlinson 6-6 304 5 Wisconsin [Run Blocking] [+1] 93?
+OT Mario Hill 6-7 290 4 Mississippi State [Pass Blocking] [0] 88 ?
+OT Marc Allen 6-6 281 R Western Michigan [Pass Blocking] [-1/C] 80
+OT Paul Myers 6-2 320 1 Alabama [Run Blocking] [0] 78
+OT Pete Wilson 6-4 294 4 Tennessee [Pass Blocking] [0] 77
+OG Russell Benson-Gifford 6-7 260 2 South Carolina [Pass Blocking] [+1] 88
+OG Bret Pate 6-3 310 6 Texas [Pass Blocking] [0] 86
+OG Kerwin McGeoghan 6-3 269 6 Ole Miss [Pass Blocking] [0] 79 ?
+OG Marco Woodward 6-1 269 R Kentucky [Run Blocking] [0] 76
+C John Zatkoff 6-7 296 6 Alabama [Pass Blocking] [+1/C] 95
+C Kevin Thompson 6-3 283 2 California [Run Blocking] [0] 77
+DE Charles Johnson 6-8 261 4 Hawaii [Blitz] [0] 90
+DE Deyonte Davis 6-4 265 1 Tennessee State [Blitz] [-2] 83
+DE Andrew Phillips 6-3 250 3 Florida [Contain] [0] 77
+DE Thomas Goss 6-3 257 2 Oklahoma [Blitz] [+1] 76
+DT Michael Carroll 6-8 2 65 3 Hawaii [1-Gap] [0] 84
+DT Emanuel Serrano 6-2 320 1 Stanford [2-Gap] [0] 80
+DT Keith Smith 6-3 303 2 Colorado State [2-Gap] [0] 71
+ILB Cameron Jonah 6-1 243 6 Hartnell College [Mike] [+2/C] 96
+ILB Reece Westbrook 6-1 216 4 Alabama [Will] [0] 82
+ILB Jamie Zuman 6-3 223 4 Kansas [Mike] [0] 77 ?
+OLB Evan Walsh 5-11 218 R Nevada [Coverage] [0] 81
+OLB Joe Palmer 6-1 242 6 Ole Miss [Coverage] [0] 80
+OLB Shamar Addison 6-0 243 1 Florida State [Coverage] [-1] 79
+OLB Lamar Tennell 6-1 240 4 Washington [Coverage] [0] 79
+CB Reggie Griffin 5-10 192 6 Tennessee [Zone Coverage] [0] 87
+CB Lynn Perry 6-3 187 5 LSU [Man Coverage] [+2/C] 83??
+CB Maury Gregg 6-0 168 5 Penn State [Man Coverage] [0] 81
+CB Patrick Mitchell 5-9 163 3 San Diego State [Zone Coverage] [0] 81
+CB Donald Garcia 6-1 163 2 Arizona State [Zone Coverage] [0] 77 ?
+FS Kevin Hartley 6-0 157 4 Ole Miss [Zone Coverage] [0] 82
+FS Ayden Whitaker 6-1 218 R Army [Man Coverage] [0] 79
+FS Alfredo Herrera 5-10 183 1 Mississippi State [Zone Coverage] [0] 78
+FS Colston Watson 5-10 191 5 Clemson [Man Coverage] [0] 78
+SS Jonathan Parker 6-2 183 8 South Carolina [Man Coverage] [0] 83
+SS Ryan McDonald 5-11 177 3 Coffeyville CC [Zone Coverage] [0] 79
+SS Jayden Salter 6-2 202 2 Memphis [Zone Coverage] [+1] 77
+K Sam Sarahi 6-1 203 4 Hawaii [Power] [0] 90??
+P Dan Hamilton 6-1 198 6 Mississippi State [Accuracy] [-1] 89

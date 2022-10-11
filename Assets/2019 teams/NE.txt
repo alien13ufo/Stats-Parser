@@ -1,0 +1,53 @@
+QB Lawyer Johnson 6-0 194 2 Wisconsin [Pocket] 84
+QB Brad Davis 5-11 205 R Texas [Pocket] 80
+QB Sean  O'Reilly 6-1 217 R Minnesota [Pocket] 71
+RB Rob Blackmon 6-0 206 5 Auburn [Speed] 87
+RB Josh Shiancoe 6-2 221 R UCLA [Power] 80
+RB Shaun Evans 5-8 191 4 TexasTech [Speed] 80
+FB Brian Gelbaugh 6-1 226 3 California [Run Blocking] 75
+FB Marlon Mckenzie 6-0 216 R Pittsburgh [Pass Blocking] 75
+WR Jamel Beckham 6-0 213 R TCU [Target] 81
+WR Carlos Perez 6-5 169 3 Pittsburgh [Target] 80
+WR Jake Bates 5-8 181 4 UCLA [Target] 82
+WR George Lewis 5-11 181 1 UCLA [Speed] 79
+WR Curley Rivera 5-10 174 4 Alabama [Target] 72
+TE Gary Jones 6-5 238 4 UCLA [Receiving] 89
+TE Robert Miller 6-3 231 3 Nebraska [Blocking] 71
+OT Andrew O'Neil 6-7 319 5 LSU [Pass Blocking] 95
+OT Harold Johnson 6-0 296 3 Florida [Pass Blocking] 82
+OT Joe Carter 6-1 298 1 Arizona State [Pass Blocking] 76
+OT Robert Newman 6-2 280 2 Maryland [PassBlocking] 69
+OG Douglas Quinn 6-8 307 4 Northwestern [PassBlocking] 86
+OG Delvin Hodgins 6-5 287 4 Michigan [PassBlocking] 86
+OG Thomas Ewing 6-2 282 R Utah [RunBlocking] 75
+OG Neal McGee 6-7 313 R Utah [RunBlocking] 74
+C Jack Podolak 6-6 293 1 Georgia [Pass Blocking] 78
+C Spencer Flutie 6-5 304 5 TexasTech [RunBlocking] 75
+DE Mark Logan 6-3 287 4 Syracuse [Contain] 86
+DE Joey Davis 6-5 268 4 USC [Contain] 84
+DE Julian Kosar 6-4 267 2 Notre Dame [Contain] 71
+DE James Duncan 6-3 258 2 Utah [Contain] 71
+DT Jeremy Owen 6-8 290 2 BYU [2-Gap] 79
+DT Markus Peoples 6-3 311 5 Florida [2-Gap] 78
+ILB Mark Craig 6-1 230 4 Penn State [Mike] 91
+ILB Willard Arnold 6-2 249 4 Texas [Will] 86
+ILB Jack Cavazos 6-3 240 R UCLA [Mike] 76
+ILB Rich Barker 6-0 234 4 Oklahoma [Will] 77
+ILB Omar Moore 6-0 228 3 Arkansas [Will] 71
+OLB Randy Lehr 6-1 231 5 USC [Coverage] 85
+OLB Bill Gehrke 5-11 241 3 USC [Coverage] 81
+OLB Lloyd Gallagher 6-1 238 3 Kentucky [Coverage] 70
+OLB Richard Welch  6-2 236 R UCLA [Coverage] 68
+CB Dave Stokley 6-2 199 4 Minnesota [Man Coverage] 89
+CB Jayshawn Watts 6-0 176 1 Boise State [Zone Coverage] 80
+CB Jamie Mixon 6-1 187 3 Rutgers [Man Coverage] 75
+CB Matty Brennan 6-3 168 1 Mississippi State [Man Coverage] 70
+CB Miguel Varela 6-0 191 R Penn State [Man Coverage] 68
+FS Robert Pendleton 6-1 203 R Michigan [ManCoverage] 80
+FS Messiah Henderson 6-1 182 1 Duke [Zone Coverage] 77
+FS James Klein 5-8 180 2 Auburn [Zone Coverage] 75
+FS John Le 5-10 195 2 Baylor [Zone Coverage] 66
+SS Norris Nolan 5-10 178 2 TexasA&M [Zone Coverage] 80
+SS Obafemi Edwards 5-11 190 4 Michigan [Zone Coverage] 73
+K Brad Weathersby 6-2 204 4 GeorgiaTech [Power] 93
+P Tony Taylor 5-10 206 5 FloridaState [Power] 92

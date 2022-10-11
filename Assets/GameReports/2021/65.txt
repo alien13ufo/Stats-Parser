@@ -1,0 +1,57 @@
+ Pittsburgh Steelers (2-2) at New England Patriots (1-3)
+
+London, England - 54 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:steelers: Pittsburgh Steelers (2-2) 	0 	14 	0 	10 	- 	24
+:patriots: New England Patriots (1-3) 	14 	3 	3 	7 	- 	27
+Team Stats Comparison
+  	:steelers: Pittsburgh Steelers 	:patriots: New England Patriots
+Injuries 	No Injuries 	No Injuries
+Offensive Line Rating 	8.0 	8.0
+Sacks 	3 	2
+Punting 	42.6 	46.3
+Punt Return Yards 	11 	6
+Kick Return Yards 	23 	0
+Turnovers 	1 	1
+3rd Down Conversion 	5/15 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/57 	4/39
+:steelers: Pittsburgh Steelers
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+R.J. Stanford 	16/27 	180 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	24 	107 	1 	22 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Charlie Paul 	5 	53 	1 	0 	0/0
+Samuel Jolley 	2 	50 	1 	1 	0/0
+Austin Medina 	3 	36 	0 	0 	0/0
+Jake Schmidt 	2 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ronnie Bailey 	2/0 	- 	1/0 	0/0 	0/0
+Carlos Washington 	4/0 	1.0 	0/0 	0/0 	0/0
+Quentin Smith 	3/0 	1.0 	0/0 	0/0 	0/0
+David Drake 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Michael Turner 	1/1 	3/3 	40
+	
+:patriots: New England Patriots
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	22/33 	260 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daniel Hutchins 	20 	92 	1 	27 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Carlos Perez 	6 	102 	1 	0 	0/0
+Geno Harris 	5 	82 	1 	0 	0/0
+Jamel Beckham 	4 	21 	0 	1 	0/0
+Gary Jones 	3 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Mark Logan 	5/1 	1.0 	0/0 	0/0 	0/0
+Joey Davis 	3/0 	1.0 	0/0 	0/0 	0/0
+Matty Brennan 	0/0 	- 	1/0 	0/0 	0/0
+Robert Pendleton 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	2/2 	3/3 	41, 26 

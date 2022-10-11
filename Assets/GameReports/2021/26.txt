@@ -1,0 +1,55 @@
+ Denver Broncos (0-1) at Washington Redskins (0-1)
+
+Landover, MD - 77 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (0-1) 	0 	3 	7 	3 	- 	13
+:redskins: Washington Redskins (0-1) 	3 	0 	7 	7 	- 	17
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:redskins: Washington Redskins
+Injuries 	No Injuries 	Craig Davis, OLB - Moderate Wrist Bruise
+Offensive Line Rating 	7.8 	8.3
+Sacks 	2 	3
+Punting 	45.3 	42.6
+Punt Return Yards 	38 	10
+Kick Return Yards 	0 	0
+Turnovers 	1 	1
+3rd Down Conversion 	5/15 	3/12
+4th Down Conversion 	0/0 	1/1
+Penalties 	8/65 	4/42
+:broncos: Denver Broncos
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Jennings 	14/22 	177 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	23 	98 	0 	15 	0/0
+Timothy Cano 	3 	9 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darren Jones 	5 	70 	0 	1 	0/0
+Darrell Mack 	2 	42 	0 	1 	1/0
+Ken Peelle 	3 	30 	1 	0 	0/0
+Artemio Ramirez 	2 	18 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Maury Gregg 	2/0 	- 	1/0 	0/0 	0/0
+Charles Johnson 	4/0 	1.0 	0/0 	0/0 	0/0
+Michael Carroll 	2/0 	1.0 	0/0 	0/0 	0/0
+Cameron Jonah 	8/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	2/3 	1/1 	44, 42 - 52
+	
+:redskins: Washington Redskins
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	22/33 	291 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	14 	40 	0 	11 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	8 	107 	1 	0 	0/0
+Tony DeMarco 	5 	84 	0 	0 	0/0
+Ken Brown 	3 	53 	1 	1 	0/0
+Ricardo Reed 	2 	41 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Michael Barber 	1/0 	- 	1/1 	0/0 	0/0
+Steven Jordan 	5/1 	2.0 	0/0 	0/0 	0/0
+Mike Hill 	3/0 	1.0 	0/0 	0/0 	0/0
+Nicolas Haskell 	6/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	1/2 	2/2 	45 - 34 

@@ -1,0 +1,53 @@
+QB Onterrio Smith 6-1 180 5 Miami [Scrambling] 81
+QB Paul Davenport 6-0 198 1 Miami [Hybrid] 81
+QB Rob Corp 6-3 203 2 Miami [Hybrid] 77
+RB Don Williams 5-10 226 5 Washington [Speed] 85
+RB Edwin Forster 6-3 221 R Michigan [Power] 77
+RB Nick Engelberger 5-8 186 2 Notre Dame [Power] 76
+RB Michael Shoemaker 6-0 187 2 Northwestern [Power] 76
+RB Robert Hall 6-0 165 1 Alabama [Speed] 71
+FB Marc Ladner 6-0 210 2 Iowa State [Pass Blocking] 75
+FB Cornelius Brown 6-3 208 R Boise State [Pass Blocking] 68
+WR Austin Medina 5-11 192 4 Kentucky [Speed] 86
+WR Samuel Jolley 6-2 218 1 Houston [Speed] 82
+WR Anthony McCardell 6-1 186 2 Clemson [Target] 81
+WR Terry Cross 6-2 173 3 Oklahoma St. [Target] 71
+WR Malaefou Lewis 5-8 181 1 Arizona State [Target] 70
+WR John Nelson 6-2 223 R GeorgiaTech [Target] 67
+TE Jake Schmidt 6-6 235 3 OhioState [Receiving] 85
+TE Lawrence Gibson 6-3 239 2 Colorado State [Blocking] 77
+TE Mickel Walker 6-1 253 R Purdue [Receiving] 68
+TE Johnny Nutten 6-3 247 3 Ole Miss [Receiving] 66
+OT Greg Sewell 6-4 324 2 Texas Tech [Pass Blocking] 86
+OT Mike Ledbetter 6-1 313 3 Georgia Tech [Run Blocking] 84
+OT Jason Kelly 6-6 319 5 Minnesota [Pass Blocking] 79
+OT Antuan Byrdsong 6-2 2 Nebraska [Run Blocking] 72
+OT Tom Gilbert 6-5 316 1 Kansas State [Pass Blocking] 69
+OG P.B. Holmes 6-4 293 R Purdue [Run Blocking] 80
+OG Joe Kramer 6-5 290 2 Texas Tech [Pass Blocking] 77
+OG Phillip Dickson 6-7 289 2 Boise State [Run Blocking] 77
+C Lloyd Nieves 6-5 293 2 Utah [Run Blocking] 80
+C Chet Burns 6-3 284 R Texas A&amp;M [Run Blocking] 67
+DE Brant Thomas 6-2 270 4 Georgia [Blitz] 84
+DE Billy Stevenson 6-7 259 3 Utah [Contain] 80
+DE Jesse Boyd 6-6 276 1 Fresno State [Contain] 73
+DE Jim Pagac 6-7 292 1 California [Contain] 69
+DT Carnell Meadows 6-5 273 2 Nebraska [1-Gap] 85
+DT Al Lindsey 6-1 296 3 WashingtonState [1-Gap] 76
+ILB Jack Muhammad 6-2 248 4 Clemson [Will] 83
+ILB Ray Taylor 6-0 225 R Syracuse [Mike] 80
+ILB Jamie Zuman 6-3 223 1 Kansas [Mike] 75
+ILB Donny Hunter 5-11 207 1 Ohio State [Mike] 71
+OLB Patrick Murphy 6-2 201 1 Minnesota [Blitz] 84
+OLB Charlie Johnson 6-2 230 2 South Carolina [Coverage] 83
+OLB Justin Carr 6-3 219 R Boston College [Coverage] 67
+CB Joel Prince 6-1 207 5 NCState [Zone Coverage] 86
+CB Cade Donovan 5-11 172 3 Washington State [Zone Coverage] 81
+CB Freddy Brown 5-11 147 R SMU [Zone Coverage] 67
+CB Marlin Schrader 5-11 192 2 Washington State [Man Coverage] 67
+CB Edward Dixon 6-0 173 R North Carolina [Zone Coverage] 66
+FS Stephen Elliott 6-3 197 5 Cincinnati [ZoneCoverage] 93
+FS John Coleman 6-2 193 R Kentucky [Zone Coverage] 68
+SS Dane Wilson 6-1 178 4 LSU [Zone Coverage] 96
+K Michael Turner 5-10 187 4 Notre Dame [Power] 82
+P Quan Qi 6-3 221 1 California [Accuracy] 75

@@ -1,0 +1,67 @@
+ Buffalo Bills (2-2) at Miami Dolphins (3-0) ?
+
+Miami Gardens, FL - 84 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (2-2) 	0 	10 	7 	0 	- 	17
+:dolphins: Miami Dolphins (3-0) 	7 	0 	17 	7 	- 	31
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:dolphins: Miami Dolphins
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	ILB Richard Suarez (6.85) 	QB Brian Brown (8.63)
+Worst Player Grade 	CB Kyle Cunningham (3.18) 	WR Jim Umenyiora (4.56)
+Offensive Line Rating 	8.16 ?? 	8.37
+Sacks 	2 	3
+Punting 	42.3 ? 	44.5
+Punt Return Yards 	14 ? 	23
+Kick Return Yards 	86 	32
+Turnovers 	2 	1
+3rd Down Conversion 	3/13 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/86 	5/43
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	22/35 	206 	2 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	14 	51 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca Sr. 	7 	84 	1 	0 	0/0
+Isaiah Cronin 	4 	40 	0 	0 	0/0
+Kevin Garvin 	3 	29 	1 	1 	0/0
+Matt Thomas 	3 	27 	0 	0 	0/0
+Chance Billingsley 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Richard Suarez 	5/0 	1.0 	0/0 	0/0 	0/0
+Anthony Ortiz 	2/0 	1.0 	0/0 	0/0 	0/0
+Mark Bassett 	5/0 	- 	0/0 	1/0 	0/0
+Rodney Galbreath 	3/0 	- 	0/0 	0/1 	0/0
+Cyrus Paulsen 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	1/2 	1/1 	37 - 49
+	
+:dolphins: Miami Dolphins
+Pro Style - Pistol
+PASSING ?? 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	25/39 	290 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry ? 	14 	66 	1 	14 	0/0
+Caleb Sherwin 	2 	10 	0 	7 	1/1
+- ? 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+J.C. Weldon 	7 	94 	1 	0 	0/0
+Sam Baugh 	5 	75 	1 	0 	0/0
+D.J. Gibson 	3 	44 	0 	0 	0/0
+Jim Umenyiora 	3 	30 	1 	2 	0/0
+Elias Langston 	3 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darren Rucker 	3/0 	- 	1/0 	0/0 	0/0
+Jeremy Bell 	2/0 	- 	1/0 	0/0 	0/0
+Benjamin Blankenship 	4/1 	1.5 	0/0 	0/0 	0/0
+Josh Wilson 	2/0 	1.0 	0/0 	0/0 	0/0
+Dexter Flowers	3/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Ben Morrison 	1/2 	4/4 	49 - 49 

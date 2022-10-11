@@ -1,0 +1,67 @@
+ Tennessee Titans (5-1) at Jacksonville Jaguars (5-2) ?
+
+Jacksonville, FL - 86 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (5-1) 	0 	6 	13 	7 	- 	26
+:jaguars: Jacksonville Jaguars (5-2) 	8 	3 	10 	14 	- 	35
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:jaguars: Jacksonville Jaguars
+Injuries 	WR Tommy Furrey - Severe ACL Rupture 	WR Marcus Holmes - Mild Wrist Sprain
+Top Player Grade 	CB Jack Ramsey (7.77) 	WR Marcus Holmes (8.67)
+Worst Player Grade 	OT Willard Love (3.40) 	C Patrick Ena (4.36)
+Offensive Line Rating 	8.31 	8.42
+Sacks 	3 	4
+Punting 	43.2 	45.6
+Punt Return Yards 	4 	16
+Kick Return Yards 	85 	67
+Turnovers 	1 	1
+3rd Down Conversion 	6/13 	6/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/84 	6/57
+:titans: Tennessee Titans ?
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	30/51 	317 	2 	1 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	8 	23 	0 	5 	1/0
+Nikita Crowe 	4 	14 	1 	5 	0/0
+Chris Bell 	2 	6 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Williams 	11 	115 	1 	1 	0/0
+Hastin Rider 	5 	70 	0 	1 	0/0
+Greg Newman 	4 	53 	1 	1 	0/0
+Cody Hunter 	3 	30 	0 	0 	0/0
+Tommy Furrey 	3 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jack Ramsey 	2/0 	- 	1/1 	0/0 	0/0
+Tyler Jones 	5/1 	1.0 	0/0 	0/0 	0/0
+Joseph Whiteside 	2/1 	1.0 	0/0 	0/0 	0/0
+Jordan Harris 	2/0 	1.0 	0/1 	0/0 	0/0
+Tywan Tafoya 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	2/3 	2/3 	40, 39 - 51
+	
+:jaguars: Jacksonville Jaguars
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	27/46 	322 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	16 	80 	1 	13 	0/0
+Isaiah Peko 	7 	39 	1 	15 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC ? 	YDS 	TD 	DRP 	F/L
+Marcus Holmes 	6 	93 	1 	0 	0/0
+Raheem Robinson 	6 	67 	0 	1 	0/0
+Taylor Eifert 	5 	45 	0 	0 	0/0
+Tyrone Turner 	3 	43 	0 	1 	0/0
+Jordan Kemp 	3 	37 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Donnie Bavaro 	4/0 	- 	1/0 	0/0 	0/0
+Ron Rice 	3/2 	1.5 	0/0 	1/0 	0/1
+Shamar Ware 	3/1 	1.5 	0/0 	0/0 	0/0
+Preston Bryant 	3/0 	1.0 	0/0 	0/0 ? 	0/0
+Larry Reeves 	6/1 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Alejandro Aguirre 	4/4 	3/3 	53, 28, 36, 40 

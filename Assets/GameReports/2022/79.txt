@@ -1,0 +1,67 @@
+ Green Bay Packers (4-1) at New England Patriots (0-5) ?
+
+Foxborough, MA - 54 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:packers: Green Bay Packers (4-1) 	7 	3 	3 	7 	- 	20
+:patriots: New England Patriots (0-5) 	0 	10 	7 	0 	- 	17
+Team Stats Comparison
+  	:packers: Green Bay Packers 	:patriots: New England Patriots
+Injuries 	No Injuries 	SS Mohamed Latham - Severe ACL Rupture
+Top Player Grade 	TE Bernard Taylor (7.95) 	QB Reggie Watkins (6.55)
+Worst Player Grade 	FS Donovan Faulk (1.89) 	FS Robert Pendleton (3.05)
+Offensive Line Rating 	8.39 	8.29
+Sacks 	2 	1
+Punting 	45.6 	48.2
+Punt Return Yards 	27 	21
+Kick Return Yards 	47 	64
+Turnovers 	1 	1
+3rd Down Conversion 	5/15 	3/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/68 	6/50
+:packers: Green Bay Packers
+Spread - Pro Style ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	20/32 	208 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	15 	60 	1 	18 	0/0
+Gil Novacek 	5 	21 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Bernard Taylor 	6 	67 	1 	0 	0/0
+Justin McCain 	4 	45 	0 	0 	0/0
+Tom Grant 	2 	40 	0 	1 	0/0
+Dan Nomellini 	3 	16 	0 	0 	0/0
+Michael Allen 	2 	12 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Julio Barnes 	5/0 	- 	1/0 	0/0 	0/0
+Kaulana Groth 	3/1 	1.0 	0/0 	0/0 	0/0
+Barron Anthony 	3/0 	1.0 	0/0 	0/0 	0/0
+Jamal Harley 	4/0 	- 	0/0 	1/0 	0/0
+Garrison Jackson 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	2/2 	2/2 	39, 37
+	
+:patriots: New England Patriots
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	18/30 	211 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Michael Duckworth 	14 	46 	1 	9 	1/0
+- 	- 	- 	- 	- 	0/0
+- ?? 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Geno Harris 	4 	53 	0 	1 	0/0
+Carlos Perez 	3 	50 	1 	0 	0/0
+Jamel Beckham ? 	3 	37 	0 	0 	0/0
+Gary Jones 	2 	23 	0 	1 	0/0
+Abdoulaye Boone 	3 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+James Carson 	3/0 	- 	1/0 	0/0 	0/0
+Rich Moore 	5/0 	0.5 	0/0 ? 	0/0 ? 	0/0
+Bill Young 	2/0 	0.5 	0/0 ? 	0/0 	0/0
+Mark Craig 	6/1 	- 	0/0 ? 	0/0 	0/0
+Robert Pendleton 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	1/2 	2/2 	30 - 45 ?

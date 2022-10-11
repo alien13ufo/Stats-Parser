@@ -1,0 +1,57 @@
+ Washington Redskins (4-5) at New York Giants (1-8)
+
+East Rutherford, NJ - 48 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:redskins: Washington Redskins (4-5) 	9 	7 	7 	7 	- 	30
+:giants: New York Giants (1-8) 	7 	7 	0 	10 	- 	24
+Team Stats Comparison
+  	:redskins: Washington Redskins 	:giants: New York Giants
+Injuries 	No Injuries 	Freddy Suarez, ILB - Severe Elbow Sprain
+Offensive Line Rating 	8.6 	8.1
+Sacks 	2 	3
+Punting 	45.0 	43.2
+Punt Return Yards 	30 	18
+Kick Return Yards 	26 	20
+Turnovers 	1 	1
+3rd Down Conversion 	6/13 	3/12
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/50 	3/25
+:redskins: Washington Redskins
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	22/34 	241 	2 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	15 	66 	1 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	7 	88 	1 	0 	0/0
+Tony DeMarco 	3 	80 	1 	0 	0/0
+Ken Brown 	2 	31 	0 	1 	0/0
+Patrick Burke 	4 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Mike Hill 	2/0 	1.0 	0/0 	1/0 	0/0
+Fred Romanowski 	4/1 	1.0 	0/0 	0/0 	0/0
+Anthony Brown 	5/0 	- 	0/0 	0/1 	0/0
+Cameron Whitney 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	3/3 	3/3 	44, 27, 27
+	
+:giants: New York Giants
+Pistol - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	17/26 	227 	2 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	21 	102 	1 	24 	0/0
+Josh Shiancoe 	5 	14 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tom Oldham 	6 	89 	1 	0 	0/0
+Ibrahim Smiley 	3 	48 	0 	0 	0/0
+Eugene Sanders 	3 	43 	1 	0 	0/0
+Patrick Lambert 	2 	28 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kenyatta Henderson 	5/1 	1.5 	0/0 	0/0 	0/0
+Curtis Lewis 	2/0 	1.0 	0/0 	0/0 	0/0
+Brad Mungro 	4/1 	0.5 	0/0 	1/0 	0/0
+John Foster 	3/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Trent Michaels 	1/1 	3/3 	43 

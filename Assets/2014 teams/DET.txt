@@ -1,0 +1,39 @@
+QB Richard Ramos 6-0 184 R Oregon State [Pocket] 73
+QB DAndre Dawkins 6-2 204 1 Wisconsin [Pocket] 40
+RB Dub Spanno 6-0 184 R Arizona State [Power] 66
+RB Willard Evans 6-0 196 R Ohio State [Power] 60
+FB Jonathan Laskey 6-1 244 R Clemson [Power] 51
+WR Gary Faneca 6-5 189 R Oregon [Speed] 77
+WR Ken Peelle 6-6 214 R Florida State [Target] 74
+WR John Guman 6-5 199 R TCU [Speed] 52
+WR Mike Ricks 6-5 177 R Texas [Target] 49
+TE Wilbert Stoutmire 6-2 247 R Florida State [Pass Blocking] 70
+TE Arthur Webber 6-6 247 R Kentucky [Pass Blocking] 50
+OT Andrew O'Neil 6-7 319 R LSU [Pass Blocking] 80
+OT Dee Bulger 6-8 331 R Arizona State [Pass Blocking] 52
+OG Craig Burford 6-5 295 R California [Pass Blocking] 55
+C Richard Kelly 6-8 317 R Washington State [Pass Blocking] 67
+OG Tony Lester 6-7 312 R Syracuse [Pass Blocking] 52
+OG Josh Hall 6-6 296 R Oklahoma [Pass Blocking] 72
+OG Tony Lester 6-7 312 R Syracuse [Pass Blocking] 52
+OT Lamar Odomes 6-7 306 R Ole Miss [Pass Blocking] 54
+OT Dee Bulger 6-8 331 R Arizona State [Pass Blocking] 52
+DE Keith Hearst 6-8 276 R Michigan [Run Stop] 53
+DE Randy Burrow 6-3 271 R Oklahoma [Pass Stop] 51
+DT Markus Peoples 6-3 311 R Florida [Pass Stop] 60
+DT Terry Barrett 6-6 307 R Cincinnati [Pass Stop] 58
+DE Bubba Kelly 6-5 281 R Michigan State [Pass Stop] 51
+OLB Germane Dixon 6-2 253 R Notre Dame [Pass Man-to-Man] 74
+OLB Sam Shields 6-5 245 1 Michigan State [Run Man-to-Man] 40
+ILB David Matthews 6-2 244 R Washington State [Pass Man-to-Man] 58
+ILB Matt Jurevicius 6-0 243 R Michigan State [Pass Man-to-Man] 54
+OLB Brendan Flores 6-2 234 R Kansas State [Pass Man-to-Man] 53
+CB Sedrick Madison 6-2 183 R Tennessee [Zone Coverage] 64
+CB Robert Mayfield 6-0 182 R Rutgers [Zone Coverage] 59
+CB Ricky Fowls 5-10 172 1 Boise State [Zone Coverage] 40
+CB Denarius Alexander 5-10 165 1 Kentucky [Man Coverage] 40
+FS Joe Turner 5-10 182 R Texas A&M [Man Coverage] 54
+FS Phil Jackson 6-1 193 1 Baylor [Zone Coverage] 40
+SS Luis Nelson 6-4 201 R Michigan [Man Coverage] 69
+SS Josi Traylor 6-2 201 1 Ole Miss [Man Coverage] 40
+P Bryan Johnson 6-1 204 R Utah [Accuracy] 68

@@ -1,0 +1,67 @@
+ Miami Dolphins (6-0) at Green Bay Packers (5-1) ?
+
+Green Bay, WI - 51 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:dolphins: Miami Dolphins (6-0) 	7 	3 	0 	3 	- 	13
+:packers: Green Bay Packers (5-1) 	5 	3 	7 	7 	- 	22
+Team Stats Comparison
+  	:dolphins: Miami Dolphins 	:packers: Green Bay Packers
+Injuries 	WR Jim Umenyiora - Severe Achilles Rupture 	OT David Hughes - Moderate Back Hyper-Extension
+Top Player Grade 	WR J.C. Weldon (7.95) 	RB Jaz Durant (9.41)
+Worst Player Grade 	CB Jeremy Bell (3.70) 	DT Carter Jackson (4.04)
+Offensive Line Rating 	8.59 	8.39
+Sacks 	2 	1
+Punting 	43.2 	47.5
+Punt Return Yards 	3 	21
+Kick Return Yards 	75 	43
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	4/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/60 	5/42
+:dolphins: Miami Dolphins
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD ? 	INT 	F/L
+Brian Brown 	22/37 	226 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	19 	81 	0 	8 	0/0
+Caleb Sherwin 	5 	-3 	0 	2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marion Reeder 	7 	80 	0 	1 	0/0
+J.C. Weldon 	4 	42 	1 	0 	0/0
+Marcus Ratterman 	3 	31 	0 	1 	0/0
+Jim Umenyiora 	3 	29 	0 	0 	0/0
+Elias Langston 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeremy Green 	5/0 	- 	1/0 	0/0 	0/0
+Benjamin Robinson 	4/0 	1.0 	0/0 	0/0 	0/0
+Dexter Flowers 	2/0 	1.0 	0/0 	0/0 	0/0
+Laurent Christensen 	2/0 	- 	0/2 	0/0 	0/0
+Michael Williams 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	2/3 	1/1 	48, 40 - 45
+	
+:packers: Green Bay Packers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	17/29 	240 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	20 	163 	1 	84T 	0/0
+Gil Novacek 	4 	31 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Artavius Hopkins 	4 	80 	0 	0 	0/0
+Justin McCain 	4 	43 	1 	0 	0/0
+Dan Nomellini 	3 	40 	0 	0 	0/0
+Tom Grant 	2 	27 	0 	1 	0/0
+Bernard Taylor 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Marquise Reed 	3/0 	- 	1/1 	0/0 	0/0
+Barron Anthony ? 	2/0 	0.5 	0/0 	0/0 	0/0
+Kaulana Groth 	2/0 	0.5 	0/0 	0/0 	0/0
+James White 	4/0 	- 	0/1 	0/0 	0/0
+Garrison Jackson 	5/0 	- 	0/0 	0/0 	0/1
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	2/3 	2/2 	39, 34 - 58 ?

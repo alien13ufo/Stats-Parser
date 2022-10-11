@@ -1,0 +1,64 @@
+ New York Jets (0-0) at New England Patriots (0-0)
+
+Foxborough, MA - 79 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jets: New York Jets (0-0) 	0 	10 	10 	0 	6 	26
+:patriots: New England Patriots (0-0) 	0 	7 	7 	6 	- 	20
+Team Stats Comparison
+  	:jets: New York Jets 	:patriots: New England Patriots
+Injuries 	
+
+Adam Coles, WR - Severe Concussion
+
+Reshad Jenkins, FS - Mild Wrist Sprain
+	
+
+Andrew O'Neil, OT - Moderate Elbow Dislocation
+
+ 
+Offensive Line Rating 	8.4 	7.9
+Sacks 	3 	2
+Punting 	46.2 	44.3
+Punt Return Yards 	33 	1
+Kick Return Yards 	65 	61
+Turnovers 	1 	0
+3rd Down Conversion 	5/12 	5/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/58 	8/74
+:jets: New York Jets
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	20/34 	272 	2 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	15 	56 	0 	20 	0/0
+Marvin Washington 	4 	29 	1 	21T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell 	7 	102 	1 	1 	0/0
+Marcus Ratterman 	3 	72 	0 	0 	0/0
+Adam Coles 	3 	43 	0 	1 	0/0
+Matt Stone 	3 	31 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jonathan Bridges 	3/0 	2.0 	0/0 	0/0 	0/0
+Alvis Brumm 	4/1 	1.0 	0/0 	0/0 	0/0
+Kyle Pratt 	4/0 	- 	0/0 	0/0 	0/0
+Chris Tucker 	6/1 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	2/2 	2/2 	48, 37
+	
+:patriots: New England Patriots
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	20/25 	290 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Elvis Williams 	21 	85 	0 	23 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamel Beckham 	7 	95 	1 	0 	0/0
+Gary Jones 	4 	85 	1 	0 	0/0
+Carlos Perez 	3 	60 	0 	0 	0/0
+Elvis Williams 	3 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Joey Davis 	4/1 	1.0 	0/0 	1/0 	0/0
+Mark Logan 	2/0 	1.0 	0/0 	0/1 	0/0
+Willard Arnold 	7/0 	- 	0/0 	0/0 	0/0
+Mark Craig 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	2/2 	2/2 	43, 29 

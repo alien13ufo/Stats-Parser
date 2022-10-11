@@ -1,0 +1,40 @@
+QB Thomas Wheeler 6-1 208 2 FloridaState [Pocket] 87
+QB Keith Simon 6-2 189 2 Florida [Scrambling] 82
+RB Michael Shoemaker 6-0 187 R Northwestern [Power] 81
+RB Justin Buchanan 5-10 184 3 Mississippi State [Power] 81
+RB Rickie Edwards 6-1 176 1 SMU [Power] 73
+RB Jon Baschnagel 5-9 189 2 Clemson [Power] 73
+WR Cap Christian 6-3 176 1 Georgia Tech [Target] 81
+WR Hines Mertens 5-8 176 R LSU [Speed] 79
+WR Luther Peacock 6-1 204 2 Virginia [Target] 63
+WR Cliff Molden 5-11 214 2 Minnesota [Target] 63
+TE Nate Blue 6-2 239 1 Notre Dame [Pass Blocking] 79
+TE Jack Stewart 6-4 227 3 Michigan State [Run Blocking] 71
+OT Chris Gray 6-3 283 R Texas A&M [Pass Blocking] 79
+OT Thomas Donaldson 6-4 302 1 VirginiaTech [RunBlocking] 77
+OT Bob Adams 6-4 331 1 West Virginia [Pass Blocking] 69
+OG Boyd Buckley 6-0 274 R Notre Dame [Pass Blocking] 75
+OG Charles Brown 6-0 287 R Northwestern [Run Blocking] 67
+OG Dick Dufek 6-5 274 1 UCF [Pass Blocking] 65
+OG Ivory Lott 6-5 301 3 Penn State [Pass Blocking] 63
+C Rob Johnston 6-2 292 2 FloridaState [RunBlocking] 74
+DT Carter Jackson 6-6 273 R Boise State [Run Stop] 74
+DT Chris Simmons 6-3 268 R Oregon State [Pass Stop] 69
+DT Todd Woodson 6-4 284 3 Tennessee [Run Stop] 66
+DT Marquise Villarrial 6-4 303 2 Wisconsin [PassStop] 65
+DE Terry Patton 6-3 275 2 Oklahoma [PassStop] 79
+DE Jason Johnson 6-3 264 R Penn State [Run Stop] 69
+DE Dedric Williams 6-1 264 3 TexasA&M [RunStop] 63
+ILB Dewey Tomlinson 5-11 220 R Oklahoma State [Pass Man-to-Man] 78
+ILB Johnny Boston 6-1 232 R Minnesota [Pass Zone] 67
+ILB Matthew Romero 6-2 224 R Stanford [Run Zone] 65
+OLB Billy Westbrook 6-0 228 2 Washington [PassZone] 82
+OLB Sean Springs 6-0 220 R Stanford [Run Zone] 70
+CB Joe Taylor 5-10 190 2 Clemson [ZoneCoverage] 64
+CB Drew Jaynes 6-1 168 2 Virginia [ZoneCoverage] 63
+CB Jarvis Banks 6-1 176 2 Iowa [ZoneCoverage] 63
+FS Rob Hamilton 5-11 188 R UCLA [Zone Coverage] 75
+SS Raymond Ponce 6-1 196 2 Kansas State [Zone Coverage] 77
+SS Marcus Mili 6-2 217 3 Vanderbilt [Zone Coverage] 69
+K Daryl Holmes 5-9 192 1 MichiganState [Power] 82
+P Cliff Randall 6-0 208 R Penn State [Accuracy] 74

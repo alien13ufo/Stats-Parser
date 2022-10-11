@@ -1,0 +1,53 @@
+QB Alexander Williams 6-0 187 5 Texas A&M [Scrambling] 92
+QB Lawrence Pritchett 6-0 187 R Tulane [Scrambling] 79
+QB Philip Rea 6-3 235 R Michigan [Pocket] 76
+RB Fred Tindale 5-11 204 3 Florida [Speed] 87
+RB Michael Duckworth 5-7 179 3 Michigan State [Speed] 84
+RB Rasheed Kent 6-1 205 3 Minnesota [Power] 80
+FB Jose Rosenthal 5-11 208 1 North Carolina [Pass Blocking] 83
+WR Gary Faneca 6-5 189 5 Oregon [Speed] 95
+WR Jim Umenyiora 6-2 197 3 NC State [Speed] 84
+WR Tommy Pottios 6-6 183 1 Georgia Tech [Speed] 83
+WR Kirk Pierce 6-1 171 4 Georgia Tech [Target] 72
+WR Tyrone Whitfield 6-3 197 1 Texas Tech [Speed] 68
+TE Tony Huff 6-4 225 2 Georgia [Receiving] 85
+TE Jeffrey Jackson 6-3 230 1 Kent State [Blocking] 71
+TE Denario Jackson 6-1 219 1 Pittsburgh [Receiving] 72
+OT Walter Adair 6-1 310 3 Army [RunBlocking] 90
+OT John Eaton 6-5 284 R Penn State [Run Blocking] 81
+OT James Poindexter 6-6 296 R Nebraska [Run Blocking] 79
+OT Nick Auld 6-6 302 2 Connecticut [Pass Blocking] 76
+OT David Bowles 6-3 296 2 Mississippi State [Pass Blocking] 76
+OG John Tripucka 6-3 308 2 Clemson [Pass Blocking] 83
+OG Trey Durrence 6-2 300 3 Alabama [PassBlocking] 80
+OG Sawyer Dougherty 6-4 298 R Oklahoma State [Pass Blocking] 73
+OG Ricky Witman 6-4 280 1 Boston College [Pass Blocking] 73
+C Davern Lemmerman 6-4 272 2 Wisconsin [Run Blocking] 76
+C Raymond Kline 6-3 253 R Texas [Run Blocking] 76
+DE Brian Glenn 6-6 291 4 LSU [Blitz] 86
+DE Steven Jordan 6-7 279 4 IowaState [Contain] 84
+DE Travis Lee 6-8 260 1 Alabama [Contain] 75
+DE Steve Roberts 6-8 261 2 Texas Tech [Blitz] 64
+DT Reggie Howard 6-6 306 4 Washington [2-Gap] 81
+DT Craig Boyd 6-8 277 2 Ole Miss [1-Gap] 76
+DT Steve Phillips 6-2 285 2 Iowa [1-Gap] 72
+ILB Malcolm Douglas-Scott 6-0 239 3 AngelinaCollege [Will] 93
+ILB Tom Lavergne 6-0 226 1 Florida [Will] 80
+ILB Dennis Smith 6-0 251 4 Northwestern [Mike] 77
+ILB James Bates 6-1 217 3 UCLA [Mike] 72
+OLB Kristian Little 6-0 237 R Alabama [Blitz] 79
+OLB Kyries Brown 6-0 227 3 Wisconsin [Coverage] 79
+OLB Melvin Bedell 6-1 221 3 Texas [Coverage] 74
+OLB Eddie Johnson 6-0 227 3 Georgia Tech [Coverage] 74
+CB Matt Cowan 6-2 172 3 Wisconsin [ZoneCoverage] 94
+CB Corey Quinn 6-0 191 2 Oregon [Zone Coverage] 87
+CB Duke Burchfield 5-11 163 1 North Carolina [Zone Coverage] 73
+CB Eric Houser 5-9 171 R San Jose State [Man Coverage] 74
+FS Onome Smith 6-1 191 1 California [Man Coverage] 79
+FS Kevin Collins 5-11 196 4 Alabama [ZoneCoverage] 75
+SS Antonio Oliver 6-0 196 R Houston [Man Coverage] 78
+SS Jeff Hudson 6-0 183 5 Clemson [ZoneCoverage] 78
+SS Anthony Foster 6-3 206 2 Purdue [Man Coverage] 76
+SS Patrick Carr 5-10 201 1 Navy [Zone Coverage] 71
+K Chris Ritter 6-2 208 R Stanford [Accuracy] 80
+P Gary Levels 6-1 198 1 Michigan State [Power] 83

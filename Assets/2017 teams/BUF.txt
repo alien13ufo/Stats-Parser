@@ -1,0 +1,46 @@
+QB Erasmus McCready 6-2 225 R Alabama [Pocket] 81
+QB Robert Aikman 5-11 177 2 Tennessee [Pocket] 81
+QB James Van Buren 6-3 213 R Ole Miss [Pocket] 70
+RB Chad Dess 6-1 241 2 Virginia [Power] 91
+RB J.J. Hammond 5-11 229 3 Oklahoma [Power] 73
+RB Charles Watkins 5-10 184 R Rutgers [Speed] 70
+RB Christopher Rodriguez 5-11 191 R Ball State [Power] 67
+FB Charles Strayhorn 6-2 209 R Georgia [Speed] 67
+WR Glenn Franckowiak 6-0 201 1 Nebraska [Target] 81
+WR Wesly Anderson 6-0 196 2 Texas Tech [Speed] 80
+WR Jamie Keeton 6-5 191 3 Iowa State [Speed] 68
+WR Juan Armstead 5-9 191 1 Rutgers [Target] 64
+TE James Ware 6-8 236 2 Northwestern [Run Blocking] 80
+TE John Perez 6-4 217 R Iowa State [Run Blocking] 65
+OT Robert Barraza 6-6 347 2 ECU [RunBlocking] 80
+OT Joseph Rasmussen 6-6 285 R Duke [Pass Blocking] 77
+OT Doug Saul 6-8 320 1 North Carolina [Pass Blocking] 65
+OG Sammy Baxter 6-4 283 3 USC [Run Blocking] 78
+OG Jim Hutchinson 6-1 302 R UCLA [Pass Blocking] 74
+OG Daryl Ogden 6-1 283 R Arkansas [Pass Blocking] 65
+OG Jeff Hill 6-8 306 2 Miami [PassBlocking] 61
+C Wally Bowers 6-5 296 R Washington [Run Blocking] 70
+DE Anthony Ortiz 6-7 262 R Oklahoma State [Run Stop] 83
+DE Ulysses Smith 6-8 290 1 PennState [RunStop] 80
+DE Stephen Jones 6-8 271 1 Pittsburgh [Run Stop] 64
+DE Arnold Smith 6-1 267 1 Arkansas [Run Stop] 59
+DT Kendall Hill 6-6 312 2 California [Run Stop] 83
+DT Charles Polk 6-5 298 2 Clemson [RunStop] 66
+DT Lloyd Fry 6-8 288 3 Nebraska [Pass Stop] 57
+OLB David Kuppe 5-11 214 1 Missouri [Pass Man-to-Man] 77
+OLB Billy Anderson 6-3 241 2 USC [Pass Zone] 69
+OLB Jay McDonald 6-0 214 R Northwestern [Pass Man-to-Man] 68
+OLB Todd Hoover 6-0 232 1 Miami [Pass Man-to-Man] 63
+ILB Steve Pointer 6-0 229 1 Clemson [Run Zone] 77
+ILB Hunter Taylor 6-2 231 R Washington [Run Man-to-Man] 72
+ILB John Boerigter 6-0 241 3 UCLA [Pass Man-to-Man] 68
+ILB James Swartz 6-2 229 1 Maryland [Pass Man-to-Man] 64
+CB Archie Velasquez 5-9 186 1 Georgia [Man Coverage] 78
+CB Dale Denney 6-1 193 1 Minnesota [Man Coverage] 68
+CB Troy Blankenship 5-10 193 2 WashingtonState [ManCoverage] 64
+FS Chris Bengtson 6-1 193 1 DaytonaBeachCC [ManCoverage] 75
+FS Terry Offerdahl 5-11 181 2 Clemson [ManCoverage] 63
+SS Kliff Papac 6-0 161 1 Syracuse [Zone Coverage] 76
+SS Casey Gardner 6-0 194 3 BostonCollege [ZoneCoverage] 64
+K Larry DeLamielleure 5-11 173 R Arizona State [Accuracy] 67
+P Dwayne Brightful 5-9 183 1 Georgia Tech [Accuracy] 71

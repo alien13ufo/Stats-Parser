@@ -1,0 +1,67 @@
+ Miami Dolphins (9-1) at Jacksonville Jaguars (7-3) ?
+
+Jacksonville, FL - 81 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:dolphins: Miami Dolphins (9-1) 	0 	7 	3 	10 	- 	20
+:jaguars: Jacksonville Jaguars (7-3) 	0 	10 	6 	7 	- 	23
+Team Stats Comparison
+  	:dolphins: Miami Dolphins 	:jaguars: Jacksonville Jaguars
+Injuries 	QB Brian Brown - Moderate Shoulder Strain 	RB Isaiah Peko - Mild Hip Strain
+Top Player Grade 	TE D.J. Gibson (8.31) 	RB Asante Sowell (8.20)
+Worst Player Grade 	CB Jeremy Bell (1.85) 	CB Gary Chamberlain (2.76)
+Offensive Line Rating 	8.17 	8.24
+Sacks 	0 	3
+Punting 	42.2 	48.0
+Punt Return Yards 	24 	6
+Kick Return Yards 	81 	32
+Turnovers 	1 	0
+3rd Down Conversion 	4/11 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/34 	8/58
+:dolphins: Miami Dolphins
+Pro Style - Pistol ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	17/29 	240 	2 	0 	2/1
+Steven Gore 	2/2 	26 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	18 	51 	0 	15 	0/0
+Caleb Sherwin 	7 	26 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+D.J. Gibson 	5 	105 	1 	0 	0/0
+J.C. Weldon 	6 	72 	0 	0 	0/0
+Sam Baugh 	2 	53 	0 	1 	0/0
+Marion Reeder 	2 	25 	1 	0 	0/0
+Elias Langston 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Benjamin Robinson 	5/0 	- 	0/2 	0/0 	0/0
+Phillip Moore 	6/0 	- 	0/0 	0/0 	0/0
+Josh Wilson 	4/0 	- 	0/0 	0/0 	0/0
+Dexter Flowers 	3/1 	- 	0/0 	0/0 	0/0
+Alejandro Bowen 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	2/2 	2/2 	33, 25
+	
+:jaguars: Jacksonville Jaguars
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	20/35 	221 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	16 	92 	1 	18 	0/0
+Isaiah Peko 	3 	15 	0 	7 	0/0
+Owen Walton ? 	3 	10 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Raheem Robinson 	4 	75 	0 	1 	0/0
+Derek Harrison 	5 	50 	1 	0 	0/0
+Marcus Holmes 	3 	45 	0 	1 	0/0
+Taylor Eifert 	3 	21 	0 	0 	0/0
+Tyrone Turner 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ron Rice 	3/2 	1.5 	0/0 	1/0 	0/0
+Shamar Ware 	3/0 	1.0 	0/0 	1/0 	0/0
+Damien Norman 	5/0 	- 	0/0 	0/1 	0/0
+Preston Bryant 	3/0 	0.5 	0/0 	0/0 ? 	0/0
+Kevin Johnson 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	3/3 	2/2 	46, 27, 36 ?

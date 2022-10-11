@@ -1,0 +1,67 @@
+ Los Angeles Rams (2-7) at Seattle Seahawks (4-5) ?
+
+Seattle, WA - 45 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:rams: Los Angeles Rams (2-7) 	0 	3 	0 	7 	- 	10
+:seahawks: Seattle Seahawks (4-5) 	0 	3 	6 	6 	- 	15
+Team Stats Comparison
+  	:rams: Los Angeles Rams 	:seahawks: Seattle Seahawks
+Injuries 	WR Kevin O'Neal - Severe ACL Rupture 	OLB Kenji Sagatomo - Moderate Toe Fracture
+Top Player Grade 	OLB Jeff Cox (7.08) 	K Chris Ritter (9.00)
+Worst Player Grade 	FS Samuel Prince (3.28) 	FS Gray Corbin (4.05)
+Offensive Line Rating 	8.16 	8.25
+Sacks 	3 	3
+Punting 	46.4 	48.0
+Punt Return Yards 	12 	10
+Kick Return Yards 	94 	53
+Turnovers 	1 	0
+3rd Down Conversion 	3/12 	5/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/75 	5/25
+:rams: Los Angeles Rams
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	17/29 	225 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrell Holland 	12 	45 	0 	12 	1/1
+Daveed Knox 	10 	28 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamal Hawkins 	6 	78 	0 	0 	0/0
+Walt Peck 	5 	72 	1 	0 	0/0
+Steve Alexander 	1 	23 	0 	1 	0/0
+Norman Spencer 	2 	14 	0 	0 	0/0
+Terrell Holland 	1 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeff Cox 	5/2 	1.0 	0/0 	0/0 	0/0
+Markus Golden 	6/0 	1.0 	0/0 	0/0 	0/0
+Leigh Davey 	3/0 	1.0 	0/1 	0/0 	0/0
+Brandon Sauter 	4/0 	- 	0/2 	0/0 	0/0
+Samuel Prince 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Walsh 	1/2 	1/1 	46 - 39
+	
+:seahawks: Seattle Seahawks
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones ? 	15/30 	180 	0 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	20 	84 	0 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- ? 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tony Huff 	4 	56 	0 	0 	0/0
+William Johnson 	3 	43 	0 	0 	0/0
+Josiah McCray 	2 	23 ? 	0 	1 	0/0
+Curtis Settles 	2 	21 	0 	0 	0/0
+Tyler White 	2 	20 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kristian Little 	6/0 	1.0 	0/0 	0/0 	0/0
+Brian Glenn 	2/1 	1.0 	0/0 	0/0 	0/0
+Adam Williams 	3/0 	1.0 	0/0 	0/0 	0/0
+Zion Adakwa 	6/1 	- 	0/1 	0/0 	0/0
+Kyries Brown 	5/0 	- 	0/0 ? 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	5/5 	0/0 	49, 27, 37, 43, 25 

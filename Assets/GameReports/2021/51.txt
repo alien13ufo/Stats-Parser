@@ -1,0 +1,70 @@
+ Cleveland Browns (1-2) at Baltimore Ravens (0-3)
+
+Baltimore, MD - 70 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (1-2) 	0 	0 	3 	7 	- 	10
+:ravens: Baltimore Ravens (0-3) 	0 	0 	6 	14 	- 	20
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:ravens: Baltimore Ravens
+Injuries 	
+
+Henry Brown, OG - Mild Achilles Tendonitis
+
+ 
+	
+
+Louis Peterson, OLB - Moderate Foot Bruise
+
+Adam Newman, SS - Severe Patellar Tendon Bruise
+Offensive Line Rating 	8.6 	8.1
+Sacks 	2 	1
+Punting 	44.3 	43.7
+Punt Return Yards 	17 	28
+Kick Return Yards 	0 	0
+Turnovers 	4 	3
+3rd Down Conversion 	1/12 	4/13
+4th Down Conversion 	0/0 	1/1
+Penalties 	5/46 	7/39
+
+:browns: Cleveland Browns
+
+(Spread Option - Pistol)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matthew Dobbs 	10/21 	103 	0 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	19 	59 	1 	14T 	1/1
+Grady Mitchell 	6 	30 	0 	20 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Dean Burkhart 	3 	36 	0 	1 	0/0
+Tai Miller 	2 	25 	0 	1 	1/1
+Kevin McMullen 	2 	19 	0 	0 	0/0
+Sean Bell 	1 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Marshall 	1/0 	- 	1/2 	0/0 	0/0
+Lee Davis 	1/0 	- 	1/0 	0/0 	0/0
+Ray McBride 	6/1 	2.0 	0/0 	1/1 	0/0
+Caleb McNamara 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	1/2 	1/1 	43 - 55
+	
+
+:ravens: Baltimore Ravens
+
+(Option - Pistol)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	12/22 	128 	1 	2 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	25 	110 	1 	61T 	0/0
+Brett Fisher 	8 	50 	0 	24 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sean Waller 	5 	70 	1 	0 	0/0
+Ituha Coonaha 	1 	18 	0 	1 	0/0
+Moussa Goode 	2 	14 	0 	0 	0/0
+Davey Jones 	1 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Troy Marshall 	1/0 	- 	1/1 	1/0 	0/0
+Sammy Muhammad 	2/0 	- 	1/0 	0/0 	0/0
+Traveon Howard 	5/0 	- 	0/1 	0/1 	0/0
+Tyrone Jones 	5/0 	- 	0/0 	1/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	2/3 	2/2 	36, 31 - 49 

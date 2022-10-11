@@ -1,0 +1,66 @@
+ Indianapolis Colts (4-8) at Pittsburgh Steelers (6-6)
+
+Pittsburgh, PA - 35 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (4-8) 	0 	0 	7 	7 	- 	14
+:steelers: Pittsburgh Steelers (6-6) 	13 	3 	3 	3 	- 	22
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:steelers: Pittsburgh Steelers
+Injuries 	
+
+Anthony Miller, DE - Moderate Shoulder Rotator Cuff
+
+Jonathan Norman, SS - Severe Thumb Fracture
+	
+
+Austin Medina, WR - Mild Concussion
+
+ 
+Offensive Line Rating 	8.2 	8.4
+Sacks 	0 	2
+Punting 	42.3 	50.2
+Punt Return Yards 	8 	12
+Kick Return Yards 	28 	0
+Turnovers 	2 	0
+3rd Down Conversion 	4/12 	5/14
+4th Down Conversion 	0/1 	0/0
+Penalties 	3/38 	6/72
+:colts: Indianapolis Colts
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	24/40 	241 	2 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	12 	50 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rashad Simon 	9 	126 	1 	0 	0/0
+Mosi Bartos 	5 	65 	0 	0 	0/0
+Tyler Dotson 	3 	26 	1 	0 	0/0
+Ryan Mitchell 	3 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kelly Mitchell 	8/0 	- 	0/0 	0/0 	0/0
+Lukas Forman 	5/0 	- 	0/1 	0/0 	0/0
+Hudson Adam 	4/1 	- 	0/0 	0/0 	0/0
+Keyuo Clark 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dana Currier 	0/1 	2/2 	- 46
+	
+:steelers: Pittsburgh Steelers
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+R.J. Stanford 	15/29 	188 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kalei Keil 	20 	77 	0 	29 	0/0
+R.J. Stanford 	2 	3 	1 	2T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Charlie Paul 	4 	59 	1 	0 	0/0
+Jake Schmidt 	3 	54 	0 	0 	0/0
+Eric Watson 	3 	23 	0 	0 	0/0
+Austin Medina 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dane Wilson 	6/0 	- 	1/1 	0/0 	0/0
+Carlos Washington 	3/1 	1.0 	0/0 	0/0 	0/0
+Patrick Murphy 	6/0 	0.5 	0/0 	1/0 	0/0
+David Drake 	3/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Michael Turner 	3/3 	1/2 	45, 20, 29 

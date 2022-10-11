@@ -1,0 +1,53 @@
+QB Joel King 6-1 220 3 Houston [Pocket] [0] 87?
+QB Tommy Jones 6-3 198 4 Michigan [Hybrid] [-1] 83
+QB Rob Zeko ?6-3 183 4 Marshall [Hybrid] [0] 79
+RB Ron Thomas 6-0 194 4 Iowa [Speed] [-3] 88
+RB Rasheed Kent 6-1 205 6 Minnesota [Power] [0] 78
+FB Tom Edwards 5-11 211 6 Florida [Run Blocking] [0] 84
+WR Adrian Jankowski 6-4 194 3 Texas A&M [Target] [0] 89
+WR Jamir Blackburn 6-4 196 1 Minnesota [Speed] [-1] 81
+WR Brandon Lane 5-11 187 7 Mississippi State [Speed] [0] 75
+WR Cap Christian 6-3 176 6 Georgia Tech [Target] [0] 78
+WR Christopher Harris 6-2 177 4 USF [Target] [0] 71
+TE Steven Maloney 6-5 195 1 Texas [Receiving] [+2] 81
+T?E Char?lie Wilson ?6-7 24?7 7 Georgia Tech ?[Blockin?g] [0?] 8??0
+OT Blake Pile 6-5 311 6 USC [Run Blocking] [0/C] 92
+OT Demetrius Jett 6-5 300 4 North Carolina [Run Blocking] [0] 84
+OT Wesley Delarosa 6-4 294 4 Rice [Run Blocking] [0] 76
+OT Leonard Shockley 6-1 314 2 Eastern Michigan [Run Blocking] [0] 78
+OG Art Wagner 6-0 297 7 Florida [Run Blocking] [+1/C] 82
+OG Jonah Akins 6-3 299 1 Georgia [Pass Blocking] [0] 78
+OG Max Gavin 6-5 339 R Iowa State [Pass Blocking] [-1] 75
+OG Melvin Lee 6-3 294 2 Boston College [Pass Blocking] [0] 78
+OG Jack Harrell 6-3 268 4 Notre Dame [Pass Blocking] [0] 75
+C Pat Johnson 6-5 284 4 Stanford [Run Blocking] [0/C] 73 ?
+C Kevin Siemon 6-3 279 6 Penn State [Run Blocking] [+1/C] 90
+DE Brett Bailey 6-3 261 5 Auburn [Blitz] [-2] 89
+DE E.J. McQuarters 6-7 257 6 Clemson [Contain] [0] 76
+DE Timothy Key 6-2 240 R Florida [Contain] [-1] 83 ?
+DE James Carter 6-1 255 2 Air Force [Blitz] [0] 79
+DE Monty Moreno 6-4 261 4 LSU [Blitz] [0] 73
+DT Sila Lotomau 6-5 296 1 Hawaii [2-Gap] [-1] 85
+DT Adam Shafer 6-1 289 2 Texas Tech [2-Gap] [0] 75
+DT Jamal McGavin 6-5 306 2 Minnesota [2-Gap] [+1] 77
+ILB Nick Upshaw 6-2 241 8 Ohio State [Mike] [0/C] 87
+ILB Daniel Barnes 5-11 205 3 Florida [Will] [+1] 84
+ILB Barty Tillman 6-2 222 4 Clemson [Will] [-1] 76
+ILB Richard Pitts 6-3 237 2 Georgia State [Mike] [0] 72
+OLB Germane Dixon 6-2 253 8 Notre Dame [Blitz] [0] 85
+OLB Hugh Boerigter? 6-2 251 6 Stan?ford [Blitz] [0] 72
+OLB Charley Graham 5-11 224 6 UCLA [Coverage] [0] 75
+OLB Salvatore McKinney 6-1 249 1 Temple [Blitz] [0] 75
+OLB Prince Matos 6-1 254 R Louisville [Blitz] [0] 76
+CB Blake Turner 6-3 176 2 Ohio State [Man Coverage] [-2] 82
+CB Aaron Stiles 5-11 180 3 Tennessee [Man Coverage] [0] 81
+CB Kamari Cheatham 5-10 221 R NC State [Man Coverage] [0] 79 ?
+CB Joshua Saunders 6-3 198 4 USF [Man Cove rage] [0] 75
+CB Richard Lewis 6-1 189 3 USF [Man Coverage] [0] 73
+FS Kenneth Schwartz 5-10 166 3 Maryland [Zone Coverage] [0] 81
+FS Matthew Dyson 5-11 216 R TCU [Man Coverage] [0] 78
+FS Edward Harrison 5-10 168 5 Northwestern [Man Coverage] [0] 81
+SS R.C. Rone 6-1 204 8 Oklahoma State [Zone Coverage] [+1] 92
+SS Jose Leon 5-11 202 2 Georgia [Zone Coverage] [0] 80?
+K Justin Nielsen 5-11 203 3 Texas A&M [Power] [-1] 89?
+P Tommy Brown 6-1 171 7 Minnesota [Accuracy] [0] 82

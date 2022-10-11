@@ -1,0 +1,57 @@
+ Philadelphia Eagles (7-2) at Dallas Cowboys (5-4)
+
+Arlington, TX - 73 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (7-2) 	3 	7 	3 	3 	- 	16
+:cowboys: Dallas Cowboys (5-4) 	0 	6 	10 	3 	- 	19
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:cowboys: Dallas Cowboys
+Injuries 	Roy Davis, WR - Moderate Neck Bruise 	Erasmus High, TE - Severe Achilles Rupture
+Offensive Line Rating 	8.4 	9.4
+Sacks 	1 	1
+Punting 	42.1 	41.6
+Punt Return Yards 	13 	30
+Kick Return Yards 	30 	28
+Turnovers 	2 	2
+3rd Down Conversion 	6/13 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/48 	5/40
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	16/24 	180 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	14 	69 	0 	18 	1/1
+Marshawn Miller 	11 	58 	0 	15 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Michael Hawkins 	4 	57 	0 	0 	0/0
+Christopher Johnson 	3 	51 	0 	0 	0/0
+Adam Vann 	4 	40 	0 	0 	0/0
+Marshawn Miller 	2 	23 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ulysses Smith 	5/1 	1.0 	0/0 	0/0 	0/0
+Rodrick Milligan 	6/0 	- 	0/0 	0/0 	0/0
+Joe Johnson 	6/0 	- 	0/0 	0/0 	0/0
+Donald Collier 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	3/4 	1/1 	30, 38, 24 - 56
+	
+:cowboys: Dallas Cowboys
+Wing T 2RB - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	14/19 	140 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	15 	84 	0 	25 	0/0
+Adrian Robinson 	13 	45 	0 	11 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kurt Hill 	3 	50 	0 	0 	0/0
+Francisco Gibson 	3 	40 	1 	1 	0/0
+Erasmus High 	3 	28 	0 	0 	1/1
+Benjamin Franklin 	2 	17 	0 	0 	1/1
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Emmanuel Slade 	3/0 	- 	1/0 	0/0 	0/0
+Kendall Hill 	4/1 	1.0 	0/0 	0/0 	0/0
+Adam Taylor 	6/1 	- 	0/0 	0/0 	0/0
+Cleo Blair 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	4/4 	1/1 	38, 25, 56, 51 

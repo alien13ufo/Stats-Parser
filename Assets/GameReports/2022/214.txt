@@ -1,0 +1,67 @@
+ Houston Texans (4-9) at Philadelphia Eagles (10-3) ?
+
+Philadelphia, PA - 33 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (4-9) 	7 	13 	7 	7 	- 	34
+:eagles: Philadelphia Eagles (10-3) 	3 	7 	0 	7 	- 	17
+Team Stats Comparison
+  	:texans: Houston Texans 	:eagles: Philadelphia Eagles
+Injuries 	No Injuries 	OG Robert Fontenot - Moderate Hamstring Tendonitis
+Top Player Grade 	WR Marvin White (9.01) 	RB Marshawn Miller (8.50)
+Worst Player Grade 	OLB Andre Gasaway (0.73) 	OLB Donald Collier (0.95)
+Offensive Line Rating 	8.28 	8.19
+Sacks 	1 	1
+Punting 	46.0 	43.6
+Punt Return Yards 	11 	2
+Kick Return Yards 	47 	72
+Turnovers 	0 	1
+3rd Down Conversion 	5/11 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/55 	4/37
+:texans: Houston Texans
+Air Raid - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	30/50 	338 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0 ??
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Arturo Pacheco 	9 	51 	1 	16 	0/0
+Brendan Milton 	2 	5 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Scarborough 	7 	109 	1 	1 	0/0
+Marvin White 	10 	102 	1 	0 	0/0
+Cameron Lindsey 	3 	46 	0 	1 	0/0
+Kendall Brandon 	4 	37 	1 	0 	1/0
+Arturo Pacheco 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Reynaldo Harris 	6/0 	- 	1/1 	0/0 	0/0
+Robert Fulton 	4/3 	1.0 	0/0 	0/0 	0/0
+Bob Ballard 	4/1 	- 	0/0 	1/0 	0/0
+Blair Williams 	7/0 	- 	0/0 	0/0 	0/0
+Richard Jones 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	2/2 	4/4 	40, 40
+	
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	16/29 	177 	1 	1 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Miller 	12 	107 	1 	35T 	0/0
+Troy White 	8 	56 	0 	12 	0/0
+Allan Taylor 	6 	31 	0 	17 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Michael Hawkins 	4 	61 	0 	1 	0/0
+Justin Evans 	4 	39 	1 	0 	0/0
+Cameron Whelahan 	2 	26 	0 	2 	0/0
+Sebastian Babb 	2 	21 	0 	0 	0/0
+Erik Bray 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL ? 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ryan Frey 	2/0 	0.5 	0/0 	0/0 	0/0
+Tommy Brooks 	1/0 	0.5 	0/0 	0/0 	0/0
+Joe Johnson 	4/0 	- 	0/0 	1/0 	0/0
+Travaris Jackson 	3/0 	- 	0/1 	0/0 	0/0
+DeAndre Hawkins 	2/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Mark Kirschbaum 	1/2 	2/2 	25 - 50 

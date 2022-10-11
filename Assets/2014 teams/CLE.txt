@@ -1,0 +1,35 @@
+QB Alexander Williams 6-0 187 R Texas A&M [Scrambling] 79
+QB Eric Werden 6-3 199 1 Kansas State [Pocket] 40
+RB Don Williams 5-10 226 R Washington [Speed] 81
+RB Trace Buchanan 6-0 187 R UCF [Power] 61
+FB Andre Reese 5-11 230 R Texas Tech [Speed] 52
+WR Wesly Anderson 6-0 170 R Boise State [Target] 78
+WR RayLee Marconi 6-5 180 R Syracuse [Speed] 70
+WR Dale Womack 6-2 183 R Oregon [Speed] 50
+WR Patrick Lawrence 6-2 192 1 Arizona [Target] 40
+TE Jack Stewart 6-4 227 R Michigan State [Run Blocking] 62
+TE Ralph Wells 6-6 239 R Texas A&M [Pass Blocking] 60
+OT Larry Shelton 6-4 318 R UCLA [Pass Blocking] 58
+OG Rudy Bettis 6-5 281 R Texas A&M [Run Blocking] 55
+OG Larry Rolle 6-0 313 R Wisconsin [Pass Blocking] 50
+C Josh McCoy 6-2 230 1 Alabama [Run Blocking] 40
+OG Sammy Baxter 6-4 283 R USC [Run Blocking] 68
+OG Harold Needish 6-4 265 1 Texas [Pass Blocking] 40
+OT Wayne Duffy 6-0 309 R Cincinnati [Run Blocking] 65
+OT Marcellus Goodson 6-5 285 1 Arizona State [Pass Blocking] 40
+DE Sean Springs 6-4 229 1 UCLA [Run Stop] 40
+DT Herb Gabriel 6-8 300 R West Virginia [Pass Stop] 62
+DT Charles Randolph 6-7 284 R Pittsburgh [Run Stop] 59
+DE Mike Alexander 6-0 285 R Texas Tech [Pass Stop] 61
+DE KJ Mitchell 6-3 240 1 Navy [Pass Stop] 40
+OLB Darian Mathis 6-0 253 R Texas Tech [Pass Man-to-Man] 71
+ILB Stephen Garza 6-0 234 R Oregon State [Pass Zone] 60
+ILB Walt Trearden 6-2 239 1 Ohio State [Pass Zone] 40
+OLB Mike Nomellini 6-1 239 R NC State [Run Zone] 56
+OLB Quinn Parker 6-3 230 1 Boise State [Run Man-to-Man] 40
+CB Tony Ross 5-11 188 R Florida State [Zone Coverage] 72
+CB Alan Ferrell 5-8 162 R Ohio State [Zone Coverage] 67
+CB Victor Newsome 5-10 166 1 Tennessee [Zone Coverage] 40
+FS Randy Moulds 6-2 198 R Missouri [Man Coverage] 74
+SS Jeff Hudson 6-0 183 R Clemson [Zone Coverage] 70
+K Ryan Brown 6-4 171 R Colorado [Power] 53

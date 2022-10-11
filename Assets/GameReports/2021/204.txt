@@ -1,0 +1,57 @@
+ Washington Redskins (7-5) at Kansas City Chiefs (7-5)
+
+London, ENG - 48 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:redskins: Washington Redskins (7-5) 	7 	3 	0 	7 	- 	17
+:chiefs: Kansas City Chiefs (7-5) 	3 	7 	0 	14 	- 	24
+Team Stats Comparison
+  	:redskins: Washington Redskins 	:chiefs: Kansas City Chiefs
+Injuries 	No Injuries 	Harry Whiteside, WR - Severe Calf Strain
+Offensive Line Rating 	8.5 	7.9
+Sacks 	2 	1
+Punting 	48.5 	42.2
+Punt Return Yards 	33 	5
+Kick Return Yards 	21 	20
+Turnovers 	2 	1
+3rd Down Conversion 	4/13 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/72 	3/36
+:redskins: Washington Redskins
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	26/43 	280 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ernest Tomlinson 	12 	35 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tony DeMarco 	9 	109 	1 	0 	0/0
+Sam Hiller-Weeden 	5 	66 	0 	1 	0/0
+Ken Brown 	5 	53 	1 	1 	0/0
+Eddie McFadden 	3 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Michael Barber 	2/0 	- 	1/0 	0/0 	0/0
+Mike Hill 	3/0 	1.0 	0/0 	0/0 	0/0
+Nathaniel Jeffries 	3/0 	1.0 	0/0 	0/0 	0/0
+Fred Romanowski 	5/2 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	1/2 	2/2 	44 - 49
+	
+:chiefs: Kansas City Chiefs
+Spread - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Javier Fields 	14/21 	170 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	15 	63 	1 	13 	1/0
+Justin Buchanan 	10 	41 	1 	15 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Spec Davidson 	5 	64 	1 	0 	0/0
+Rodney Montgomery 	3 	44 	0 	0 	0/0
+Justin Hill 	2 	30 	0 	0 	0/0
+Richard Frazier 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Teddy Walker 	2/0 	- 	1/0 	0/0 	0/0
+Andrew Boyd 	1/0 	- 	1/0 	0/0 	0/0
+Jeffrey Chung 	3/1 	1.0 	0/0 	0/0 	0/0
+Arlie LeClair 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	1/1 	3/3 	44 

@@ -1,0 +1,52 @@
+QB R.J. Stanford 5-11 203 R Arkansas [Pocket] 80
+QB Dick Cook 6-2 205 1 Florida State [Scrambling] 83
+QB Greg Cunningham 6-2 199 R Connecticut [Pocket] 75
+RB Sterling Brown 6-0 174 2 Texas [Power] 88
+RB Robert Rodriguez 5-11 226 3 MississippiState [Speed] 77
+RB Vernon Haggan 5-11 191 R Utah [Speed] 75
+RB David Ortiz 5-10 207 4 BYU [Power] 74
+FB Harlon Collins 6-1 226 1 LSU [Power] 82
+WR Mark Harrington 6-6 177 1 Penn State [Speed] 82
+WR Cotton Lewis 6-1 182 1 Auburn [Target] 83
+WR Keith Setzer 6-2 213 R Boise State [Speed] 76
+WR Aric Greene 6-0 214 3 Nebraska [Target] 75
+WR Lee Lowe 6-6 180 2 Utah [Speed] 72
+WR Billy Williams 6-6 172 3 Texas [Speed] 68
+TE Joe Barrett 6-3 249 3 MississippiState [Pass Blocking] 83
+TE Chris Gano 6-4 235 R Stanford [Run Blocking] 79
+TE Jim Morgan 6-6 238 3 TexasTech [PassBlocking] 74
+OT John Smith 6-2 310 3 BostonCollege [Pass Blocking] 84
+OT Alan Holmes 6-7 301 2 Arizona [PassBlocking] 82
+OT Rich Manget 6-8 276 R Ole Miss [Pass Blocking] 76
+OT Mark Barry 6-6 350 3 Florida [RunBlocking] 69
+OG Brian Olszewski 6-6 274 R Florida [Run Blocking] 81
+OG Jerris Jordan 6-5 296 4 Georgia [Pass Blocking] 83
+OG James Redd 6-0 296 1 Iowa [Run Blocking] 77
+C Arnold Smith 6-4 289 2 Texas [RunBlocking] 80
+C Fred Coulter 6-5 290 R Houston [Pass Blocking] 66
+DE Curtis Lewis 6-8 283 2 Texas [PassStop] 90
+DE Keyshawn Vance 6-2 240 1 Iowa [Pass Stop] 76
+DE Laurence Danielson 6-4 283 3 Wisconsin [PassStop] 73
+DE Ron Rasby 6-1 275 R Michigan [Run Stop] 72
+DT Joe Micho 6-7 300 4 NotreDame [RunStop] 83
+DT Brad Mungro 6-6 284 2 Minnesota [PassStop] 83
+DT Lance Baker 6-4 328 3 Colorado [PassStop] 70
+DT John Morgan 6-8 255 1 Kansas [Pass Stop] 65
+ILB Dennis Smith 6-0 251 3 Northwestern [RunMan-to-Man] 79
+ILB Freddy Suarez 6-2 226 R Maryland [Run Man-to-Man] 77
+OLB Kenyatta Henderson 5-11 228 2 OleMiss [PassMan-to-Man] 90
+OLB Peter Williams 6-0 213 R Virginia Tech [Pass Man-to-Man] 77
+OLB Michael Clark 6-2 225 2 BYU [RunMan-to-Man] 72
+OLB Cliff Loyd 6-0 220 1 Tennessee [Pass Man-to-Man] 69
+CB Will Hall 5-10 224 R USC [Zone Coverage] 83
+CB Allen Foster 6-1 172 1 Missouri [Man Coverage] 76
+CB Stephen Mitchell-Morrison 6-1 203 R Air Force [Zone Coverage] 75
+CB Charles Francis 6-2 186 4 Georgia [ZoneCoverage] 70
+CB Carl Robinson 6-3 185 R USF [Zone Coverage] 68
+FS Alex Collins 6-0 214 4 Auburn [Man Coverage] 88
+FS Haven Wiley 5-10 181 R LSU [Man Coverage] 73
+SS Walter Dorow 5-11 200 1 Georgia [Man Coverage] 80
+SS Joe Galloway 6-0 185 1 Cincinnati [Man Coverage] 66
+K Stanley Brewster 6-1 204 1 Pittsburgh [Accuracy] 84
+K Cecil Jones 6-1 213 4 Georgia [Power] 77
+P Ken Toretta 6-3 204 3 WashingtonState [Accuracy] 80

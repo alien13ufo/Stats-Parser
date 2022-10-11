@@ -1,0 +1,46 @@
+QB Erik Wegert 6-4 218 2 Wisconsin [Pocket] 89
+QB James Dale 6-2 213 1 Pittsburgh [Pocket] 81
+RB O.J. Carano 5-11 217 3 Minnesota [Power] 94
+RB Eddie Anderson 5-10 173 1 Missouri [Power] 76
+RB Marvin Washington 5-8 178 R California [Speed] 75
+FB Cyril Harris 6-0 230 1 Nebraska [Power] 74
+WR Paul Howell 6-0 191 3 Mississippi State [Target] 90
+WR Charlie Paul 5-9 163 2 Maryland [Target] 85
+WR Jim Umenyiora 6-2 197 2 NC State [Speed] 83
+WR Rod Woodley 6-2 199 4 Stanford [Speed] 72
+WR Dennis Carr 5-11 193 1 Iowa [Target] 71
+WR Jesse Scott 5-11 179 R Purdue [Speed] 67
+TE Charlie Wilson 6-7 247 3 GeorgiaTech [RunBlocking] 87
+TE Charlie Bryson 6-6 231 3 OklahomaState [RunBlocking] 76
+TE Kavika Russell 6-1 223 R Oklahoma [Pass Blocking] 72
+OT Darnerien Sohn 6-7 306 R Miami (FL) [Pass Blocking] 82
+OT Lyle Matthews 6-1 343 1 Arizona State [Pass Blocking] 80
+OT Mike Cavanaugh 6-6 323 3 NCState [PassBlocking] 80
+OT Erik Russell 6-6 296 3 OhioState [PassBlocking] 75
+OG Joe Farmer 6-1 322 3 VirginiaTech [RunBlocking] 96
+OG David Schlereth 6-4 298 2 Wisconsin [Pass Blocking] 86
+OG Tavon Logan 6-4 304 R Florida State [Run Blocking] 68
+C T.J. Brumm 6-1 267 1 Arizona State [Pass Blocking] 83
+DE Alvis Brumm 6-6 268 4 Penn State [RunStop] 99
+DE Karim Brown 6-6 270 2 Nebraska [Pass Stop] 73
+DE Sidney Burris 6-3 274 3 OregonState [RunStop] 72
+DE Charlie Bacon 6-4 269 R Ole Miss [Pass Stop] 67
+DT Bob Ballard 6-1 292 3 PennState [PassStop] 88
+DT Walter Scott 6-1 293 3 OleMiss [RunStop] 77
+DT James Arnold 6-8 291 R Cincinnati [Run Stop] 76
+DT Chris James 6-3 285 R North Carolina [Run Stop] 74
+OLB Kwazi Robb 6-1 232 4 Minnesota [PassMan-to-Man] 89
+OLB Tommy Leonard 6-1 229 4 Nebraska [RunMan-to-Man] 80
+OLB Clarence Harris 6-1 242 3 Purdue [RunMan-to-Man] 72
+OLB Matt Okoye 5-11 217 R Florida State [Pass Man-to-Man] 67
+ILB Zion Adakwa 6-2 224 1 Illinois [Run Man-to-Man] 81
+ILB De'Mond Goode 6-1 232 4 TCU [PassMan-to-Man] 73
+CB John Queen 5-11 196 4 LSU [ManCoverage] 88
+CB Marques Warner 6-1 193 2 Texas A&M [Man Coverage] 84
+CB Rufus Freeman 5-10 186 2 Pittsburgh [Man Coverage] 71
+CB Rolando Olafson 6-1 190 R Notre Dame [Man Coverage] 69
+FS Reshad Jenkins 5-11 198 R Houston [Man Coverage] 78
+SS Sebastian Vaughn 6-1 194 R Penn State [Zone Coverage] 80
+SS Taz Tomlinson 5-10 183 2 Minnesota [Man Coverage] 77
+K Chris Hoag 6-2 184 1 UCLA [Power] 84
+P John Maslowski 5-8 203 2 USC [Accuracy] 89

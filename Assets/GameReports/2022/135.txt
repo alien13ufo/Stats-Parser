@@ -1,0 +1,67 @@
+ Chicago Bears (1-7) at Buffalo Bills (4-4) ?
+
+Buffalo, NY - 43 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (1-7) 	17 	0 	3 	7 	- 	27
+:bills: Buffalo Bills (4-4) 	3 	7 	7 	3 	- 	20
+Team Stats Comparison
+  	:bears: Chicago Bears 	:bills: Buffalo Bills
+Injuries 	OG Jim Thomas - Moderate Toe Sprain 	No Injuries
+Top Player Grade 	RB Vaughan Abraham (8.16) 	WR Gary Faneca Sr. (8.44)
+Worst Player Grade 	FS Alyn Namath (4.16) 	RB Marshawn Matthison (3.00)
+Offensive Line Rating 	7.95 	8.21
+Sacks 	0 	1
+Punting 	45.3 	42.6
+Punt Return Yards 	124 (1) 	31
+Kick Return Yards 	56 	74
+Turnovers 	0 	1
+3rd Down Conversion 	3/13 	5/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/25 	7/71
+:bears: Chicago Bears
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mohammed Foster 	14/24 	180 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	16 	106 	1 	21 	0/0
+Norris Horton 	9 	30 	1 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Gaines 	3 	66 	0 	0 	0/0
+Peter Foster 	3 	32 	1 	1 	0/0
+Elijah Talley 	2 	23 	0 	0 ? 	0/0
+Charlie Paul 	2 	21 	0 	0 	0/0
+Donnie Allen 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jesse Hutchins 	3/0 	- 	1/0 	0/0 	0/0
+Akeel Morris 	8/0 	- 	0/0 	0/0 	0/0
+David Medley 	4/0 	- 	0/0 	0/0 	0/0
+Andrew Fazande 	3/0 	- 	0/0 	0/0 	0/0
+Alyn Namath 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Anthony Harris 	2/2 	3/3 	45, 27, 35
+	
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	22/40 	231 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	13 	39 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca Sr. 	7 	79 	1 	1 	0/0
+Drew Abbott 	3 	40 	0 	1 	0/0
+Isaiah Cronin 	3 	35 	1 	1 	0/0
+Kevin Garvin 	3 	31 	0 	0 	0/0
+Marshawn Matthison 	2 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Rodney Galbreath 	2/1 	1.0 	0/0 	0/0 	0/0
+Cyrus Paulsen 	7/0 	- ? 	0/0 	0/0 	0/0
+Brian Hernandez 	3/0 	- 	0/0 	0/0 	0/0
+Patrick Chaney 	3/0 	- 	0/0 	0/0 	0/0
+Mark Bassett 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	2/3 	2/2 	39, 32 - 45 ?

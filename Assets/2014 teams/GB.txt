@@ -1,0 +1,44 @@
+QB Jason Johnson 5-11 190 R UCLA [Pocket] 83
+QB Jimmie Torres 6-2 218 R Utah [Pocket] 52
+RB David Ortiz 5-10 207 R BYU [Power] 70
+RB Sean Woody 5-9 183 R Boston College [Speed] 61
+RB Jerton Michalik 5-10 204 R Oregon [Speed] 60
+FB Jerry Higgins 5-11 217 R Northwestern [Power] 57
+FB Derek Jensen 6-0 249 R Vanderbilt [Power] 50
+WR Wayne Wegert 6-5 188 R Notre Dame [Speed] 74
+WR Brian LeBlanc 6-5 176 R BYU [Target] 60
+WR Derek Nelson 6-6 197 R Navy [Target] 57
+WR Oliver Patrick 6-2 175 1 Oregon [Speed] 40
+WR Roger Danielsson 6-3 180 1 Minnesota [Target] 40
+TE Bernard Taylor 6-1 267 R Tennessee [Pass Blocking] 76
+TE Joseph Jones 6-6 239 R Oregon State [Pass Blocking] 49
+TE Joshua Davenport 6-2 240 R Maryland [Run Blocking] 49
+OT WK Badger 6-5 312 R Wisconsin [Pass Blocking] 55
+OT Cody Rodgers 6-0 304 R Kansas [Pass Blocking] 55
+OT Bobby Foster 6-8 329 R Auburn [Run Blocking] 48
+OG Larry Williams 6-5 308 R Baylor [Pass Blocking] 70
+OG Bryan Atkeson 6-3 286 R Vanderbilt [Pass Blocking] 53
+OG Joselio Lovetere 6-8 295 R Alabama [Pass Blocking] 48
+C Raymond Muhammad 6-4 292 R Virginia Tech [Run Blocking] 65
+DE Chris Henderson 6-5 271 R NC State [Run Stop] 57
+DE Tim Oakes 6-7 280 R Minnesota [Run Stop] 53
+DE Reggie Brown 6-7 260 R NC State [Run Stop] 49
+DE Geno Jarred 6-5 234 1 Northwestern [Pass Stop] 40
+DT Chris Williams 6-8 303 R Oklahoma State [Run Stop] 62
+DT Lloyd Fry 6-8 288 R Nebraska [Pass Stop] 55
+ILB Natrone Laird 6-1 248 R Oklahoma [Pass Man-To-Man] 59
+ILB Joseph Larsen 6-2 241 R Rutgers [Pass Zone] 60
+ILB Guy Erickson 6-1 227 R Maryland [Pass Zone] 51
+OLB Damione Ellis 6-2 249 R Oklahoma State [Pass Man-To-Man] 73
+OLB Stephen Hutchins 6-1 239 R Pittsburgh [Pass Zone] 58
+OLB Jimmy Sorbin 6-2 239 1 BYU [Run Man-to-Man] 40
+OLB Billy Mitchell 6-4 238 1 Oklahoma [Pass Zone] 40
+CB Brian Kelley 5-11 185 R Kansas [Zone Coverage] 60
+CB Lamar Miller 5-11 182 R Notre Dame [Man Coverage] 55
+CB Anthony McCoo 5-9 180 R Florida [Man Coverage] 52
+CB Jamie Bell 6-2 178 R Oklahoma [Man Coverage] 51
+FS LeRoy Holmes 5-11 185 R Miami [Zone Coverage] 68
+FS Michael Brooksheer 6-1 211 1 Virginia Tech [Man Coverage] 40
+SS Dan Maxwell 5-10 181 R Boise State [Zone Coverage] 69
+SS Richard Herndon 5-10 187 R Baylor [Zone Coverage] 51
+P Willie Hicks 5-8 185 R Tennessee [Power] 65

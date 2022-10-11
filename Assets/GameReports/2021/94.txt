@@ -1,0 +1,55 @@
+ Buffalo Bills (2-3) at New England Patriots (3-3)
+Foxborough, MA -  	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (2-3) 	7 	0 	14 	0 	- 	21
+:patriots: New England Patriots (3-3) 	14 	3 	7 	7 	- 	31
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:patriots: New England Patriots
+Injuries 	Robert Barraza, OT - Severe Foot Dislocation 	Jayshawn Watts, CB - Severe Hamstring Rupture
+Offensive Line Rating 	7.6 	8.2
+Sacks 	1 	4
+Punting 	43.5 	46.4
+Punt Return Yards 	18 	37
+Kick Return Yards 	23 	19
+Turnovers 	2 	1
+3rd Down Conversion 	5/14 	3/10
+4th Down Conversion 	0/0 	1/1
+Penalties 	8/126 	10/94
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Kamau Davis 	21/33 	289 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	17 	68 	1 	13 	1/1
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyron Chambers 	6 	92 	1 	0 	0/0
+Isaiah Cronin 	4 	90 	1 	0 	0/0
+Kevin Garvin 	5 	43 	0 	0 	0/0
+Matt Thomas 	3 	39 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sammy Grey 	6/0 	- 	1/2 	0/0 	0/0
+Rodney Galbreath 	3/0 	1.0 	0/0 	0/0 	0/0
+Richard Suarez 	5/0 	- 	0/0 	0/0 	0/0
+Chester Williams 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Darryl Lemus 	0/2 	3/3 	- 48, 53
+	
+:patriots: New England Patriots
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	22/29 	305 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ike Nimmo 	20 	78 	1 	14 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Jones 	5 	86 	1 	0 	0/0
+Carlos Perez 	6 	56 	1 	0 	0/0
+Jamel Beckham 	4 	52 	1 	0 	0/0
+Geno Harris 	3 	50 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dave Stokley 	2/0 	- 	1/1 	0/0 	0/0
+Mark Logan 	3/0 	2.0 	0/0 	0/0 	0/0
+Jeremy Owen 	4/0 	1.0 	0/0 	0/0 	0/0
+Mark Craig 	7/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	1/1 	4/4 	49 

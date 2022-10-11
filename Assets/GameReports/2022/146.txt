@@ -1,0 +1,67 @@
+ Indianapolis Colts (5-3) at New York Jets (3-5) ?
+
+East Rutherford, NJ - 48 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (5-3) 	0 	3 	6 	7 	- 	16
+:jets: New York Jets (3-5) 	0 	3 	10 	0 	- 	13
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:jets: New York Jets
+Injuries 	WR Messiah Bernard - Severe Toe Dislocation 	WR Israel Hawker - Mild Achilles Tendonitis
+Top Player Grade 	FS Dwayne Carter (8.50) 	FS Reshad Jenkins (9.34)
+Worst Player Grade 	TE Preston Gold (4.83) 	OLB Dennis Himes (3.00)
+Offensive Line Rating 	8.36 	8.50
+Sacks 	1 	3
+Punting 	43.6 	46.2
+Punt Return Yards 	4 	11
+Kick Return Yards 	56 	64
+Turnovers 	1 	2
+3rd Down Conversion 	3/12 	4/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/25 	7/50
+:colts: Indianapolis Colts
+Vertical - West Coast
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	32/55 	337 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	7 	26 	0 	6 	0/0
+Fred Tindale 	2 	5 	0 	3 	0/0
+- 	- 	- 	- 	- ? 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mosi Bartos 	14 	175 	1 	1 	0/0
+Fred Tindale 	6 	60 	0 	0 	0/0
+Cayden Reese 	5 	46 	1 	1 	0/0
+Sean McDermott 	4 	31 	0 	0 	0/0
+Preston Gold 	3 	25 	0 	2 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dwayne Carter 	5/0 	- 	1/1 	0/0 	0/0
+Chris Brown 	4/0 	- 	0/0 	1/1 	0/0
+Kelly Mitchell 	6/0 	- 	0/0 	0/0 	0/0
+Anthony Miller 	4/2 	- 	0/0 	0/0 	0/0
+Hudson Adam 	3/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	1/2 	1/2 	34 - 47
+	
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	21/36 	235 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	13 	43 	0 	9 	1/1
+Emmanuel Fields 	3 	-10 	0 	-1 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adam Coles 	7 	72 	0 	1 	0/0
+Paul Howell 	4 	53 	1 	0 	0/0
+Eli Austin 	3 	40 	0 	0 	0/0
+William Bouchard 	2 	26 	0 	1 	0/0
+Jason Dupree ? 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Corey Quinn 	2/0 	- 	1/1 	0/0 	0/0
+Reshad Jenkins 	6/0 	- 	0/3 	0/0 	0/0
+Sebastian Vaughn 	5/0 	- 	0/0 	0/0 	0/0
+Dennis Himes 	4/0 	- 	0/0 	0/0 	0/0
+Daquan Darcey 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	2/2 	1/1 	23, 27 ?

@@ -1,0 +1,65 @@
+ Cleveland Browns (2-0) at San Francisco 49ers (0-2) ?
+Santa Clara, CA - 70 F :windy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (2-0) 	7 	14 	6 	7 	- 	34
+:49ers: San Francisco 49ers (0-2) 	0 	0 	7 	3 	- 	10
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:49ers: San Francisco 49ers
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	FS Martin Hernandez (8.05) 	ILB Daleroy Smart (7.71)
+Worst Player Grade 	SS Antonio Oliver (5.02) 	QB Philip Rea (2.75)
+Offensive Line Rating 	8.50 	8.25
+Sacks 	1 	1
+Punting 	46.4 	43.2
+Punt Return Yards 	47 	11
+Kick Return Yards 	32 	85
+Turnovers 	0 	3
+3rd Down Conversion 	3/10 	2/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/83 	6/56
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	18/29 	222 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	21 	129 	2 	37T 	0/0
+Grady Mitchell 	8 	41 	0 	11 	0/0
+Ryan Clark 	2 	10 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason McClairen 	7 	102 	1 	0 	0/0
+Tai Miller 	3 	32 	0 	1 	0/0
+Morgan Patton 	2 	23 	1 	0 	0/0
+Ray Lee Marconi 	2 	20 	0 	0 	0/0
+Sean Bell 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Martin Hernandez 	3/0 	- 	1/1 	0/0 	1/0
+Cameron Marshall 	2/0 	- 	1/0 	0/0 	0/0
+Israel Greer 	1/0 	- 	1/0 	0/0 	0/0
+Gabriel Beauchamp 	4/1 	1.0 	0/0 	0/0 	0/0
+Ray McBride 	3/1 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	0/0 	4/5 	-
+	
+:49ers: San Francisco 49ers
+Wing T 2RB - Wishbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Philip Rea 	10/23 	104 	0 	3 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	16 	40 	1 	9 	0/0
+Vernon Haggan 	6 	21 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Branch 	3 	29 	0 	0 	0/0
+Miles Collins 	2 	25 	0 	0 	0/0
+Jarius Shaw-Dodd ? 	3 	22 	0 	0 	0/0
+Ben Thomas 	1 	16 	0 	0 	0/0
+Hugh Warren 	1 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Michael McBride 	5/0 	0.5 	0/0 	0/0 	0/0
+Parker Holmes 	3/0 	0.5 	0/0 	0/0 	0/0
+Daleroy Smart 	7/2 	- 	0/0 	0/0 	0/0
+Chris Reed 	4/1 	- 	0/0 	0/0 	0/0
+Bryce O'Donnell 	5/0 	- 	0/0 ? 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ??
+Vincent Comer 	1/1 	1/1 	37 ???

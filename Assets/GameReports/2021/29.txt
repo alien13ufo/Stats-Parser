@@ -1,0 +1,64 @@
+ Chicago Bears (1-0) at Los Angeles Rams (1-0)
+
+Inglewood, CA - 83 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (1-0) 	0 	7 	7 	14 	- 	28
+:rams: Los Angeles Rams (1-0) 	7 	0 	0 	7 	- 	14
+Team Stats Comparison
+  	:bears: Chicago Bears 	:rams: Los Angeles Rams
+Injuries 	
+
+Donnie Allen, TE - Mild Concussion
+
+ 
+	
+
+Derrick Schwartz, WR - Severe Quadriceps Tear
+
+Oronde Jackson, FS - Severe Hamstring Rupture
+Offensive Line Rating 	7.6 	8.5
+Sacks 	0 	3
+Punting 	46.3 	43.5
+Punt Return Yards 	44 	9
+Kick Return Yards 	23 	45
+Turnovers 	1 	1
+3rd Down Conversion 	6/12 	4/13
+4th Down Conversion 	0/0 	0/1
+Penalties 	7/85 	6/102
+:bears: Chicago Bears
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	22/34 	330 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Quincy Honeycutt 	20 	117 	1 	30 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Gaines 	8 	145 	2 	0 	0/0
+Donnie Allen 	5 	107 	1 	0 	0/0
+Brandon Snead 	3 	52 	0 	0 	0/0
+Aaron Pagliei 	3 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ivory Hull 	2/0 	- 	1/1 	0/0 	0/0
+Jeremiah Joseph 	8/0 	- 	0/0 	0/0 	0/0
+Akeel Morris 	6/1 	- 	0/0 	0/0 	0/0
+Kevin Harris 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Will Ladd 	0/2 	4/4 	- 40, 46
+	
+:rams: Los Angeles Rams
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	24/42 	285 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Frederick Chacon 	14 	21 	0 	7 	0/0
+Terrell Holland 	2 	3 	0 	2 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Walt Peck 	4 	100 	1 	0 	0/0
+Allama Banta 	8 	84 	1 	1 	0/0
+Kevin O'Neal 	4 	52 	0 	2 	0/0
+Andrew Williamson 	3 	29 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeremy Starks 	2/0 	- 	1/0 	0/0 	0/0
+Anthony Beltran 	5/1 	1.5 	0/0 	0/0 	0/0
+Michael Bruce 	4/0 	1.5 	0/0 	0/0 	0/0
+Daniel Watkins 	7/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Hunter Hendrickson 	0/1 	2/2 	- 42 

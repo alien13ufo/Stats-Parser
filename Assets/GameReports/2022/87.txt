@@ -1,0 +1,67 @@
+ Jacksonville Jaguars (4-1) at Los Angeles Chargers (1-4) ?
+
+Inglewood, CA - 80 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jaguars: Jacksonville Jaguars (4-1) 	14 	7 	0 	17 	- 	38
+:chargers: Los Angeles Chargers (1-4) 	0 	14 	7 	3 	- 	24
+Team Stats Comparison
+  	:jaguars: Jacksonville Jaguars 	:chargers: Los Angeles Chargers
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	RB Asante Sowell (8.95) 	TE Scott Howard (7.05)
+Worst Player Grade 	DT Ronald Barker (4.02) 	RB Brannon Austin (3.45)
+Offensive Line Rating 	8.30 	8.04
+Sacks 	4 	2
+Punting 	48.6 	44.0
+Punt Return Yards 	25 	14
+Kick Return Yards 	75 	96
+Turnovers 	1 	2
+3rd Down Conversion 	6/11 	5/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/56 	7/74
+:jaguars: Jacksonville Jaguars
+Pro Style - Vertical ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	29/45 	349 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	16 	116 	2 	31T 	0/0
+Isaiah Peko 	5 	36 	0 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Raheem Robinson 	10 	105 	0 	0 	0/0
+Marcus Holmes 	6 	85 	1 	0 	0/0
+Taylor Eifert 	3 	74 	1 	1 	0/0
+Tyrone Turner 	4 	56 	0 	0 	0/0
+Isaiah Peko 	2 	32 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jay Wade 	3/0 	- 	1/0 	0/0 	0/0
+Donnie Bavaro 	2/0 	- 	1/0 	0/0 	0/0
+Preston Bryant 	3/0 	3.0 	0/0 	0/0 	0/0
+Ron Rice 	1/0 	1.0 	0/0 	0/0 	0/0
+Christian Haywood 	7/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	1/1 	5/5 	40
+	
+:chargers: Los Angeles Chargers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	24/39 	260 	3 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	9 	22 	0 	7 	0/0
+Mamadou Heard 	3 	18 	0 	7 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	5 	75 	1 	0 	0/0
+Greg Cobb 	4 	45 	0 	1 	0/0
+Jarvis Ward ? 	4 	42 	0 	1 	0/0
+M.L. Kriewaldt 	4 	40 	1 	0 	0/0
+Gerald Morrison 	3 	34 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Austin Sheppard 	2/0 	- 	1/0 	0/0 	0/0
+Shane Easley 	5/1 	1.0 	0/0 	0/0 	0/0
+Isaiah Hall 	3/0 	1.0 	0/0 	0/0 	0/0
+Tunch Richardson 	7/0 	- ? 	0/0 	0/0 	0/0
+Christopher Malone 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	1/1 	3/3 	41 

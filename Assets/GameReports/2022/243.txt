@@ -1,0 +1,67 @@
+ Cleveland Browns (7-8) at Baltimore Ravens (7-8) ?
+
+Baltimore, MD - 36 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (7-8) 	0 	0 	14 	7 	- 	21
+:ravens: Baltimore Ravens (7-8) 	7 	3 	7 	14 	- 	31
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:ravens: Baltimore Ravens
+Injuries 	OT Nick Grant - Mild Wrist Sprain 	No Injuries
+Top Player Grade 	QB Ryan Clark (7.40) 	RB Moussa Goode (8.05)
+Worst Player Grade 	FS Martin Hernandez (2.85) 	OT Mendy Chaney (3.06)
+Offensive Line Rating 	7.94 	8.09
+Sacks 	3 	3
+Punting 	46.3 	43.6
+Punt Return Yards 	5 	14
+Kick Return Yards 	102 	67
+Turnovers 	2 	1
+3rd Down Conversion 	4/11 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/54 	4/26
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	13/24 	144 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Grady Mitchell 	12 	55 	1 	9 	1/1
+Nathan Wilson 	13 	40 	0 	15 	0/0
+Ryan Clark 	4 	22 	0 	13 ? 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tai Miller 	5 	56 	0 	0 	0/0
+Ray Lee Marconi 	2 	32 	1 	0 	0/0
+Morgan Patton 	2 	24 	1 	0 	0/0
+Dean Burkhart 	2 	14 	0 	0 	0/0
+Kevin McMullen 	1 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Israel Greer 	2/0 	- 	1/0 	0/0 	0/0
+Gabriel Beauchamp 	5/2 	1.0 	0/0 	0/0 	0/0
+Ray McBride 	3/1 	1.0 	0/0 	0/0 	0/0
+C.J. Thomas 	4/0 	1.0 	0/0 	0/0 	0/0
+Antonio Oliver 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	0/1 	3/3 	- 46
+	
+:ravens: Baltimore Ravens
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	19/26 	237 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	16 	102 	2 	28T 	0/0
+Booker T. Washington 	13 	56 	0 	20 	0/0
+Brett Fisher 	5 	25 	0 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Wells 	4 	75 	1 	0 	0/0
+Danny Patrick 	5 	55 	1 	0 	0/0
+Ryan Mitchell 	3 	44 	0 	0 	0/0
+Darrell Mack 	2 	26 	0 	0 	0/0
+Sean Waller 	2 	24 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Bernard McLeod 	2/0 	- 	1/1 	0/0 	0/0
+Tyrone Jones 	6/0 	1.5 	0/0 	0/0 	0/0
+Alexander Hardison 	5/0 	1.0 	0/0 ? 	0/0 	0/0
+Kenyatta Henderson 	4/0 	0.5 	0/0 	0/0 	0/0
+Adam Newman 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	1/1 	4/4 	39 ?

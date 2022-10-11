@@ -1,0 +1,79 @@
+ Houston Texans (1-1) at Buffalo Bills (2-0) ?
+Buffalo, NY - 69 F :cloudy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (1-1) 	0 	7 	3 	16 	- 	26
+:bills: Buffalo Bills (2-0) 	0 	6 	7 	10 	- 	23
+Team Stats Comparison
+  	:texans: Houston Texans 	:bills: Buffalo Bills
+Injuries 	
+
+OLB Richard Jones - Severe Hamstring Bruise
+
+K Riley McNeil - Severe Groin Pull
+
+RB Brendan Milton - Severe Hip Bruise
+	
+
+QB Matt Jones - Mild Thumb Sprain
+
+OLB Brian Hernandez - Severe Back Disc Tear
+
+ 
+Top Player Grade 	DT Bob Ballard (8.50) 	FS Sammy Grey (8.36)
+Worst Player Grade 	OLB Ahmed London (3.42) 	SS Kevin Briggs (2.17)
+Offensive Line Rating 	8.31 	8.20
+Sacks 	3 	2
+Punting 	52.0 	43.2
+Punt Return Yards 	32 	9
+Kick Return Yards 	47 	64
+Turnovers 	1 	1
+3rd Down Conversion 	5/13 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/65 	5/32
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	23/34 	250 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brendan Milton 	10 	41 	0 	6 	0/0
+Arturo Pacheco 	9 	38 	1 	9T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marvin White 	7 	76 	1 	0 	0/0
+Jeremy Scarborough 	5 	55 	1 	0 	0/0
+Arturo Beckham 	3 	38 	0 	1 	0/0
+Spencer Saul 	2 	22 	0 	0 	0/0
+Kendall Brandon 	3 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tom Wyman 	4/0 	- 	1/0 	0/0 	0/0
+Bob Ballard 	3/2 	1.5 	0/0 	0/0 	0/0
+Robert Fulton 	5/0 	1.0 	0/0 	0/0 	0/0
+Richard Jones 	2/0 	0.5 	0/0 	0/0 	0/0
+Dillon Grant 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil	2/2	2/2	39, 36
+Joe Wood 	0/0	0/1	-
+	
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	19/28 	189 	1 	1 	0/0
+Kamau Davis 	3/5 	29 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	16 	50 	0 	10 	1/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca 	7 	80 	1 	0 	0/0
+Isaiah Cronin 	3 	32 	0 	0 	0/0
+Kevin Garvin 	4 	30 	0 	1 	0/0
+Matt Thomas 	2 	27 ? 	0 	0 	0/0
+Chance Billingsley 	2 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sammy Grey 	6/0 	- 	1/1 	0/0 	0/0
+Anthony Ortiz 	3/2 	1.0 	0/0 	0/0 	0/0
+Rodney Galbreath 	2/2 	1.0 	0/0 	0/0 	0/0
+Richard Suarez 	5/0 	- 	0/0 	0/0 	0/0
+D.J. Reed 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Derek LeBlanc  	3/5  	2/2  	40, 22, 31 - 60, 47

@@ -1,0 +1,67 @@
+ Miami Dolphins (4-0) at Las Vegas Raiders (4-1) ?
+
+Las Vegas, NV - 82 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:dolphins: Miami Dolphins (4-0) 	7 	14 	7 	7 	- 	35
+:raiders: Las Vegas Raiders (4-1) 	0 	3 	7 	0 	- 	10
+Team Stats Comparison
+  	:dolphins: Miami Dolphins 	:raiders: Las Vegas Raiders
+Injuries 	OLB Alton Drazenovich - Moderate Calf Strain 	No Injuries
+Top Player Grade 	- 	-
+Worst Player Grade 	WR Sam Baugh (1.85) 	-
+Offensive Line Rating 	8.21 	8.19
+Sacks 	2 	1
+Punting 	43.3 	45.6
+Punt Return Yards 	32 	4
+Kick Return Yards 	24 	94
+Turnovers 	0 	2
+3rd Down Conversion 	5/11 	3/13
+4th Down Conversion 	0/0 	0/1
+Penalties 	5/25 	5/58
+:dolphins: Miami Dolphins
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	26/40 	318 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	19 	102 	1 	14 	0/0
+Caleb Sherwin 	4 	27 	1 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marion Reeder 	8 	112 	1 	0 	0/0
+D.J. Gibson 	5 	75 	1 	0 	0/0
+J.C. Weldon 	4 	54 	1 	0 	0/0
+Jim Umenyiora 	3 	43 	0 	1 	0/0
+Elias Langston 	2 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Justin Davis 	2/0 	- 	1/2 	0/0 	0/0
+Dexter Flowers 	2/1 	1.0 	0/0 	0/0 	0/0
+Josh Wilson 	3/0 	1.0 	0/0 	0/0 	0/0
+Phillip Moore 	7/0 	- 	0/1 	0/0 	0/0
+Michael Williams 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	0/0 	5/5 	-
+	
+:raiders: Las Vegas Raiders
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	13/26 	122 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	10 	29 	0 	8 	1/1
+Quincy Turner 	4 	-2 	0 	2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING ? 	REC 	YDS 	TD 	DRP 	F/L
+Mike Tripplett 	3 	26 	0 	1 	0/0
+Lamont Crawford 	1 	24 	1 	0 	0/0
+Darryl McGlockton 	2 	20 	0 	1 	0/0
+Malcolm Davis 	3 	16 	0 	0 	0/0
+Brian Gary 	2 	13 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Alexander Baumgartner 	3/0 	1.0 	0/0 	0/0 	0/0
+Shah Vereen 	5/1 	- 	0/0 	0/0 	0/0
+Alex Martin 	4/1 	- 	0/0 	0/0 	0/0
+Randall Jones 	6/0 	- 	0/0 	0/0 	0/0
+David Pennington 	3/0 	- 	0/0 ?? 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	1/2 	1/1 	32 - 47 

@@ -1,0 +1,66 @@
+ New England Patriots (5-6) at Baltimore Ravens (5-6)
+
+Baltimore, MD - 49 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:patriots: New England Patriots (5-6) 	6 	7 	0 	0 	0 	13
+:ravens: Baltimore Ravens (5-6) 	3 	7 	0 	3 	3 	16
+Team Stats Comparison
+  	:patriots: New England Patriots 	:ravens: Baltimore Ravens
+Injuries 	
+
+Randy Lehr, OLB - Severe Toe Sprain
+
+ 
+	
+
+Adrian Allen, WR - Mild Concussion
+
+Louis Peterson, OLB - Mild Achilles Bruise
+Offensive Line Rating 	8.5 	7.9
+Sacks 	3 	2
+Punting 	46.5 	43.3
+Punt Return Yards 	25 	19
+Kick Return Yards 	0 	0
+Turnovers 	3 	3
+3rd Down Conversion 	4/15 	3/13
+4th Down Conversion 	1/2 	0/1
+Penalties 	4/35 	8/70
+:patriots: New England Patriots
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	17/32 	173 	1 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daniel Hutchins 	14 	29 	0 	7 	1/1
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Geno Harris 	6 	65 	1 	0 	0/0
+Jamel Beckham 	3 	33 	0 	0 	0/0
+Jake Bates 	3 	30 	0 	1 	0/0
+George Lewis 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Norris Nolan 	6/0 	- 	1/0 	0/0 	0/0
+Jeremy Owen 	4/0 	1.5 	0/0 	1/1 	0/0
+Willard Arnold 	6/0 	- 	0/0 	1/0 	0/0
+Peter Williams 	5/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	2/3 	1/1 	30, 28 - 44
+	
+:ravens: Baltimore Ravens
+Option - Wishbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	10/20 	122 	0 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Davey Jones 	23 	89 	1 	33T 	1/1
+Brett Fisher 	6 	14 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Wells 	5 	74 	0 	1 	0/0
+Kevin Knight 	2 	20 	0 	0 	1/1
+Sean Waller 	2 	16 	0 	0 	0/0
+Adrian Allen 	1 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Troy Marshall 	3/0 	- 	1/1 	0/0 	0/0
+Tommy Wietecha 	2/0 	1.0 	0/0 	1/1 	0/0
+Matthew Davis 	3/0 	1.0 	0/0 	0/0 	0/0
+Tom Lavergne 	4/1 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	3/4 	1/1 	44, 28, 30 - 56 

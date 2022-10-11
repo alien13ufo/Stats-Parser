@@ -1,0 +1,61 @@
+QB Matty Swift 5-11 198 2 Texas A&M [Pocket] 85
+QB Will Thompson 6-3 191 7 USC [Pocket] 83
+QB Doug Kirby 5-11 199 3 LSU [Pocket] 83
+RB Mamadou Heard 5-9 211 2 Maryland [Power] 78
+RB Brannon Austin 5-10 195 R FIU [Power] 75
+FB Raphael Fulton 6-1 221 3 Southeast Community College [Run Blocking] 81
+FB Andrew Lilly 5-10 202 R SDSU [Pass Blocking] 79
+WR M.L. Kriewaldt 5-8 170 6 Louisville [Speed] 88
+WR Tommy Pottios 6-6 183 3 Georgia Tech [Speed] 83
+WR Mark Harrington 6-6 177 4 Penn State [Speed] 82
+WR Gerald Morrison 6-6 210 1 Boston College [Target] 79
+WR Bill Hardy 5-11 190 4 California [Target] 77
+WR Will London 6-3 205 2 Tennessee [Target] 73
+TE Scott Howard 6-6 236 6 Northwestern [Receiving] 98
+TE Damian Mason 6-7 225 R Butler [Receiving] 79
+TE Justin Burris 6-4 205 R Missouri [Blocking] 74
+OT Charlie Ellis 6-4 309 4 Washington State [Pass Blocking] 82
+OT Demetrius Jett 6-5 300 3 North Carolina [Run Blocking] 83
+OT Chris DeMarco 6-7 319 6 Georgia [Run Blocking] 77
+OT Ari Kern 6-2 327 R Kansas State [Pass Blocking] 74
+OG Josh Hall 6-6 296 7 Oklahoma [Pass Blocking] 83
+OT Justin Way 6-2 294 R Marshall [Pass Blocking] 80
+OG Robert Grant 6-3 291 1 Kentucky [Run Blocking] 78
+OG Ousmane Nixon 6-2 307 R TCU [Pass Blocking] 75
+C Don Teteak 6-0 293 4 Washington [Pass Blocking] 84
+C Kevin Jones 6-4 310 4 Duke [Pass Blocking] 75
+DE Jeffrey Chung 6-4 272 2 Alabama [Blitz] 83
+DE Joey Green 6-1 260 3 Boston College [Contain] 78
+DE Jarius Davis 6-3 261 4 Oklahoma [Blitz] 75
+DT Andrew Pearson 6-3 321 2 Boise State [2-Gap] 82
+DT Zion Hopkins 6-6 299 1 Michigan [2-Gap] 80
+DT Nathan Knowlton 6-6 277 3 Boise State [1-Gap] 81
+DT Steve Poole 6-7 288 3 Georgia Tech [1-Gap] 77
+ILB Tunch Richardson 5-11 217 4 Alabama [Mike] 93
+ILB Johnny Grossman 6-4 243 6 USC [Mike] 82
+ILB Paul Floyd 6-3 232 2 NC State [Will] 77
+ILB Kareem Boykin 6-3 225 R Western Michigan [Will] 76
+OLB Shane Easley 6-4 236 R Penn State [Blitz] 83
+OLB Jason Bryant 6-2 227 7 Washington State [Blitz] 81
+OLB John Kearns 5-11 229 R TCU [Blitz] 79
+OLB Bryan Jones 6-3 225 2 Ole Miss [Coverage] 77
+CB Kevin Potts 6-1 183 4 LSU [Zone Coverage] 81
+CB Prince Williams 6-1 183 1 Air Force [Zone Coverage] 80
+CB Austin Sheppard 6-1 188 R Penn State [Zone Coverage] 77
+CB Joshua Saunders 6-3 198 3 USF [Man Coverage] 76
+CB Demetrius Patterson 6-1 225 2 Texas [Zone Coverage] 74
+FS Eric Sochia 5-10 169 3 Minnesota [Man Coverage] 82
+FS Andrew Wright 5-9 187 3 TCU [Zone Coverage] 77
+SS Tavian Oliphant 6-2 202 5 Alabama [Man Coverage] 89
+SS Kevin Briggs 5-10 217 2 Air Force [Man Coverage] 78
+SS Zachary Trotter 5-10 174 R Illinois [Zone Coverage] 76
+K Rafael Davidson 5-11 182 3 Nebraska [Accuracy] 89
+P Luke McHenry 6-4 188 1 Ball State [Power] 84
+QB Adam Stave 6-4 220 3 Army [Pocket] 75
+WR Reggie Sayers 5-11 205 3 Washington [Speed] 73
+TE Pat O'Connell 6-0 247 3 Texas [Blocking] 74
+OT Jessie Kendrick 6-8 322 1 Clemson [Run Blocking] 71
+OG Filip Stinson 6-3 295 2 Duke [Run Blocking] 74
+FS Sincere Noel 6-0 212 R Arizona State [Zone Coverage] 71
+SS Antonio Little 6-1 205 2 Kentucky [Man Coverage] 73
+WR Todd Druckenmiller 5-9 186 4 Alabama [Speed] 79

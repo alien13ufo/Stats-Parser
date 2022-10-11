@@ -1,0 +1,53 @@
+QB Brian Vardell 6-2 200 6 Washington State [Pocket] 95
+QB Cody Albright 5-10 237 R Ohio State [Pocket] 77
+QB Donald Caldwell 6-3 233 3 NC State [Pocket] 79
+RB Shawn Cole 5-9 188 5 Washington [Power] 92
+RB Keith Dunn 5-11 179 5 Penn State [Power] 82
+RB Josh Taylor 5-10 178 1 USF [Power] 79
+FB Anthony Thomas 5-11 222 5 Texas [Pass Blocking] 85
+WR Mohamed Charles 6-4 192 1 Minnesota [Target] 82
+WR Sonny Beckett 6-6 188 3 Miami [Speed] 82
+WR Wayne Wegert 6-5 188 6 Notre Dame [Speed] 79
+WR Jacory Kessler 6-3 224 R Auburn [Speed] 78
+WR Ray Harrison 6-1 197 1 Purdue [Target] 76
+WR Aaron Ayala 6-1 169 R Wisconsin [Speed] 73
+TE Eugene Jackson 6-5 253 2 Ohio State [Receiving] 87
+TE Nate Blue 6-2 239 4 Notre Dame [Blocking] 77
+TE Patrick Stehl 6-5 245 1 Illinois  [Receiving] 71
+OT MacKenzie Woods 6-4 313 6 USC [Run Blocking] 89
+OT Bryan Green 6-3 312 4 Virginia Tech [Run Blocking] 86
+OT Donald Reed 6-5 293 R Virginia Tech [Pass Blocking] 82
+OT Rodney Todd 6-5 312 4 Georgia [Pass Blocking] 78
+OG Joe Smith 6-2 300 5 Arizona State [Pass Blocking] 85
+OG Tony Baxter 6-7 317 4 USC [RunBlocking] 79
+OG Gregory Cooke 6-5 291 2 Kansas [Pass Blocking] 74
+C John Hadley 6-3 285 1 Michigan [Pass Blocking] 85
+C Tim Beban 6-1 301 3 LSU [Pass Blocking] 78
+DT Jared Lee 6-5 313 5 Florida State [2-Gap] 84
+DT Forest Williams 6-2 273 2 Oklahoma [1-Gap] 81
+DT Frank Jones 6-5 295 3 Iowa [2-Gap] 78
+DE James Finney 6-3 293 1 Ball State [Contain] 77
+DE Ernie Bouggess 6-2 272 3 West Virginia [Contain] 73
+DE Robert Anderson 6-8 275 1 Arizona [Contain] 72
+ILB Cleveland Merrill 6-1 236 5 Ole Miss [Will] 95
+ILB Eric Jones 6-1 238 4 LSU [Will] 89
+ILB Paul Floyd 6-3 232 1 NC State [Will] 76
+ILB Joseph Powell 6-4 226 R Iowa [Mike] 69
+OLB Paul Goodman 6-2 240 2 Penn State [Blitz] 86
+OLB Mike Johnson 6-0 240 3 Houston [Coverage] 81
+OLB Ralph Watts 6-1 229 R Nebraska [Blitz] 72
+OLB Dominic Cooper 5-11 224 3 UCLA [Coverage] 72
+CB Devon Drummond 5-11 181 1 Kansas [Man Coverage] 81
+CB Jonathan Blankenship 6-1 190 2 Tulane [Zone Coverage] 78
+CB Tomas Weathers 5-11 181 R Colorado [Man Coverage] 77
+CB Moe McMillan 5-10 183 4 Virginia Tech [Man Coverage] 76
+CB Adam Harris 6-1 183 4 Air Force [Man Coverage] 75
+CB Jim Dupre 6-2 182 3 Nebraska [Zone Coverage] 75
+FS Stephen Elliott 6-3 197 6 Cincinnati [Zone Coverage] 90
+FS Clyde St. Pierre 6-0 175 2 SDSU [Zone Coverage] 76
+FS Colston Watson 5-10 191 3 Clemson [Man Coverage] 75
+SS Tyler Trent 5-10 210 2 Alabama [Man Coverage] 81
+SS Kevin Briggs 5-10 217 1 Air Force [Man Coverage] 77
+SS Devin Whitaker 6-2 193 R Wisconsin [Man Coverage] 76
+K Daryl Holmes 5-9 192 4 Michigan State [Power] 85
+P Theodore Sauer 6-0 156 R Nebraska [Accuracy] 80

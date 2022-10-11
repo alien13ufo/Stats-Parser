@@ -1,0 +1,67 @@
+ Cleveland Browns (6-6) at Los Angeles Chargers (2-10)
+
+Inglewood, CA - 73 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (6-6) ? 	14 	7 	7 	6 	- 	34
+:chargers: Los Angeles Chargers (2-10) 	0 	7 	3 	7 	- 	17
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:chargers: Los Angeles Chargers
+Injuries 	C Enoch Dickinson - Moderate Toe Sprain 	P Luke McHenry - Severe ACL Rupture
+Top Player Grade 	DE Ray McBride (8.36) 	WR M.L. Kriewaldt (7.85)
+Worst Player Grade 	CB Israel Greer (3.71) 	DT Zion Hopkins (2.25)
+Offensive Line Rating 	8.35 	8.12 ?
+Sacks 	3 	0
+Punting 	43.6 	38.2
+Punt Return Yards 	29 	5
+Kick Return Yards 	47 	82
+Turnovers 	0 	1
+3rd Down Conversion 	4/11 	3/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/57 	5/36
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	19/26 	245 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Grady Mitchell 	12 	60 	1 	10 	0/0
+Ryan Clark 	7 	39 	0 	8 	0/0
+Nathan Wilson 	9 	31 	1 	13 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Morgan Patton 	5 	108 	1 	0 	0/0
+Tai Miller 	5 	64 	0 	0 	0/0
+Ray Lee Marconi 	3 	39 	0 	0 	0/0
+Kevin McMullen 	2 	19 	0 	0 	0/0
+Antonio Heath 	2 	14 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kadeem Martin 	3/0 	- 	1/0 	0/0 	0/0
+Ray McBride 	2/1 	1.5 	0/0 	0/0 	0/0
+Maximillian Baker 	1/0 	1.0 	0/0 	0/0 	0/0
+Gabriel Beauchamp 	1/0 	0.5 	0/0 	0/0 	0/0
+Antonio Oliver 	5/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	2/2 	4/4 	57, 37
+	
+:chargers: Los Angeles Chargers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	29/53 	290 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	7 	17 	0 	4 	0/0
+Mamadou Heard 	2 	10 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+M.L. Kriewaldt 	7 	91 	1 	0 	0/0
+Scott Howard 	7 	72 	1 	1 	1/0
+Gerald Morrison 	4 	53 	0 	0 	0/0
+Greg Cobb 	3 	30 	0 	1 	0/0
+Jarvis Ward 	3 	21 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Shane Easley 	5/1 	- 	0/1 	0/0 	0/0
+Isaiah Hall 	2/2 ? 	- ? 	0/0 	0/0 	0/0
+Stephen Elliott 	5/0 	- 	0/0 	0/0 	0/0
+Christopher Malone 	4/0 	- 	0/0 	0/0 	0/0
+Kenyon Justice 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	1/1 	2/2 	47 ?

@@ -1,0 +1,55 @@
+QB Josh Beckett 6-3 211 1 Georgia Tech [Pocket] [+2/C] 83 ?
+QB Rob Andersen 5-11 229 R Connecticut [Hybrid] [+1/C] 78
+QB Luke Trickett 6-1 238 3 USC [Scrambling] [0] 82
+FB Golden Bridges 6-1 221 2 BYU [Run Blocking] [0] 83
+RB Ron Thomas 6-0 194 6 Iowa [Speed] [-3] 88
+RB Marcel Clinton 5-6 218 1 Rutgers [Power] [-1] 75
+RB Trevor Workman 5-6 194 R Western Kentucky [Speed] [+2] [+] 76
+RB Tom Honeycutt 5-11 228 1 Nevada [Power] [-2] 76
+WR Jamel Beckham 6-0 213 5 TCU [Target] [-1] [#] 86
+WR Geno Harris 6-5 225 3 Ole Miss [Target] [+1] 87
+WR Vontae Powell 5-11 199 5 Navy [Target] [-1] 80 ?
+WR Spencer Sharpe 6-2 196 R California [Speed] [0] 79
+WR Abdoul Causey 5-10 193 3 Texas [Target] [0] 77
+TE Gary Jones 6-5 238 9 UCLA [Receiving] [+1/C] 85
+TE Abdoulaye Boone 6-1 199 2 Arkansas [Receiving] [-1] 81
+TE Kenneth Wright 6-3 223 4 Southern Miss [Receiving] [0] 79
+OT Andrew O'Neil 6-7 319 10 LSU [Pass Blocking] [-1] 85
+OT Taylor Randolph 6-4 278 4 Iowa [Pass Blocking] [0/C] 94
+OT Noel Tatum 6-5 334 2 Air Force [Pass Blocking] [0] 75
+OT Mahamadou Hooker 6-1 263 1 Virginia [Run Blocking] [+1] 77
+OG Douglas Quinn 6-8 307 9 Northwestern [Pass Blocking] [0] 80
+OG Gary Gaines 6-6 273 4 Arizona [Pass Blocking] [0] 84
+OG Josh Jones 6-4 308 2 Missouri [Pass Blocking] [+2/C] 84
+OG David Coon 6-4 279 1 Duke [Run Blocking] [-2] 78
+C David Sutton 6-1 273 2 Louisiana Tech [Pass Blocking] [+3/C] 86
+C David Lemons 6-4 250 4 Baylor [Run Blocking] [0] 78
+DE Deontre Graham 6-7 244 1 Alabama [Contain] [-1/C] 85
+DE Jamal Norwood 6-2 251 5 Boston College [Contain] [0] 81
+DE Nasir Womack 6-2 249 3 USC [Contain] [-1] 79
+DE Jeremiah Melvin 6-6 252 R Oklahoma [Contain] [+1] [+] 78
+DT Nikolas Gleason 6-2 317 3 Army [2-Gap] [0] [#] 82
+DT Wilson Hodges 6-3 291 R Memphis [2-Gap] [0] [+] 76
+DT Barry Monk 6-3 287 4 Purdue [2-Gap] [0] 75
+ILB Marcus Coles 6-2 230 R Tennessee [Mike] [0/C] [#] 81
+ILB Jack Cavazos 6-3 240 5 UCLA [Mike] [0] 79
+ILB James Carson 6-2 231 4 Kansas [Will] [+1/C] 84
+ILB Vincenzo Hickey 6-1 210 1 Tulsa [Will] [0/C] 78
+OLB Phillip Davenport 5-11 226 2 Arizona [Blitz] [0/C] [+] 87
+O?LB Daquan Darcey 6-4 ?232 4 TCU [Coverage] [-2] ?[#] 84
+OLB Julian Neville 6-1 232 3 Baylor [Blitz] [-1] 77
+OLB Nikolas Blevins 5-11 226 3 UCF [Coverage] [0] 77
+OLB Campbell McMartin III 6-3 233 2 James Madison [Blitz] [0] 75
+CB Dave Stokley 6-2 199 9 Minnesota [Man Coverage] [0] 89
+CB Blake Turner 6-3 176 4 Ohio State [Man Coverage] [-2] 85??
+CB Sean Taylor 5-9 193 3 Western Michigan [Man Coverage] [-1] [+] 81
+CB Roman Blackmon 6-1 181 1 TCU [Man Coverage] [+1] 81
+CB Matty Brennan 6-3 168 6 Mississippi State [Man Coverage] [0] 75
+FS Patrick Parks 5-9 184 7 Texas A&M [Zone Coverage] [0] [#] 79?
+FS James Munnerlyn 6-2 218 1 UCF [Zone Coverage] [0] 81
+FS Isaiah Nixon 6-1 218 2 Georgia [Zone Coverage] [0] 79
+SS Jarvis Bolton 6-1 192 R Georgia [Zone Coverage] [0] 83?
+SS Ryan McDonald 5-11 177 5 Coffeyville CC [Zone Coverage] [0] 80
+SS Timothy St. John 6-1 187 1 LSU [Zone Coverage] [0] 80
+K Brad Weathersby 6-2 204 9 Georgia Tech [Power] [0] 90 ?
+P Eric Caudill 5-10 176 R Toledo [Accuracy] [0] 80

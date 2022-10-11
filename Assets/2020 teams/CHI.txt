@@ -1,0 +1,53 @@
+QB Norris Brooksheer 6-3 207 3 Oklahoma [Pocket] 88
+QB Harold Simmons 6-1 180 4 Notre Dame [Pocket] 82
+QB Greg Cunningham 6-2 199 2 Connecticut [Pocket] 77
+RB Quincy Turner 6-1 200 5 UCLA [Speed] 81
+RB Quincy Honeycutt 5-9 215 R Samford [Power] 77
+RB Norris Horton 5-9 173 1 Ball State [Speed] 74
+FB Michael Lamb 6-2 210 2 Texas [Pass Blocking] 75
+WR David Gaines 6-2 190 6 Syracuse [Target] 93
+WR Brandon Snead 6-1 205 5 Oregon [Target] 87
+WR Carlos Warren 5-11 178 5 Michigan [Target] 79
+WR Peter Foster 6-1 174 3 Baylor [Speed] 75
+WR Kenny Cross 6-1 179 4 BYU [Speed] 72
+TE Donnie Allen 6-5 247 2 Notre Dame [Receiving] 85
+TE Obafemi Chamberlin 6-6 243 6 Iowa [Receiving] 76
+TE Robert Kerr 6-6 216 3 Mississippi State [Receiving] 70
+OT Fred Huber 6-5 285 2 Tennessee [Pass Blocking] 81
+OT Bob McMahon 6-7 297 3 Oklahoma [Run Blocking] 82
+OT James Johnson 6-7 345 5 Kansas [RunBlocking] 77
+OT Larry Crawford 6-6 320 1 Syracuse [Pass Blocking] 73
+OG Matthew Brewer 6-1 277 3 Texas [Run Blocking] 82
+OG Ordell Green 6-1 274 3 NC State [Pass Blocking] 74
+OG Jim Thomas 6-5 265 2 LSU [Run Blocking] 79
+OG Damon Milloy 6-5 265 2 Georgia [Pass Blocking] 70
+C Quinn Ledbetter 6-4 245 R Illinois [Pass Blocking] 76
+C Rodney Williams 6-4 290 6 Boston College [Run Blocking] 74
+DE Jesus Brooks 6-8 259 3 Maryland [Blitz] 70
+DE Jeff Holleyman 6-3 297 6 Notre Dame [Blitz] 84
+DE Andrew Fazande 6-4 265 5 Alabama [Contain] 91
+DE William Thompson 6-0 253 1 Oregon State [Contain] 73
+DT David Medley 6-7 310 1 Colorado [2-Gap] 85
+DT Walter Scott 6-1 293 5 Ole Miss [2-Gap] 76
+DT Spec Lewis 6-4 281 2 Texas Tech [1-Gap] 68
+ILB Kevin Harris 6-0 249 6 Iowa [Will] 92
+ILB Akeel Morris 6-5 234 R Nevada [Mike] 83
+ILB David Mosley 6-0 236 2 Kentucky [Will] 77
+ILB Jay Cash 6-0 242 2 UCLA [Mike] 70
+OLB Morris Millen 6-0 246 5 UCLA [Blitz] 92
+OLB Trevor Reed 5-11 223 3 Alabama [Coverage] 82
+OLB Calvin Harrell 6-0 224 1 Mississippi State [Coverage] 74
+OLB Geno Bohannon 6-4 230 1 TCU [Coverage] 71
+CB Ivory Hull 6-2 173 2 Texas [Zone Coverage] 87
+CB Jabari Branch 6-1 197 1 Georgia [Zone Coverage] 77
+CB Samuel Shaw 6-0 180 R Nebraska [Zone Coverage] 77
+CB Tony Ross 5-11 188 6 Florida State [Zone Coverage] 73
+CB Ken Whiting 6-2 181 2 Connecticut [Zone Coverage] 73
+FS Alyn Namath 6-1 172 6 Georgia [Man Coverage] 82
+FS Juan Hutchinson 5-9 170 5 Utah [Man Coverage] 77
+FS Samuel Prince 6-0 191 R Texas A&M [Man Coverage] 75
+SS Walter Valdez 5-11 178 3 Boise State [Zone Coverage] 78
+SS Jeremiah Joseph 5-11 204 R New Mexico [Zone Coverage] 77
+SS Jared Calloway 6-1 196 1 Duke [Zone Coverage] 76
+K Daniel Olson 5-10 188 1 Cincinnati [Accuracy] 76
+P Zachary Murphy 6-2 185 R Utah State [Power] 80

@@ -1,0 +1,67 @@
+ Philadelphia Eagles (2-2) at Tennessee Titans (3-1) ?
+
+Nashville, TN - 68 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (2-2) 	7 	7 	10 	7 	- 	31
+:titans: Tennessee Titans (3-1) 	10 	10 	7 	7 	- 	34
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:titans: Tennessee Titans
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	DE Ryan Frey (8.42) 	TE Hastin Rider (8.95)
+Worst Player Grade 	OG Robert Fontenot (3.26) 	CB Michael Hernandez (2.85)
+Offensive Line Rating 	8.27 	8.29
+Sacks 	3 	2
+Punting 	42.3 	45.3
+Punt Return Yards 	26 	19
+Kick Return Yards 	72 	94
+Turnovers 	1 	1
+3rd Down Conversion 	5/12 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	12/105 	9/84
+:eagles: Philadelphia Eagles
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L ?
+Allan Taylor 	23/38 	238 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	18 	78 	1 	35T 	0/0
+Allan Taylor 	9 	77 	1 	28 	0/0
+Marshawn Miller 	6 	25 	0 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cameron Whelahan 	6 	83 	0 	1 	0/0
+Michael Hawkins 	5 	49 	1 	0 	0/0
+Sebastian Babb 	3 	42 	0 	0 	0/0
+Christopher Johnson 	3 	31 	1 	1 	0/0
+Justin Evans 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Joe Johnson 	3/0 	- 	1/0 	0/0 	0/0
+Ryan Frey 	4/2 	2.0 	0/0 	0/0 	0/0
+Martin Whiting 	3/0 	0.5 	0/0 	0/0 	0/0
+Tommy Brooks 	2/0 	0.5 	0/0 	0/0 	0/0
+Donald Collier 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/1 	4/4 	49
+	
+:titans: Tennessee Titans
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	30/50 	340 	4 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	10 	39 	0 	9 	0/0
+Nikita Crowe 	3 	10 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Hastin Rider 	10 	125 	2 	1 	0/0
+Kevin Williams 	6 	77 	0 	0 	0/0
+Tommy Furrey 	4 	64 	1 	1 	0/0
+Cody Hunter 	4 	42 	1 	1 	0/0
+Greg Newman 	3 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jordan Harris ? 	1/0 	- 	1/0 	0/0 	0/0
+Tyrese Thompson 	7/2 	- 	0/0 	0/0 	0/0
+John Peterson 	2/0 	1.0 	0/0 	0/0 	0/0
+David Doherty 	2/0 	1.0 	0/0 	0/0 	0/0
+Jeffrey Aranda 	4/0 	- 	0/0 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Leon Woodruff 	2/2 	4/4 	48, 45 

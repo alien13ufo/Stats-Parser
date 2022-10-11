@@ -1,0 +1,67 @@
+ San Francisco 49ers (1-12) at Arizona Cardinals (3-10) ?
+
+Glendale, AZ - 76 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (1-12) 	6 	10 	3 	7 	- 	26
+:cardinals: Arizona Cardinals (3-10) 	0 	7 	7 	7 	- 	21
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:cardinals: Arizona Cardinals
+Injuries 	No Injuries 	WR Adrian Allen - Moderate Achilles Bruise
+Top Player Grade 	QB Todd Lester (9.31) 	OG Doug Aska (9.41)
+Worst Player Grade 	OLB Timothy Greer (1.02) 	DT Jeffrey King (2.80)
+Offensive Line Rating 	8.15 	8.09
+Sacks 	2 	2
+Punting 	46.4 	47.1
+Punt Return Yards 	38 	3
+Kick Return Yards 	46 	102
+Turnovers 	0 	1
+3rd Down Conversion 	3/10 	2/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/50 	4/26
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	22/31 	245 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	17 	80 	0 	16 	0/0
+Todd Lester 	9 	47 	0 	21 	0/0
+- 	- 	- 	- 	- ? 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Miles Collins 	7 	92 	0 	1 	0/0
+Jarius Shaw-Dodd 	4 	52 	0 	0 	0/0
+Daniel Marshall 	3 	38 	1 	0 	0/0
+Tom Branch 	3 	30 	0 	0 	0/0
+Joshua Freeman 	2 	20 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Daleroy Smart 	6/0 	- 	1/0 	0/0 	0/0
+Tavian Oliphant 	9/0 	- 	0/0 	0/0 	0/0
+Brandon Thomas 	4/1 	- 	0/0 	0/0 	0/0
+Michael McBride 	5/0 	- 	0/0 	0/0 	0/0
+Parker Holmes 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	4/4 	2/2 	50, 27, 36, 41
+	
+:cardinals: Arizona Cardinals
+Wing T - Wishbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Greg Bierria 	5/10 	64 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Trevon Yeldon 	22 	102 	0 	12 	0/0
+Ricky Vega 	9 	50 	2 	28T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Banks 	2 	32 	0 	0 	0/0
+Ricky Chambers 	1 	18 	1 	0 	0/0
+Noah Hills 	2 	14 	0 	0 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Nathan Knowlton 	3/0 	1.0 	0/0 	0/0 	0/0
+Josiah Harden 	2/0 	0.5 	0/0 	0/0 	0/0
+Dennis Abdullah 	2/0 	0.5 	0/0 	0/0 	0/0
+Wiliam Thomas 	6/1 ? 	- 	0/0 	0/0 	0/0
+Oronde Jackson 	5/0 	- 	0/0 	0/0 	0/0
+KICKING ? 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	0/0 	3/3 	- ?

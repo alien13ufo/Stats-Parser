@@ -1,0 +1,53 @@
+QB Reggie Watkins 6-4 200 5 Alabama [Pocket] 88
+QB Donald Caldwell 6-3 233 2 NC State [Pocket] 78
+QB Andrew Davis 6-3 222 R Northern Illinois [Pocket] 75
+RB Booker T. Washington 6-1 208 4 OklahomaState [Speed] 86
+RB Marty Keisel 5-11 222 R UAB [Power] 74
+RB Greg Allen 5-10 206 1 Marshall [Speed] 72
+FB Robert Williamson 6-2 245 5 Rutgers [Pass Blocking] 80
+WR David Wells 6-5 187 3 Oregon State [Speed] 89
+WR Ibrahim Smiley 6-0 168 1 Baylor [Speed] 75
+WR Sam Salaam 6-3 193 5 Louisville [Target] 72
+WR Michael Potts 6-1 196 4 Maryland [Speed] 80
+WR A.J. Byrne 6-1 216 R Wake Forest [Target] 80
+WR Mike Middleton 6-0 219 R Hawaii [Speed] 67
+TE Vishante Freeman 6-7 260 5 Virginia Tech [Blocking] 68
+TE Ituha Coonaha 6-6 200 1 Georgia [Blocking] 75
+TE Danny Patrick 6-5 223 3 North Carolina [Receiving] 86
+OT Craig Foster 6-2 318 4 Arizona [Pass Blocking] 85
+OT Carlos Gothard 6-8 290 2 Clemson [Run Blocking] 81
+OT John Mathews 6-6 296 1 Boise State [Run Blocking] 74
+OT Scott Jones 6-1 343 5 Syracuse [PassBlocking] 77
+OG Fred Watts 6-3 293 4 Nebraska [Pass Blocking] 85
+OG George Greene 6-3 291 R Minnesota [Pass Blocking] 80
+OG Dejuan Holmes 6-7 283 2 USC [Pass Blocking] 78
+OG Ernie Leahy 6-6 297 4 Notre Dame [Pass Blocking] 72
+C Jim Boso 6-6 286 3 Miami [Pass Blocking] 80
+C Nicolas Slack 6-2 284 R Northern Illinois [Run Blocking] 69
+DE Tommy Wietecha 6-2 277 5 Tennessee [Blitz] 87
+DE Matthew Davis 6-1 269 R TCU [Contain] 78
+DE Boomer Roberts 6-1 289 4 Texas [Contain] 66
+DE Josh Kassulke 6-4 298 3 Michigan [Blitz] 71
+DT John Griffin 6-6 285 3 USC [1-Gap] 78
+DT Marlin Eason 6-3 286 2 Texas [2-Gap] 84
+DT Micheal Black 6-5 281 R UCLA [2-Gap] 74
+ILB Frank Lee 6-1 227 5 Florida State [Will] 83
+ILB Gary Bower 6-2 229 2 Utah [Mike] 78
+ILB Alexander Hardison 6-1 232 R Western Kentucky [Mike] 75
+ILB Steve Pointer 6-0 229 3 Clemson [Will] 75
+ILB Luis Watkins 6-0 237 R Wisconsin [Will] 73
+OLB Tyrone Jones 5-11 233 4 LSU [Blitz] 98
+OLB Louis Peterson 6-4 200 1 Oklahoma State [Blitz] 81
+OLB Lynn Peterson 5-11 209 2 Iowa [Blitz] 69
+OLB Eric Burden 6-2 233 R Florida [Blitz] 70
+CB Sammy Muhammad 5-10 178 3 Missouri [Man Coverage] 86
+CB Troy Marshall 6-1 163 R Texas [Zone Coverage] 81
+CB Lynn Perry 6-3 187 2 LSU [Man Coverage] 79
+CB Dan Weaver 5-9 169 1 Purdue [Man Coverage] 74
+CB Donald Tucker 6-1 179 1 Boise State [Man Coverage] 70
+SS Adam Newman 6-0 175 2 Iowa State [Zone Coverage] 86
+SS Dan Maxwell 5-10 181 5 Boise State [Zone Coverage] 75
+FS Daniel Scott 6-1 172 2 Maryland [Man Coverage] 74
+FS Dwayne Harden 6-1 185 1 Nebraska [Zone Coverage] 80
+K Dennis Scott 6-1 206 2 Florida State [Power] 87
+P Lucas Pappas 5-7 162 1 Illinois [Accuracy] 81

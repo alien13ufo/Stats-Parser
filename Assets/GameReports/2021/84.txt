@@ -1,0 +1,66 @@
+ New England Patriots (2-3) at Arizona Cardinals (2-2)
+
+Glendale, AZ - 80 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:patriots: New England Patriots (2-3) 	17 	7 	7 	0 	- 	31
+:cardinals: Arizona Cardinals (2-2) 	0 	7 	14 	7 	- 	28
+Team Stats Comparison
+  	:patriots: New England Patriots 	:cardinals: Arizona Cardinals
+Injuries 	
+
+Daniel Hutchins, RB, Mild Ankle Sprain
+
+ 
+	
+
+Marcus Banks, WR - Moderate Hamstring Tendonitis
+
+Reggie Beasley, FS - Severe Achilles Rupture
+Offensive Line Rating 	8.2 	7.9
+Sacks 	2 	2
+Punting 	43.5 	47.1
+Punt Return Yards 	0 	2
+Kick Return Yards 	0 	0
+Turnovers 	1 	1
+3rd Down Conversion 	6/13 	4/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/95 	3/26
+:patriots: New England Patriots
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	22/31 	206 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daniel Hutchins 	15 	40 	1 	26T 	1/0
+Ike Nimmo 	5 	6 	1 	3T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Jones 	6 	85 	1 	0 	0/0
+Jamel Beckham 	7 	65 	1 	0 	0/0
+Carlos Perez 	3 	23 	0 	0 	0/0
+Nathan Taylor 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Mark Craig 	7/0 	1.0 	0/0 	1/0 	0/0
+Jeremy Owen 	3/0 	0.5 	0/0 	0/1 	0/0
+Joey Davis 	2/0 	0.5 	0/0 	0/0 	0/0
+Norris Nolan 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	1/1 	4/4 	38
+	
+:cardinals: Arizona Cardinals
+Option - Wing T
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	11/16 	144 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Fred Tindale 	23 	94 	2 	16 	1/1
+Matthew Ramos 	2 	5 	1 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ricky Chambers 	4 	68 	1 	0 	0/0
+Marcus Banks 	2 	23 	0 	0 	0/0
+Cameron Lindsey 	2 	21 	0 	1 	0/0
+Noah Hills 	1 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ian Garner 	3/0 	- 	1/0 	0/0 	0/0
+Josiah Harden 	4/1 	1.0 	0/0 	0/0 	0/0
+Omar McManus 	2/0 	1.0 	0/0 	0/0 	0/0
+Mark Hills 	6/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	0/0 	4/4 	- 

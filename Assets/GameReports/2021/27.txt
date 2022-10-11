@@ -1,0 +1,55 @@
+ Tampa Bay Buccaneers (0-1) at Philadelphia Eagles (1-0)
+
+Philadelphia, PA - 76 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (0-1) 	0 	3 	7 	0 	- 	10
+:eagles: Philadelphia Eagles (1-0) 	14 	7 	10 	7 	- 	38
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:eagles: Philadelphia Eagles
+Injuries 	No Injuries 	No Injuries
+Offensive Line Rating 	8.2 	8.2
+Sacks 	3 	3
+Punting 	41.6 	45.2
+Punt Return Yards 	0 	123 (1)
+Kick Return Yards 	54 	22
+Turnovers 	2 	0
+3rd Down Conversion 	2/14 	7/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/39 	7/63
+:buccaneers: Tampa Bay Buccaneers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	17/27 	209 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	21 	108 	0 	21 	0/0
+Taylor Heiden 	2 	11 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Richard Wilson 	5 	82 	1 	0 	0/0
+Quintavius Pearson 	5 	66 	0 	0 	0/0
+Jerry Cipa 	2 	23 	0 	1 	0/0
+Anthony McCardell 	3 	22 	0 	2 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sebastian Traylor 	5/0 	1.0 	0/0 	0/0 	0/0
+Frank Williams 	4/0 	1.0 	0/0 	0/0 	0/0
+Derrick Martin 	8/1 	0.5 	0/0 	0/0 	0/0
+Thomas Barry 	4/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	1/1 	1/1 	33
+	
+:eagles: Philadelphia Eagles
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	18/24 	233 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	23 	98 	1 	29 	0/0
+Marshawn Miller 	8 	32 	1 	16 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cameron Whelahan 	3 	92 	1 	0 	0/0
+Michael Hawkins 	4 	60 	0 	0 	0/0
+Troy White 	3 	41 	0 	1 	0/0
+Roy Davis 	4 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tim Kassell 	2/0 	- 	1/1 	0/0 	1/0
+Travaris Jackson 	1/0 	- 	1/0 	0/0 	0/0
+Ryan Frey 	4/2 	1.5 	0/0 	0/0 	0/0
+Ulysses Smith 	4/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/1 	5/5 	40 

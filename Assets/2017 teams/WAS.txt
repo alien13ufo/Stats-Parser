@@ -1,0 +1,38 @@
+QB Javier Fields 6-0 195 2 Kentucky [Pocket] 85
+QB James Dale 6-2 213 R Pittsburgh [Pocket] 80
+QB James Francisco 6-1 177 1 Rutgers [Pocket] 72
+RB Fred Preston 5-9 191 2 WestVirginia [Power] 83
+RB Jeff Collett 5-11 193 R NC State [Speed] 75
+FB James Baum 6-1 215 1 Michigan St. [Power] 73
+WR Steve Warner 6-2 193 2 MichiganState [Target] 83
+WR Adrian Allen 6-4 183 R Duke [Speed] 79
+WR Zach Fiore 6-2 191 2 Missouri [Speed] 75
+WR Charlie White 6-0 171 3 Minnesota [Target] 68
+TE Nathan Taylor 6-3 232 1 Texas [Run Blocking] 78
+TE Joseph Baum 6-2 237 R Penn State [Run Blocking] 66
+C Eddie O'Hara 6-1 293 R Virginia [Run Blocking] 70
+OT Tom Scott 6-4 300 1 Auburn [RunBlocking] 81
+OT John Marchetti 6-4 320 2 North Carolina [Pass Blocking] 80
+OT Willie Carroll 78 335 1 Boston C. [Pass Blocking] 65
+OT Gregory Griffin 6-7 281 R USC [Run Blocking] 70
+OG Zack Blackmon 6-2 285 2 Iowa [PassBlocking] 77
+OG Patrick Shields 6-8 310 2 Penn State [PassBlocking] 71
+OG De'Mond Seaverns 6-1 299 3 TCU [Run Blocking] 68
+DE Joey Davis 6-5 268 2 USC [Pass Stop] 81
+DE Dennis Abdullah 6-5 281 3 OleMiss [Run Stop] 78
+DE Daniel Chan 6-2 295 2 Northwestern [RunStop] 65
+DT Kevin Nitschke 6-2 270 2 Georgia [Run Stop] 81
+DT Alex Todd 6-8 286 3 Florida State [RunStop] 63
+OLB Vince Smith 6-1 234 2 Penn State [Pass Zone] 79
+OLB Casey Brzezinski 5-11 227 2 UCF [RunZone] 77
+OLB David Horn 6-1 229 2 Utah [RunMan-to-Man] 69
+ILB Mike Bledsoe 6-1 231 2 Virginia Tech [Run Man-to-Man] 81
+ILB Jackie Eaton 6-0 234 1 Virginia Tech[PassZone] 81
+ILB Curtis Hsu 6-2 218 1 Baylor [Pass Man-to-Man] 69
+CB Michael Barber 6-0 183 R Florida State [Man Coverage] 79
+CB Jermaine Johnson 5-10 177 3 Georgia Tech [Man Coverage] 71
+CB James Neufeld 6-0 188 3 Miami [Man Coverage] 65
+SS Louis Richter 6-1 175 2 Florida State [Zone Coverage] 74
+FS Patrick Parks 5-9 184 R Texas A&M [Zone Coverage] 76
+K Bryan Ray 5-9 178 R Colorado State [Power] 73
+P John Collins 5-9 194 3 North Carolina [Power] 86

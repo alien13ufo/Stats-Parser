@@ -1,0 +1,67 @@
+ Pittsburgh Steelers (9-5) at Cleveland Browns (7-7) ?
+
+Cleveland, OH - 40 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:steelers: Pittsburgh Steelers (9-5) 	10 	7 	7 	3 	- 	27
+:browns: Cleveland Browns (7-7) 	3 	3 	7 	6 	- 	19
+Team Stats Comparison
+  	:steelers: Pittsburgh Steelers 	:browns: Cleveland Browns
+Injuries 	No Injuries 	TE Antonio Heath - Moderate Concussion
+Top Player Grade 	DE Carlos Washington (9.50) 	DE Ray McBride (7.26)
+Worst Player Grade 	FS Sergio Munoz (0.82) 	RB Nathan Wilson (2.16)
+Offensive Line Rating 	8.15 	7.97
+Sacks 	4 	1
+Punting 	50.0 	45.6
+Punt Return Yards 	16 	4
+Kick Return Yards 	53 	82
+Turnovers 	0 	1
+3rd Down Conversion 	3/10 	5/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/30 	8/58
+:steelers: Pittsburgh Steelers
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	20/29 	250 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	23 	92 	1 	17 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Samuel Jolley 	6 	92 	1 	0 	0/0
+Ja'Wuan Howard 	3 	65 	0 	0 	0/0
+Eric Watson 	3 	30 	1 	1 	0/0
+William Anderson 	2 	28 	0 	0 	0/0 ?
+Malaefou Lewis 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kordell McKinnon 	3/0 	- 	1/0 	0/0 	0/0
+Carlos Washington 	3/2 	2.0 	0/0 	0/0 	0/0
+Quentin Smith 	5/0 	1.0 	0/0 	0/0 	0/0
+Patrick Murphy 	3/0 	1.0 	0/0 	0/0 	0/0
+Dane Wilson 	7/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Lorenzo Rodgers 	2/2 	3/3 	46, 33
+	
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	14/20 	189 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Grady Mitchell 	13 	36 	0 	9 	1/0
+Ryan Clark 	6 	27 	1 	15 	0/0
+Nathan Wilson 	10 	25 	0 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ray Lee Marconi 	5 	67 	1 	0 	0/0
+Tai Miller 	5 	63 	0 	0 	0/0
+Nathan Wilson 	2 	28 	0 	1 	0/0
+Morgan Patton 	1 	18 	0 	0 	0/0
+Dean Burkhart 	1 	13 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ray McBride 	4/1 	1.0 	0/0 	0/0 	0/0
+C.J. Thomas 	6/2 	- 	0/0 	0/0 	0/0
+Je'Rod Wimbush 	5/1 	- ? 	0/0 	0/0 	0/0
+Gabriel Beauchamp 	5/0 	- 	0/0 	0/0 	0/0
+Martin Hernandez 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+A.K. McGowan 	2/2 	1/2 	34, 51 ?

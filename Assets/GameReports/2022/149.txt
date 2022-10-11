@@ -1,0 +1,67 @@
+ Buffalo Bills (4-5) at New York Jets (3-6)
+
+East Rutherford, NJ - 48 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (4-5) 	7 	0 	6 	14 	- 	27
+:jets: New York Jets (3-6) 	7 	17 	3 	3 	- 	30
+Team Stats Comparison ?
+  	:bills: Buffalo Bills 	:jets: New York Jets
+Injuries 	WR Isaiah Cronin - Mild Concussion ? 	No Injuries
+Top Player Grade 	QB Matt Jones (9.02) 	FS Reshad Jenkins (9.55)
+Worst Player Grade 	OG Martin Parker (0.86) 	OLB Dennis Himes (2.89)
+Offensive Line Rating 	7.93 	8.27
+Sacks 	1 	3
+Punting 	41.1 	48.3
+Punt Return Yards 	5 	16
+Kick Return Yards 	78 	32
+Turnovers 	1 	0
+3rd Down Conversion 	4/11 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/70 	5/41
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	22/35 	304 	4 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	13 	51 	0 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Isaiah Cronin 	6 	90 	1 	0 	0/0
+Tyron Chambers 	5 	79 	1 	0 	0/0
+Gary Faneca Sr. 	3 	43 	1 	0 	0/0
+Drew Abbott 	2 	40 	0 	0 	0/0
+Kevin Garvin 	2 	35 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brian Hernandez 	5/0 	1.0 	0/0 	0/0 	0/0
+Kevin Briggs 	8/0 	- 	0/0 	0/0 	0/0
+Sammy Grey 	4/0 	- 	0/0 	0/0 	0/0
+Sean Taylor 	3/0 	- 	0/0 	0/0 	0/0
+Patrick Chaney 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	0/0 	3/4 	-
+	
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert ? 	22/32 	325 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	15 	89 	1 	24T 	0/0
+Emmanuel Fields 	4 	19 	0 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell 	10 	150 	0 	0 	0/0
+William Bouchard 	3 	71 	1 	0 	0/0
+Jason Dupree 	2 	30 	0 	0 	0/0
+Adam Coles 	2 	26 	0 	0 	0/0
+Eli Austin 	2 	24 	1 	0 	0/0
+DEFENSE ? 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Reshad Jenkins 	5/0 	- 	1/1 	0/0 	0/0
+Keith Hooks 	4/1 	1.0 	0/0 	0/0 	0/0
+Kyle Pratt 	3/1 	1.0 	0/0 	0/0 	0/0
+Alvis Brumm 	4/0 	1.0 	0/0 ? 	0/0 	0/0
+Dennis Himes 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	3/3 	3/3 	29, 28, 36 

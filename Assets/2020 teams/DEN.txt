@@ -1,0 +1,53 @@
+QB Todd Jennings 6-6 201 2 Penn State [Pocket] 82
+QB Eric Jennings 5-10 227 R Kansas [Pocket] 81
+QB Joseph Bernard 6-2 191 2 Rutgers [Pocket] 75
+RB Jerry Rambo 5-10 220 4 USC [Speed] 84
+RB J.B. Blacknall 5-8 207 R UAB [Power] 82
+RB Kenneth Farr 5-8 183 3 Kentucky [Power] 77
+FB Ian Smith 6-2 222 4 Oklahoma [Pass Blocking] 80
+WR Ken Peelle 6-6 214 6 Florida State [Target] 89
+WR Darrell Mack 6-2 156 3 Alabama [Speed] 87
+WR Marion Reeder 5-11 210 4 Nebraska [Target] 84
+WR Artemio Ramirez 6-1 171 1 Oregon [Speed] 82
+WR William Doherty 6-6 228 R USC [Target] 79
+TE Darren Jones 6-7 241 2 Baylor [Receiving] 87
+TE Doug Bosley 6-4 245 4 Wisconsin [Receiving] 77
+TE Jesse Palmer 6-8 245 2 Kansas State [Blocking] 73
+OT Gary Tomlinson 6-6 304 3 Wisconsin [Run Blocking] 90
+OT Mario Hill 6-7 290 2 Mississippi State [Pass Blocking] 83
+OT Pete Wilson 6-4 294 2 Tennessee [Pass Blocking] 75
+OT Ricky Green 6-5 306 4 Virginia [Pass Blocking] 74
+OG Bret Pate 6-3 310 4 Texas [Pass Blocking] 85
+OG Russell Benson-Gifford 6-7 260 R South Carolina [Pass Blocking] 81
+OG Kerwin McGeoghan 6-3 269 4 Ole Miss [Pass Blocking] 77
+OG Richard Pennington 6-3 316 1 Ohio State [Pass Blocking] 74
+C John Zatkoff 6-7 296 4 Alabama [Pass Blocking] 93
+C George Doll 6-3 295 5 Texas Tech [Pass Blocking] 74
+DE Charles Johnson 6-8 261 2 Hawaii [Blitz] 86
+DE Adam Scott 6-4 281 5 Ohio State [Contain] 80
+DE Claxton Robertson 6-6 275 4 Auburn [Contain] 76
+DE Thomas Goss 6-3 257 R Oklahoma [Blitz] 73
+DT Michael Carroll 6-8 265 1 Hawaii [1-Gap] 82
+DT Tommy Brooks 6-7 285 3 Texas A&M [1-Gap] 80
+DT Enoch Coleman 6-6 297 2 BYU [1-Gap] 76
+DT William Camacho 6-4 298 1 Washington [1-Gap] 66
+ILB Cameron Jonah 6-1 243 4 Hartnell College [Mike] 94
+ILB Mike Smith 6-2 241 6 Oregon [Will] 87
+ILB Billy Williams 6-1 240 4 Rutgers [Mike] 78
+ILB Reece Westbrook 6-1 216 2 Alabama [Will] 78
+OLB Ray Truax 6-1 233 6 Ohio State [Coverage] 82
+OLB Joe Palmer 6-1 242 4 Ole Miss [Coverage] 82
+OLB Lamar Tennell 6-1 240 2 Washington [Coverage] 77
+OLB Todd Byers 6-2 251 4 Tennessee [Blitz] 75
+OLB Steve Windsor 6-0 241 3 Nebraska [Blitz] 75
+CB Reggie Griffin 5-10 192 4 Tennessee [ZoneCoverage] 89
+CB Patrick Mitchell 5-9 163 1 San Diego State [Zone Coverage] 81
+CB Tony Smith 6-1 191 5 Georgia [Man Coverage] 79
+CB David Simpson 6-2 191 5 Baylor [ZoneCoverage] 76
+CB Donald Garcia 6-1 163 R Arizona State [Zone Coverage] 74
+FS Gray Corbin 5-11 159 4 Nebraska [Zone Coverage] 88
+FS Leslie Mackey 6-1 200 2 UCLA [Man Coverage] 74
+SS Jonathan Parker 6-2 183 6 South Carolina [Man Coverage] 83
+SS Ryan McDonald 5-11 177 1 Coffeyville CC [Zone Coverage] 76
+K Sam Sarahi 6-1 203 2 Hawaii [Power] 89
+P Dan Hamilton 6-1 198 4 MississippiState [Accuracy] 91

@@ -1,0 +1,67 @@
+ Buffalo Bills (4-6) at Green Bay Packers (8-2) ?
+
+Green Bay, WI - 43 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (4-6) 	0 	14 	3 	3 	- 	20
+:packers: Green Bay Packers (8-2) 	7 	7 	3 	10 	- 	27
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:packers: Green Bay Packers
+Injuries 	No Injuries 	RB Jaz Durant - Mild Calf Pull
+Top Player Grade 	WR Gary Faneca Sr. (9.00) 	QB Jason Johnson (8.51)
+Worst Player Grade 	SS Kevin Briggs (2.85) 	OLB Garrison Jackson (3.82)
+Offensive Line Rating 	7.98 	8.41
+Sacks 	0 	3
+Punting 	43.3 	45.0
+Punt Return Yards 	23 	12
+Kick Return Yards 	84 	46
+Turnovers 	1 	0
+3rd Down Conversion 	3/13 	3/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/81 	5/45
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	23/40 	280 	2 	0 	1/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	12 	40 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca 	8 	110 	1 	1 	0/0
+Isaiah Cronin 	4 	82 	0 	1 	0/0
+Tyron Chambers 	3 	32 	1 	1 	0/0
+Drew Abbott 	2 	31 	0 	0 	0/0
+Kevin Garvin 	2 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brian Hernandez 	6/2 	- 	0/0 	0/0 	0/0
+Mark Bassett 	4/1 	- 	0/0 	0/0 	0/0
+Cyrus Paulsen 	6/0 	- 	0/0 	0/0 	0/0
+Kevin Briggs 	5/0 	- 	0/0 	0/0 	0/0
+Sammy Grey 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	2/2 	2/2 	44, 44
+	
+:packers: Green Bay Packers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	21/32 	280 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	20 	100 	0 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- ? 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Bernard Taylor 	6 	98 	1 	0 	0/0
+Justin McCain 	3 	64 	0 	1 	0/0
+Dan Nomellini 	3 	53 	1 	0 	0/0
+Artavius Hopkins 	2 	33 	0 	0 	0/0
+Lindsey Thomas 	3 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Barron Anthony 	3/1 	1.5 	0/0 	1/0 	0/0
+Kaulana Groth 	3/0 	1.5 	0/0 	0/0 	0/0
+Jamal Harley 	7/1 	- 	0/0 	0/0 	0/0
+James White 	4/0 	- 	0/0 	0/0 ? 	0/0
+Carter Jackson 	2/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Brian Evans 	2/2 	3/3 	46, 32 

@@ -1,0 +1,57 @@
+ Houston Texans (5-7) at Carolina Panthers (7-5)
+
+Charlotte, NC - 48 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (5-7) 	3 	0 	14 	0 	- 	17
+:panthers: Carolina Panthers (7-5) 	14 	17 	7 	3 	- 	41
+Team Stats Comparison
+  	:texans: Houston Texans 	:panthers: Carolina Panthers
+Injuries 	Kendall Brandon, TE - Severe Achilles Rupture 	Curtis Henry, TE - Severe Concussion
+Offensive Line Rating 	8.2 	7.8
+Sacks 	1 	2
+Punting 	44.5 	43.6
+Punt Return Yards 	2 	36
+Kick Return Yards 	58 	21
+Turnovers 	2 	0
+3rd Down Conversion 	3/14 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/44 	2/19
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	24/43 	267 	2 	2 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jermaine Lockett 	9 	14 	0 	4 	0/0
+Arturo Pacheco 	2 	9 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Scarborough 	9 	106 	1 	0 	0/0
+Hakeem Black 	4 	45 	0 	0 	0/0
+Arturo Beckham 	3 	43 	1 	0 	0/0
+Eric Minter 	3 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Robert Fulton 	4/0 	0.5 	0/0 	0/0 	0/0
+Freeman Schubert 	1/0 	0.5 	0/0 	0/0 	0/0
+Kliff Papac 	5/0 	- 	0/0 	0/0 	0/0
+Ahmed London 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	1/1 	2/2 	36
+	
+:panthers: Carolina Panthers
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	25/32 	350 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	20 	98 	1 	14 	0/0
+Shawn Anderson 	4 	17 	1 	19T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Monte Jackson 	8 	126 	1 	0 	0/0
+Curtis Henry 	5 	82 	1 	1 	0/0
+Troy Wilson 	4 	72 	1 	0 	0/0
+Mike Latta 	4 	57 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darren Manning 	6/0 	- 	1/0 	0/0 	0/0
+Nate Tensi 	2/0 	- 	1/0 	0/0 	0/0
+Kendrick Droughns 	3/0 	1.5 	0/0 	0/0 	0/0
+Mike Wohlabaugh 	2/0 	0.5 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	2/2 	5/5 	45, 44 

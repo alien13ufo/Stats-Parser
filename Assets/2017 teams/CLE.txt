@@ -1,0 +1,43 @@
+QB Derek Keys 6-1 195 2 PennState [Scrambling] 76
+QB Ryan Clark 6-1 187 1 OregonState [Scrambling] 82
+RB Don Williams 5-10 226 3 Washington [Speed] 89
+RB Michael Acevedo 5-8 190 R Indiana [Power] 66
+FB John Evans 6-1 210 2 Arizona [Speed] 76
+WR Tai Miller 6-4 186 R Oklahoma [Target] 82
+WR Ray Lee Marconi 6-5 180 3 Syracuse [Speed] 80
+WR Lance Bolling 6-4 164 R Stanford [Speed] 72
+WR Leslie Serrano 6-5 185 R Purdue [Target] 65
+WR Isaac Campfield 6-6 168 2 Washington [Target] 66
+TE LeRoy Dunn 6-6 239 R NC State [Pass Blocking] 72
+TE Creston Fuller 6-1 215 R Minnesota [Pass Blocking] 65
+OT Mike Ledbetter 6-1 313 1 GeorgiaTech [RunBlocking] 80
+OT Wayne Duffy 6-0 309 3 Cincinnati [Run Blocking] 74
+OT Preston Gill 6-2 320 2 Virginia [RunBlocking] 87
+OG Tommy Merritt 6-6 325 2 Stanford [PassBlocking] 79
+OG Craig Brooks 6-1 297 2 BostonCollege [PassBlocking] 79
+OG Johnny Kuehl 6-0 284 R Oregon [Pass Blocking] 66
+C Enoch Dickinson 6-1 276 2 Minnesota [PassBlocking] 92
+C Billy Brumm 6-8 307 1 Georgia Tech [Run Blocking] 68
+DE Mike Hill 6-7 289 2 California [PassStop] 86
+DE Brian Bynum 6-6 275 R Kansas State [Pass Stop] 76
+DE Travian Rodgers 6-0 261 R Tennessee [Run Stop] 67
+DT Je'Rod Wimbush 6-4 277 2 Auburn [PassStop] 84
+DT Kenneth Clarke 6-1 308 R Jones County JC [Pass Stop] 79
+DT Antony Lowry 6-3 325 1 Maryland [Pass Stop] 64
+DT Rob Hoffman 6-3 311 3 Oklahoma [Run Stop] 58
+ILB J.T. Holcomb 5-11 230 1 Michigan [RunMan-to-Man] 78
+ILB Thomas Cooke 6-2 232 2 Kansas [RunMan-to-Man] 74
+ILB Andy Michel 6-2 234 2 Louisville [RunMan-to-Man] 61
+OLB Darian Mathis 6-0 253 3 Texas Tech [Pass Man-to-Man] 80
+OLB Thomas Stewart 6-2 254 2 Purdue [RunMan-to-Man] 81
+OLB Todd Barry 6-2 221 R Penn State [Run Man-to-Man] 67
+CB Kadeem Martin 5-9 175 1 PennState [ZoneCoverage] 80
+CB Tony Ross 5-11 188 3 Florida State [Zone Coverage] 77
+CB Jesse Solano 5-11 176 R Cincinnati [Man Coverage] 67
+CB Gordon Moreland 5-11 187 2 Texas [ZoneCoverage] 69
+FS Leonard Tice 5-11 178 1 Nebraska [Zone Coverage] 75
+FS LaMichael Jones 6-3 173 R Stanford [Man Coverage] 71
+SS Mark Brown 6-2 180 2 Florida [ManCoverage] 81
+SS Bernie Ware 6-2 174 1 NCState [ManCoverage] 64
+K Lloyd Williams 6-2 183 2 Washington [Accuracy] 74
+P Sylvester Word 6-3 192 1 Missouri [Power] 83

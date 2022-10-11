@@ -1,0 +1,67 @@
+ Indianapolis Colts (1-2) at Jacksonville Jaguars (3-0) ?
+
+Jacksonville, FL - 85 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (1-2) 	10 	14 	14 	3 	3 	44
+:jaguars: Jacksonville Jaguars (3-0) 	10 	7 	7 	17 	0 	41
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:jaguars: Jacksonville Jaguars
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	QB Aaron Shea (9.56) 	WR Raheem Robinson (9.51)
+Worst Player Grade 	CB Samir Ware (2.27) 	GB Gary Chamberlain (2.85)
+Offensive Line Rating 	8.45 	8.35
+Sacks 	2 	2
+Punting 	43.5 	50.0
+Punt Return Yards 	5 	9
+Kick Return Yards 	84 	115
+Turnovers 	1 	2
+3rd Down Conversion 	5/10 	7/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/94 	7/104
+:colts: Indianapolis Colts
+Vertical - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	34/62 	471 	4 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	6 	16 	1 	4 	0/0
+Nathan Coleman 	1 	6 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP ? 	F/L
+Tyler Dotson 	11 	155 	1 	0 	0/0
+Mosi Bartos 	9 	126 	1 	0 	0/0
+Rashad Simon 	3 	105 	2 	0 	0/0
+Keith Setzer 	4 	36 	0 	1 	0/0
+Sean McDermott 	2 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Chris Brown 	5/0 	- 	1/1 	0/0 	0/0
+Sean Burton 	2/0 	- 	1/0 	0/0 	0/0
+Samir Ware 	5/0 	- 	0/0 	0/0 	0/0
+Hudson Adam 	3/0 	1.0 	0/0 	0/0 	0/0
+Ruben Cahill 	4/0 	1.0 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	3/3 	5/5 	44, 32, 46
+	
+:jaguars: Jacksonville Jaguars
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	30/50 	399 	4 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	13 	104 	1 	23 	0/0
+Isaiah Peko 	3 	25 	0 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Raheem Robinson 	10 	137 	0 	0 	0/0
+Marcus Holmes 	8 	115 	2 	0 	0/0
+Derek Harrison 	4 	89 	1 	0 	0/0
+Taylor Eifert 	2 	40 	1 	0 	0/0
+Tyrone Turner 	3 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin Johnson 	2/0 	- 	1/2 	0/0 	0/0
+Preston Bryant 	5/2 	2.0 	0/0 	0/0 	0/0
+Jay Wade 	5/0 	- ? 	0/3 	0/0 	0/0
+Jonathan Blankenship 	5/0 	- 	0/1 	0/0 	0/0
+Shamar Sutton 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	2/2 	5/5 	40, 50 

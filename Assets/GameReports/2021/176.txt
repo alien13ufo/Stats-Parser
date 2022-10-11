@@ -1,0 +1,57 @@
+ Indianapolis Colts (3-7) at Atlanta Falcons (6-4)
+
+Atlanta, GA - 68 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (3-7) 	7 	3 	7 	3 	- 	20
+:falcons: Atlanta Falcons (6-4) 	7 	14 	3 	3 	- 	27
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:falcons: Atlanta Falcons
+Injuries 	No Injuries 	Bo Woodall, WR - Mild Calf Strain
+Offensive Line Rating 	8.1 	8.5
+Sacks 	2 	2
+Punting 	43.2 	45.2
+Punt Return Yards 	23 	11
+Kick Return Yards 	40 	29
+Turnovers 	2 	1
+3rd Down Conversion 	5/13 	6/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/34 	8/60
+:colts: Indianapolis Colts
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	25/40 	301 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	13 	64 	0 	30 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mosi Bartos 	7 	104 	0 	0 	0/0
+Ryan Mitchell 	7 	70 	0 	1 	0/0
+Rashad Simon 	4 	45 	1 	0 	0/0
+Tyler Dotson 	4 	43 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sean Burton 	5/0 	- 	1/1 	0/0 	0/0
+Anthony Miller 	3/0 	1.0 	0/0 	0/0 	0/0
+Keyshawn Vance 	2/0 	1.0 	0/0 	0/0 	0/0
+Kelly Mitchell 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Augustine 	2/4 	2/2 	39, 32 - 50, 56
+	
+:falcons: Atlanta Falcons
+Spread - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	18/26 	215 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	22 	106 	0 	28 	0/0
+Angelo Paul 	1 	3 	1 	3T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason Erwin 	5 	70 	0 	1 	0/0
+Riddick Smith 	3 	54 	1 	1 	0/0
+Vontae Powell 	4 	43 	1 	0 	0/0
+Akili Wallace 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+David Wilburn 	2/0 	- 	1/0 	0/0 	0/0
+Tommy Leonard 	5/1 	1.0 	0/0 	0/0 	0/0
+Eric Jennings 	4/0 	1.0 	0/0 	0/0 	0/0
+Robert Lacy 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	2/3 	3/3 	28, 21 - 44 

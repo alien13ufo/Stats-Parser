@@ -1,0 +1,67 @@
+ Baltimore Ravens (3-1) at Pittsburgh Steelers (5-0) ?
+
+Pittsburgh, PA - 51 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:ravens: Baltimore Ravens (3-1) 	7 	3 	6 	0 	0 	16
+:steelers: Pittsburgh Steelers (5-0) 	7 	3 	3 	3 	6 	22
+Team Stats Comparison
+  	:ravens: Baltimore Ravens 	:steelers: Pittsburgh Steelers
+Injuries 	SS Adam Newman - Moderate Hamstring Pull 	No Injuries
+Top Player Grade 	CB Troy Marshall (7.85) 	DE Carlos Washington (8.85)
+Worst Player Grade 	ILB Peyton Roaches (3.60) 	WR Samuel Jolley (4.53)
+Offensive Line Rating 	8.08 	8.19
+Sacks 	5 	5
+Punting 	45.3 	42.6
+Punt Return Yards 	39 	23
+Kick Return Yards 	75 	64
+Turnovers 	2 	2
+3rd Down Conversion 	6/16 	5/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	10/86 	11/77
+:ravens: Baltimore Ravens
+Option 2RB - Wishbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	14/23 	136 	0 	0 	1/1
+- 	-/- 	- 	- 	- 	0/0 ?
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	15 	51 	0 	8 	1/1
+Gabriel Shields 	12 	42 	1 	12 	0/0
+Brett Fisher 	7 	31 	0 	18 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Danny Patrick 	5 	64 	0 	0 	0/0
+Darrell Mack 	2 	26 	0 	1 	0/0 ?
+David Wells 	3 	20 	0 	0 	0/0
+Ryan Mitchell 	2 	18 	0 	0 	0/0
+Joseph Dickerson 	2 	8 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Troy Marshall 	3/0 	- 	1/0 	0/0 	0/0
+Daron Haag 	2/0 	- 	1/0 	0/0 	0/0
+Lucas Benton 	4/1 	1.5 	0/0 	0/0 	0/0
+Tyrone Jones 	6/0 	1.5 	0/0 	0/0 	0/0
+Kenyatta Henderson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	3/4 	1/1 	45, 34, 49 - 51
+	
+:steelers: Pittsburgh Steelers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	21/42 	226 	1 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kalei Keil 	12 	34 	0 	11 	0/0
+Jermaine Lockett 	6 	23 	1 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Eric Watson 	6 	86 	1 	0 	0/0
+Samuel Jolley ? 	4 	45 	0 	1 	0/0
+Ja'Wuan Howard 	3 	30 	0 	1 	0/0
+Jake Schmidt 	3 ? 	26 	0 	0 	0/0
+Kavika Russell 	3 	22 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Carlos Washington 	4/2 	2.0 	0/0 	1/1 	0/0
+Quentin Smith 	5/0 	0.5 	0/0 ? 	1/0 	0/0
+Ron Mobley 	6/0 	1.0 	0/0 	0/0 	0/0
+Patrick Murphy 	3/0 	- 	0/0 	0/1 	0/0
+Marcus Carver 	4/0 	1.0 	0/0 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Lorenzo Rodgers 	3/4 	1/1 	44, 23, 36 - 53 

@@ -1,0 +1,53 @@
+QB Todd Lester 6-0 194 4 California [Scrambling] 93
+QB Gary Baldacci 5-11 183 5 West Virginia [Pocket] 80
+QB Orly Vaccaro 6-2 215 2 SDSU [Hybrid] 79
+RB Troy McCray 6-0 205 2 Wake Forest [Speed] 84
+RB Greg Hadnot 5-9 192 4 Oklahoma [Power] 80
+RB Jared Smallwood 5-8 191 1 BYU [Speed] 75
+RB Brian Houghton 5-7 190 4 Georgia [Power] 75
+FB Darren Michael 6-1 243 4 Penn State [Run Blocking] 76
+WR Kevin Branch 6-5 187 4 Mississippi State [Speed] 91
+WR Jarius Shaw-Dodd 5-11 213 2 Virginia Tech [Speed] 86
+WR Miles Collins 5-11 163 1 San Diego State [Speed] 80
+WR Daniel Marshall 6-1 174 R Arizona State [Speed] 75
+WR John Whisenhunt 6-3 170 5 Notre Dame [Target] 73
+TE Ben Thomas 6-6 224 4 FloridaState [Blocking] 88
+TE Hugh Warren 6-6 229 4 Oklahoma [Blocking] 80
+TE Jay Coleman 6-5 259 R Nebraska [Blocking] 74
+OT Robert Haynes 6-6 301 3 Michigan State [Run Blocking] 90
+OT Kenyon Hendricks 6-7 285 4 USC [Pass Blocking] 86
+OT Dylan Hastings 6-5 323 R Boston College [Run Blocking] 81
+OT Clint Dyal 6-7 316 4 Penn State [Run Blocking] 78
+OT Shad Dobler 6-7 293 2 Syracuse [Pass Blocking] 73
+OG Logan Hunter 6-4 308 3 Navy [Pass Blocking] 83
+OG Jon Monk 6-5 326 5 Wisconsin [Pass Blocking] 78
+OG P.K. Fletcher 6-1 297 R Penn State [Pass Blocking] 77
+OG Riley Vanover 6-8 285 4 Tennessee [Run Blocking] 75
+C Richard Kelly 6-8 317 6 Washington State [Pass Blocking] 77
+C Larry Nelson 6-0 289 2 Michigan State [Pass Blocking] 70
+DT Michael McBride 6-4 313 R Pittsburgh [2-Gap] 81
+DT Chad Villalobos 6-7 292 5 Purdue [2-Gap] 76
+DT Toussaint Tasker 6-5 294 3 UCLA [2-Gap] 73
+DE Dennis Niland 6-4 284 4 USC [Contain] 84
+DE Bill Young 6-4 291 4 Virginia Tech [Contain] 80
+DE Richard Gonzalez 6-7 253 1 Colorado [Contain] 77
+DE Eason DeLong 6-1 288 3 South Carolina [Blitz] 72
+ILB Daleroy Smart 5-11 224 4 Washington State [Mike] 94
+ILB Bryant Palmer 6-1 225 4 Tennessee [Will] 78
+ILB Ernie Crawford 6-1 220 R Oklahoma [Will] 76
+ILB Michael Allison 6-0 216 2 Ole Miss [Mike] 72
+OLB Chris Reed 6-1 230 3 Oklahoma State [Blitz] 86
+OLB Harold Kennedy 6-2 205 1 UCLA [Coverage] 76
+OLB Cliff Loyd 6-0 220 3 Tennessee [Coverage] 71
+CB Bashir Rodriguez 6-1 194 5 Georgia Tech [Man Coverage] 95
+CB Keith Wells 6-2 177 4 Michigan State [Zone Coverage] 89
+CB Josh Holland 5-10 163 1 Arizona [Man Coverage] 79
+CB Jason Brown 6-1 186 3 Wisconsin [Man Coverage] 72
+CB Chad Bullock 6-1 184 R Kansas [Man Coverage] 72
+FS Prince McGill 6-2 206 1 Florida [Man Coverage] 85
+FS Leonard Tice 5-11 178 4 Nebraska [Zone Coverage] 77
+FS Steve Williams 6-0 201 R Georgia Tech [Man Coverage] 76
+SS Robert Shipp 5-11 204 1 Ole Miss [Zone Coverage] 81
+SS Mike Robinson 6-0 196 6 Virginia Tech [Zone Coverage] 79
+K Paul McGowan 5-10 189 5 Mississippi State [Power] 76
+P Isaiah Anderson 5-11 205 1 Boston College [Accuracy] 81

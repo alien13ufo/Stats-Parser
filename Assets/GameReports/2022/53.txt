@@ -1,0 +1,67 @@
+ Atlanta Falcons (2-1) at New York Giants (1-2) ?
+
+East Rutherford, NJ - 60 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:falcons: Atlanta Falcons (2-1) 	0 	10 	0 	11 	0 	21
+:giants: New York Giants (1-2) 	7 	7 	7 	0 	0 	21
+Team Stats Comparison
+  	:falcons: Atlanta Falcons 	:giants: New York Giants
+Injuries 	CB Darren Ruffin - Mild Groin Pull 	No Injuries
+Top Player Grade 	TE Jason Erwin (7.85) 	WR Tevin Lattimore (8.05)
+Worst Player Grade 	P Samuel Foster (3.41) 	DT Brad Mungro (3.25)
+Offensive Line Rating 	8.30 	8.22
+Sacks 	2 	2
+Punting 	40.6 	46.1
+Punt Return Yards 	36 	26
+Kick Return Yards 	46 	32
+Turnovers 	2 	2
+3rd Down Conversion 	5/15 	4/13
+4th Down Conversion 	0/0 	0/1
+Penalties 	11/104 	6/52
+:falcons: Atlanta Falcons
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L ?
+Donald Culver 	20/35 	214 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	16 	70 	1 	17 	0/0 ?
+Bradley Cooley 	10 	43 	0 	23 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason Erwin 	6 	86 	1 	0 	0/0
+Riddick Smith 	3 	40 	0 	0 	0/0
+Bo Woodall 	2 	28 	0 	1 	0/0
+Joseph Thurston 	4 	24 	0 	0 	0/0
+Akili Wallace 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darius Jones 	4/0 	- 	1/0 	0/0 	0/0
+Mario Ruff 	1/0 	- 	1/0 	0/0 	0/0
+Eric Jennings 	3/1 	1.0 	0/0 	0/0 	0/0
+Early Davis 	1/0 	1.0 	0/0 	0/0 	0/0
+Tommy Leonard 	5/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	2/3 	1/1 	45, 40 - 50
+	
+:giants: New York Giants
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Will Thompson 	24/43 	280 	3 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	13 	50 	0 	9 	1/0
+Ethan Newby 	3 	11 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tevin Lattimore 	5 	99 	1 	0 	0/0
+Sonny Beckett 	6 	74 	1 	0 	0/0
+Hunter King 	4 	40 	1 	0 	0/0
+Brian Engle 	3 	34 ? 	0 	0 	0/0
+Curtis Jeffreys 	2 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Isaiah Polsfoot 	2/0 	- 	1/1 	0/0 	0/0
+Khairi Bryant 	4/0 	1.0 	0/0 	0/0 	0/0
+Curtis Lewis 	2/0 	1.0 	0/0 	0/0 	0/0
+Louis Peterson 	6/1 	- 	0/0 	0/0 	0/0
+D'Qwell Moore 	3/0 	- 	0/2 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Trent Michaels 	0/2 	3/3 	- 47, 53 

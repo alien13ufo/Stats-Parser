@@ -1,0 +1,57 @@
+ Tampa Bay Buccaneers (2-2) at Carolina Panthers (2-2)
+
+Charlotte, NC - 76 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (2-2) 	7 	14 	0 	7 	- 	28
+:panthers: Carolina Panthers (2-2) 	7 	7 	0 	7 	- 	21
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:panthers: Carolina Panthers
+Injuries 	Jack Muhammad, ILB - Severe Ankle Sprain 	Chip Johnson, WR - Severe ACL Rupture
+Offensive Line Rating 	8.1 	7.7
+Sacks 	6 	1
+Punting 	41.7 	44.5
+Punt Return Yards 	0 	28
+Kick Return Yards 	0 	0
+Turnovers 	1 	3
+3rd Down Conversion 	5/12 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/87 	6/59
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	23/34 	266 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	21 	107 	1 	17 	0/0
+Taylor Heiden 	4 	15 	1 	6T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Quintavius Pearson 	6 	102 	1 	0 	0/0
+Richard Wilson 	6 	84 	0 	0 	0/0
+Anthony McCardell 	5 	50 	1 	1 	0/0
+William Moore 	3 	21 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Newhouse 	4/0 	- 	2/1 	0/0 	0/0
+Michael Hernandez 	2/0 	- 	1/0 	0/0 	0/0
+Frank Williams 	2/0 	2.5 	0/0 	0/0 	0/0
+Darris Hayes 	2/0 	2.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	0/0 	4/4 	-
+	
+:panthers: Carolina Panthers
+Vertical - West Coast
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	33/55 	367 	3 	3 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Shawn Anderson 	2 	2 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Curtis Henry 	10 	107 	1 	0 	0/0
+Chip Johnson 	6 	93 	1 	0 	0/0
+Jermaine Bishop 	5 	65 	1 	1 	0/0
+Billy Rodgers 	4 	56 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Nate Tensi 	2/0 	- 	1/1 	0/0 	0/0
+Demarius Strong 	1/0 	1.0 	0/0 	0/0 	0/0
+Kelvin Grossman 	5/0 	- 	0/1 	0/0 	0/0
+Carlton Sylvester 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	0/1 	3/3 	- 52 

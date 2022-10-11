@@ -1,0 +1,57 @@
+ Carolina Panthers (6-3) at New York Giants (1-7)
+
+East Rutherford, NJ - 50 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:panthers: Carolina Panthers (6-3) 	7 	7 	7 	14 	- 	35
+:giants: New York Giants (1-7) 	0 	7 	7 	0 	- 	14
+Team Stats Comparison
+  	:panthers: Carolina Panthers 	:giants: New York Giants
+Injuries 	No Injuries 	Patrick Lambert, WR - Mild Thumb Sprain
+Offensive Line Rating 	8.5 	7.8
+Sacks 	0 	2
+Punting 	43.3 	42.2
+Punt Return Yards 	11 	7
+Kick Return Yards 	46 	24
+Turnovers 	0 	1
+3rd Down Conversion 	5/10 	4/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/86 	4/35
+:panthers: Carolina Panthers
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	32/51 	332 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	12 	40 	1 	16T 	0/0
+Donnie Hubbert 	1 	2 	1 	2T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Curtis Henry 	8 	109 	1 	0 	0/0
+Monte Jackson 	10 	101 	0 	0 	0/0
+Jermaine Bishop 	5 	72 	2 	0 	0/0
+Troy Wilson 	3 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Trent Haynes 	4/0 	- 	0/0 	1/1 	0/0
+Jon Thomas 	6/0 	- 	0/1 	0/0 	0/0
+Mike Wohlabaugh 	4/1 	- 	0/0 	0/0 	0/0
+Brian Bynum 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	0/0 	5/5 	-
+	
+:giants: New York Giants
+Pistol - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	18/24 	250 	2 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	14 	60 	0 	33 	0/0
+Josh Shiancoe 	8 	21 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tom Oldham 	4 	78 	1 	0 	0/0
+O.J. Carano 	3 	72 	0 	0 	0/0
+Chris Gano 	4 	53 	0 	1 	0/0
+Hunter King 	3 	31 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Curtis Lewis 	3/2 	1.0 	0/0 	0/0 	0/0
+Kenyatta Henderson 	6/0 	1.0 	0/0 	0/0 	0/0
+D'Qwell Moore 	5/0 	- 	0/1 	0/0 	0/0
+Aaron Hammond 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Trent Michaels 	0/1 	2/2 	- 48 

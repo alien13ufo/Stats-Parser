@@ -1,0 +1,76 @@
+ Detroit Lions (4-1) at Minnesota Vikings (2-4) ?
+
+Minneapolis, MN - 49 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:fibur: Detroit Lions (4-1) 	3 	7 	3 	3 	- 	16
+:vikings: Minnesota Vikings (2-4) 	3 	10 	0 	0 	- 	13
+Team Stats Comparison
+  	:fibur: Detroit Lions 	:vikings: Minnesota Vikings
+Injuries 	
+
+No Injuries
+
+ 
+	
+
+CB Levern White - Severe ACL Rupture
+
+SS Tyler Trent - Moderate Concussion
+Top Player Grade 	ILB Kieron Brooks (7.89) 	OLB Paul Goodman (6.89)
+Worst Player Grade 	SS Willard McCready (4.67) 	FS Eric Sochia (4.36)
+Offensive Line Rating 	8.66 	8.41
+Sacks 	1 	0
+Punting 	46.4 	42.6
+Punt Return Yards 	27 	35
+Kick Return Yards 	24 	45
+Turnovers 	1 	1
+3rd Down Conversion 	5/15 	3/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/68 	5/45
+:fibur: Detroit Lions
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	16/30 	199 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	15 	55 	0 	11 	0/0
+Calvin Jones 	3 	9 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony Fasani 	5 	60 	0 	1 	0/0
+Jeremy Cook 	3 	42 	1 	0 	0/0
+Rex Walsh 	2 	31 	0 	1 	0/0
+Calvin Jones 	2 	22 	0 	0 	0/0
+Glenn Franckowiak 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kofi Neal 	4/0 	- 	1/0 	0/0 	0/0
+Kieron Brooks 	5/0 	0.5 	0/0 	0/0 	0/0
+Earl Jackson 	3/0 	0.5 	0/0 	0/0 	0/0
+Richard Ryan 	4/0 	- 	0/1 	0/0 	0/0
+Cameron Jones 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	3/3 	1/1 	50, 24, 42
+	
+:vikings: Minnesota Vikings
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	18/36 	195 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Evan Grant 	9 	20 	0 	5 	0/0
+Keith Dunn 	1 	-2 	0 	-2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jacory Kessler 	6 	70 	0 	1 	0/0
+Mohamed Charles ? 	4 	43 	0 	1 	0/0
+Wayne Wegert 	2 	30 	1 	0 	0/0
+Luke Cobb 	2 	21 	0 	1 	0/0
+Eugene Jackson 	2 	14 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Robert Bleeker 	3/0 	- 	1/0 	0/0 	0/0
+Paul Goodman 	5/2 	- 	0/0 	0/0 	0/0
+Eric Jones 	6/0 	- 	0/0 	0/0 	0/0
+Devin Goss 	4/0 	- ? 	0/0 	0/0 	0/0
+Jamal Patton 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Sam Gilligan 	2/2 	1/1 	33, 25 

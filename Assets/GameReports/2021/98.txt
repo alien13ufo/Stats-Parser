@@ -1,0 +1,57 @@
+ New York Giants (0-5) at Washington Redskins (2-3)
+
+Landover, MD - 55 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:giants: New York Giants (0-5) 	0 	0 	0 	14 	- 	14
+:redskins: Washington Redskins (2-3) 	14 	6 	7 	14 	- 	41
+Team Stats Comparison
+  	:giants: New York Giants 	:redskins: Washington Redskins
+Injuries 	Ibrahim Smiley, WR - Mild Concussion 	Craig Davis, OLB - Severe Achilles Rupture
+Offensive Line Rating 	8.1 	8.8
+Sacks 	0 	3
+Punting 	43.0 	50.1
+Punt Return Yards 	0 	36
+Kick Return Yards 	20 	0
+Turnovers 	2 	0
+3rd Down Conversion 	4/15 	5/9
+4th Down Conversion 	0/1 	0/0
+Penalties 	5/37 	2/10
+:giants: New York Giants
+Pistol - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+David Brezina 	14/27 	140 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	19 	70 	1 	31 	0/0
+David Brezina 	3 	-2 	0 	0 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+O.J. Carano 	4 	51 	0 	0 	0/0
+Chris Gano 	3 	45 	0 	0 	0/0
+Patrick Lambert 	2 	25 	1 	1 	0/0
+Tom Oldham 	3 	13 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kenyatta Henderson 	9/0 	- 	0/2 	0/0 	0/0
+D'Qwell Moore 	7/0 	- 	0/1 	0/0 	0/0
+Aaron Hammond 	5/0 	- 	0/0 	0/0 	0/0
+Brad Mungro 	3/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Trent Michaels 	0/0 	2/2 	-
+	
+:redskins: Washington Redskins
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	26/35 	309 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	20 	93 	1 	16 	0/0
+Matthew O'Connor 	2 	3 	1 	2T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	10 	140 	2 	0 	0/0
+Ken Brown 	5 	82 	1 	0 	1/0
+Eddie McFadden 	4 	35 	0 	0 	0/0
+Tony DeMarco 	3 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Whitney 	5/0 	- 	1/0 	0/0 	0/0
+Anthony Brown 	4/0 	- 	1/0 	0/0 	0/0
+Steven Jordan 	4/1 	1.5 	0/0 	0/0 	0/0
+Mike Hill 	4/1 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	2/2 	5/5 	46, 40 

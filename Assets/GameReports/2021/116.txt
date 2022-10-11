@@ -1,0 +1,57 @@
+ Arizona Cardinals (3-3) at Los Angeles Rams (4-2)
+
+Inglewood, CA - 74 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (3-3) 	0 	0 	7 	0 	- 	7
+:rams: Los Angeles Rams (4-2) 	17 	7 	0 	7 	- 	31
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:rams: Los Angeles Rams
+Injuries 	No Injuries 	Frederick Chacon, RB - Severe Achilles Rupture
+Offensive Line Rating 	8.1 	8.0
+Sacks 	1 	1
+Punting 	48.3 	43.2
+Punt Return Yards 	10 	8
+Kick Return Yards 	21 	31
+Turnovers 	2 	0
+3rd Down Conversion 	2/13 	6/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/94 	4/30
+:cardinals: Arizona Cardinals
+Option - Wing T
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	13/20 	160 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Fred Tindale 	20 	83 	0 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ricky Chambers 	3 	56 	0 	0 	0/0
+Emanuelu Lesa 	4 	52 	1 	0 	0/0
+Noah Hills 	2 	27 	0 	1 	0/0
+Butch Harper 	3 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Josiah Harden 	3/0 	1.0 	0/0 	0/0 	0/0
+Asante Willis 	5/0 	- 	0/0 	0/0 	0/0
+Jeffrey King 	5/0 	- 	0/0 	0/0 	0/0
+Eugene Malone 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	0/1 	1/1 	- 58
+	
+:rams: Los Angeles Rams
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	23/34 	270 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Trainer Joyce 	12 	40 	1 	10 	0/0
+Terrell Holland 	5 	28 	0 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin O'Neal 	3 	88 	1 	0 	0/0
+Allama Banta 	6 	64 	0 	0 	0/0
+Norman Spencer 	5 	53 	1 	0 	0/0
+Andrew Williamson 	4 	40 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Thomas Patterson 	1/0 	- 	1/1 	0/0 	0/0
+Jeremy Starks 	1/0 	- 	1/0 	0/0 	0/0
+Jeff Cox 	6/0 	1.0 	0/0 	0/0 	0/0
+Daniel Watkins 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Hunter Hendrickson 	1/2 	4/4 	48 - 49 

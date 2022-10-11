@@ -1,0 +1,38 @@
+QB Darrell Murphy 6-2 215 3 Wisconsin [Pocket] 96
+QB C.J. Logan 6-2 183 1 Clemson [Pocket] 73
+RB Bradie Sapp 5-11 185 3 Virginia Tech [Power] 81
+RB Lionel Dickinson 6-0 194 1 Auburn [Power] 78
+RB Shawn Anderson 5-8 184 R Oregon [Power] 81
+FB Marq Walsh 6-1 229 R Washington [Speed] 79
+WR Walt Peck 6-5 203 3 Penn State [Speed] 97
+WR David Gaines 6-2 190 3 Syracuse [Target] 86
+WR Allama Banta 6-0 185 1 Boston College [Target] 76
+WR R.J. Smith 6-1 199 R Georgia State [Speed] 68
+TE Jamal Hawkins 6-4 247 2 ArizonaState[PassBlocking] 85
+TE Cameron Duncan 6-3 249 2 Nebraska [RunBlocking] 73
+OT Nijrell Smith 6-4 346 1 Miami [PassBlocking] 80
+OT Paul Scott 6-0 301 R Kansas State [Run Blocking] 74
+OT Ryan Stallworth 6-5 293 R Kentucky [Pass Blocking] 68
+OG Calvin Milloy 6-2 332 3 Texas Tech [Pass Blocking] 83
+OG Art Haley 6-2 342 3 Nebraska [Pass Blocking] 92
+C LaMarcus Smith 6-3 298 2 OleMiss [RunBlocking] 87
+C William Price 6-2 302 R Boise State [Run Blocking] 66
+DE Andrew Fazande 6-4 265 2 Alabama [RunStop] 90
+DE Cody Fuller 6-6 266 1 Arizona [Pass Stop] 67
+DE Clayton James 6-6 265 R Mississippi State [Run Stop] 71
+DT Jeffrey Bryant 6-7 303 2 ECU [PassStop] 83
+DT Clint Harmon 6-8 283 R Missouri [Pass Stop] 71
+ILB Jim Bendross 6-1 244 3 Stanford [Pass Zone] 88
+ILB Brad Hood 6-1 219 R Michigan State [Run Zone] 73
+OLB Leigh Davey 6-1 232 R Minnesota [Pass Zone] 80
+OLB Herb Peko 6-0 226 R Nebraska [Run Zone] 74
+CB Isaiah Polsfoot 5-11 183 1 Tyler Junior College [Zone Coverage] 85
+CB Keith Wells 6-2 177 1 MichiganState [ZoneCoverage] 83
+CB Brian Berry 5-11 187 R Baylor [Zone Coverage] 69
+FS Gray Corbin 5-11 159 1 Nebraska [Zone Coverage] 84
+FS Paul Burge 6-2 186 2 Northwestern [ZoneCoverage] 62
+FS Gerhard Wilson 6-1 169 R Texas Tech [Zone Coverage] 66
+SS Danny Steele 6-1 196 1 Colorado [Zone Coverage] 73
+SS Brandon Sauter 6-2 200 R Michigan State [Zone Coverage] 82
+K Cliff Chamblin 6-4 191 2 LSU [Power] 91
+P Cliff Batch 6-3 176 1 Alabama [Accuracy] 74

@@ -1,0 +1,65 @@
+ Atlanta Falcons (1-0) at Tampa Bay Buccaneers (0-1) ?
+Tampa, FL - 86 F :rainy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:falcons: Atlanta Falcons (1-0) 	0 	7 	3 	17 	0 	27
+:buccaneers: Tampa Bay Buccaneers (0-1) 	0 	7 	14 	6 	3 	30
+Team Stats Comparison
+  	:falcons: Atlanta Falcons 	:buccaneers: Tampa Bay Buccaneers
+Injuries 	QB A.J. Jefferson - Severe Thumb Dislocation 	DE Gustavo Adcock - Moderate Hamstring Tendonitis
+Top Player Grade 	DE Early Davis (7.36) 	RB DeNorris Jackson (8.02)
+Worst Player Grade 	ILB Marcus Grant (4.46) 	SS Dwayne Tatum (4.29)
+Offensive Line Rating 	8.44 	8.26
+Sacks 	2 	1
+Punting 	48.4 	42.5
+Punt Return Yards 	106 (1) 	26
+Kick Return Yards 	39 	53
+Turnovers 	1 	1
+3rd Down Conversion 	4/10 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/84 	10/87
+:falcons: Atlanta Falcons
+Spread - Option 2RB ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	9/13 	111 	1 	0 	0/0
+Donald Culver 	7/10 	89 	1 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	18 	84 	0 	17 	0/0
+Bradley Cooley 	11 	53 	1 	26T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Riddick Smith 	3 	55 	0 	1 	0/0
+Mason Parks 	2 	50 	1 	0 	0/0
+Joseph Thurston 	3 	40 	0 	1 	0/0
+Bo Woodall 	2 	23 	1 	0 	0/0
+Bradley Cooley 	3 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+David Wilburn 	3/0 	- 	1/1 	0/0 	0/0
+Early Davis 	3/1 	1.0 	0/0 	0/0 	0/0
+Robert Lacy 	4/0 	1.0 	0/0 	0/0 	0/0
+Tommy Leonard 	5/0 	- 	0/1 	0/0 	0/0
+Darius Jones 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	2/2 	3/3 	44, 28
+	
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	19/28 	250 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	17 	75 	0 	14 	0/0
+Jeremiah Newton 	4 	9 	0 	6 	0/0
+Taylor Heiden 	3 	3 	1 	2T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Richard Wilson 	6 	80 	0 	0 	0/0
+Cotton Lewis 	4 	45 	0 	0 	0/0
+Quintavius Pearson 	3 	42 	1 	0 	0/0
+Anthony McCardell 	2 	40 	0 	0 	0/0
+Jeremiah Newton 	2 	29 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Thomas Barry 	4/0 ? 	1.0 	0/0 	0/0 	0/0
+Frank Williams 	2/0 	- 	0/0 	1/0 	0/0
+Jacob Kirk 	1/0 	- 	0/0 	0/1 	0/0
+Andre Brooks 	7/1 	- 	0/0 	0/0 	0/0
+Derrick Martin 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	3/3 	3/3 	40, 38, 46 ?

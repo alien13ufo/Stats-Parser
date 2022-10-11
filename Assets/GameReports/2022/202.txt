@@ -1,0 +1,67 @@
+ Cincinnati Bengals (8-4) at Las Vegas Raiders (8-4) ?
+
+Las Vegas, NV - 65 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (8-4) 	0 	7 	7 	14 	- 	28
+:raiders: Las Vegas Raiders (8-4) 	0 	7 	13 	10 	- 	30
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:raiders: Las Vegas Raiders
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	OLB Germane Dixon (8.88) 	RB Major Morris (8.60)
+Worst Player Grade 	CB Blake Turner (3.17) 	OT Kiuga Kamu (3.75)
+Offensive Line Rating 	8.15 	8.19
+Sacks 	4 	2
+Punting 	46.4 	47.2
+Punt Return Yards 	0 	5
+Kick Return Yards 	102 	72
+Turnovers 	1 	0
+3rd Down Conversion 	4/11 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/40 	7/45
+:bengals: Cincinnati Bengals
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	25/42 	240 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG ? 	F/L
+C.J. Sheffield 	13 	41 	1 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamir Blackburn 	8 	98 	1 	0 	0/0
+Steven Maloney 	4 	49 	0 	1 	0/0
+Adrian Jankowski 	5 	39 	1 	0 	0/0
+Cap Christian 	3 	23 	1 	1 	0/0
+Brandon Lane 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Germane Dixon 	5/1 	1.5 	0/1 	0/0 	0/0
+Brett Bailey 	4/0 	1.0 	0/0 	0/0 	0/0
+Timothy Key 	2/1 	1.0 	0/0 	0/0 	0/0
+Jamal McGavin 	3/0 	0.5 	0/0 	0/0 	0/0
+Edward Harrison 	7/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	0/0 	4/4 	-
+	
+:raiders: Las Vegas Raiders
+Air Raid - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	31/52 	320 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	11 	59 	1 	19 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mike Tripplett 	9 	109 	1 	2 	0/0
+Major Morris 	6 	72 	1 	0 	0/0
+Darryl McGlockton 	4 	51 	0 	1 	0/0
+Lamont Crawford 	5 	43 	0 	0 	0/0
+Brian Gary 	3 	41 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Mike Gradishar 	4/0 	- 	1/1 ? 	0/0 	0/0
+Jamal Norwood 	4/0 	1.0 	0/0 	0/0 	0/0
+Sergio Miller 	3/0 	1.0 	0/0 	0/0 	0/0
+Alex Martin 	6/0 	- 	0/0 	0/0 	0/0
+Randall Jones 	5/0 	- 	0/0 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Matt Fisk 	3/3 	3/3 	49, 23, 42 ?

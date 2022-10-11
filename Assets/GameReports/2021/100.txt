@@ -1,0 +1,66 @@
+ Tennessee Titans (4-2) at Carolina Panthers (3-3)
+
+Charlotte, NC - 64 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (4-2) 	10 	0 	3 	7 	- 	20
+:panthers: Carolina Panthers (3-3) 	6 	7 	3 	10 	- 	26
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:panthers: Carolina Panthers
+Injuries 	
+
+Brandon Reamon, OT - Mild Shoulder Rotator Cuff
+
+ 
+	
+
+Bob Ruegamer, OG - Moderate Elbow Tendonitis
+
+Carlton Sylvester, FS - Moderate Wrist Sprain
+Offensive Line Rating 	7.5 	8.0
+Sacks 	4 	3
+Punting 	45.6 	46.6
+Punt Return Yards 	11 	26
+Kick Return Yards 	26 	22
+Turnovers 	2 	1
+3rd Down Conversion 	6/13 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/105 	5/57
+:titans: Tennessee Titans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	25/38 	339 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chris Bell 	14 	47 	0 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cody Hunter 	8 	98 	0 	0 	0/0
+Kevin Williams 	6 	75 	1 	0 	0/0
+Hastin Rider 	4 	72 	0 	1 	0/0
+Greg Newman 	3 	70 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Charles Woods 	3/1 	2.5 	0/0 	1/0 	0/0
+Joseph Whiteside 	2/0 	1.0 	0/0 	0/1 	0/0
+Terrence Plummer 	4/0 	0.5 	0/0 	0/0 	0/0
+Alex Collins 	7/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	2/4 	2/2 	46, 25 - 44, 56
+	
+:panthers: Carolina Panthers
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	33/52 	377 	2 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	9 	43 	0 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jermaine Bishop 	10 	125 	1 	0 	0/0
+Monte Jackson 	7 	101 	0 	0 	0/0
+Mike Latta 	5 	68 	0 	0 	0/0
+Troy Wilson 	5 	51 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Nate Tensi 	2/0 	- 	1/0 	0/0 	0/0
+Ricky Rose 	1/0 	- 	1/0	0/0 	0/0
+Kendrick Droughns 	4/1 	1.0 	0/0 	0/0 	0/0
+Mike Wohlabaugh 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	4/4 	2/2 	35, 28, 35, 44 

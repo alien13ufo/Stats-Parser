@@ -1,0 +1,53 @@
+QB Reggie Watkins 6-4 200 9 Alabama [Pocket] [+3/C] 88 ?
+QB Josh Beckett 6-3 211 R Georgia Tech [Pocket] [+2/C] 82
+QB Luke Trickett 6-1 238 2 USC [Scrambling] [0] 80
+FB Golden Bridges 6-1 221 1 BYU [Run Blocking] [0] 82
+RB Chris Bell 6-3 198 4 Navy [Speed] [-2] 84
+RB John Harris 5-11 181 6 Arizona State [Speed] [-2] 80
+RB Tom Honeycutt 5-11 228 R Nevada [Power] [-2] 74
+WR Jamel Beckham 6-0 213 4 TCU [Target] [-1] 86
+WR Geno Harris 6-5 225 2 Ole Miss [Target] [+1] 85
+WR Vontae Powell 5-11 199 4 Navy [Target] [-1] 79
+WR Carlos Perez 6-5 169 7 Pittsburgh [Target] [0] 77
+WR Abdoul Causey 5-10 193 2 Texas [Target] [0] 78
+TE Gary Jones 6-5 238 8 UCLA [Receiving] [+1/C] 87
+TE Abdoulaye Boone 6-1 199 1 Arkansas [Receiving] [-1] 80
+TE Kenneth Wright 6-3 223 3 Southern Miss [Receiving] [0] 78
+OT Andrew O'Neil 6-7 319 9 LSU [Pass Blocking] [-1] 87
+OT Taylor Randolph 6-4 278 3 Iowa [Pass Blocking] [0/C] 92
+OT Joe Carter 6-1 298 5 Arizona State [Pass Blocking] [0] 80
+OT Mahamadou Hooker 6-1 263 R Virginia [Run Blocking] [+1] 74
+OG Douglas Quinn 6-8 307 8 Northwestern [Pass Blocking] [0] 81
+OG Gary Gaines 6-6 273 3 Arizona [Pass Blocking] [0] 82
+OG Josh Jones 6-4 308 1 Missouri [Pass Blocking] [+2/C] 82 ?
+OG David Coon 6-4 279 R Duke [Run Blocking] [-2] 77
+C David Sutton 6-1 273 1 Louisiana Tech [Pass Blocking] [+3/C] 83
+C David Lemons 6-4 250 3 Baylor [Run Blocking] [0] 78
+DE Deontre Graham 6-7 244 R Alabama [Contain] [-1/C] 83
+DE Jamal Norwood 6-2 251 4 Boston College [Contain] [0] 82
+DE Mark Logan 6-3 287 8 Syracuse [Contain] [0] 78
+DE Nasir Womack 6-2 249 2 USC [Contain] [-1] 77
+DT Jeremy Owen 6-8 290 6 BYU [2-Gap] [0] 81
+DT Nazir Leggett 6-1 305 1 LSU [2-Gap] [-2] 75
+DT Landry Everett 6-6 285 R Oregon [2-Gap] [-3] 75
+ILB Mark Craig 6-1 230 8 Penn State [Mike] [+1] 88
+ILB Jack Cavazos 6-3 240 4 UCLA [Mike] [0] 81
+ILB James Carson 6-2 231 3 Kansas [Will] [+1/C] 84
+ILB Vincenzo Hickey 6-1 210 R Tulsa [Will] [0/C] 76??
+OLB Peter Williams 6-0 213 5 Virginia Tech [Coverage] [0] 83
+OLB Phillip Davenport 5-11 226 1 Arizona [Blitz] [0/C] 83
+OLB Julian Neville 6-1 232 2 Baylor [Blitz] [-1] 76
+OLB Campbell McMartin III 6-3 233 1 James Madison [Blitz] [0] 73
+CB Dave Stokley 6-2 199 8 Minnesota [Man Coverage] [0] 91
+CB Jayshawn Watts 6-0 176 5 Boise State [Zone Coverage] [-1] 84
+CB Roman Blackmon 6-1 181 R TCU [Man Coverage] [+1] 80
+CB Matty Brennan 6-3 168 5 Mississippi State [Man Coverage] [0] 76
+CB David Gonzalez 6-0 191 3 Arizona [Man Coverage] [-1] 73
+FS Patrick Parks 5-9 184 6 Texas A&M [Zone Coverage] [0] 81 ?
+FS James Munnerlyn 6-2 218 R UCF [Zone Coverage] [0] 80
+FS Isaiah Nixon 6-1 218 1 Georgia [Zone Coverage] [0] 76
+SS Norris Nolan 5-10 178 6 Texas A&M [Zone Coverage] [0] 84
+SS Ryan McDonald 5-11 177 4 Coffeyville CC [Zone Coverage] [0] 80
+SS Timothy St. John 6-1 187 R LSU [Zone Coverage] [0] 79
+K Brad Weathersby 6-2 204 8 Georgia Tech [Power] [0] 91?
+P Tony Taylor 5-10 206 9 Florida State [Power] [0] 93

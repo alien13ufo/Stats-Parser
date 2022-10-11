@@ -1,0 +1,57 @@
+ Tampa Bay Buccaneers (8-4) at Jacksonville Jaguars (5-7)
+
+Jacksonville, FL - 69 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (8-4) 	0 	3 	14 	3 	- 	20
+:jaguars: Jacksonville Jaguars (5-7) 	0 	3 	10 	3 	- 	16
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:jaguars: Jacksonville Jaguars
+Injuries 	Derrick Martin, OLB - Mild Patellar Tendon Bruise 	Isaiah Peko, RB - Moderate Foot Dislocation
+Offensive Line Rating 	8.0 	8.4
+Sacks 	1 	3
+Punting 	41.6 	46.7
+Punt Return Yards 	8 	44
+Kick Return Yards 	0 	0
+Turnovers 	1 	1
+3rd Down Conversion 	5/13 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/63 	3/32
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	20/31 	208 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	18 	62 	0 	10 	0/0
+Jeremiah Newton 	3 	21 	1 	17T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Richard Wilson 	5 	56 	0 	0 	0/0
+Quintavius Pearson 	6 	51 	1 	0 	1/0
+William Moore 	3 	40 	0 	0 	0/0
+Jerry Cipa 	3 	36 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dwayne Tatum 	2/0 	- 	1/0 	0/0 	0/0
+Darris Hayes 	4/0 	1.0 	0/0 	0/0 	0/0
+Aaron Blakely 	5/0 	- 	0/0 	0/0 	0/0
+Demetrius Still 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	2/3 	2/2 	50, 28 - 52
+	
+:jaguars: Jacksonville Jaguars
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Barkley 	31/53 	307 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Owen Walton 	8 	32 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca 	10 	107 	0 	0 	0/0
+Tyrone Turner 	5 	75 	0 	1 	0/0
+Raheem Robinson 	6 	56 	0 	0 	0/0
+Derek Harrison 	4 	54 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Larry Reeves 	3/0 	- 	1/0 	0/0 	0/0
+Ron Rice 	4/0 	2.0 	0/0 	0/0 	0/0
+Preston Bryant 	2/1 	0.5 	0/0 	0/0 	0/0
+Jeff Williams 	4/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	3/3 	1/1 	30, 27, 35 

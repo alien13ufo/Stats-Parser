@@ -1,0 +1,57 @@
+ Los Angeles Rams (2-2) at Minnesota Vikings (1-4)
+
+Minneapolis, MN - 55 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:rams: Los Angeles Rams (2-2) 	14 	7 	7 	0 	- 	28
+:vikings: Minnesota Vikings (1-4) 	3 	0 	0 	0 	- 	3
+Team Stats Comparison
+  	:rams: Los Angeles Rams 	:vikings: Minnesota Vikings
+Injuries 	August Gilliland, OT - Severe Hamstring Rupture 	Brian Vardell, QB - Severe Shoulder Dislocation
+Offensive Line Rating 	7.7 	7.9
+Sacks 	3 	2
+Punting 	42.2 	44.6
+Punt Return Yards 	0 	40
+Kick Return Yards 	27 	0
+Turnovers 	0 	3
+3rd Down Conversion 	5/10 	3/14
+4th Down Conversion 	0/0 	1/1
+Penalties 	9/102 	5/50
+:rams: Los Angeles Rams
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	25/31 	350 	4 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Frederick Chacon 	21 	94 	0 	21 	0/0
+Terrell Holland 	3 	30 	0 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Allama Banta 	8 	136 	1 	0 	0/0
+Kevin O'Neal 	5 	85 	1 	2 	0/0
+Frederick Chacon 	3 	60 	1 	0 	0/0
+Walt Peck 	5 	52 	1 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Samuel Prince 	4/0 	- 	1/1 	0/0 	0/0
+Jeremy Starks 	2/0 	- 	1/0 	0/0 	0/0
+Daniel Watkins 	5/0 	- 	0/0 	1/1 	0/0
+Michael Bruce 	3/0 	1.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Hunter Hendrickson 	0/1 	4/4 	- 47
+	
+:vikings: Minnesota Vikings
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Cody Albright 	16/32 	132 	0 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	14 	51 	0 	22 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Wayne Wegert 	4 	43 	0 	0 	0/0
+Mohamed Charles 	3 	33 	0 	0 	0/0
+Jacory Kessler 	2 	12 	0 	1 	1/1
+Eugene Jackson 	2 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Justin Glass 	4/0 	1.0 	0/0 	0/0 	0/0
+Eric Jones 	3/0 	1.0 	0/0 	0/0 	0/0
+Cleveland Merrill 	8/1 	- 	0/0 	0/0 	0/0
+Devon Drummond 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ilan Youngblood 	1/1 	0/0 	35 

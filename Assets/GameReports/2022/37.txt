@@ -1,0 +1,65 @@
+ Philadelphia Eagles (2-0) at Indianapolis Colts (0-2) ?
+Indianapolis, IN - 78 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (2-0) 	7 	3 	7 	7 	0 	24
+:colts: Indianapolis Colts (0-2) 	14 	10 	0 	0 	3 	27
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:colts: Indianapolis Colts
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	FS Cameron Bowden (6.83) 	QB Aaron Shea (8.21)
+Worst Player Grade 	C Tim Kerns (3.85) 	OLB Kwazi Robb (5.01)
+Offensive Line Rating 	8.20 	8.41
+Sacks 	2 	5
+Punting 	42.1 	45.5
+Punt Return Yards 	26 	45
+Kick Return Yards 	75 	51
+Turnovers 	1 	1
+3rd Down Conversion 	4/12 	4/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/60 	5/31
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	18/32 	190 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Miller 	16 	51 	1 	12 	0/0 ?
+Troy White 	6 	42 	1 	29T 	0/0
+Allan Taylor 	4 	19 	0 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Michael Hawkins 	6 	60 	0 	0 	0/0
+Christopher Johnson 	3 	42 	0 	1 	0/0
+Cameron Whelahan 	2 	32 	1 	0 	0/0
+Damani Spillman 	2 	22 	0 	0 	0/0
+Marshawn Miller 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Bowden 	3/0 	- 	1/1 	0/0 	0/0
+Ulysses Smith 	3/2 	1.0 	0/0 	0/0 	0/0
+Tommy Brooks 	2/0 	1.0 	0/0 	0/0 	0/0
+Joe Johnson 	5/0 	- 	0/2 	0/0 	0/0
+Logan Holmes 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/2 	3/3 	31 - 54
+	
+:colts: Indianapolis Colts
+Vertical - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	39/55 	379 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	6 	31 	0 	12 	0/0
+Nathan Coleman 	2 	5 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC ? 	YDS 	TD 	DRP 	F/L
+Mosi Bartos 	13 	136 	2 	0 	0/0
+Rashad Simon 	9 	80 	0 	1 	0/0
+Keith Setzer 	6 	53 	1 	0 	0/0
+Sean McDermott 	4 	44 	0 	1 	0/0
+Tyler Dotson 	3 	36 ? 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Hudson Adam 	3/2 	2.0 	0/0 	0/0 	0/0
+Anthony Miller 	3/1 	2.0 	0/0 	0/0 	0/0
+Jonathan Goodwin 	2/0 	1.0 	0/0 	0/0 	0/0
+Damion Taylor 	5/1 	- 	0/1 	0/0 	0/0
+Sean Burton 	3/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	2/3 	3/3 	36, 31 - 45 ?

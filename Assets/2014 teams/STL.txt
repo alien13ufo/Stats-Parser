@@ -1,0 +1,31 @@
+QB Darrell Murphy 6-2 215 R Wisconsin [Pocket] 80
+RB Bradie Sapp 5-11 185 R Virginia Tech [Power] 75
+FB Brad Richards 6-3 240 1 Georga [Power] 40
+WR Walt Peck 6-5 203 R Penn State [Speed] 83
+WR Jamie Keeton 6-5 191 R Iowa State [Speed] 55
+WR Mike Wiggins 5-9 179 R NC State [Speed] 58
+WR Eric Falkred 6-2 190 1 Maryland [Speed] 40
+TE Bob Branch 6-6 239 R Oklahoma [Pass Blocking] 59
+OT Darrell Hayman 6-0 330 R Washington [Pass Blocking] 49
+OG Thomas Jeffreys 6-5 294 1 Oregon [Run Blocking] 40
+OG Art Haley 6-2 342 R Nebraska [Pass Blocking] 79
+C Hunter Folsom 6-2 289 R Louisville [Pass Blocking] 59
+OG Calvin Milloy 6-2 332 R Texas Tech [Pass Blocking] 71
+OT Alexander Warren 6-6 300 1 USC [Pass Blocking] 40
+DE Steve Vanderjagt 6-7 283 R California [Pass Stop] 64
+DE James Johnson 6-4 230 1 Arizona State [Run Stop] 40
+DT Todd Woodson 6-4 284 R Tennessee [Run Stop] 60
+DT David Barr 6-6 312 R Penn State [Run Stop] 56
+DE Joe Washington 6-1 268 R Missouri [Pass Stop] 67
+OLB John Eastman 6-1 224 R Baylor [Pass Zone] 50
+ILB Jim Bendross 6-1 244 R Stanford [Pass Zone] 74
+ILB Rick Rock 6-5 249 1 Florida [Pass Man-to-Man] 40
+OLB Chris Lester 6-4 224 1 Pittsburgh [Run Zone] 40
+OLB Darnell Dickson 6-4 240 1 UCLA [Run Man-to-Man] 40
+CB Jermaine Johnson 5-10 177 R Georgia Tech [Man Coverage] 62
+CB Larry Prentice 6-2 184 R Michigan [Man Coverage] 55
+CB Gerald Godet 5-10 167 1 Utah [Man Coverage] 40
+SS Jonathan Parker 6-2 183 R South Carolina [Man Coverage] 71
+FS Alyn Namath 6-1 172 R Georgia [Man Coverage] 69
+P Benito Brown 6-1 201 R KansasState [Accuracy] 56
+K William Norris 6-2 172 1 Boise State [Power] 40

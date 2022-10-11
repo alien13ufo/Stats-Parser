@@ -1,0 +1,57 @@
+ Los Angeles Chargers (0-9) at Indianapolis Colts (2-7)
+
+Indianapolis, IN - 57 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (0-9) 	0 	3 	3 	14 	- 	20
+:colts: Indianapolis Colts (2-7) 	14 	14 	6 	7 	- 	41
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:colts: Indianapolis Colts
+Injuries 	No Injuries 	Cayden Reese, TE - Severe Elbow Tendonitis
+Offensive Line Rating 	7.4 	8.2
+Sacks 	2 	6
+Punting 	43.2 	46.3
+Punt Return Yards 	4 	25
+Kick Return Yards 	43 	21
+Turnovers 	1 	0
+3rd Down Conversion 	5/13 	3/8
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/54 	4/38
+:chargers: Los Angeles Chargers
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	18/26 	167 	2 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	18 	71 	0 	23 	0/0
+Mamadou Heard 	6 	29 	0 	17 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gerald Morrison 	4 	57 	1 	0 	0/0
+Tommy Pottios 	5 	51 	1 	0 	0/0
+M.L. Kriewaldt 	3 	27 	0 	1 	0/0
+Scott Howard 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jason Bryant 	5/0 	1.0 	0/0 	0/0 	0/0
+Andrew Pearson 	2/0 	1.0 	0/0 	0/0 	0/0
+Tunch Richardson 	6/0 	- 	0/1 	0/0 	0/0
+Robert Shipp 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	2/2 	2/2 	38, 34
+	
+:colts: Indianapolis Colts
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	24/28 	260 	4 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	20 	98 	1 	39T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mosi Bartos 	7 	89 	1 	0 	0/0
+Ryan Mitchell 	5 	66 	1 	1 	0/0
+Tyler Dotson 	3 	43 	1 	0 	0/0
+Keith Setzer 	3 	29 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Anthony Miller 	3/1 	2.0 	0/0 	1/0 	0/0
+Keyshawn Vance 	3/0 	2.0 	0/0 	0/1 	0/0
+Lukas Forman 	6/0 	1.0 	0/0 	0/0 	0/0
+Keyuo Clark 	4/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Augustine 	2/2 	5/5 	37, 31 

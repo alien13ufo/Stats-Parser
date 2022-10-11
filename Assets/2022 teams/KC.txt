@@ -1,0 +1,55 @@
+QB Erasmus McCready 6-2 225 5 Alabama [Hybrid] [+1] 86
+QB Ryan Harris 6-4 213 R Fresno State [Pocket] [0] 82
+QB Brad Davis 5-11 205 3 Texas [Pocket] [0] 81
+RB Terrence Rodgers 6-0 173 2 Mississippi State [Speed] [+1] 86
+RB Justin Buchanan 5-10 184 8 Mississippi State [Power] [+3/C] 77
+RB C?hester Dorenbos 6-0 222 5 Syracuse [Power] [0] 74?
+FB Gary Richardson 5-11 233 3 Kansas State [Run Blocking] [0] 86
+WR Hines Mertens 5-8 176 5 LSU [Speed] [0] 84
+WR Richard Frazier 5-8 181 6 Iowa [Target] [-1] 82
+WR Harry Whiteside 6-5 169 4 Texas [Target] [0] 81
+WR Benjamin Franklin 5-9 160 2 Rutgers? [Speed?] [0] ?80
+WR Daniel Hobbs 6-4 219 R Missouri [Targ?et] [0] 79
+WR Justin Hill 6-5 192 1 Abilene Christian [Target] [0] 78?
+WR Lindsey Thomas 5-11 163 2 Arizona [Speed] [-1] 77
+TE Spec Davidson 6-2 243 8 Georgia [Receiving] [-2] 89
+TE Jariel Rosario 6-0 215 3 Michigan [Receiving] [0] 80
+TE C.J. Hickman 6-0 231 1 Washington [Blocking] [0] 78
+TE Omeri Maimoana 6-3 204 R Washington [Blocking] [+2] 67
+OT Quinn Burr 6-6 258 3 Iowa State [Pass Blocking] [0] 90
+OT Chris Gray 6-3 283 5 Texas A&M [Pass Blocking] [+1] 88
+OT Herman Harrison 6-4 302 5 Baylor [Pass Blocking] [0] 83
+OG Boyd Buckley 6-0 274 5 Notre Dame [Pass Blocking] [-1] 83
+OG Henry Badanjek 6-4 289 8 Alabama [Pass Blocking] [0] 81
+OG Miguel Vela 6-5 280 R Iowa [Pass Blocking] [+1/C] 77
+OG Brandon Gregory 6-2 298 5 NC State [Run Blocking] [0] 76 ?
+C Angelo Huddleston 6-2 294 4 Boston College [Pass Blocking] [0] 83
+C Bill Bullard 6-3 266 4 Buffalo [Run Blocking] [0] 79
+DE Jeffrey Chung 6-4 272 3 Alabama [Blitz] [-1] 84
+DE Luke Lyles 6-0 249 2 Vanderbilt [Blitz] [0] 82
+DE Jaylen Jordan 6-2 240 1 Arizona State [Blitz] [0] 69
+DE Chase Woodson 6-3 245 R Ohio [Blitz] [+2] 67
+DT Carnell Meadows 6-5 273 5 Nebraska [1-Gap] [+1] 88
+DT Bud Howard 6-2 301 4 LSU [2-Gap] [0] 84
+DT Mohamed Caldwell 6-3 315 R North Carolina [1-Gap] [-3] 74
+DT Oliver Ponce 6-5 327 R Florida State [2-Gap] [+3] 65
+ILB Dewey Tomlinson 5-11 220 5 Oklahoma State [Mike] [0] 85
+ILB Byron Berry 6-3 251 R Connecticut [Will] [0] 75
+OLB Arlie LeClair 6-2 245 8 Virginia Tech [Coverage] [+2/C] 85
+OLB Sean Springs 6-0 220 5 Stanford [Coverage] [+2/C] 83
+OLB Devin Stephens 6-1 237 4 Marshall [Blitz] [0] 83
+OLB Billy Westbrook 6-0 228 7 Washington [Coverage] [0] 82
+CB Teddy Walker 5-11 177 4 Kentucky [Man Coverage] [0] 87
+CB Marques Warner? 6-1 193 6 Texas????? A&M [Man Coverage] [+1] 87?
+CB Andrew Boyd 5-10 175 1 Boston College [Man Coverage] [0] 83
+CB Bradley Nunn 5-9 165 1 Syracuse [Man Coverage] [0] 76
+CB Fred Young 6-2 181 2 Michigan [Man Coverage] [0] 74
+CB Paul Olson 5-11 174 5 BYU? [Man Coverage] [0] 73
+CB William Patterson 6-0 190 3 Iowa [Man Coverage] [-1] 72?
+FS Rob Hamilton 5-11 188 5 UCLA [Zone Coverage] [0] 83
+FS Samuel Porter 5-11 206 2 Boise State [Man Coverage] [0] 79
+FS Jeremy Easter 6-1 195 R Duke [Man Coverage] [0] 79
+SS Cameron Riley 6-1 197 1 Texas Tech [Zone Coverage] [0] 85
+K Ryan Levcik 5-9 177 6 Alabama [Power] [0] 94
+P Patrick Wolff 6-1 187 1 Oregon State [Power] [0] 82
+PR Ben Offerdahl 5-11 189 4 Auburn [Speed] [+1/C] 90

@@ -1,0 +1,55 @@
+QB Eric McLean 6-2 206 1 Rice [Pocket] [+2/C] 84?
+QB Reggie Watkins 6-4 200 10 Alabama [Pocket] [+3/C] 86
+Q?B Sam Milner 6-1 206 R Texas [Scrambling] [0] 79
+RB DeNorris Jackson 6-0 235 3 UCF [Power] [-1] [#] 89
+RB Raekwon Thomas 5-10 164 1 Northern Iowa [Speed] [-2] [++] 79
+RB Chris Bell 6-3 198 5 Navy [Speed] [-2] [+] 81?
+WR Tevin Lattimore 6-2 225 2 Missouri [Target] [-1] 86
+WR Uzu?mat?i Jones 6-2 233 R UTEP [Target] [-1] 79
+W?R Major Linton 6-3 201 R Boise State [Target] [-1] [+] 77
+WR Cotton Lewis 6-1 182 7 Auburn [Target] [0] 82
+WR Samuel Jolley 6-2 218 6 Houston [Speed] [0] [++] 82
+WR Evan Medley 6-1 197 4 North Carolina [Target] [0] 78
+TE Hunter King 6-6 211 3 Ole Miss [Receiving] [0] 79
+TE Matt Thomas 6-3 219 6 Hawaii [Receiving] [0/C] 86
+TE Messiah Gresham 6-1 225 1 Vanderbilt [Blocking] [0] 75
+OT Ryan Robinson 6-6 299 7 Oklahoma State [Run Blocking] [-1] 91
+OT Rafael O'Donnell 6-5 310 4 Colorado State [Run Blocking] [-1] 86
+OT Clifford Santiago 6-6 305 5 Syracuse [Run Blocking] [0] 80
+OT Victor O’Connell 6-7 271 3 Georgia Tech [Run Blocking] [0] 80
+OT John Hardison 6-6 291 R New Mexico State [Run Blocking] [0] 78
+OG Marcus Slade 6-4 256 3 UCF [Pass Blocking] [+1] 82
+OG?? Charles Harkins 6-4 279 5 Louisville [Pass ?Blocking] [?-2] 8?1?
+OG Eugene Giles 6-4 290 5 Washington State [Pass Blocking] [0] 78
+OG Xavier Werner 6-1 333 2 Iowa [Pass Blocking] [+3/C] 79
+OG Jayson Schmidt 6-2 263 2 Alabama [Run Blocking] [0] 77
+C Setu Seau 6-2 281 3 SDSU [Pass Blocking] [0/C] 82?
+C Miles Best 6-1 252 1 North Dakota [Pass Blocking] [+1] 77
+DE Curtis Lewis 6-8 283 8 Texas [Blitz] [0] [#] 90
+DE Khairi Bryant 5-10 263 2 Ohio State [Blitz] [0] 89
+DE? Kenneth Stanford 5-11 258 4 NC State [B?litz] [0] 7?8
+DE Josh Bain 6-3 259 R Colorado [Blitz] [0/C] 74
+DT Frank Williams 6-8 293 9 Alabama [1-Gap] [+1/C] 89
+DT Christian Okonkwo 6-5 297 4 Oregon [2-Gap] [0] [#] 85
+DT Jamal Robinson 6-1 296 R Texas [1-Gap] [-3] 78
+DT Bobby Griggs 6-5 299 4 Boise State [1-Gap] [0] [#] 77
+DT Timmy Campbell 6-6 315 1 Minnesota [1-Gap] [0] 76
+OLB Louis Peterson 6-4 200 6 Oklahoma State [Blitz] [0] 88
+OLB Cyrus Paulsen 6-3 227 2 Ohio State [Coverage] [-2] 79
+OLB Kevin Little 5-11 234 5 Texas A&M [Blitz] [0] 76
+OLB Jerry Thornton 6-2 229 4 Texas Tech [Coverage] [-1] 76
+OL?B Brent Ouellette 6-3 232 4 Georgia Tech [Coverage] [0] 75
+ILB Alexander Hutton 6-2 240 1 Michigan [Mike] [+1] [+] 82
+ILB Ernie Crawford 6-1 220 4 Oklahoma [Will] [0] 81
+ILB Zach Morrison 6-4 245 3 Oklahoma State [Mike] [0] 74
+CB Will Hall 5-10 224 6 USC [Zone Coverage] [+1] 88?
+CB Jeremiah Butler 5-11 178 R Purdue [Zone Cove?rage] [+1/C] 81
+CB Hunter Lawrence 5-10 176 5 Colorado State [Zone Coverage] [0] 83
+CB Jamari Turner 5-10 171 2 Oregon State [Zone Coverage] [0] 74
+CB Austin Copeland 6-0 203 R USF [Man Coverage] [-1] [+] 74
+FS D'Qwell Moore 6-3 203 3 Florida State [Zone Coverage] [0] [++] 88
+FS Alyn Namath 6-1 172 10 Georgia [Man Coverage] [+1] 76
+SS Norris Nolan 5-10 178 7 Texas A&M [Zone Coverage] [0] 8?2
+SS Kameron Myrick 6-1 216 R Minnesota [Man Coverage] [+1/C] 79
+K Sam Sarahi 6-1 203 6 Hawaii [Power] [0] 91??
+P Mason Singleton 6-3 198 5 Pittsburgh [Power] [0/C] 9?3

@@ -1,0 +1,55 @@
+ Los Angeles Chargers (0-2) at Cincinnati Bengals (0-2)
+
+Cincinnati, OH - 71 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (0-2) 	7 	14 	7 	0 	- 	28
+:bengals: Cincinnati Bengals (0-2) 	7 	10 	7 	10 	- 	34
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:bengals: Cincinnati Bengals
+Injuries 	Gerald Morrison, WR - Severe Concussion 	No Injuries
+Offensive Line Rating 	7.8 	8.0
+Sacks 	0 	4
+Punting 	42.1 	46.2
+Punt Return Yards 	38 	15
+Kick Return Yards 	45 	21
+Turnovers 	1 	0
+3rd Down Conversion 	7/12 	6/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/70 	3/46
+:chargers: Los Angeles Chargers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	23/39 	250 	2 	1 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	19 	70 	1 	21 	0/0
+Mamadou Heard 	5 	31 	1 	21T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tommy Pottios 	8 	92 	1 	0 	0/0
+M.L. Kriewaldt 	5 	91 	1 	1 	0/0
+Mark Harrington 	4 	32 	0 	0 	0/0
+Gerald Morrison 	3 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Bryan Jones 	8/0 	- 	0/1 	0/0 	0/0
+Eric Sochia 	5/0 	- 	0/0 	0/0 	0/0
+Shane Easley 	4/1 	- 	0/0 	0/0 	0/0
+Kareem Boykin 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	0/1 	4/4 	- 50
+	
+:bengals: Cincinnati Bengals
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	10/16 	118 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	26 	132 	2 	29 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamir Blackburn 	5 	56 	1 	0 	0/0
+Adrian Jankowski 	2 	23 	1 	0 	0/0
+Brandon Lane 	1 	17 	0 	1 	0/0
+Christopher Harris 	1 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Aaron Stiles 	1/0 	- 	1/0 	0/0 	0/0
+Brett Bailey 	4/1 	2.0 	0/0 	0/0 	0/0
+Sila Lotomau 	3/0 	1.0 	0/0 	0/0 	0/0
+E.J. McQuarters 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	2/2 	4/4 	33, 36 

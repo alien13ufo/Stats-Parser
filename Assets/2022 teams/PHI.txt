@@ -1,0 +1,53 @@
+QB Allan Taylor 6-0 202 8 Virginia Tech [Scrambling] [+1/C] 96
+QB Alex Bridgewater 6-0 182 7 Louisville [Scrambling] [+3/C] 87
+QB Marquise Simpkins 6-4 225 R Maryland [Scrambling] [0] 77
+RB Marshawn Miller 6-1 225 1 Connecticut [Speed] [-1] 83
+RB Troy White 5-11 200 4 Louisville [Speed] [0] 86
+RB Kevin Muse 5-8 193 2 SMU [Power] [0] 79
+RB Sean Egloff 6-0 207 3 Oklahoma [Speed] [-1] 79
+FB Dylan Stewart 5-8 227 3 Kansas State [Run Blocking] [+2] 85
+WR Michael Hawkins 5-9 196 5 Florida [Speed] [+2] 90
+WR Christopher Johnson 6-1 173 6 Virginia Tech [Speed] [0] 84
+WR Cameron Whelahan 6-4 211 4 Arkansas [Target] [+2] 84
+WR Roy Davis 6-4 209 2 Texas [Target] [0] 78
+WR Justin Evans 5-11 168 R Toledo [Speed] [-1] 76
+WR Adam Vann 5-10 220 1 LSU [Target] [+2] 71
+TE Sebastian Babb 6-6 206 R Nebraska [Receiving] [0] 80
+TE Damani Spillman 6-0 230 4 Ball State [Receiving] [+1] 83
+TE Erik Bray 6-7 250 2 North Dakota [Receiving] [0] 76
+OT Eric Peebles 6-3 350 7 LSU [Run Blocking] [+1/C] 90
+OT Toby Madden 6-4 267 3 Vanderbilt [Pass Blocking] [0] 90
+OT Ki'Jana Parrish 6-4 312 7 Auburn [Pass Blocking] [0] 84
+OT Elias Roman 6-1 332 1 Arizona [Run Blocking] [+1/C] 75
+OG Jack Green 6-6 277 4 Cincinnati [Run Blocking] [+3/C] 89
+OG Robert Fontenot 6-5 278 3 LSU [Run Blocking] [0] 81
+OG ?Mike Rachal 6-8 326 6 Ohio State [Pass Blocking] [+1/C] 76
+OG Isiah Amaya 6-4 314 3 Penn State [Run Blocking] [+1] 71
+C Jo?seph Colbert 6-1 241 5 Valley CC [Pass Bl?ocking] [0] 80
+C Tim Kerns 6-1 271 1 Pittsburgh [Pass Blocking] [-1] 77
+DE Ryan Frey 6-6 277 4 Miami [Blitz] [+1/C] 95
+DE Lawrence Marshall 6-5 251 3 Oregon [Blitz] [0] 78
+DE Ulysses Smith 6-8 290 6 Penn State [Contain] [+1] 85
+DE Malachi McKnight 6-0 261 R Bowling Green [Contain] [+1] 69
+DT Tommy Brooks 6-7 285 5 Texas A&M [1-Gap] [+1/C] 82
+DT Turk Davis 6-3 268 5 Georgia [1-Gap] [-1] 82
+DT Tyrone Crawley 6-4 296 3 Kentucky [2-Gap] [+2] 73
+DT John David Addison 6-5 296 R Oklahoma [1-Gap] [0] 66
+ILB Rodrick Milligan 6-2 254 8 Michigan [Mike] [0/C] 90
+ILB Julius Velasquez 6-4 230 4 Houston [Will] [0] 75
+OLB Martin Whiting 6-3 235 2 North Carolina [Coverage] [-3] 84
+OLB Terry Hill 6-0 221 6 Notre Dame [Coverage] [0] 81
+OLB James Turner 6-2 237 7 Florida State [Coverage] [+1/C] 80
+OLB Donald Collier 6-1 205 4 Washington State [Coverage] [0] 79
+CB DeAndre Hawkins 6-2 180 6 Ohio State [Man Coverage] [-1] 89
+CB Joshua Sloan 5-11 208 8 Baylor [Man Coverage] [+1/C] 79
+CB Tim Kassell 5-11 191 6 UCLA [Man Coverage] [0] 78
+CB Travaris Jackson 5-10 185 1 Eastern Washington [Man Coverage] [0] 81
+CB Logan Holmes 5-11 201 R Illinois [Zone Coverage] [0] 77
+CB Adam Harris 6-1 183 6 Air Force [Man Coverage] [+2/C] 75
+FS Cameron Bowden 5-10 216 R Arizona [Man Coverage] [+2/C] 81
+SS Joe Johnson 6-0 206 5 Houston [Zone Coverage] [0] 87
+SS Demetrius Kirkpatrick 5-11 204 1 Southern Miss [Zone Coverage] [-3] 80
+SS Brandon Guillory 5-11 201 2 Texas A&M [Zone Coverage] [0] 78
+K Mark Kirschbaum 5-9 199 4 Purdue [Power] [+1] 90
+?P Gene Pollard 5-11 182 4 Wisconsin [Accuracy] [0/C] 85

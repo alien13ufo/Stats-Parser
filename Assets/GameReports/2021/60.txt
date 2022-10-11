@@ -1,0 +1,61 @@
+ Detroit Lions (0-3) at Green Bay Packers (3-0)
+
+Green Bay, WI - 64 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:fibur: Detroit Lions (0-3) 	0 	0 	3 	3 	- 	6
+:packers: Green Bay Packers (3-0) 	3 	7 	7 	0 	- 	17
+Team Stats Comparison
+  	:fibur: Detroit Lions 	:packers: Green Bay Packers
+Injuries 	No Injuries 	Gil Novacek, RB - Moderate Biceps Tear
+Offensive Line Rating 	7.6 	8.2
+Sacks 	0 	3
+Punting 	46.3 	43.2
+Punt Return Yards 	42 	36
+Kick Return Yards 	0 	0
+Turnovers 	2 	1
+3rd Down Conversion 	1/14 	4/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/57 	10/109
+
+:fibur: Detroit Lions
+
+(Pro Style - Spread)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Elijah Moffett 	15/30 	150 	0 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Calvin Jones 	16 	40 	0 	9 	0/0
+Logan Pruitt 	4 	21 	0 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony Fasani 	6 	72 	0 	0 	0/0
+Rex Walsh 	2 	35 	0 	1 	0/0
+Jeremy Cook 	3 	21 	0 	0 	0/0
+Calvin Jones 	2 	13 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin McQueen 	2/0 	- 	1/0 	0/0 	0/0
+Willard McCready 	8/0 	- 	0/2 	0/0 	0/0
+Andre Brooks 	6/1 	- 	0/0 	0/0 	0/0
+Cameron Jones 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	2/3 	0/0 	42, 28 - 53
+	
+
+:packers: Green Bay Packers
+
+(Spread - Pro Style)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	21/34 	199 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	16 	50 	1 	16T 	0/0
+Gil Novacek 	3 	-1 	0 	2 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Justin McCain 	6 	84 	1 	0 	0/0
+Dan Nomellini 	5 	37 	0 	0 	0/0
+Tom Grant 	3 	32 	0 	0 	0/0
+Roger Bailey 	2 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Julio Barnes 	5/0 	- 	1/1 	0/0 	0/0
+Marquise Reed 	1/0 	- 	1/0 	0/0 	0/0
+Kaulana Groth 	4/0 	1.5 	0/0 	0/0 	0/0
+Mark Bassett 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	1/2 	2/2 	45 - 46 

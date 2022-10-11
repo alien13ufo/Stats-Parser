@@ -1,0 +1,66 @@
+ Tennessee Titans (3-1) at Los Angeles Chargers (0-3)
+
+Inglewood, CA - 77 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (3-1) 	7 	0 	6 	14 	- 	27
+:chargers: Los Angeles Chargers (0-3) 	0 	3 	3 	7 	- 	13
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:chargers: Los Angeles Chargers
+Injuries 	
+
+Tyler Jones, DE - Mild Calf Pull
+
+ 
+	
+
+Justin Way, OT - Severe ACL Rupture
+
+Eric Sochia, FS - MIld Ankle Sprain
+Offensive Line Rating 	8.4 	8.1
+Sacks 	4 	2
+Punting 	44.5 	45.3
+Punt Return Yards 	46 	12
+Kick Return Yards 	0 	24
+Turnovers 	1 	2
+3rd Down Conversion 	5/13 	6/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/68 	4/32
+:titans: Tennessee Titans
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	29/51 	307 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+John Harris 	10 	40 	0 	8 	0/0
+Nikita Crowe 	1 	4 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cody Hunter 	6 	86 	1 	0 	0/0
+Kevin Williams 	5 	83 	1 	0 	0/0
+Greg Newman 	6 	60 	0 	1 	0/0
+Kavika Russell 	4 	48 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jack Ramsey 	2/0 	- 	1/1 	0/0 	0/0
+Tyler Jones 	3/0 	2.0 	0/0 	0/0 	0/0
+Charles Woods 	2/1 	1.0 	0/0 	1/0 	0/0
+Joseph Whiteside 	3/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	2/2 	3/3 	39, 35
+	
+:chargers: Los Angeles Chargers
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	25/40 	297 	1 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	7 	35 	0 	21 	0/0
+Mamadou Heard 	3 	27 	0 	16 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	8 	110 	0 	0 	0/0
+Mark Harrington 	5 	84 	1 	1 	0/0
+M.L. Kriewaldt 	4 	45 	0 	0 	0/0
+Tommy Pottios 	3 	31 	0 	2 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin Potts 	2/0 	- 	1/0 	0/0 	0/0
+Isaiah Hall 	3/1 	1.0 	0/0 	0/0 	0/0
+Zion Hopkins 	1/0 	1.0 	0/0 	0/0 	0/0
+Tunch Richardson 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	2/2 	1/1 	40, 41 

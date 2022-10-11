@@ -1,0 +1,65 @@
+ Pittsburgh Steelers (0-0) at Arizona Cardinals (0-0) ?
+Glendale, AZ - 97 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:steelers: Pittsburgh Steelers (0-0) 	17 	7 	14 	3 	- 	41
+:cardinals: Arizona Cardinals (0-0) 	3 	0 	6 	0 	- 	9
+Team Stats Comparison
+  	:steelers: Pittsburgh Steelers 	:cardinals: Arizona Cardinals
+Injuries 	WR Eric Watson - Moderate Concussion 	No Injuries
+Top Player Grade 	DE Carlos Washington (9.72) 	WR Ricky Chambers (7.05)
+Worst Player Grade 	C John Hinton (5.09) 	SS Rob Evans (4.21)
+Offensive Line Rating 	8.19 	8.09
+Sacks 	2 	3
+Punting 	53.3 	48.6
+Punt Return Yards 	18 	2
+Kick Return Yards 	29 	64
+Turnovers 	0 	3
+3rd Down Conversion 	7/12 	3/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/73 	4/42
+:steelers: Pittsburgh Steelers
+Vertical - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	29/42 	380 	4 	0 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	9 	33 	0 	7 	0/0
+Kalei Keil 	5 	24 	1 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jake Schmidt 	7 	89 	1 	0 	0/0
+Samuel Jolley 	4 	83 	1 	1 	0/0
+Jeremiah Henry 	4 	80 	1 	0 	0/0
+William Anderson 	3 	53 	1 	0 	0/0
+Kavika Russell 	3 	50 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Noah Crawley 	1/0 	- 	1/1 	0/0 	0/0
+Kordell McKinnon 	2/0 	- 	1/0 	0/0 	0/0
+Carlos Washington 	5/1 	1.5 	0/0 	1/1 	0/0
+Marcus Carver 	2/0 	0.5 	0/0 	0/0 	0/0
+Ron Mobley 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Lorenzo Rodgers 	2/2 	5/5 	47, 45
+	
+:cardinals: Arizona Cardinals
+Pistol - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	12/23 	119 	1 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING ? 	ATT 	YDS 	TD 	LNG 	F/L
+Trevon Yeldon 	16 	61 	0 	25 	1/1
+Paul Davenport 	2 	4 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ricky Chambers 	4 	50 	0 	0 	0/0
+Marcus Banks 	3 	37 	1 	0 	0/0
+Noah Hills 	2 	12 	0 	0 	0/0
+Art Baber 	1 	7 	0 	0 	0/0
+Ibrahim Smiley 	1 	5 	0 ? 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Josiah Harden 	3/0 	1.0 	0/0 	1/0 	0/0
+Jeffrey King 	4/0 	1.0 	0/0 	0/0 	0/0
+Omar McManus 	2/0 	1.0 	0/0 	0/0 	0/0
+Tom Reis 	5/0 	- 	0/0 	0/0 	0/0
+Rob Evans 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Cliff Chamblin 	1/1 	0/0 	39 

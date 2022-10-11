@@ -1,0 +1,62 @@
+ Carolina Panthers (7-3) at Philadelphia Eagles (7-3)
+
+Philadelphia, PA - 45 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:panthers: Carolina Panthers (7-3) 	0 	14 	3 	10 	- 	27
+:eagles: Philadelphia Eagles (7-3) 	7 	7 	3 	14 	- 	31
+Team Stats Comparison
+  	:panthers: Carolina Panthers 	:eagles: Philadelphia Eagles
+Injuries 	
+
+Jermaine Bishop, WR - Severe Achilles Rupture
+
+ 
+	DeAndre Hawkins, CB - Moderate Shoulder Dislocation
+Offensive Line Rating 	8.5 	8.1
+Sacks 	3 	1
+Punting 	43.5 	46.2
+Punt Return Yards 	8 	26
+Kick Return Yards 	40 	22
+Turnovers 	2 	1
+3rd Down Conversion 	6/13 	4/10
+4th Down Conversion 	1/1 	0/0
+Penalties 	4/38 	8/70
+:panthers: Carolina Panthers
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	30/50 	340 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	12 	58 	1 	17 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Curtis Henry 	9 	109 	1 	1 	0/0
+Monte Jackson 	6 	84 	0 	0 	0/0
+Billy Rodgers 	4 	70 	1 	1 	0/0
+Quentin McCullough 	3 	51 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darren Manning 	5/0 	- 	1/0 	0/0 	0/0
+Kendrick Droughns 	3/0 	1.0 	0/0 	0/0 	0/0
+Brian Bynum 	2/0 	1.0 	0/0 	0/0 	0/0
+Mike Wohlabaugh 	0/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	2/2 	3/3 	39, 32
+	
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	20/28 	219 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Miller 	17 	70 	1 	28T 	0/0
+Troy White 	3 	5 	0 	2 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Michael Hawkins 	6 	70 	1 	1 	0/0
+Christopher Johnson 	5 	52 	1 	0 	0/0
+Adam Vann 	3 	38 	0 	1 	0/0
+Marshawn Miller 	2 	29 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Travaris Jackson 	2/0 	- 	1/1 	0/0 	0/0
+Joe Johnson 	3/0 	- 	1/0 	0/0 	0/0
+Ryan Frey 	3/2 	1.0 	0/0 	0/0 	0/0
+Rodrick Milligan 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/2 	4/4 	49 - 58 

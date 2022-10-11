@@ -1,0 +1,57 @@
+ Washington Redskins (6-5) at Los Angeles Chargers (1-10)
+
+Inglewood, CA - 69 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:redskins: Washington Redskins (6-5) 	7 	9 	17 	7 	- 	40
+:chargers: Los Angeles Chargers (1-10) 	0 	3 	3 	7 	- 	13
+Team Stats Comparison
+  	:redskins: Washington Redskins 	:chargers: Los Angeles Chargers
+Injuries 	Eddie McFadden, WR - Mild Concussion 	Scott Howard, TE - Severe Biceps Strain
+Offensive Line Rating 	8.4 	7.4
+Sacks 	5 	0
+Punting 	48.2 	43.2
+Punt Return Yards 	35 	7
+Kick Return Yards 	0 	48
+Turnovers 	0 	2
+3rd Down Conversion 	4/10 	4/14
+4th Down Conversion 	0/0 	0/1
+Penalties 	4/39 	3/18
+:redskins: Washington Redskins
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	30/44 	343 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ernest Tomlinson 	9 	26 	1 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tony DeMarco 	9 	125 	2 	0 	0/0
+Eddie McFadden 	6 	84 	1 	1 	0/0
+Sam Hiller-Weeden 	5 	64 	0 	1 	0/0
+Ernest Tomlinson 	5 	44 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jim Sisemore 	2/0 	- 	1/0 	0/0 	0/0
+Steven Jordan 	4/2 	1.5 	0/0 	1/0 	0/0
+Fred Romanowski 	4/0 	2.0 	0/0 	0/0 	0/0
+Mike Hill 	2/0 	1.0 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	4/4 	4/4 	40, 20, 28, 35
+	
+:chargers: Los Angeles Chargers
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	16/31 	170 	1 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	15 	53 	0 	21 	0/0
+Mamadou Heard 	2 	0 	0 	5 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gerald Morrison 	4 	46 	0 	1 	0/0
+M.L. Kriewaldt 	3 	43 	1 	0 	0/0
+Scott Howard 	3 	40 	0 	0 	0/0
+Damian Mason 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kareem Boykin 	5/0 	- 	0/1 	0/0 	0/0
+Jason Bryant 	5/0 	- 	0/0 	0/0 	0/0
+Andrew Pearson 	4/1 	- 	0/0 	0/0 	0/0
+Robert Shipp 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	2/2 	1/1 	35, 31 

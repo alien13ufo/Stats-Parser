@@ -1,0 +1,57 @@
+ San Francisco 49ers (1-2) at Detroit Lions (0-4)
+
+Detroit, MI - 54 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (1-2) 	14 	3 	0 	7 	- 	24
+:fibur: Detroit Lions (0-4) 	17 	0 	0 	14 	- 	31
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:fibur: Detroit Lions
+Injuries 	Jarius Shaw-Dodd, WR - Severe Hamstring Rupture 	Griffin Perrin, ILB - Moderate Concussion
+Offensive Line Rating 	8.0 	7.8
+Sacks 	1 	1
+Punting 	43.5 	45.2
+Punt Return Yards 	27 	84 (1)
+Kick Return Yards 	0 	24
+Turnovers 	2 	1
+3rd Down Conversion 	6/13 	4/15
+4th Down Conversion 	0/0 	1/1
+Penalties 	5/46 	2/21
+:49ers: San Francisco 49ers
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	22/35 	270 	3 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	13 	19 	0 	6 	0/0
+Jared Smallwood 	1 	4 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Branch 	6 	94 	1 	0 	0/0
+Ben Thomas 	3 	65 	1 	2 	0/0
+Miles Collins 	4 	61 	1 	0 	0/0
+Troy McCray 	4 	44 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Keith Wells 	3/0 	- 	1/0 	0/0 	0/0
+Dennis Niland 	2/0 	1.0 	0/0 	0/0 	0/0
+Brandon Thomas 	6/1 	- 	0/1 	0/0 	0/0
+Daleroy Smart 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	1/2 	3/3 	45 - 54
+	
+:fibur: Detroit Lions
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Blake Shell 	21/31 	300 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Calvin Jones 	11 	48 	1 	21T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Allen 	8 	102 	0 	0 	0/0
+Jeremy Cook 	4 	84 	0 	1 	0/0
+Tyrone Cunningham 	3 	70 	1 	0 	0/0
+Anthony Fasani 	3 	21 	2 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Chris Tolbert 	2/0 	- 	1/0 	0/0 	0/0
+Kofi Neal 	2/0 	- 	1/0 	0/0 	0/0
+Cameron Jones 	6/1 	1.0 	0/0 	0/0 	0/0
+Andre Brooks 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	1/1 	4/4 	42 

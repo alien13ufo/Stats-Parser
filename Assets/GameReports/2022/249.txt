@@ -1,0 +1,67 @@
+ Arizona Cardinals (3-12) at Seattle Seahawks (9-5-1) ?
+
+Seattle, WA - 36 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (3-12) 	0 	7 	7 	7 	- 	21
+:seahawks: Seattle Seahawks (9-5-1) 	7 	3 	3 	6 	- 	19
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:seahawks: Seattle Seahawks
+Injuries 	No Injuries 	QB Jarius Jones - Moderate Shoulder Dislocation
+Top Player Grade 	OG Wilson Hutchinson (8.22) 	CB Matt Cowan (8.43)
+Worst Player Grade 	OLB William Thomas (1.40) 	OT Eugene Scott (1.21)
+Offensive Line Rating 	8.30 	7.96
+Sacks 	4 	1
+Punting 	44.1 	45.2
+Punt Return Yards 	12 	6
+Kick Return Yards 	57 	82
+Turnovers 	1 	1
+3rd Down Conversion 	3/12 	4/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/50 	4/26
+:cardinals: Arizona Cardinals
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Greg Bierria 	21/34 	221 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Trevon Yeldon 	17 	48 	1 	11 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ricky Chambers 	6 	95 	1 	0 	0/0
+Marcus Banks 	6 	53 	1 	0 	0/0
+Butch Harper 	2 	23 	0 	2 	0/0
+Noah Hills 	2 	21 	0 	0 	0/0
+Emanuelu Lesa 	2 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ian Garner 	2/0 	- 	1/0 	0/0 	0/0
+Josiah Harden 	4/1 	2.0 	0/0 	0/0 	0/0
+Dennis Abdullah 	3/1 	1.0 	0/0 	0/0 	0/0
+Thomas Mughelli 	1/0 	1.0 	0/0 	0/0 	0/0
+Shaq Turner 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	0/1 	3/3 	- 53
+	
+:seahawks: Seattle Seahawks
+Spread - Flexbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	16/26 	204 	1 	1 	0/0
+Tucker Dowden 	3/5 	30 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams ? 	16 	61 	0 	16 	0/0
+Noel Minor 	3 	35 	1 	20 	0/0
+Tucker Dowden 	2 	12 	0 	8 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Curtis Settles 	4 	56 	0 	0 	0/0
+Roger Bailey 	3 	53 	0 	0 	0/0
+Marcus Williams 	3 	50 	1 	0 	0/0
+Josiah McCray 	3 	32 	0 	1 	0/0
+Tony Huff 	2 	24 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Matt Cowan 	2/0 	- 	1/1 	0/0 	0/0
+Reggie Howard 	2/0 	1.0 	0/0 	0/0 	0/0
+Brick Madden 	6/0 	- 	0/0 	0/0 	0/0
+Derrick Dawkins 	5/0 ? 	- 	0/0 	0/0 	0/0
+Adrian Connor 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	2/2 	1/1 	33, 35 ?

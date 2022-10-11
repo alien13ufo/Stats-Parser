@@ -1,0 +1,67 @@
+ San Francisco 49ers (1-10) at Tampa Bay Buccaneers (6-5) ?
+
+Tampa, FL - 82 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (1-10) 	0 	3 	7 	7 	- 	17
+:buccaneers: Tampa Bay Buccaneers (6-5) 	7 	3 	3 	10 	- 	23
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:buccaneers: Tampa Bay Buccaneers
+Injuries 	No Injuries ? 	OT Gene Miller - Moderate Wrist Sprain
+Top Player Grade 	ILB Daleroy Smart (7.46) 	DE Darris Hayes (8.45)
+Worst Player Grade 	DT Michael McBride (2.60) 	DT Omar Adcock (2.06)
+Offensive Line Rating 	8.09 	8.16
+Sacks 	2 	1
+Punting 	42.4 	40.3
+Punt Return Yards 	9 	16
+Kick Return Yards 	66 	45
+Turnovers 	1 	1
+3rd Down Conversion 	3/13 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/45 	5/55
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	17/34 	209 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	14 	50 	1 	11 	0/0
+Todd Lester 	3 	10 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Daniel Marshall 	4 	56 	0 	0 	0/0
+Jarius Shaw-Dodd 	4 	51 	0 	1 	0/0
+Miles Collins 	2 	30 	1 	0 	0/0
+Ben Thomas 	3 	23 	0 	0 	0/0
+Tom Branch 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Prince McGill 	2/0 	- 	1/0 	0/0 	0/0
+Daleroy Smart 	6/0 	1.0 	0/0 	0/0 	0/0
+Chris Reed 	4/1 	1.0 	0/0 	0/0 	0/0
+Tavian Oliphant 	5/0 	- 	0/0 	0/0 	0/0
+Keith Wells 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	1/1 	2/2 	41
+	
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	21/31 	245 	2 	1 	0/0
+- ? 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	19 	105 	0 	18 	0/0
+Jeremiah Newton ? 	4 	29 	0 	9 	0/0
+Taylor Heiden 	2 	5 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony McCardell 	5 	70 	0 	0 	0/0
+Richard Wilson 	6 	64 	1 	0 	0/0
+Randall Johnson 	3 	40 	0 	1 	0/0
+Quintavius Pearson 	2 	20 	0 	0 	0/0
+Jeremiah Newton 	1 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Newhouse 	3/0 	- 	1/0 	0/0 	0/0
+Darris Hayes 	2/0 	1.0 	0/0 	0/0 	0/0
+Thomas Barry 	6/0 	- 	0/0 ? 	0/0 	0/0
+Andre Brooks 	6/0 	- 	0/0 	0/0 	0/0
+Aaron Blakely 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Jarret Veals 	3/3 	2/2 	55, 28, 49 

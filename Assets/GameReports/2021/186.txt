@@ -1,0 +1,57 @@
+ Houston Texans (5-6) at Las Vegas Raiders (7-4)
+
+Mexico City, MEX - 80 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (5-6) 	3 	0 	3 	15 	- 	21
+:raiders: Las Vegas Raiders (7-4) 	7 	14 	7 	10 	- 	38
+Team Stats Comparison
+  	:texans: Houston Texans 	:raiders: Las Vegas Raiders
+Injuries	Ahmed London, OLB - Mild Concussion 	David Pennington, SS - Mild Concussion
+Offensive Line Rating 	7.9 	8.0
+Sacks 	1 	3
+Punting 	42.5 	46.7
+Punt Return Yards 	8 	24
+Kick Return Yards 	42 	19
+Turnovers 	2 	0
+3rd Down Conversion 	4/12 	3/9
+4th Down Conversion 	1/1 	0/0
+Penalties 	6/69 	3/29
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	20/35 	197 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jermaine Lockett 	14 	31 	1 	7 	0/0
+Arturo Pacheco 	1 	2 	0 	2 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Hakeem Black 	6 	67 	1 	0 	0/0
+Jeremy Scarborough 	4 	61 	0 	0 	0/0
+Arturo Beckham 	3 	30 	0 	1 	0/0
+Eric Minter 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Joseph Blair 	3/0 	1.0 	0/0 	0/0 	0/0
+Blair Williams 	5/0 	- 	0/0 	1/0 	0/0
+Kliff Papac 	6/0 	- 	0/0 	0/0 	0/0
+Richard Jones 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	2/2 	1/1 	47, 35
+	
+:raiders: Las Vegas Raiders
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	23/31 	275 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	18 	71 	1 	28T 	0/0
+John Bills 	1 	1 	1 	1T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mike Tripplett 	7 	94 	1 	0 	0/0
+Brian Gary 	4 	75 	1 	0 	1/0
+Willie Hodge 	4 	43 	1 	0 	0/0
+Lamont Crawford 	4 	40 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Randall Jones 	4/0 	- 	1/1 	0/0 	0/0
+Mike Gradishar 	1/0 	- 	1/0 	0/0 	0/0
+Timothy Smith 	2/0 	1.0 	0/0 	0/0 	0/0
+Shah Vereen 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	1/1 	5/5 	41 

@@ -1,0 +1,64 @@
+ Houston Texans (4-5) at Kansas City Chiefs (6-3)
+Kansas City, MO -  	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (4-5) 	7 	3 	3 	14 	- 	27
+:chiefs: Kansas City Chiefs (6-3) 	0 	6 	7 	7 	- 	20
+Team Stats Comparison
+  	:texans: Houston Texans 	:chiefs: Kansas City Chiefs
+Injuries 	
+
+Freeman Schubert, DE - Moderate Calf Strain
+
+ 
+	
+
+Erasmus McCready, QB - Severe Shoulder Dislocation
+
+Rob Hamilton, FS - Mild Concussion
+Offensive Line Rating 	8.2 	7.8
+Sacks 	1 	1
+Punting 	45.3 	43.2
+Punt Return Yards 	110 (1) 	17
+Kick Return Yards 	23 	34
+Turnovers 	0 	0
+3rd Down Conversion 	4/13 	4/14
+4th Down Conversion 	0/0 	0/1
+Penalties 	5/50 	3/32
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	24/38 	250 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jermaine Lockett 	13 	35 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Hakeem Black 	5 	65 	0 	1 	0/0
+Marvin White 	5 	61 	1 	0 	0/0
+Jeremy Scarborough 	4 	45 	1 	1 	0/0
+Kendall Brandon 	3 	39 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Robert Fulton 	2/2 	1.0 	0/0 	0/0 	0/0
+Blair Williams 	7/1 	- 	0/0 	0/0 	0/0
+Kliff Papac 	5/0 	- 	0/0 	0/0 	0/0
+Richard Jones 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	2/2 	3/3 	44, 32
+	
+:chiefs: Kansas City Chiefs
+Wishbone - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Javier Fields 	10/19 	118 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	18 	70 	1 	17 	0/0
+Justin Buchanan 	6 	28 	0 	10 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Justin Hill 	3 	34 	1 	0 	0/0
+Harry Whiteside 	2 	28 	0 	0 	0/0
+Richard Frazier 	2 	23 	0 	1 	0/0
+Hines Mertens 	1 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Luke Lyles 	3/0 	1.0 	0/0 	0/0 	0/0
+Arlie LeClair 	6/0 	- 	0/0 	0/0 	0/0
+Carnell Meadows 	5/0 	- 	0/0 	0/0 	0/0
+Dewey Tomlinson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	2/2 	2/2 	38, 34 

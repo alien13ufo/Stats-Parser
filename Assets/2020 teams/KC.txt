@@ -1,0 +1,53 @@
+QB Thomas Wheeler 6-1 208 5 Florida State [Pocket] 94
+QB Erasmus McCready 6-2 225 3 Alabama [Hybrid] 86
+QB Doug Kirby 5-11 199 2 LSU [Pocket] 82
+RB Terrence Rodgers 6-0 173 R Mississippi State [Speed] 82
+RB Justin Buchanan 5-10 184 6 Mississippi State [Power] 81
+FB Gary Richardson 5-11 233 1 Kansas State [Run Blocking] 83
+WR Hines Mertens 5-8 176 3 LSU [Speed] 84
+WR Richard Frazier 5-8 181 4 Iowa [Target] 85
+WR Harry Whiteside 6-5 169 2 Texas [Target] 81
+WR Lindsey Thomas 5-11 163 R Arizona [Speed] 74
+WR Charles Garcia 6-0 166 1 Miami [Speed] 71
+TE Spec Davidson 6-2 243 6 Georgia [Receiving] 87
+TE Jariel Rosario 6-0 215 1 Michigan [Receiving] 77
+TE Robert Ford 6-4 232 2 Minnesota [Blocking] 73
+OT Chris Gray 6-3 283 3 Texas A&M [Pass Blocking] 85
+OT Quinn Burr 6-6 258 1 Iowa State [Pass Blocking] 84
+OT Herman Harrison 6-4 302 3 Baylor [Pass Blocking] 81
+OT Joseph Rasmussen 6-6 285 3 Duke [Pass Blocking] 78
+OG Henry Badanjek 6-4 289 6 Alabama [Pass Blocking] 84
+OG Boyd Buckley 6-0 274 3 Notre Dame [Pass Blocking] 81
+OG Brandon Gregory 6-2 298 3 NC State [Run Blocking] 74
+OG Dennis Kaufman 6-8 281 2 Connecticut [Run Blocking] 71
+OG Kevin Hill 6-7 313 2 West Virginia [Run Blocking] 63
+C Angelo Huddleston 6-2 294 2 Boston College [Pass Blocking] 82
+C Bill Bullard 6-3 266 2 Buffalo [Run Blocking] 76
+DT Malik Dawson 6-3 281 2 Illinois [1-Gap] 84
+DT Bud Howard 6-2 301 2 LSU [2-Gap] 82
+DT Jim Hostetler 6-0 279 6 Texas [1-Gap] 77
+DE Isaiah Hall 6-2 246 R Bowling Green [Contain] 81
+DE Luke Lyles 6-0 249 R Vanderbilt [Blitz] 79
+DE Michael Schuster 6-3 265 5 Mississippi State [Contain] 77
+DE Terry Patton 6-3 275 5 Oklahoma [Contain] 75
+DE Jason Johnson 6-3 264 3 Penn State [Contain] 74
+ILB Jim Bendross 6-1 244 6 Stanford [Will] 87
+ILB Dewey Tomlinson 5-11 220 3 Oklahoma State [Mike] 84
+ILB Melvin Rolovich 6-2 236 6 Florida [Will] 80
+ILB Johnny Boston 6-1 232 3 Minnesota [Will] 75
+OLB Arlie LeClair 6-2 245 6 Virginia Tech [Coverage] 89
+OLB Devin Stephens 6-1 237 2 Marshall [Blitz] 81
+OLB Billy Westbrook 6-0 228 5 Washington [Coverage] 79
+OLB Nicholas Moss 6-2 227 1 West Virginia [Coverage] 77
+OLB Sean Springs 6-0 220 3 Stanford [Coverage] 76
+CB Teddy Walker 5-11 177 2 Kentucky [Man Coverage] 85
+CB Will Baker 5-11 190 6 Oklahoma [Man Coverage] 77
+CB Fred Young 6-2 181 R Michigan [Man Coverage] 73
+CB William Patterson 6-0 190 1 Iowa [Man Coverage] 70
+FS Rob Hamilton 5-11 188 3 UCLA [Zone Coverage] 82
+SS Mark Brown 6-2 180 5 Florida [Man Coverage] 81
+SS Raymond Ponce 6-1 196 5 Kansas State [Zone Coverage] 76
+SS Myron Loud 5-11 201 2 Iowa [Zone Coverage] 74
+K Ryan Levcik 5-9 177 4 Alabama [Power] 91
+P Cliff Randall 6-0 208 3 Penn State [Accuracy] 82
+PR Ben Offerdahl 5-11 189 2 Auburn [Speed] 89

@@ -1,0 +1,55 @@
+QB Aaron Shea 6-2 204 6 Missouri [Pocket] [+2/C] 99?
+QB James Dale 6-2 213 7 Pittsburgh [Pocket] [0] 82
+QB Kevin Fulford 6-5 226 3 Davidson [Pocket] [-1] 76
+RB J.B. Blacknall 5-8 207 4 UAB [Power] [0] 89
+RB Shane Strong 5-6 204 2 Arizona [Power] [0/C] 78
+RB Nathan Coleman 5-10 200 2 Missouri [Power] [0] 77
+FB Kamari Traylor 6-0 247 1 San Jose State [Run Blocking] [0/C] 83
+WR Mosi Bartos 5-8 161 8 Boston College [Speed] [-1] [++] 89
+WR Quintavius Pearson 6-0 196 6 Louisville [Target] [-3] 83
+WR Sean Waller 6-2 167 3 USC [Speed] [0] 82
+WR Quinn Walters 6-4 216 1 Kentucky [Speed] [-3] [+] 79
+WR James Richardson 6-0 156 4 Mississippi State [Speed] [0] 76
+WR Sean McDermott 6-3 214 2 South Carolina [Target] [0] [++] 75
+WR Cameron Beatty 6-3 220 3 Virginia [Target] [0] 71?
+TE Tyler Dotson 6-5 210 4 Notre Dame [Receiving] [0] 85
+TE Dillon Scott 6-5 210 3 Arkansas [Blocking] [0] 76
+TE Robert Kelley 6-4 261 4 Penn State [Blocking] [+1] 73
+OT Phillip Edwards 6-7 294 5 Georgia [Run Blocking] [0/C] 88
+OT Kenyon Hendricks 6-7 285 8 USC [Pass Blocking] [+1/C] [#] 85
+OT Oliver Lewis 6-6 309 5 Arizona [Run Blocking] [-2] 80
+OT Alan Holmes 6-7 301 8 Arizona [Pass Blocking] [0] 79
+OG Jimmie Shelton 6-6 304 8 Cincinnati [Run Blocking] [+1/C] 91
+OG Ian Hendrickson 6-5 319 4 Arizona [Run Blocking] [0] 88
+OG Prince Calloway 6-5 333 3 West Virginia [Pass Blocking] [+1] 80
+OG Leo Fleming 6-7 266 4 Minnesota [Run Blocking] [0] 75
+C Tim Thomas 6-3 288 6 Florida [Pass Blocking] [+1] 80
+C Sailo Sofara 6-1 281 4 BYU [Run Blocking] [0] 77 ?
+DE Jonathan Goodwin 6-2 246 5 Utah [Contain] [+1] 91
+DE Anthony Miller 6-3 253 4 Tennessee [Blitz] [0] 91
+DE Dwayne Briggs 6-1 251 1 Toledo [Contain] [+2/C] 77
+DE Ethan McCall 6-0 263 4 Nevada [Blitz] [0] 76
+DE Rangi Petana 5-11 264 R Michigan State [Blitz] [0] [#] 75
+DT Hudson Adam 6-0 310 3 West Virginia [2-Gap] [-1] 89
+DT Taua Maui'a 6-1 302 2 Auburn [2-Gap] [0] 80
+DT David Hendrickson 6-6 314 3 Illinois [2-Gap] [0] 72
+ILB Kelly Mitchell 6-3 217 6 Michigan State [Will] [+2/C] 89
+ILB Lance Nattiel 6-0 239 6 Texas [Mike] [0] 82
+ILB Damion Taylor 6-4 233 3 James Madison [Mike] [+1] 80
+ILB Micah Griffin 6-1 225 R Southern Miss [Will] [0] [#] 79
+OLB Lukas Forman 6-3 233 5 Connecticut [Coverage] [-1] 87
+OLB Ruben Cahill 6-3 220 2 Notre Dame [Coverage] [-1] 80
+OLB Phillip McNally 5-11 231 1 Iowa [Blitz] [+2/C] 75
+OLB Alan Smith 6-2 223 6 Virginia ??[Coverage] [0] 73 ?
+CB Dominique Dawkins 6-2 199 1 Georgia [Man Coverage] [0] 85
+CB John Queen 5-11 196 10 LSU [Man Coverage] [0] 81
+CB Malachi Douglas 6-1 184 3 Clemson [Zone Coverage] [0] [#] 81
+CB Jeremy Bell 5-10 170 7 Kansas [Man Coverage] [0] [++] 78
+CB Zachary Waller 5-10 187 3 California [Zone Coverage] [0] 74
+FS Sean Burton 6-0 202 9 Oklahoma [Zone Coverage] [0/C] 89
+FS Ayden Whitaker 6-1 218 2 Army [Man Coverage] [0] 78
+FS Ashton Britt 6-1 190 5 Georgia Tech [Zone Coverage] [0] [+] 78
+SS Brody Gibbons 5-11 188 1 Utah [Zone Coverage] [+2] 81
+SS Jonathan Norman 6-2 203 3 Virginia Tech [Zone Coverage] [0] 81
+K Garrett Strange 5-10 194 R Northwestern [Power] [0/C] 82?
+P Andrew Lindsay 6-0 183 4 North Carolina [Accuracy] [+1/C] 84

@@ -1,0 +1,55 @@
+ Minnesota Vikings (0-1) at Green Bay Packers (1-0)
+
+Green Bay, WI - 75 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:vikings: Minnesota Vikings (0-1) 	0 	0 	0 	14 	- 	14
+:packers: Green Bay Packers (1-0) 	7 	14 	3 	3 	- 	27
+Team Stats Comparison
+  	:vikings: Minnesota Vikings 	:packers: Green Bay Packers
+Injuries 	Sonny Beckett, WR - Severe ACL Rupture 	No Injuries
+Offensive Line Rating 	8.2 	8.3
+Sacks 	1 	2
+Punting 	43.5 	45.3
+Punt Return Yards 	11 	17
+Kick Return Yards 	37 	21
+Turnovers 	2 	1
+3rd Down Conversion 	5/13 	7/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/65 	5/39
+:vikings: Minnesota Vikings
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	23/36 	297 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Josh Taylor 	14 	51 	0 	13 	0/0
+Keith Dunn 	4 	22 	0 	17 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mohamed Charles 	6 	95 	1 	0 	0/0
+Sonny Beckett 	6 	84 	1 	0 	1/1
+Luke Cobb 	4 	55 	0 	0 	0/0
+Jacory Kessler 	2 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jonathan Blankenship 	3/0 	- 	1/1 	0/0 	0/0
+Justin Glass 	4/0 	1.0 	0/0 	0/0 	0/0
+Cleveland Merrill 	7/1 	- 	0/0 	0/0 	0/0
+Eric Jones 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sean Doty 	0/1 	2/2 	- 38
+	
+:packers: Green Bay Packers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	20/29 	329 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	20 	84 	0 	28 	0/0
+Gil Novacek 	5 	21 	0 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Bernard Taylor 	7 	132 	2 	0 	0/0
+Dan Nomellini 	3 	67 	0 	1 	0/0
+Justin McCain 	4 	62 	1 	0 	0/0
+Tom Grant 	3 	42 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Marquise Reed 	1/0 	- 	1/1 	0/0 	0/0
+Kaulana Groth 	5/1 	1.0 	0/0 	0/0 	0/0
+Barron Anthony 	4/0 	1.0 	0/0 	0/0 	0/0
+Richard Wilson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	2/2 	3/3 	48, 42 

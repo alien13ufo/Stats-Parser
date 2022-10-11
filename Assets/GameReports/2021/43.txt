@@ -1,0 +1,64 @@
+ Washington Redskins (1-1) at Arizona Cardinals (2-0)
+
+Glendale, AZ - 85 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:redskins: Washington Redskins (1-1) 	14 	17 	0 	7 	- 	38
+:cardinals: Arizona Cardinals (2-0) 	0 	0 	13 	0 	- 	13
+Team Stats Comparison
+  	:redskins: Washington Redskins 	:cardinals: Arizona Cardinals
+Injuries 	
+
+No Injuries
+
+ 
+	
+
+Eli Austin, WR - Severe ACL Rupture
+
+Tom Reis, WR - Severe Ankle Dislocation
+Offensive Line Rating 	8.3 	8.1
+Sacks 	2 	3
+Punting 	44.1 	49.2
+Punt Return Yards 	-2 	22
+Kick Return Yards 	0 	62
+Turnovers 	0 	2
+3rd Down Conversion 	5/10 	6/16
+4th Down Conversion 	0/0 	0/1
+Penalties 	4/45 	5/88
+:redskins: Washington Redskins
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	23/38 	309 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	16 	73 	1 	26 	0/0
+Matthew O'Connor 	1 	2 	1 	2T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	11 	150 	2 	0 	0/0
+Eddie McFadden 	4 	72 	0 	0 	0/0
+Ken Brown 	2 	35 	1 	1 	0/0
+Patrick Burke 	3 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jim Sisemore 	6/0 	- 	1/1 	0/0 	0/0
+Nicolas Haskell 	5/1 	- 	0/0 	1/0 	0/0
+Dean Smalley 	4/0 	- 	0/0 	0/1 	0/0
+Fred Romanowski 	5/2 	1.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	1/1 	5/5 	46
+	
+:cardinals: Arizona Cardinals
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	14/20 	170 	0 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Fred Tindale 	22 	100 	1 	20 	1/1
+Michael Duckworth 	5 	21 	0 	8 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Banks 	3 	70 	0 	0 	0/0
+Ricky Chambers 	2 	33 	0 	0 	0/0
+Cameron Lindsey 	3 	30 	0 	1 	0/0
+Eli Austin 	1 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Omar McManus 	4/1 	2.0 	0/0 	0/0 	0/0
+Josiah Harden 	1/0 	1.0 	0/0 	0/0 	0/0
+Reggie Beasley 	6/0 	- 	0/1 	0/0 	0/0
+Rob Evans 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	2/2 	1/1 	33, 32 

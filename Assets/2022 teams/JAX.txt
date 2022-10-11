@@ -1,0 +1,51 @@
+QB Taylor Rodriguez 6-1 209 4 Arizona [Pocket] [0] 88
+QB Christian Barkley 6-3 211 3 Texas Tech [Pocket] [0] 86
+QB Byron Harper 6-3 225 4 Utah [Hybrid] [0] 83?
+QB Benjamin Schuler 5-11 200 1 Florida State [Pocket] [-1] 76
+QB Austin Hector 6-6 233 R San Diego [Pocket] [0] 77
+RB Asante Sowell 6-3 194 3 Wisconsin [Power] [0] 92
+RB Owen Walton 5-6 219 1 Ohio [Power] [+1] 79
+RB Isaiah Peko 6-0 192 1 North Carolina [Speed] [0] 74
+FB Neill Sharper 6-2 212 7 LSU [Run Blocking] [0] 87
+WR Raheem Robinson 6-3 192 2 Oklahoma State [Speed] [0] 90
+WR Taylor Eifert 6-3 208 3 Nebraska [Target] [0] 82
+WR Marcus Holmes 6-1 172 R Tennessee [Speed] [0] 80
+WR Tyrone Turner 6-5 202 2 Eastern Washington [Target] [-2] 77
+WR Adrian Cherry 6-2 170 R Iowa [Speed] [+1] 68?
+TE Derek Harrison 6-1 251 8 Rutgers [Receiving] [0] 92
+TE Jordan Kemp 6-3 225 2 Georgia [Blocking] [0] 84
+TE Derick Aguirre 6-5 208 R Temple [Receiving] [0] 70
+OT Glenn Boyd 6-6 311 5 Florida State [Pass Blocking] [+2] 86
+OT Mahamadou Dennis 6-3 257 3 TCU [Run Blocking] [0] 83
+OT Rafael O'Donnell 6-5 310 2 Colorado State [Run Blocking] [-1] 82
+OT Toma Pinati 6-1 313 2 Buffalo [Run Blocking] [0] 80
+OT Braylon Grands 6-6 304 R Georgia Tech [Pass Blocking] [0] 68
+OG Robert Roaf 6-7 267 6 Michigan State [Run Blocking] [0] 95
+OG Dave Young 6-4 296 6 Oregon [Pass Blocking] [0] 86
+C Patrick Ena 6-5 306 6 Texas A&M [Pass Blocking] [0] 84
+C Parker Haines 6-3 246 R LSU [Pass Blocking] [0] 69
+DE Ron Rice 6-6 275 6 Michigan [Blitz] [0] 95
+DE Preston Bryant 6-8 280 5 Michigan State [Blitz] [+1/C] 89
+DE Shamar Manning 6-1 276 4 Florida State [Contain] [+1] 80
+DE Thomas Conley 6-4 263 3 Missouri [Contain] [0] 74
+DE Ethan McCall 6-0 263 2 Nevada [Blitz] [0] 74
+DT Shamar Ware 6-5 278 R Penn State [2-Gap] [0/C] 82
+DT Ronald Barker 6-4 299 2 Boston College [2-Gap] [-1] 81
+ILB Christian Haywood 6-3 243 3 Arizona [Mike] [0/C] 90
+ILB Frank Lee 6-1 227 8 Florida S?tate [Will] [0] 78
+OLB Jeff Williams 6-2 237 7 Wisconsin [Coverage] [0] 85?
+OLB Donnie Bavaro 6-2 239 7 Florida [Coverage] [-1] 84
+OLB Damien Norman 6-2 235 1 Illinois [Coverage] [0] 81
+CB Jay Wade 5-10 211 3 Alabama [Zone Coverage] [0/C] 85
+CB Gary Chamberlain 6-1 174 6 Notre Dame [Man Coverage] [0] 82
+CB Jonathan Blankenship 6-1 190 4 Tulane [Zone Coverage] [-2] 81
+CB Travis Charles 5-10 168 1 Georgia State [Man Coverage] [0] 72?
+FS Kevin Johnson 6-0 174 4 Syracuse [Man Coverage] [0] 81
+FS Dwayne Harden 6-1 185 4 Nebrask?a [Zone Coverage] [0] 81
+FS Seth Scott 6-2 193 R Colorado [Man Coverage] [0] 80
+FS Shamar Sutton 5-11 197 1 Air Force [Man Coverage] [0] 77
+SS Larry Reeves 5-11 204 8 Tennessee [Man Coverage] [+2] 87
+SS Omar Broussard 5-10 171 1 Vanderbilt [Zone Coverage] [0] 77
+K Alejandro Aguirre 5-11 198 3 Oklahoma [Accuracy] [0] 92?
+P Jason Sochia 5-10 169 5 Notre Dame [Accuracy] [0] 95 ?
+KR Deion Madison 5-11 185 R Richmond [Hybrid] [-1] 79

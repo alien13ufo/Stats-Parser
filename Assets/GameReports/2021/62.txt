@@ -1,0 +1,61 @@
+ Denver Broncos (1-2) at Las Vegas Raiders (2-1)
+
+Las Vegas, NV - 88 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (1-2) 	0 	0 	0 	7 	- 	7
+:raiders: Las Vegas Raiders (2-1) 	10 	3 	10 	3 	- 	26
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:raiders: Las Vegas Raiders
+Injuries 	John Zatkoff, C - Mild Ankle Dislocation 	Sergio Miller, OLB - Severe Achilles Rupture
+Offensive Line Rating 	7.6 	8.1
+Sacks 	2 	5
+Punting 	44.3 	48.3
+Punt Return Yards 	56 	9
+Kick Return Yards 	27 	0
+Turnovers 	2 	0
+3rd Down Conversion 	3/15 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/57 	4/35
+
+:broncos: Denver Broncos
+
+(Pro Style - Pistol)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Jennings 	19/34 	193 	1 	0 	2/2
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	15 	32 	0 	9 	0/0
+Brian Houghton 	2 	6 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darren Jones 	3 	70 	0 	0 	0/0
+Artemio Ramirez 	6 	45 	1 	0 	0/0
+Darrell Mack 	3 	35 	0 	0 	0/0
+Ken Peelle 	3 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Charles Johnson 	4/1 	1.0 	0/0 	0/0 	0/0
+Michael Carroll 	4/0 	1.0 	0/0 	0/0 	0/0
+Cameron Jonah 	8/0 	- 	0/1 	0/0 	0/0
+Jonathan Parker 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	0/1 	1/1 	- 50
+	
+
+:raiders: Las Vegas Raiders
+
+(Spread - Pro Style)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	24/32 	339 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Quincy Turner 	20 	89 	1 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Brian Gary 	7 	102 	0 	0 	0/0
+Mike Tripplett 	4 	100 	1 	0 	0/0
+Malcolm Davis 	3 	53 	0 	1 	0/0
+Lamont Crawford 	3 	38 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Gregg Martin 	5/2 	1.5 	0/0 	2/0 	0/0
+Jamal Norwood 	4/0 	1.0 	0/0 	0/1 	0/0
+Shah Vereen 	3/0 	1.0 	0/0 	0/1 	0/0
+Jamie Price 	6/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	4/4 	2/2 	46, 42, 27, 36 

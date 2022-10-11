@@ -1,0 +1,67 @@
+ Detroit Lions (13-2) at Green Bay Packers (13-2) ?
+
+Green Bay, WI - 28 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:fibur: Detroit Lions (13-2) 	7 	7 	3 	7 	- 	24
+:packers: Green Bay Packers (13-2) 	3 	14 	7 	7 	- 	31
+Team Stats Comparison
+  	:fibur: Detroit Lions 	:packers: Green Bay Packers
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	QB Rob LeCount (8.75) 	QB Jason Johnson (9.70)
+Worst Player Grade 	FS Kofi Neal (0.50) 	OLB Garrison Jackson (2.05)
+Offensive Line Rating 	8.25 	8.31
+Sacks 	1 	1
+Punting 	48.5 	43.6
+Punt Return Yards 	2 	15
+Kick Return Yards 	85 	56
+Turnovers 	1 	1
+3rd Down Conversion 	3/13 	3/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/40 	3/18
+:fibur: Detroit Lions
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	20/29 	222 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	17 	50 	1 	10 	0/0
+Calvin Jones 	2 	3 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony Fasani 	6 	60 	1 	0 	0/0
+Jeremy Cook 	4 	53 	0 	0 	0/0
+Rashad Simon 	3 	42 	1 	0 	0/0
+Rex Walsh 	3 	23 	0 	0 	0/0
+Emory Johnson 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin McQueen 	3/0 	- 	1/0 	0/0 	0/0
+Kieron Brooks 	6/1 	1.0 	0/0 	0/0 	0/0
+Chris Tolbert 	6/0 	- 	0/0 	0/0 	0/0
+Willard McCready 	5/0 	- 	0/0 	0/0 	0/0
+Griffin Perrin 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	1/1 	3/3 	48
+	
+:packers: Green Bay Packers
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	18/31 	298 	4 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING ? 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	23 	97 	0 	16 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Dan Nomellini 	4 	100 	1 	0 	0/0
+Justin McCain 	2 	75 	2 	0 	0/0
+Artavius Hopkins 	2 	55 	1 	0 	0/0
+Manny Ferguson 	3 	28 	0 	1 	0/0
+Jaz Durant 	4 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Constantine Burnham 	2/1 	1.0 	0/0 ? 	0/0 	0/0
+Julio Barnes 	8/0 	- 	0/0 	0/0 	0/0
+Jamal Harley 	5/0 	- 	0/0 	0/0 	0/0
+Brady Christiansen 	5/0 	- 	0/0 	0/0 	0/0
+Carter Jackson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Brian Evans 	1/1 	4/4 	36 

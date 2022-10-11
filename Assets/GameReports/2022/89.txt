@@ -1,0 +1,67 @@
+ Tampa Bay Buccaneers (2-3) at Los Angeles Rams (0-5) ?
+
+Inglewood, CA - 79 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (2-3) 	7 	14 	7 	7 	- 	35
+:rams: Los Angeles Rams (0-5) 	0 	3 	14 	13 	- 	30
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:rams: Los Angeles Rams
+Injuries 	No Injuries 	TE Jonathan Greer - Moderate Foot Fracture
+Top Player Grade 	QB Taylor Heiden (8.64) 	QB Darrell Murphy (7.60)
+Worst Player Grade 	WR Cotton Lewis (1.63) 	FS Samuel Prince (2.58)
+Offensive Line Rating 	8.19 	7.87
+Sacks 	2 	0
+Punting 	40.6 	44.3
+Punt Return Yards 	22 	16
+Kick Return Yards 	76 	94
+Turnovers 	1 	1
+3rd Down Conversion 	5/10 	5/13
+4th Down Conversion 	0/0 ? 	0/0
+Penalties 	9/68 	5/45
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	21/31 	309 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	18 	85 	1 	14 	0/0
+Taylor Heiden 	4 	29 	1 	22T 	0/0
+Jeremiah Newton 	3 	8 	0 	5 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Richard Wilson 	5 	96 	1 	0 	0/0
+Quintavius Pearson 	5 	80 	1 	0 	0/0
+Anthony McCardell 	3 	65 	1 	0 	0/0
+Jerry Cipa 	2 	32 	0 	0 	0/0
+Jeremiah Newton 	3 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Thomas Barry 	6/0 	1.0 	0/1 	0/0 	0/0
+Darris Hayes 	2/0 	1.0 	0/0 	0/0 	0/0
+Andre Brooks 	7/2 	- 	0/0 	0/0 	0/0
+Derrick Martin 	4/1 	- 	0/0 	0/0 	0/0
+Aaron Blakely 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	0/0 	5/5 	-
+	
+:rams: Los Angeles Rams
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	16/30 	229 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daveed Knox 	19 	85 	2 	18 	0/0
+Terrell Holland 	3 	0 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Allama Banta 	4 	91 	1 	0 	0/0
+Walt Peck 	3 	53 	0 	1 	0/0
+Derrick Schwartz 	2 	27 	1 	0 	0/0
+Kevin O'Neal 	2 	24 	0 	1 	0/0
+Jamal Hawkins ? 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Leigh Davey 	4/0 	- 	1/0 	0/0 	0/0
+Brandon Sauter 	5/0 	- 	0/0 	0/0 	0/0
+Daniel Watkins 	5/0 	- 	0/0 	0/0 	0/0
+Jeff Cox 	4/0 	- ? 	0/0 	0/0 	0/0
+Markus Golden 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Walsh 	1/1 	3/4 	45 

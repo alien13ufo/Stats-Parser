@@ -1,0 +1,63 @@
+QB Brian Vardell 6-2 200 7 Washington State [Pocket] 93
+QB Cody Albright 5-10 237 1 Ohio State [Pocket] 79
+RB Keith Dunn 5-11 179 6 Penn State [Power] 82
+RB Josh Taylor 5-10 178 2 USF [Power] 80
+RB Isaac Wilson 6-0 210 R Georgia [Power] 77
+FB Anthony Thomas 5-11 222 6 Texas [Pass Blocking] 84
+WR Mohamed Charles 6-4 192 2 Minnesota [Target] 83
+WR Luke Cobb 6-5 198 R Florida State [Speed] 81
+WR Wayne Wegert 6-5 188 7 Notre Dame [Speed] 78
+WR Jacory Kessler 6-3 224 1 Auburn [Speed] 80
+WR Tony Gross 6-4 188 6 Michigan [Speed] 76
+WR Aaron Ayala 6-1 169 1 Wisconsin [Speed] 74
+TE Eugene Jackson 6-5 253 3 Ohio State [Receiving] 89
+TE Bill Jenkins 6-5 242 6 Virginia Tech [Blocking] 79
+TE Patrick Stehl 6-5 245 2 Illinois  [Receiving] 72
+OT MacKenzie Woods 6-4 313 7 USC [Run Blocking] 88
+OT Bryan Green 6-3 312 5 Virginia Tech [Run Blocking] 86
+OT Donald Reed 6-5 293 1 Virginia Tech [Pass Blocking] 84
+OT Jon Beebe 6-1 313 R Purdue [Pass Blocking] 75
+OG Joe Smith 6-2 300 6 Arizona State [Pass Blocking] 83
+OG Charles Thompson 6-5 296 5 Rutgers [Pass Blocking] 83
+OG Gregory Cooke 6-5 291 3 Kansas [Pass Blocking] 75
+OG Charles Perez 6-4 283 1 Iowa [Pass Blocking] 74
+C John Hadley 6-3 285 2 Michigan [Pass Blocking] 89
+C Tim Beban 6-1 301 4 LSU [Pass Blocking] 79
+DT Jared Lee 6-5 313 6 Florida State [2-Gap] 83
+DT Forest Williams 6-2 273 3 Oklahoma [1-Gap] 82
+DT Frank Jones 6-5 295 4 Iowa [2-Gap] 79
+DT Marcus Brown 6-5 331 R Clemson [2-Gap] 76
+DE Justin Glass 6-3 283 6 Hawaii [Blitz] 80
+DE Jamal Patton 6-1 255 R Purdue [Contain] 78
+DE James Finney 6-3 293 2 Ball State [Contain] 76
+DE Robert Anderson 6-8 275 2 Arizona [Contain] 73
+ILB Cleveland Merrill 6-1 236 6 Ole Miss [Will] 95
+ILB Eric Jones 6-1 238 5 LSU [Will] 90
+ILB Abdoul Gordon 6-1 217 R Kentucky [Mike] 77
+ILB Phillip Gillis 6-3 221 R Boise State [Will] 74
+OLB Paul Goodman 6-2 240 3 Penn State [Blitz] 88
+OLB Mike Johnson 6-0 240 4 Houston [Coverage] 83
+OLB Todd Byers 6-2 251 5 Tennessee [Blitz] 74
+OLB Ralph Watts 6-1 229 1 Nebraska [Blitz] 72
+CB Devon Drummond 5-11 181 2 Kansas [Man Coverage] 83
+CB Jonathan Blankenship 6-1 190 3 Tulane [Zone Coverage] 80
+CB Robert Bleeker 5-11 188 R Arkansas [Zone Coverage] 80
+CB Tomas Weathers 5-11 181 1 Colorado [Man Coverage] 78
+CB Frederick Harper 6-2 213 3 Hawaii [Zone Coverage] 72
+FS Stephen Elliott 6-3 197 7 Cincinnati [Zone Coverage] 88
+FS Clyde St. Pierre 6-0 175 3 SDSU [Zone Coverage] 77
+SS Tyler Trent 5-10 210 3 Alabama [Man Coverage] 82
+SS Christopher Malone 6-1 178 R TCU [Zone Coverage] 80
+SS Devin Whitaker 6-2 193 1 Wisconsin [Man Coverage] 77
+K Ilan Youngblood 5-10 160 1 Maryland [Accuracy] 77
+P Theodore Sauer 6-0 156 1 Nebraska [Accuracy] 81
+QB Julius Thomas 6-3 212 1 Tennessee [Scrambling] 72
+QB Brad Davis 5-11 205 2 Texas [Pocket] 80
+RB Charles Rocha 5-10 185 2 Nevada [Power] 72
+DE Fabian Lopez 6-0 260 R Colorado State [Run Stop] 66
+DE Luis Paz 6-1 250 R LSU [Contain] 67
+ILB Devine Brewer 6-1 237 R Colorado State [Will] 67
+OLB Julian Tolbert 6-2 221 R Georgia Tech [Coverage] 68
+CB Javontae Goodson 5-10 195 1 Montana [Man Coverage] 69
+FS Jy'Rell Davis 6-3 209 R Butler [Zone Coverage] 73
+K Eric Graves 6-0 154 1 Iowa State [Accuracy] 75

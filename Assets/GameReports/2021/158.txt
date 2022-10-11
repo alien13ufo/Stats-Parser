@@ -1,0 +1,62 @@
+ Green Bay Packers (8-1) at San Francisco 49ers (2-7)
+
+Santa Clara, CA - 68 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:packers: Green Bay Packers (8-1) 	9 	0 	3 	10 	- 	22
+:49ers: San Francisco 49ers (2-7) 	7 	0 	7 	3 	- 	17
+Team Stats Comparison
+  	:packers: Green Bay Packers 	:49ers: San Francisco 49ers
+Injuries 	
+
+Kaulana Groth, DE - Severe Achilles Rupture
+
+Julio Barnes, SS - Severe Hip Strain
+	Mike Smith, ILB - Mild Back Tear
+Offensive Line Rating 	8.3 	8.2
+Sacks 	3 	2
+Punting 	44.3 	42.8
+Punt Return Yards 	27 	13
+Kick Return Yards 	19 	41
+Turnovers 	1 	1
+3rd Down Conversion 	6/13 	4/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/49 	5/40
+:packers: Green Bay Packers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	20/30 	225 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	17 	43 	0 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Dan Nomellini 	6 	78 	0 	0 	0/0
+Justin McCain 	5 	70 	1 	0 	0/0
+T.J. Ropati 	4 	34 	0 	0 	0/0
+Roger Bailey 	2 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Barron Anthony 	4/2 	1.0 	0/0 	1/0 	0/0
+Carter Jackson 	3/0 	1.0 	0/0 	0/0 	0/0
+Kaulana Groth 	1/0 	1.0 	0/0 	0/1 	0/0
+Richard Wilson 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	5/5 	1/1 	39, 33, 28, 45, 40
+	
+:49ers: San Francisco 49ers
+Spread - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	17/24 	192 	1 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Todd Lester 	7 	72 	1 	46T 	0/0
+Todd McCray 	20 	70 	0 	29 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Branch 	4 	66 	0 	0 	0/0
+Steve Warner 	4 	45 	1 	0 	0/0
+Miles Collins 	4 	39 	0 	0 	0/0
+John Gross 	2 	33 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Bashir Rodriguez 	2/0 	- 	1/0 	0/0 	0/0
+Bill Young 	3/0 	1.0 	0/0 	0/0 	0/0
+Brandon Thomas 	3/0 	1.0 	0/0 	0/0 	0/0
+Prince McGill 	4/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	1/1 	2/2 	42 

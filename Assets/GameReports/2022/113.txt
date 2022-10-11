@@ -1,0 +1,65 @@
+ Indianapolis Colts (3-3) at Washington Redskins (5-2) ?
+Landover, MD -  	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (3-3) 	14 	14 	7 	3 	- 	38
+:redskins: Washington Redskins (5-2) 	0 	0 	10 	7 	- 	17
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:redskins: Washington Redskins
+Injuries 	WR Keith Setzer - Severe Hamstring Rupture 	No Injuries
+Top Player Grade 	QB Aaron Shea (8.88) 	CB Miles Gray (6.93)
+Worst Player Grade 	C Sailo Sofara (3.46) 	OG Angelo Denny (1.26)
+Offensive Line Rating 	8.53 	8.24
+Sacks 	4 	1
+Punting 	40.9 	45.3
+Punt Return Yards 	7 	-2
+Kick Return Yards 	42 	95
+Turnovers 	0 	2
+3rd Down Conversion 	6/11 	3/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/56 	6/60
+:colts: Indianapolis Colts
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	30/50 	329 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	10 	26 	1 	5 	0/0
+Fred Tindale 	3 	5 	1 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mosi Bartos 	10 	109 	1 	0 	0/0
+Sean McDermott 	6 	95 	0 	0 	0/0
+Cayden Reese 	4 	42 	1 	0 	0/0
+Messiah Bernard 	3 	30 	1 	0 	0/0 ?
+Tyler Dotson 	3 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Hudson Adam 	4/1 	2.0 	0/0 	1/1 	0/0
+Anthony Miller 	4/0 	1.0 	0/0 	0/0 	0/0
+Jonathan Goodwin 	3/0 	1.0 	0/0 	0/0 	0/0
+Damion Taylor 	2/0 	- 	0/0 	1/0 	0/0
+Chris Brown 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	1/1 	5/5 	40
+	
+:redskins: Washington Redskins
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	19/37 	182 	1 	1 	2/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	7 	26 	1 	7 	0/0
+Johnny Taylor 	2 	8 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ty Royal 	5 	63 	0 	1 	0/0
+Sam Hiller-Weeden 	5 	40 	1 	1 	0/0
+Eddie McFadden 	2 	26 	0 	2 	0/0
+Patrick Burke 	3 	22 	0 	0 	0/0
+Tony DeMarco 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Nathaniel Jeffries 	3/0 	0.5 	0/0 	0/0 	0/0
+Mike Hill 	2/0 	0.5 	0/0 ? 	0/0 	0/0
+Craig Davis 	5/0 	- 	0/0 	0/0 	0/0
+Nicolas Haskell 	4/0 	- 	0/0 	0/0 	0/0
+Tre'Davious Dikes 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Thomas McMahan 	1/2 	2/2 	44 - 44 

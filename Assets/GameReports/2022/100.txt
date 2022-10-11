@@ -1,0 +1,65 @@
+ Jacksonville Jaguars (5-1) at Dallas Cowboys (3-3) ?
+Arlington, TX - 78 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jaguars: Jacksonville Jaguars (5-1) 	0 	7 	3 	0 	- 	10
+:cowboys: Dallas Cowboys (3-3) 	7 	3 	0 	14 	- 	24
+Team Stats Comparison
+  	:jaguars: Jacksonville Jaguars 	:cowboys: Dallas Cowboys
+Injuries 	WR Tyrone Turner - Mild Concussion 	No Injuries
+Top Player Grade 	CB Jay Wade (7.82) 	OLB Jeff Mangum (8.04)
+Worst Player Grade 	FS Shamar Sutton (3.41) 	OT D.J. Franklin (3.82)
+Offensive Line Rating 	8.33 	8.36
+Sacks 	1 	2
+Punting 	45.4 	43.6
+Punt Return Yards 	23 	43
+Kick Return Yards 	74 	31
+Turnovers 	2 	1
+3rd Down Conversion 	4/14 	3/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/57 	5/36
+:jaguars: Jacksonville Jaguars
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	21/40 	237 	1 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	8 	30 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Raheem Robinson 	6 	92 	1 	1 	0/0
+Marcus Holmes 	3 	55 	0 	0 	0/0
+Derek Harrison 	3 	32 	0 	1 	0/0
+Taylor Eifert 	2 	23 	0 	1 	0/0
+Adrian Cherry 	3 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jay Wade 	3/0 	- 	1/0 	0/0 	0/0
+Ron Rice 	5/2 	1.0 	0/0 	0/0 	0/0
+Christian Haywood 	6/0 	- 	0/0 	1/0 	0/0
+Frank Lee 	4/0 	- 	0/0 	0/0 	0/0
+Kevin Johnson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	1/1 	1/1 	29
+	
+:cowboys: Dallas Cowboys
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	23/35 	290 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Adrian Robinson 	20 	100 	1 	25 	1/0
+- ? 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Austin Medina 	5 	83 	1 	0 	0/0
+Francisco Gibson 	5 	80 	0 	1 	0/0
+Rodney Montgomery 	3 	42 	0 	0 	0/0
+Alex Gash 	4 	40 	1 	0 	0/0
+Gabe Barrientos 	3 	32 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeff Mangum 	6/1 	1.0 	0/0 	0/0 	0/0
+Joseph Randolph 	2/0 	1.0 	0/0 	0/0 	0/0
+Cleo Blair 	5/1 	- ? 	0/0 	0/0 	0/0
+Travis Chatman 	2/0 	- 	0/2 	0/0 	0/0
+Emmanuel Slade 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	1/1 	3/3 	50 

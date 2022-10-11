@@ -1,0 +1,65 @@
+ Carolina Panthers (6-2) at Atlanta Falcons (4-2-1)? ?
+Atlanta, GA -  	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:panthers: Carolina Panthers (6-2) 	10 	0 	3 	6 	- 	19
+:falcons: Atlanta Falcons (4-2-1) 	12 	3 	0 	10 	- 	25
+Team Stats Comparison
+  	:panthers: Carolina Panthers 	:falcons: Atlanta Falcons
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	SS Darren Manning (8.02) 	DE Early Davis (9.84)
+Worst Player Grade 	OT Quincy Estep (0.95) 	WR Vontae Powell (3.67)
+Offensive Line Rating 	7.76 	8.23
+Sacks 	1 	6
+Punting 	43.2 	47.3
+Punt Return Yards 	11 	24
+Kick Return Yards 	74 	43
+Turnovers 	2 	1
+3rd Down Conversion 	3/14 	4/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/57 	5/42
+:panthers: Carolina Panthers
+Spread - Pro Style ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	18/34 	250 	2 	2 	2/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	16 	40 	0 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Troy Wilson 	4 	91 	0 	1 	0/0
+Monte Jackson 	3 	43 	1 	0 	0/0
+Jermaine Bishop 	2 	40 	0 	1 	0/0
+Curtis Henry 	3 	32 	1 	0 	0/0
+Norman Willard 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darren Manning 	4/0 	- 	1/0 	0/0 	0/0
+Morris Millen 	4/0 	1.0 	0/0 	0/0 	0/0
+Chris Tucker 	6/1 	- 	0/0 	0/0 	0/0
+Kendrick Droughns 	4/1 	- 	0/0 	0/0 	0/0
+Jeff Brooks 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	2/2 	1/1 	37, 35
+	
+:falcons: Atlanta Falcons
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	17/25 	192 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Bradley Cooley 	13 	57 	0 	9 	0/0
+Zion Norris 	11 	53 	1 	22 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason Erwin 	6 	81 	0 	0 	0/0
+Bo Woodall 	3 	39 	0 	0 	0/0
+Riddick Smith 	2 	30 	1 	1 	0/0
+Vontae Powell 	2 	18 	0 	1 	0/0
+Rentavious Rogers 	2 	13 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Early Davis 	5/3 	3.5 	0/0 	1/0 	0/0
+Tommy Leonard 	5/0 	1.5 	0/0 	1/0 	0/1
+Eric Jennings ? 	2/1 	1.0 	0/0 	0/0 	0/0
+Darius Jones 	5/0 	- 	1/0 	0/0 	0/0
+David Wilburn 	2/0 	- 	1/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	3/3 	2/2 	44, 28, 30 ?

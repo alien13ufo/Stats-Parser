@@ -1,0 +1,42 @@
+QB Jasen Warlick 6-3 223 2 Tennessee [Pocket] 74
+QB Christian Skaggs 6-1 214 3 Florida State [Pocket] 99
+RB Mike Latta 6-0 209 R Florida State [Speed] 80
+RB Tom Simonton 6-0 209 R Nebraska [Speed] 70
+RB Billy Ferrara 6-0 206 R Wisconsin [Speed] 64
+FB Greg Williams 6-0 251 3 South Carolina [Speed] 65
+FB Donnie Hubbert 5-11 229 R Nebraska [Power] 82
+WR Peppi Denson 6-4 177 3 Boston College [Speed] 61
+WR Richard Zimmerman 6-2 189 2 Kansas [Target] 78
+WR Orlando Bielski 5-10 181 1 Arizona St. [Speed] 68
+WR Eddie McFadden 6-4 163 R Baylor [Speed] 80
+TE Bob Branch 6-6 239 3 Oklahoma [Pass Blocking] 75
+TE Quentin McCullough 6-7 240 R Clemson [Run Blocking] 70
+OT Tron Moses 6-6 285 2 Michigan State [Pass Blocking] 95
+OT Lonnie Woodruff 6-6 300 1 FloridaState [Run Blocking] 77
+OT Mark Sweeney 6-3 323 3 Penn State [Pass Blocking] 65
+OG Bob Ruegamer 6-3 302 3 Texas [Run Blocking] 84
+OG Pete Smith 6-2 279 2 Wisconsin [RunBlocking] 77
+OG Howard Page 6-6 307 3 West Virginia [Pass Blocking] 68
+C Joe Cherry 6-1 321 3 Oklahoma State [Pass Blocking] 81
+C Mathias Smith 6-5 299 R Oklahoma [Run Blocking] 65
+DE Ron Rice 6-6 275 1 Michigan [Pass Stop] 89
+DE Kendrick Droughns 6-6 294 1 OhioState [Run Stop] 85
+DE Darian Mauti 6-5 297 3 Ole Miss [Run Stop] 67
+DT Mike Wohlabaugh 6-3 287 R USC [Run Stop] 81
+DT Terrence Adams 6-7 284 3 Boston College [Run Stop] 71
+ILB Tim McDuffie 6-2 238 1 Oklahoma [Pass Zone] 73
+ILB Richard Smith 6-1 223 2 Air Force [Pass Zone] 71
+ILB Jimmy Workman 6-0 226 R USC [Run Zone] 78
+OLB Trent Haynes 6-1 228 1 Tennessee [Run Zone] 84
+OLB R-Kal McNeil 6-1 253 3 Texas A&M [Run Zone] 64
+OLB Andre Gasaway 6-0 220 R West Virginia [Pass Man-to-Man] 78
+CB Ron Mitchell 6-0 187 3 Notre Dame [Man Coverage] 60
+CB Nate Tensi 6-0 196 2 Clemson [Man Coverage] 90
+CB Maury Gregg 6-0 168 R Penn State [Man Coverage] 80
+FS Robert Wozniak 6-2 200 1 Arkansas [Zone Coverage] 72
+FS Rock Darius 6-1 171 3 USC [Man Coverage] 63
+SS Warren McNabb 6-2 198 1 GeorgiaTech [Zone Coverage] 75
+SS Jermaine Ford 6-1 189 3 Rutgers [Zone Coverage] 61
+K Willie Gaffney 6-1 183 R Iowa [Accuracy] 80
+K Myron Sweeney 6-4 177 3 Minnesota [Accuracy] 67
+P Phil Loadholt 5-11 173 R Ohio State [Accuracy] 67

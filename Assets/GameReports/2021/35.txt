@@ -1,0 +1,64 @@
+ Houston Texans (1-1) at New England Patriots (1-1)
+
+Foxborough, MA - 71 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (1-1) 	7 	14 	6 	0 	- 	27
+:patriots: New England Patriots (1-1) 	10 	3 	3 	7 	- 	23
+Team Stats Comparison
+  	:texans: Houston Texans 	:patriots: New England Patriots
+Injuries 	
+
+Jeremy Scarborough, WR - Moderate Concussion
+
+Reynaldo Harris, FS - Severe ACL Rupture
+	
+
+Jack Podolak, C - Mild Toe Bruise
+
+ 
+Offensive Line Rating 	8.4 	8.2
+Sacks 	2 	2
+Punting 	45.3 	46.2
+Punt Return Yards 	36 	22
+Kick Return Yards 	20 	28
+Turnovers 	1 	1
+3rd Down Conversion 	5/10 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/100 	11/87
+:texans: Houston Texans
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	22/34 	290 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Arturo Pacheco 	19 	86 	1 	23 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marvin White 	8 	115 	1 	0 	0/0
+Hakeem Black 	5 	77 	0 	1 	0/0
+Arturo Beckham 	3 	42 	0 	0 	0/0
+Kendall Brandon 	2 	36 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tom Wyman 	1/0 	- 	1/1 	0/0 	0/0
+Robert Fulton 	5/0 	1.0 	0/0 	0/0 	0/0
+Joseph Blair 	2/0 	1.0 	0/0 	0/0 	0/0
+Blair Williams 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	2/3 	3/3 	38, 36 - 46
+	
+:patriots: New England Patriots
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	19/29 	205 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Elvis Williams 	18 	52 	0 	11 	1/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Jones 	6 	70 	1 	0 	0/0
+Carlos Perez 	3 	54 	1 	0 	0/0
+Jamel Beckham 	2 	40 	0 	0 	0/0
+Nathan Taylor 	3 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Randy Lehr 	6/0 	- 	1/1 	0/0 	0/0
+Mark Logan 	4/1 	1.0 	0/0 	0/0 	0/0
+Joey Davis 	2/0 	1.0 	0/0 	0/0 	0/0
+Mark Craig 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	3/3 	2/2 	19, 25, 23 

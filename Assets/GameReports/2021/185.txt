@@ -1,0 +1,57 @@
+Indianapolis Colts (3-8) at Kansas City Chiefs (7-4)
+
+Kansas City, MO - 50 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (3-8) 	7 	14 	7 	7 	- 	35
+:chiefs: Kansas City Chiefs (7-4) 	0 	10 	0 	7 	- 	17
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:chiefs: Kansas City Chiefs
+Injuries 	Chris Brown, SS - Mild Thumb Fracture 	Chris Gray, OT - Moderate Biceps Pull
+Offensive Line Rating 	8.3 	8.0
+Sacks 	2 	0
+Punting 	46.5 	43.3
+Punt Return Yards 	38 	9
+Kick Return Yards 	21 	18
+Turnovers 	0 	1
+3rd Down Conversion 	5/10 	4/13
+4th Down Conversion 	0/0 	1/1
+Penalties 	7/84 	5/45
+:colts: Indianapolis Colts
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	23/35 	245 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	18 	96 	2 	28T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyler Dotson 	7 	97 	1 	0 	0/0
+Mosi Bartos 	5 	53 	0 	1 	0/0
+Rashad Simon 	4 	40 	1 	0 	0/0
+Ryan Mitchell 	3 	38 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Samir Ware 	2/0 	- 	1/0 	0/0 	1/0
+Anthony Miller 	4/1 	1.0 	0/0 	0/0 	0/0
+Hudson Adam 	3/0 	1.0 	0/0 	0/0 	0/0
+Lukas Forman 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Augustine 	0/1 	5/5 	- 46
+	
+:chiefs: Kansas City Chiefs
+Spread - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Javier Fields 	16/28 	168 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	16 	65 	0 	13 	0/0
+Justin Buchanan 	8 	40 	1 	22T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rodney Montgomery 	4 	56 	1 	0 	0/0
+Spec Davidson 	3 	34 	0 	0 	0/0
+Harry Whiteside 	3 	28 	0 	1 	0/0
+Justin Hill 	3 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Luke Lyles 	4/2 	- 	0/0 	0/0 	0/0
+Rob Hamilton 	7/0 	- 	0/1 	0/0 	0/0
+Cameron Riley 	6/0 	- 	0/1 	0/0 	0/0
+Dewey Tomlinson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	1/1 	2/2 	38 

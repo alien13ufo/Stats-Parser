@@ -1,0 +1,67 @@
+ Denver Broncos (4-9) at Los Angeles Chargers (2-11) ?
+
+Inglewood, CA - 69 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (4-9) 	7 	10 	7 	0 	- 	24
+:chargers: Los Angeles Chargers (2-11) 	7 	14 	0 	10 	- 	31
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:chargers: Los Angeles Chargers
+Injuries 	WR Artemio Ramirez - Severe Achilles Rupture 	OT Bryan Green - Moderate Foot Dislocation
+Top Player Grade 	DE Deyonte Davis (9.67) 	TE Scott Howard (8.28)
+Worst Player Grade 	WR William Doherty (2.30) 	ILB Kareem Boykin (2.16)
+Offensive Line Rating 	8.28 	8.05
+Sacks 	4 	1
+Punting 	48.0 	42.6
+Punt Return Yards 	6 	-3
+Kick Return Yards 	102 	74
+Turnovers 	1 	0
+3rd Down Conversion 	4/11 	3/8
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/60 	4/36
+:broncos: Denver Broncos
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Randy Roberts 	15/30 	160 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	15 	60 	1 	12 	0/0
+Emmett Spears 	4 	12 	1 ? 	7 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sebastian Porter 	4 	60 	0 	1 	0/0
+Emmett Spears 	4 	42 	1 	1 ? 	0/0
+Darren Jones 	3 	20 	0 	0 	0/0
+Floyd Arnold 	2 	16 	0 	1 	0/0
+William Doherty 	1 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Deyonte Davis 	5/0 	2.5 	0/0 	0/0 	0/0
+Michael Carroll 	2/0 	1.0 	0/0 	0/0 	0/0
+Andrew Phillips 	2/0 	0.5 	0/0 	0/0 	0/0
+Cameron Jonah 	6/1 	- 	0/1 	0/0 	0/0
+Evan Walsh 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	1/1 	3/3 	45
+	
+:chargers: Los Angeles Chargers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	29/52 	350 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	12 	59 	0 	7 	0/0
+Mamadou Heard 	4 	19 	1 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	10 	118 	0 	0 	0/0
+Greg Cobb 	6 	76 	1 	1 	0/0
+Jarvis Ward 	3 	56 	0 	2 	0/0
+M.L. Kriewaldt 	4 	43 	1 	1 	0/0
+Damian Mason 	3 	25 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Prince Williams 	4/0 	- 	1/0 	0/0 	0/0
+Jason Bryant 	3/0 	1.0 	0/0 	0/0 	0/0
+Tunch Richardson ? 	8/2 	- 	0/0 	0/0 	0/0
+Shane Easley 	5/1 	- 	0/1 	0/0 	0/0
+Stephen Elliott 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Rafael Davidson 	1/1 	4/4 	29 

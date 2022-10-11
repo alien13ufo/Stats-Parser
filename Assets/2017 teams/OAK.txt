@@ -1,0 +1,44 @@
+QB Nick Hall 6-2 221 2 Syracuse [Pocket] 92
+QB Robert Martin 6-1 184 R Colorado State [Pocket] 76
+QB Sean Hopkins 6-5 192 3 Stanford [Pocket] 64
+RB Chester Dorenbos 6-0 222 R Syracuse [Power] 81
+RB Brian Kanell 5-8 198 2 Georgia Tech [Speed] 74
+RB Dick Lilly 5-11 199 1 VirginiaTech [Speed] 73
+FB Michael Banks 6-2 247 3 Michigan [Power] 69
+WR Mike Tripplett 6-3 173 2 Ohio State [Target] 92
+WR Marvin White 6-4 184 1 OhioState [Speed] 84
+WR Willie Hodge 6-5 194 2 Penn State [Target] 76
+WR Troy Faneca 6-3 209 R UCF [Target] 68
+WR Henry Hamilton 6-4 200 R Minnesota [Target] 68
+WR Brian LeBlanc 6-5 176 3 BYU [Target] 66
+TE Brian Gary 6-6 267 3 Wisconsin [RunBlocking] 90
+TE Will Tensi 6-2 238 3 West Virginia [PassBlocking] 72
+TE John Raiola 6-3 239 R UCLA [Pass Blocking] 68
+OT John McKelvey 6-2 360 3 Georgia [PassBlocking] 89
+OG David Wilson 6-1 299 3 Oklahoma [RunBlocking] 98
+OG Jamie Shank 6-6 287 1 UCLA [RunBlocking] 80
+C Hunter Folsom 6-2 289 3 Louisville [Pass Blocking] 67
+OT Thomas Newton 6-8 288 R Syracuse [Pass Blocking] 75
+OT Kris Broadwick 6-6 319 R Boston College [Pass Blocking] 72
+C Kevin Jones 6-4 310 R Duke [Pass Blocking] 72
+DE Jeff Holleyman 6-3 297 3 Notre Dame [PassStop] 84
+DE Derrick Thomas 6-7 272 1 TexasA&M [PassStop] 77
+DT Fred Romanowski 6-2 279 2 Michigan [RunStop] 86
+DT Gregg Martin 6-6 274 1 OhioState [RunStop] 83
+DT Ed Miller 6-5 304 R NC State [Pass Stop] 68
+ILB Alex Martin 6-0 240 R Texas A&M [Run Zone] 79
+ILB Hugo Miller 6-1 241 1 Kentucky [PassZone] 76
+OLB Donnie Bavaro 6-2 239 2 Florida [RunMan-to-Man] 82
+OLB Alexander Baumgartner 6-0 224 R Oklahoma [Pass Zone] 74
+OLB Jason Baber 6-2 217 R Virginia Tech [Pass Zone] 67
+OLB Mike Nomellini 6-1 239 3 NC State [Run Zone] 66
+CB Mike Gradishar 5-10 166 R Alabama [Zone Coverage] 83
+CB Moe McMillan 5-10 183 1 VirginiaTech [ManCoverage] 83
+CB Brian Kelley 5-11 185 3 Kansas [Zone Coverage] 71
+CB Ollie Ygba 5-11 206 3 Boise State [Zone Coverage] 60
+CB Todd Janik 5-11 188 2 Michigan State [Zone Coverage] 60
+FS Randall Jones 6-2 190 2 California [ManCoverage] 85
+SS Keyshawn Ayanbadejo 6-1 217 3 Florida State [ManCoverage] 87
+SS Chekwume Angacho 6-0 203 R Penn State [Man Coverage] 70
+K Nathan Vazquez 5-9 168 1 Maryland [Power] 73
+P Jim Brown 6-1 165 1 Auburn [Power] 84

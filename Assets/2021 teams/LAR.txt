@@ -1,0 +1,61 @@
+QB Darrell Murphy 6-2 215 7 Wisconsin [Pocket] 98
+QB Jeremy Henry 6-3 204 3 USF [Pocket] 82
+QB Kevin Marshall 6-4 230 1 South Dakota [Hybrid] 76
+RB Frederick Chacon 6-0 172 3 Air Force [Power] 80
+RB Terrell Holland 5-8 211 R SMU [Speed] 76
+RB Larry Holleyman 5-11 187 3 Tennessee [Power] 75
+RB Trainer Joyce 6-3 221 2 Houston [Speed] 72
+FB Kyle Wagner 6-0 212 R Minnesota [Run Blocking] 80
+WR Walt Peck 6-5 203 7 Penn State [Speed] 93
+WR Allama Banta 6-0 185 5 Boston College [Target] 85
+WR Kevin O'Neal 6-5 180 R Portland State [Target] 79
+WR Andrew Williamson 6-3 204 3 Penn State [Target] 74
+WR Norman Spencer 5-9 159 1 Maryland [Speed] 71
+TE Jonathan Greer 6-2 217 R Virginia [Blocking] 80
+TE Andrew Yearney 6-5 247 2 Maryland [Blocking] 74
+TE Sheldon Morrison 6-4 231 1 McNeese [Blocking] 70
+OT Nijrell Smith 6-4 346 5 Miami [Pass Blocking] 88
+OT August Gilliland 6-1 282 3 TCU [Run Blocking] 82
+OT Shawaun Holsey 6-2 297 R Virginia [Run Blocking] 81
+OT Clifford Santiago 6-6 305 2 Syracuse [Run Blocking 81
+OT Conor Crane 6-6 303 1 Mississippi State [Pass Blocking] 77
+OG Kevin Levy 6-5 261 2 Boise State [Run Blocking] 84
+OG Julio Dunn 6-4 292 1 Nebraska [Pass Blocking] 79
+OG Eugene Giles 6-4 290 2 Washington State [Pass Blocking] 75
+C LaMarcus Smith 6-3 298 6 Ole Miss [Run Blocking] 92
+C Malachi Vera 6-1 242 2 Colorado [Pass Blocking] 74
+DE Michael Bruce 6-8 252 2 Texas Tech [Blitz] 85
+DE Jared Self 6-2 256 1 Michigan [Blitz] 82
+DE Thomas Henry 6-6 295 3 Maryland [Contain] 76
+DE Timothy Heller 6-1 253 1 Indiana [Blitz] 69
+DT Anthony Beltran 6-5 299 3 Penn State [2-Gap] 89
+DT Cameron Street 6-2 317 R LSU [2-Gap] 77
+DT David Thompson 6-6 298 1 Stanford [2-Gap] 75
+ILB Tom Henderson 6-0 234 5 Iowa [Will] 87
+ILB Daniel Watkins 6-0 231 2 Louisville [Mike] 85
+ILB Roland Patterson 6-4 232 2 Auburn [Will] 74
+ILB Devin Aguilar 6-2 237 1 Georgia Tech [Mike] 69
+OLB Leigh Davey 6-1 232 4 Minnesota [Coverage] 86
+OLB Jeff Cox 5-11 220 3 California [Blitz] 85
+OLB Jerry Thornton 6-2 229 1 Texas Tech [Coverage] 73
+OLB James Garcia 6-1 231 2 Houston [Blitz] 73
+CB Isaiah Polsfoot 5-11 183 5 Tyler Junior College [Zone Coverage] 83
+CB Thomas Patterson 5-11 184 2 Mississippi State [Man Coverage] 81
+CB Jeremy Starks 5-10 187 1 Missouri [Man Coverage] 78
+CB Christopher Anthony 5-10 171 R Temple [Man Coverage] 73
+CB Brian Berry 5-11 187 4 Baylor [Zone Coverage] 70
+FS Samuel Prince 6-0 191 1 Texas A&M [Man Coverage] 75
+FS Quinn Cooper 6-2 185 3 TCU [Zone Coverage] 74
+SS Brandon Sauter 6-2 200 4 Michigan State [Zone Coverage] 94
+SS Ethan Crockett 6-2 176 1 Alabama [Zone Coverage] 79
+K Hunter Hendrickson 6-1 199 2 Erie Community College [Power] 79
+P Mark Coleman 6-1 196 3 USC [Power] 86
+QB Marquise Laws 6-4 200 R Ole Miss [Scrambling] 73
+WR Elliott Efi 6-0 222 R Iowa State [Target] 68
+TE Raymond Rivera 6-3 253 2 Rutgers [Blocking] 71
+C Hunter Farr 6-3 304 R Cincinnati [Run Blocking] 68
+DE Robert Thomas 6-3 275 3 Air Force [Contain] 68
+DT Aidan Dotson 6-6 315 R California [2-Gap] 68
+ILB James Burroughs 6-3 234 R Minnesota [Mike] 68
+CB Ernie Urban 5-11 173 1 Wisconsin [Zone Coverage] 69
+K Aaron George 6-3 211 1 Illinois [Power] 71

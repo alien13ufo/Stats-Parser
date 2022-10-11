@@ -1,0 +1,53 @@
+QB Will Thompson 6-3 191 5 USC [Pocket] 86
+QB Matty Swift 5-11 198 R Texas A&M [Pocket] 82
+QB Drew Lewis 6-1 213 1 Michigan State [Scrambling] 67
+RB Shawn Cole 5-9 188 4 Washington [Power] 90
+RB James Harris 5-8 198 3 Oregon State [Speed] 75
+RB Clayton Gorman 5-9 192 2 Cincinnati [Power] 75
+FB Raphael Fulton 6-1 221 1 Southeast Community College [Run Blocking] 77
+FB Joseph Chapman 6-1 230 R Florida State [Run Blocking] 74
+WR Wesly Anderson 6-0 196 4 Texas Tech [Speed] 76
+WR Wayne Wegert 6-5 188 5 Notre Dame [Speed] 82
+WR Todd Druckenmiller 5-9 186 2 Alabama [Speed] 81
+WR Brandon Burks 6-5 178 4 Nebraska [Speed] 73
+WR Will London 6-3 205 R Tennessee [Target] 69
+WR M.L. Kriewaldt 5-8 170 4 Louisville [Speed] 87
+TE Scott Howard 6-6 236 4 Northwestern [Receiving] 93
+TE Rick Philcox 6-2 221 2 Miami [Blocking] 76
+TE Sal Deniglio 6-5 247 R Florida [Blocking] 67
+OT Charlie Ellis 6-4 309 2 Washington State [Pass Blocking] 82
+OT Chris DeMarco 6-7 319 4 Georgia [RunBlocking] 80
+OT Barret Jennings 6-8 310 3 Alabama [Pass Blocking] 74
+OT Demetrius Jett 6-5 300 1 NorthCarolina [RunBlocking] 79
+OG Josh Hall 6-6 296 5 Oklahoma [Pass Blocking] 85
+OG Charles Thompson 6-5 296 3 Rutgers [PassBlocking] 85
+OG Michael Bush 6-6 312 R Nevada [Run Blocking] 67
+C Don Teteak 6-0 293 2 Washington [Pass Blocking] 84
+C James Seward 6-3 274 1 Illinois [Run Blocking] 66
+DE Jarius Davis 6-3 261 2 Oklahoma [Blitz] 73
+DE Dhani Panfil 6-2 284 4 Washington [Contain] 78
+DE Jeffrey Chung 6-4 272 R Alabama [Blitz] 82
+DE Eli Cobb 6-0 242 1 Florida State [Contain] 72
+DT Steve Poole 6-7 288 1 GeorgiaTech [1-Gap] 79
+DT William Robertson 6-3 291 3 Rutgers [1-Gap] 76
+DT Andrew Pearson 6-3 321 R Boise State [2-Gap] 81
+DT John Corley 6-8 285 4 BoiseState [2-Gap] 69
+ILB Tunch Richardson 5-11 217 2 Alabama [Mike] 88
+ILB Timmy Flanigan 5-8 233 3 Florida State [Will] 75
+ILB De'Mond Goode 6-1 232 5 TCU [Will] 74
+OLB Asante Willis 6-1 229 1 Kentucky [Coverage] 80
+OLB Charley Graham 5-11 224 3 UCLA [Coverage] 77
+OLB Bryan Jones 6-3 225 R Ole Miss [Coverage] 76
+CB Kevin Potts 6-1 183 2 LSU [Zone Coverage] 81
+CB Sedrick Madison 6-2 183 5 Tennessee [ZoneCoverage] 80
+CB Joshua Saunders 6-3 198 1 USF [ManCoverage] 74
+CB Demetrius Patterson 6-1 225 R Texas [Zone Coverage] 71
+CB Jim Brewer 6-2 195 2 Michigan State [Zone Coverage] 74
+FS Eric Sochia 5-10 169 1 Minnesota [ManCoverage] 79
+FS Alejandro Bowen 6-3 202 R Houston [Zone Coverage] 70
+FS Edward Gallagher 6-1 214 R USC [Man Coverage] 72
+SS Tavian Oliphant 6-2 202 3 Alabama [ManCoverage] 90
+SS Antonio Little 6-1 205 R Kentucky [Man Coverage] 70
+K Rafael Davidson 5-11 182 1 Nebraska [Accuracy] 82
+K Kent Evans 5-9 192 4 OleMiss [Power] 78
+P Eric Norris 5-11 163 2 Arizona [Accuracy] 76

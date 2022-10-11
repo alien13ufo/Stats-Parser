@@ -1,0 +1,46 @@
+QB Harold Simmons 6-1 180 1 NotreDame [Pocket] 84
+QB Sam Light 5-11 194 R Texas [Pocket] 73
+RB Buzz Etcheverry 5-10 182 R UCF [Power] 79
+RB Russ Martin 6-0 215 2 Oklahoma [Power] 81
+RB Rickie Baird 5-11 171 1 Cincinnati [Speed] 80
+RB John McMurtry 5-11 212 2 Auburn [Speed] 79
+FB Broderick Snell 5-11 235 3 Texas [Speed] 77
+FB Mathew Willis 6-2 227 R Colorado [Power] 70
+WR Billy Rodgers 6-1 164 1 NorthCarolina [Target] 85
+WR Gordon Kleinsasser 6-6 200 R Michigan [Target] 80
+WR Vaughn Gash 6-3 183 3 Tennessee [Speed] 81
+WR Al Divito 6-0 186 R Georgia [Speed] 77
+WR Brandon Lane 5-11 187 2 MississippiState [Speed] 76
+TE Isaiah Davidson 6-6 247 1 BoiseState [Run Blocking] 81
+TE King Pietrosante 6-2 223 R Washington State [Run Blocking] 68
+OT Aaron Gugliemi 6-2 310 2 Tennessee [PassBlocking] 88
+OT Matt Bogle 6-1 341 1 OhioState [PassBlocking] 88
+OT Torrie Warfield 6-8 312 2 California [PassBlocking] 75
+OT Dwight Ellis 6-3 327 2 NotreDame [PassBlocking] 74
+OG John Chance 6-7 315 2 OregonState [RunBlocking] 90
+OG Henry Badanjek 6-4 289 3 Alabama [PassBlocking] 86
+OG Mathias Banks 6-5 300 3 Michigan [RunBlocking] 66
+C Raymond Muhammad 6-4 292 3 Virginia Tech [Run Blocking] 76
+C James Roberson 6-2 264 R Rutgers [Run Blocking] 66
+DE Kaulana Groth 6-7 304 2 OhioState [PassStop] 86
+DE Bill Young 6-4 291 1 VirginiaTech [RunStop] 83
+DE Joe Washington 6-1 268 3 Missouri [PassStop] 77
+DT Nathan Knowlton 6-6 277 R Boise State [Pass Stop] 79
+DT Joseph Blair 6-2 294 R Utah [Pass Stop] 74
+DT Lynn Burford 6-7 300 2 USC [RunStop] 72
+ILB Blair Williams 6-2 247 2 Colorado [PassMan-to-Man] 86
+ILB Billy Williams 6-1 240 1 Rutgers [RunMan-to-Man] 76
+ILB James Hastings 6-2 246 1 Florida [PassMan-to-Man] 73
+OLB Chester Williams 6-2 219 1 Auburn [RunMan-to-Man] 83
+OLB Jeff Brooks 6-0 230 R Florida [Pass Man-to-Man] 75
+OLB Tony Cochran 5-11 237 2 MississippiState [RunMan-to-Man] 72
+CB DeAndre Hawkins 6-2 180 1 OhioState [ManCoverage] 88
+CB Wayne Hape 5-10 184 2 USC [ManCoverage] 82
+CB Henri Muhammad 5-10 186 3 Nebraska [ManCoverage] 77
+CB Antonio Hotchkiss 5-9 187 R Ohio State [Man Coverage] 73
+FS Reynaldo Harris 5-9 174 1 Miami [ManCoverage] 82
+FS Gary Bryant 5-11 207 3 WestVirginia [ZoneCoverage] 74
+SS Tywan Tafoya 6-2 185 2 WashingtonState [ZoneCoverage] 82
+SS Joel Murphy 5-11 201 1 Arizona [ZoneCoverage] 76
+K Ronald Daniel 5-8 184 R Baylor [Power] 80
+P Joe Wood 5-9 192 1 Michigan [Power] 88

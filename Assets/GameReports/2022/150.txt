@@ -1,0 +1,67 @@
+ Pittsburgh Steelers (7-2) at Cincinnati Bengals (5-4) ?
+
+Cincinnati, OH - 58 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:steelers: Pittsburgh Steelers (7-2) 	0 	10 	3 	3 	- 	16
+:bengals: Cincinnati Bengals (5-4) 	3 	7 	3 	7 	- 	20
+Team Stats Comparison
+  	:steelers: Pittsburgh Steelers 	:bengals: Cincinnati Bengals
+Injuries 	QB Norris Brooksheer - Moderate Shoulder Dislocation 	No Injuries
+Top Player Grade 	OLB Patrick Murphy (8.36) 	WR Jamir Blackburn (8.94)
+Worst Player Grade 	FS T.J. Lawrence (3.38) 	OLB Prince Matos (3.50)
+Offensive Line Rating 	7.98 	8.12
+Sacks 	3 	3
+Punting 	43.5 	47.0
+Punt Return Yards 	6 	12
+Kick Return Yards 	68 	37
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	3/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/60 	5/45
+:steelers: Pittsburgh Steelers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	19/35 	190 	1 	0 	1/1
+Rory Weston 	7/12 	82 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	11 	46 	0 	9 	0/0
+Jermaine Lockett 	4 	11 	0 	6 	1/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP ? 	F/L
+Eric Watson 	8 	84 	0 	1 	0/0
+Samuel Jolley 	4 	51 	1 	1 	0/0
+Ja'Wuan Howard 	5 	48 	0 	0 	0/0
+William Anderson 	3 	32 	0 	0 	0/0
+Malaefou Lewis 	2 	24 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dane Wilson 	4/0 	- 	1/1 	0/0 	0/0
+Patrick Murphy 	5/0 	1.0 	0/0 	0/0 	0/0
+Bill Gehrke 	3/0 	1.0 	0/0 	0/0 	0/0
+Carlos Washington 	2/1 	1.0 	0/0 	0/0 	0/0
+Ron Mobley 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Lorenzo Rodgers 	3/3 	1/1 	45, 28, 35
+	
+:bengals: Cincinnati Bengals
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	25/48 	316 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Rasheed Kent 	8 	31 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamir Blackburn 	9 	120 	1 	0 	0/0
+Adrian Jankowski 	6 	81 	0 	1 	0/0
+Christopher Harris 	3 	43 	1 	0 	0/0
+Steven Maloney ? 	2 	30 	0 	0 	0/0
+Charlie Wilson 	2 	19 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Timothy Key 	4/1 	1.0 	0/0 	0/0 	0/0
+Jamal McGavin 	2/0 	1.0 	0/0 	1/0 	0/0
+E.J. McQuarters 	1/0 	1.0 	0/0 	0/0 	0/0
+Charley Graham 	4/0 	- 	0/0 	0/1 	0/0
+Nick Upshaw 	5/0 ? 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	2/2 	2/2 	40, 39 ?

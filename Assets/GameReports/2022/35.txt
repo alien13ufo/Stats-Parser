@@ -1,0 +1,65 @@
+ Arizona Cardinals (0-2) at Baltimore Ravens (2-0)
+? Baltimore, MD - 65 F :cloudy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (0-2) 	0 	3 	0 	0 	- 	3
+:ravens: Baltimore Ravens (2-0) 	7 	3 	0 	6 	- 	16
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:ravens: Baltimore Ravens
+Injuries 	No Injuries 	WR Adrian Allen - Moderate Calf Strain
+Top Player Grade 	WR Ricky Chambers (5.62) 	RB Gabriel Shields (7.82)
+Worst Player Grade 	WR Eugene Sanders (2.45) 	K Dennis Scott (4.00)
+Offensive Line Rating 	8.25 	7.93
+Sacks 	4 	4
+Punting 	48.3 	44.6
+Punt Return Yards 	32 	29
+Kick Return Yards 	42 	29
+Turnovers 	4 	2
+3rd Down Conversion 	2/12 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/83 	4/57
+:cardinals: Arizona Cardinals
+Pistol - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	14/30 	170 	0 	2 	1/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Trevon Yeldon 	14 	52 	0 	18 	1/1
+Paul Davenport 	4 	39 	0 	21 	0/0
+- 	- 	- 	- ? 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ricky Chambers 	3 	54 	0 	1 	0/0
+Marcus Banks 	2 	38 	0 	1 	0/0
+Butch Harper 	3 	23 	0 	0 	0/0
+Eugene Sanders 	2 	22 	0 	2 	0/0
+Art Baber 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ian Garner 	1/0 	- 	1/1 	0/0 	0/0
+Tom Reis 	5/0 	0.5 	0/0 	1/1 	0/0
+Josiah Harden 	3/2 	2.0 	0/0 	0/0 	0/0
+Omar McManus 	5/1 	1.5 	0/0 	0/0 	0/0
+William Thomas 	5/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	1/1 	0/0 	45
+	
+:ravens: Baltimore Ravens
+Option 2RB - Flexbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	10/18 	145 	0 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	20 	108 	0 	8 	1/1
+Gabriel Shields 	11 	64 	1 	33T 	0/0
+Brett Fisher 	6 	32 	0 	11 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Danny Patrick 	3 	40 	0 	0 	1/0
+Darrell Mack 	2 	35 	0 	0 	0/0
+David Wells 	1 	32 	0 	0 	0/0
+Adrian Allen 	1 	18 	0 	0 	0/0
+Joseph Dickerson 	2 	14 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Troy Marshall 	2/0 	- 	1/0 	0/0 	0/0
+Traveon Howard 	2/0 	- 	1/0 	0/0 	0/0
+Tyrone Jones 	6/2 	1.5 ? 	0/0 	2/0 	0/0
+Marlin Eason 	2/0 	1.0 	0/0 	0/1 	0/0
+Lucas Benton 	2/0 	1.0 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	3/5 	1/1 	40, 28, 36 - 50, 40 ?

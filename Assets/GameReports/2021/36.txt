@@ -1,0 +1,55 @@
+ Tennessee Titans (2-0) at Buffalo Bills (1-1)
+
+Buffalo, NY - 69 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (2-0) 	3 	3 	7 	7 	- 	20
+:bills: Buffalo Bills (1-1) 	14 	7 	7 	7 	- 	35
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:bills: Buffalo Bills
+Injuries 	Hastin Rider, TE - Mild Meniscus Tendonitis 	Rob Lipscomb, OG - Moderate Shoulder Dislocation
+Offensive Line Rating 	7.9 	8.3
+Sacks 	1 	4
+Punting 	44.1 	41.4
+Punt Return Yards 	2 	102 (1)
+Kick Return Yards 	20 	25
+Turnovers 	2 	1
+3rd Down Conversion 	5/11 	7/11
+4th Down Conversion 	0/1 	0/0
+Penalties 	9/84 	3/15
+:titans: Tennessee Titans
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	28/47 	329 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+John Harris 	10 	36 	0 	12 	1/1
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Williams 	9 	100 	1 	0 	0/0
+Greg Newman 	6 	96 	0 	0 	0/0
+Cody Hunter 	3 	52 	1 	1 	0/0
+Ray Harrison 	4 	44 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jack Ramsey 	3/0 	- 	1/0 	0/0 	0/0
+Jeffrey Aranda 	7/1 	1.0 	0/0 	0/0 	0/0
+Tywan Tafoya 	6/0 	- 	0/0 	0/0 	0/0
+David Doherty 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	2/2 	2/2 	40, 23
+	
+:bills: Buffalo Bills
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Kamau Davis 	20/33 	249 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	17 	67 	1 	17T 	0/0
+C.J. Sheffield 	6 	25 	1 	15 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Matt Thomas 	6 	90 	1 	0 	0/0
+Kevin Garvin 	4 	66 	1 	0 	0/0
+Isaiah Cronin 	3 	33 	0 	1 	0/0
+Tyron Chambers 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sean Taylor 	3/0 	- 	1/0 	0/0 	0/0
+Anthony Ortiz 	5/1 	2.0 	0/0 	0/0 	0/0
+Rodney Galbreath 	2/0 	1.0 	0/0 	1/0 	0/0
+Anthony Whipple 	2/0 	0.5 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Darryl Lemus 	0/1 	5/5 	- 40 

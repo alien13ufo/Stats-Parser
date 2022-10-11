@@ -1,0 +1,53 @@
+QB R.J. Stanford 5-11 203 2 Arkansas [Hybrid] 83
+QB Dick Cook 6-2 205 3 Florida State [Scrambling] 80
+QB Randy Roberts 6-2 231 R Boston College [Pocket] 78
+RB O.J. Carano 5-11 217 5 Minnesota [Power] 92
+RB Daniel Nance 5-6 189 1 Marshall [Speed] 78
+RB Vernon Haggan 5-11 191 2 Utah [Speed] 77
+FB Harlon Collins 6-1 226 3 LSU [Run Blocking] 86
+WR Mark Harrington 6-6 177 3 Penn State [Speed] 83
+WR Cotton Lewis 6-1 182 3 Auburn [Target] 86
+WR Art Baber 5-9 201 5 Auburn [speed] 84
+WR William Anderson 6-3 207 R Alabama [Target] 80
+WR Keith Setzer 6-2 213 2 Boise State [Speed] 79
+WR Aric Greene 6-0 214 5 Nebraska [Target] 75
+TE Joe Barrett 6-3 249 5 Mississippi State [Blocking] 80
+TE Chris Gano 6-4 235 2 Stanford [Receiving] 83
+TE John Raiola 6-3 239 3 UCLA [Blocking] 73
+OT Ryan Robinson 6-6 299 3 Oklahoma State [Run Blocking] 91
+OT Alan Holmes 6-7 301 4 Arizona [Pass Blocking] 85
+OT Kenneth Porter 6-5 290 1 Notre Dame [Run Blocking] 80
+OT Rich Manget 6-8 276 2 Ole Miss [Pass Blocking] 78
+OG Brian Olszewski 6-6 274 2 Florida [Run Blocking] 84
+OG Jerris Jordan 6-5 296 6 Georgia [Pass Blocking] 86
+OG Tony Glover 6-6 267 3 Tennessee [Pass Blocking] 75
+OG Leo Fleming 6-7 266 R Minnesota [Run Blocking] 73
+OG Dominique Burnett 6-4 296 1 Missouri [Run Blocking] 69
+C Arnold Smith 6-4 289 4 Texas [Run Blocking] 79
+C Ian Causey 6-2 299 R Missouri [Pass Blocking] 74
+DE Curtis Lewis 6-8 283 4 Texas [Blitz] 92
+DE Ulysses Smith 6-8 290 4 Penn State [Contain] 82
+DE Keyshawn Vance 6-2 240 3 Iowa [Contain] 79
+DE Ron Rasby 6-1 275 2 Michigan [Blitz] 75
+DT David Lee 6-3 278 5 Mississippi State [1-Gap] 86
+DT Joe Micho 6-7 300 6 Notre Dame [2-Gap] 80
+DT Brad Mungro 6-6 284 4 Minnesota [1-Gap] 83
+DT Marcus Anthony 6-7 284 1 Colorado [1-Gap] 75
+ILB Freddy Suarez 6-2 226 2 Maryland [Mike] 81
+ILB John Foster 6-1 227 1 Miami [Mike] 75
+ILB Julius Conrad 6-4 240 R Northwestern State [Mike] 70
+OLB Kenyatta Henderson 5-11 228 4 Ole Miss [Blitz] 94
+OLB Aaron Hammond 6-1 223 1 Purdue [Coverage] 85
+OLB Angel Bailey 6-2 228 R Georgia [Coverage] 77
+OLB Michael Clark 6-2 225 4 BYU [Coverage] 72
+CB Will Hall 5-10 224 2 USC [Zone Coverage] 89
+CB Hunter Lawrence 5-10 176 1 Colorado State [Zone Coverage] 78
+CB Stephen Mitchell-Morrison 6-1 203 2 Air Force [Zone Coverage] 80
+CB Ronnie Peters 5-11 185 R Washington [Zone Coverage] 70
+FS Messiah Henderson 6-1 182 2 Duke [Zone Coverage] 7
+FS Clyde Rivers 6-0 201 R Notre Dame [Zone Coverage] 74
+SS Walter Dorow 5-11 200 3 Georgia [Man Coverage] 81
+SS George Russell 5-11 167 1 San Diego State [Zone Coverage] 80
+SS Mordechai Hutchison 5-10 181 R Central Michigan [Zone Coverage] 67
+K Stanley Brewster 6-1 204 3 Pittsburgh [Accuracy] 82
+P Mason Singleton 6-3 198 1 Pittsburgh [Power] 84

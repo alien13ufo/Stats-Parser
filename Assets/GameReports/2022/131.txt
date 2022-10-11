@@ -1,0 +1,67 @@
+ Arizona Cardinals (1-6) at San Francisco 49ers (1-7) ?
+
+Santa Clara, CA - 65 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (1-6) 	10 	7 	7 	3 	- 	27
+:49ers: San Francisco 49ers (1-7) 	3 	7 	3 	3 	- 	16
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:49ers: San Francisco 49ers
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	TE Noah Hills (8.92) 	ILB Daleroy Smart (8.78)
+Worst Player Grade 	OLB William Thomas (2.85) 	ILB Ernie Crawford (3.50)
+Offensive Line Rating ? 	8.29 	8.02
+Sacks 	3 	0
+Punting 	47.4 	43.0
+Punt Return Yards 	16 	26
+Kick Return Yards 	45 	64
+Turnovers 	0 	1
+3rd Down Conversion 	5/13 	4/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/62 	4/25
+:cardinals: Arizona Cardinals
+Pistol - Wing T
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	13/18 	209 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0 ?
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Trevon Yeldon 	22 	132 	2 	26 	0/0
+Paul Davenport 	7 	56 	0 	21 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Noah Hills 	5 	108 	1 	0 	0/0
+Ricky Chambers 	2 	32 	0 	1 	0/0
+Marcus Banks 	2 	23 	0 	0 	0/0
+Trevon Yeldon 	2 	20 	0 	0 	0/0
+Adrian Allen 	1 	17 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ian Garner 	3/0 	- 	1/0 	0/0 	0/0
+Josiah Harden 	4/0 	2.0 	0/0 	0/0 	0/0
+Jeffrey King 	3/0 	1.0 	0/0 	0/0 	0/0
+Asante Willis 	6/0 	- 	0/0 	0/0 	0/0
+Tom Reis 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	2/2 	3/3 	45, 46
+	
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Orly Vaccaro 	17/35 	209 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	16 	39 	0 	9 	0/0
+Orly Vaccaro 	2 	9 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jarius Shaw-Dodd 	6 	66 	1 	0 	0/0
+Miles Collins 	3 	42 	0 	1 	0/0
+Daniel Marshall 	2 	40 	0 	2 	0/0
+Ben Thomas 	2 	27 	0 	1 	0/0
+Troy McCray ? 	2 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Daleroy Smart 	9/0 	- 	0/0 	0/0 	0/0
+Brandon Thomas 	5/0 	- 	0/0 	0/0 	0/0
+Michael McBride ? 	3/1 	- 	0/0 	0/0 	0/0
+Dennis Niland 	3/0 	- 	0/0 	0/0 	0/0
+Ernie Crawford 	2/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	3/3 	1/1 	45, 28, 35 ?

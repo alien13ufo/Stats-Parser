@@ -1,0 +1,53 @@
+QB Rob LeCount 6-3 212 5 Michigan [Pocket] 89
+QB Elijah Moffett 6-0 197 R Rutgers [Pocket] 80
+QB Adrian Jenkins 6-1 188 2 Fresno State [Pocket] 77
+RB James Otero 5-8 191 5 Kansas [Power] 90
+RB Logan Pruitt 5-7 232 R North Carolina [Power] 77
+RB Calvin Jones 6-4 208 1 Georgia Tech [Speed] 73
+FB Lorenzo Makovicka 5-8 211 4 USC [Run Blocking] 77
+FB Robert Williamson 6-2 245 6 Rutgers [Pass Blocking] 78
+WR Jeremy Cook 6-0 217 R Washington State [Target] 82
+WR Adrian Allen 6-4 183 3 Duke [Speed] 81
+WR Aaron Pagliei 6-3 185 3 Florida [Speed] 81
+WR Tyrone Cunningham 6-0 222 1 Arizona [Target] 79
+WR Tom Branch 5-9 174 2 Boston College [Speed] 75
+TE Anthony Fasani 6-6 222 4 Nebraska [Receiving] 86
+TE Cap Mitchell 6-2 222 3 Michigan [Blocking] 77
+TE Santana Sellers 6-6 240 2 Michigan State [Receiving] 72
+OT Grey Brown 6-6 308 3 Florida State [Pass Blocking] 93
+OT Tai Burns 6-6 317 5 LSU [Pass Blocking] 85
+OT Tierre Bowen 6-8 305 2 Florida [Run Blocking] 77
+OT Bryon Dixon 6-1 322 5 Iowa State [Run Blocking] 74
+OG LaMont Sheriff 6-7 298 4 Virginia Tech [Pass Blocking] 93
+OG Wilson Hutchinson 6-2 299 5 Texas A&M [Run Blocking] 86
+OG Ruben Winstead 6-3 315 1 Florida [Pass Blocking] 77
+OG Andre Goodridge 6-4 265 2 Ole Miss [Run Blocking] 70
+C Martin Terry 6-2 294 1 Nebraska [Run Blocking] 81
+C Mike Stahl 6-3 280 2 Mississippi State [Run Blocking] 74
+DE Doug Carolan 6-0 263 2 Florida [Blitz] 84
+DE Ricky Mayo 6-6 251 1 Vanderbilt [Blitz] 76
+DE Cory Fonoti 6-7 279 5 Minnesota [Contain] 73
+DE Donald Craig 6-6 250 1 Texas A&M [Contain] 69
+DT Earl Jackson 6-3 293 5 Oklahoma State [2-Gap] 95
+DT Mark Walsh 6-8 317 1 Arkansas [2-Gap] 76
+DT Julian Young 6-7 276 1 Minnesota [2-Gap] 69
+ILB Andre Brooks 6-1 256 6 Wisconsin [Mike] 96
+ILB Ron Sanderson 6-1 221 4 Penn State [Will] 77
+ILB Joshua Olson 5-11 245 R Air Force [Mike] 74
+ILB Franklin McKenna 6-0 229 1 Missouri [Will] 70
+OLB Cameron Jones 6-4 221 1 Arizona [Blitz] 83
+OLB Richard Ryan 6-3 230 R Virginia Tech [Coverage] 78
+OLB Herman Randle 6-2 240 R Michigan [Blitz] 72
+OLB Scott Wallace 5-11 207 2 Texas [Coverage] 72
+CB Keyshawn Thompson 6-2 181 5 Michigan State [Zone Coverage] 96
+CB Ronyell Buchanon 6-1 171 3 Florida State [Zone Coverage] 78
+CB Scott Cartwright 5-11 187 3 USC [Zone Coverage] 75
+CB Chris Tolbert 6-0 161 1 Washington [Zone Coverage] 74
+CB Tony Fouts 6-0 166 4 USC [Zone Coverage] 72
+FS Keith Farr 6-1 174 5 Syracuse [Man Coverage] 82
+FS Craig Lee 6-3 202 1 USF [Zone Coverage] 75
+SS Willard McCready 6-0 189 2 Wisconsin [Zone Coverage] 84
+SS Carter Leavitt 6-1 193 R LSU [Zone Coverage] 75
+SS Anthony Ludwig 6-2 202 2 Connecticut [Man Coverage] 72
+K Brent Hankton 6-4 215 5 West Virginia [Power] 94
+P Bryan Johnson 6-1 204 6 Utah [Accuracy] 92

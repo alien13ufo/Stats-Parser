@@ -1,0 +1,57 @@
+ New York Giants (1-9) at Tampa Bay Buccaneers (6-4)
+
+Tampa, FL - 82 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:giants: New York Giants (1-9) 	0 	3 	10 	7 	- 	20
+:buccaneers: Tampa Bay Buccaneers (6-4) 	10 	7 	7 	7 	- 	31
+Team Stats Comparison
+  	:giants: New York Giants 	:buccaneers: Tampa Bay Buccaneers
+Injuries 	No Injuries 	Sam Holmes, C - Moderate Back Disc Fracture
+Offensive Line Rating 	8.1 	8.2
+Sacks 	1 	1
+Punting 	42.5 	41.8
+Punt Return Yards 	32 	13
+Kick Return Yards 	40 	42
+Turnovers 	2 	1
+3rd Down Conversion 	6/13 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/20 	7/62
+:giants: New York Giants
+Pistol - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	15/24 	150 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	22 	92 	1 	16 	1/1
+Paul Davenport 	5 	36 	0 	20 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tom Oldham 	4 	46 	0 	1 	0/0
+Ibrahim Smiley 	3 	41 	0 	0 	0/0
+Eugene Sanders 	3 	32 	1 	1 	0/0
+Chris Gano 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Will Hall 	2/0 	- 	1/0 	0/0 	0/0
+Kenyatta Henderson 	5/1 	1.0 	0/0 	0/0 	0/0
+Aaron Hammond 	4/0 	- 	0/0 	0/0 	0/0
+Freddy Suarez 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Trent Michaels 	2/2 	2/2 	33, 36
+	
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	20/29 	261 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	17 	65 	1 	12 	0/0
+Jeremiah Newton 	8 	41 	1 	29T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Richard Wilson 	5 	90 	1 	0 	0/0
+Quintavius Pearson 	6 	67 	0 	0 	0/0
+James Richardson 	3 	53 	1 	1 	0/0
+William Moore 	3 	35 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Micquel Carter 	2/0 	- 	1/0 	0/0 	0/0
+Sebastian Traylor 	3/0 	1.0 	0/0 	0/0 	0/0
+Frank Williams 	5/1 	- 	0/0 	1/0 	0/0
+Jack Muhammad 	4/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	1/1 	4/4 	36 

@@ -1,0 +1,55 @@
+QB Aaron Devereaux 6-6 204 8 LSU [Pocket] [+1] 94 ?
+QB Paul Davenport 6-0 198 6 Miami [Hybrid] [-2] 84?
+QB Nicholas Garland 5-10 210 3 Stanford [Pocket] [-1] 82
+QB Jaiden Grant 6-3 239 4 Florida [Pocket] [0] 76
+RB DeSean Dockery 5-10 201 2 Louisville [Speed] [+1] [+] 83
+RB Zahir Watts 5-8 171 3 Boston College [Speed] [0] 79
+RB Quincy Turner 6-1 200 9 UCLA [Speed] [-1] 77
+FB Emanuelu Tuimaleali'lfano 5-8 208 2 Alabama [Pass Blocking] [+2/C] 86
+WR Sean Jenkins 6-6 182 7 North Texas [Speed] [+1] [+] 96
+WR Mike Miller 6-4 209 2 South Dakota State [Target] [0] [+] 85
+WR Robert Hatcher 6-3 199 R Alabama [Speed] [0] 78
+WR Cameron Lindsey 6-3 207 5 Missouri [Speed] [0] 75
+TE Chris Gano 6-4 235 6 Stanford [Receiving] [0] 83
+TE Patrick Glass 6-6 203 4 Mississippi State [Receiving] [0] 83
+TE Will Holly 6-2 237 5 UTEP [Receiving] [-1] 79
+OT Travis Clatterbuck 6-1 299 6 LSU [Run Blocking] [0] 83
+OT Damian Mason 6-3 296 3 Tennessee [Pass Blocking] [+1/C] 85
+OT Tierre Bowen 6-8 305 6 Florida [Run Blocking] [0] 77
+OT Jason Dotson 6-1 275 1 Oklahoma [Pass Blocking] [0] 78
+OT Ned Gillis 6-6 330 R Minnesota [Pass Blocking] [0] 74
+OG Toma Tumaalii 6-7 322 4 Hawaii [Run Blocking] [+1] 85
+OG Logan Romano 6-6 257 R Washington [Run Blocking] [+1] 80
+OG William Kinard 6-5 294 6 Texas [Run Blocking] [0] 80
+OG Sawyer Dougherty 6-4 298 5 Oklahoma State [Pass Blocking] [0] 79
+OG Marc Kerns 6-1 270 4 Pittsburgh [Run Blocking] [0] 78
+OG Kieran Moser 6-2 278 1 Auburn [Run Blocking] [-1] 78
+C Ryan Poole 6-1 303 9 Texas [Run Blocking] [0/C] 91
+C Russell Daigle 6-4 247 2 Iowa State [Run Blocking] [0] 74
+DE Charles Woods 6-5 273 5 Notre Dame [Contain] [0] 87
+DE Cece Condon 6-1 263 R Ohio State [Contain] [-2] 82
+DE Shamar Manning 6-1 276 6 Florida State [Contain] [+1] 80
+DE Paul Cherry 6-3 266 3 Minnesota [Blitz] [0] 76
+DT Jeremy Miller 6-1 304 8 Texas Tech [2-Gap] [+2/C] 92
+DT Benjamin Chappell 6-0 290 3 Western Kentucky [2-Gap] [0] 80
+DT Emmanuel Moore 6-7 303 2 Florida [2-Gap] [0] [#] 71
+ILB Garrett Holliday 6-3 234 3 Arizona State [Mike] [-1] 88
+ILB Gregory Kellogg 6-3 235 6 Ohio State [Will] [0] 76
+ILB Javon Knox 6-3 245 2 Utah [Will] [+3/C] 81
+OLB Austin Olson 5-11 234 6 Notre Dame [Blitz] [+1/C] 89
+OLB Alexander Burton 6-1 237 2 LSU [Blitz] [+1/C] 82
+OLB Jamir Sample 6-2 231 4 Clemson [Blitz] [0] [#] 82
+OLB Will Sherman 6-1 230 2 NDSU [Blitz] [+2/C] 76
+CB Devin Little 5-9 204 3 Michigan [Man Coverage] [-1] 84
+CB Eric Hall 5-11 177 1 Arizona [Man Coverage] [0/C] 81
+CB Justin Williams 5-9 163 2 Eastern Illinois [Man Coverage] [-2] 82
+CB? Cody Hanna 5-11 196 5 Clemson [Man Coverage] [+1?] 73
+CB Jaylin Fulton 5-11 193 R Virginia [Man Coverage] [-2] [#] 72
+FS Koren Donahue 5-10 190 5 Rice [Zone Coverage] [0] 82
+FS Clyde Rivers 6-0 201 4 Notre Dame [Zone Coverage] [0] 75
+SS Corey Davis 6-2 195 4 Pittsburgh [Zone Coverage] [+1] 85
+SS Carter?? Leavitt 6-1 193 4 LSU [Zone Coverage] [0] 80
+SS Willie Wood 6-1 198 9 Texas [Man Coverage] [0/C] 77
+K Jack Kershner 6-0 174 3 Montana [Power] [-1] 87
+P Tony Taylor 5-10 206 10 Florida State [Power] [0] 91 ?
+LS Patrick Phillips 6-3 246 R Texas Tech [Traditional] [0] 7?5

@@ -1,0 +1,67 @@
+ Dallas Cowboys (8-6) at Washington Redskins (7-7) ?
+
+Landover, MD - 47 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cowboys: Dallas Cowboys (8-6) 	7 	3 	10 	3 	0 	23
+:redskins: Washington Redskins (7-7) 	7 	6 	3 	7 	3 	26
+Team Stats Comparison
+  	:cowboys: Dallas Cowboys 	:redskins: Washington Redskins
+Injuries 	OLB Adam Taylor - Moderate Thumb Bruise 	OT Preston Gill - Moderate Elbow Sprain
+Top Player Grade 	DE Javier Grady (8.40) 	OT Walter Adair (8.95)
+Worst Player Grade 	ILB Antoine Mayfield (3.05) 	OG Angelo Denny (1.05)
+Offensive Line Rating 	8.36 	8.34
+Sacks 	1 	1
+Punting 	47.0 	48.2
+Punt Return Yards 	4 	7
+Kick Return Yards 	89 	54
+Turnovers 	1 	0
+3rd Down Conversion 	5/11 	4/10
+4th Down Conversion 	1/1 	0/0
+Penalties 	7/50 	9/81
+:cowboys: Dallas Cowboys
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	20/33 	220 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Adrian Robinson 	22 	86 	1 	14 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rodney Montgomery 	6 	77 	0 	0 	0/0
+Austin Medina 	3 	53 	1 	0 	0/0
+Francisco Gibson 	2 	32 	0 	0 	0/0
+Alex Gash 	3 	20 	0 	1 	0/0
+Adrian Robinson 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Javier Grady 	5/2 	1.0 	0/0 	0/0 	0/0
+Cleo Blair 	6/1 	- 	0/0 	0/0 	0/0
+Adam Taylor 	7/0 	- 	0/0 	0/0 	0/0
+Jeff Mangum 	5/1 	- 	0/0 	0/0 	0/0
+Romulus Jackson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	3/3 	2/2 	25, 22, 29
+	
+:redskins: Washington Redskins
+Pro Style - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	15/25 	186 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marty Keisel 	15 	70 	1 	28T 	0/0
+Ernest Tomlinson 	12 	46 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC ? 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	6 	68 	0 	0 	0/0
+Ty Royal 	3 	51 	0 	1 	0/0
+Patrick Burke 	2 	23 	1 	0 	0/0
+Eddie McFadden 	2 	20 	0 	0 	0/0
+Oliver Sherrill 	1 	14 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Michael Barber 	3/0 	- 	1/1 	0/0 	0/0
+Fred Romanowski 	2/0 	1.0 	0/0 	0/0 	0/0
+Dean Smalley 	7/0 	- 	0/0 	0/0 	0/0
+Reshad Oliver 	5/0 	- 	0/0 	0/0 	0/0
+Cameron Whitney 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Thomas McMahan 	4/4 	2/2 	48, 23, 20, 45 ?

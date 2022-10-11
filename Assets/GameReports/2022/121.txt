@@ -1,0 +1,67 @@
+ New England Patriots (1-7) at Indianapolis Colts (4-3) ?
+
+Indianapolis, IN - 64 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:patriots: New England Patriots (1-7) 	7 	3 	3 	7 	- 	20
+:colts: Indianapolis Colts (4-3) 	3 	17 	3 	3 	- 	26
+Team Stats Comparison
+  	:patriots: New England Patriots 	:colts: Indianapolis Colts
+Injuries 	No Injuries 	TE Tyler Dotson - Moderate Concussion
+Top Player Grade 	QB Reggie Watkins (7.32) 	WR Sean McDermott (8.53)
+Worst Player Grade 	DE Nasir Womack (2.56) 	CB Dan Weaver (3.75)
+Offensive Line Rating 	8.28 	8.41
+Sacks 	1 	2
+Punting 	44.5 	44.5
+Punt Return Yards 	20 	11
+Kick Return Yards 	95 	46
+Turnovers 	2 	1
+3rd Down Conversion 	5/13 	4/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/55 	7/72
+:patriots: New England Patriots
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	24/38 	290 	2 	1 	1/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Shawn Cole 	15 	51 	0 	12 	0/0
+Michael Duckworth 	4 	11 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Carlos Perez 	7 	94 	1 	0 	0/0
+Geno Harris 	4 	53 	0 	1 	0/0
+Jamel Beckham 	3 	50 	1 	1 	0/0
+Tommy Pottios 	2 	36 	0 	0 	0/0
+Abdoulaye Boone 	3 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+James Carson 	4/0 	- 	1/0 	0/0 	0/0
+Brett Wilson 	3/0 	1.0 	0/0 	0/0 	0/0
+Rich Moore 	4/2 	- 	0/0 	0/0 	0/0
+Rodney Olson 	3/0 	- 	0/1 	0/0 	0/0
+Phillip Davenport 	3/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	2/3 	2/2 	49, 40 - 53
+	
+:colts: Indianapolis Colts
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	29/45 	375 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	17 	95 	0 	21 	0/0
+Fred Tindale 	3 	9 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sean McDermott 	10 	146 	1 	0 	0/0
+Mosi Bartos 	6 	82 	0 	0 	0/0
+Cayden Reese 	4 	71 	1 	1 	0/0
+Messiah Bernard 	3 	43 	0 	0 	0/0
+Tyler Dotson 	2 	33 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Samir Ware 	2/0 	- 	1/0 	0/0 	0/0
+Anthony Miller 	4/0 	1.0 	0/0 	0/0 ? 	0/0
+Jonathan Goodwin 	3/0 	1.0 	0/0 	0/0 	0/0
+Lukas Forman 	7/0 	- 	0/0 	0/0 	0/0
+Chris Brown 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ??
+Chris Connell 	4/4 	2/2 	46, 24, 35, 38 

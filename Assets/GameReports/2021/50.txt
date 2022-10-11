@@ -1,0 +1,61 @@
+ Buffalo Bills (2-1) at New York Jets (3-0)
+
+East Rutherford, NJ - 65 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (2-1) 	0 	7 	7 	7 	- 	21
+:jets: New York Jets (3-0) 	14 	6 	14 	7 	- 	41
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:jets: New York Jets
+Injuries 	Mike Woods, OT - Moderate Toe Dislocation 	Marcus Ratterman, WR - Severe Concussion
+Offensive Line Rating 	7.9 	8.4
+Sacks 	1 	4
+Punting 	41.6 	43.6
+Punt Return Yards 	16 	53
+Kick Return Yards 	25 	0
+Turnovers 	2 	0
+3rd Down Conversion 	2/13 	6/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/102 	5/48
+
+:bills: Buffalo Bills
+
+(Pro Style - Spread)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Kamau Davis 	22/38 	290 	3 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	17 	61 	0 	24 	0/0
+C.J. Sheffield 	5 	16 	0 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Isaiah Cronin 	4 	100 	1 	0 	0/0
+Matt Thomas 	4 	75 	1 	0 	0/0
+Tyron Chambers 	5 	45 	0 	0 	0/0
+Kevin Garvin 	3 	32 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Rodney Galbreath 	5/2 	1.0 	0/0 	1/0 	0/0
+Richard Suarez 	7/0 	- 	0/0 	0/0 	0/0
+Sammy Grey 	5/0 	- 	0/1 	0/0 	0/0
+Chester Williams 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Darryl Lemus 	0/1 	3/3 	- 47
+	
+
+:jets: New York Jets
+
+(Pro Style - Spread)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	23/31 	346 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Emmanuel Fields 	20 	82 	1 	12 	1/0
+Marvin Washington 	2 	44 	1 	41T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Israel Hawker 	6 	108 	1 	1 	0/0
+Paul Howell 	7 	101 	0 	0 	0/0
+Matt Stone 	3 	50 	1 	0 	0/0
+William Bouchard 	2 	41 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Corey Quinn 	3/0 	- 	1/1 	0/0 	0/0
+Reshad Jenkins 	3/0 	- 	1/1 	0/0 	0/0
+Bob Ballard 	5/1 	1.0 	0/0 	0/0 	0/0
+Alvis Brumm 	2/0 	1.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	2/2 	4/5 	43, 46 

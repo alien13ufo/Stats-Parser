@@ -1,0 +1,67 @@
+ Indianapolis Colts ?(8-6) at Tennessee Titans (10-4) ?
+
+Nashville, TN - 48 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (8-6) 	0 	3 	7 	7 	- 	17
+:titans: Tennessee Titans (10-4) 	7 	7 	7 	14 	- 	35
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:titans: Tennessee Titans
+Injuries 	WR Messiah Bernard - Moderate Thumb Bruise 	No Injuries
+Top Player Grade 	DE Anthony Miller (8.96) 	WR Kevin Williams (8.60)
+Worst Player Grade 	OLB Ruben Cahill (2.55) 	CB Allen Foster (2.21)
+Offensive Line Rating 	8.39 	7.99
+Sacks 	3 	3
+Punting 	44.7 	48.0
+Punt Return Yards 	5 ? 	19
+Kick Return Yards 	94 	45
+Turnovers 	1 	0
+3rd Down Conversion 	3/12 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/51 	4/20
+:colts: Indianapolis Colts
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	20/38 	246 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	12 	44 	0 	9 	0/0
+Fred Tindale 	2 	4 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mosi Bartos 	5 	95 	0 	1 	0/0
+Sean McDermott 	5 	64 	0 	2 	0/0
+Tyler Dotson 	3 	34 	0 	0 	0/0
+Fred Tindale 	2 	25 	1 	0 	0/0
+Cayden Reese 	2 	21 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Anthony Miller 	4/1 	1.5 	0/0 	0/0 	0/0
+Jonathan Goodwin 	3/0 	1.5 	0/0 	0/0 	0/0
+Dwayne Carter 	6/0 	- 	0/0 	0/0 	0/0
+Lukas Forman 	6/0 	- 	0/0 	0/0 	0/0
+Kelly Mitchell 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	1/1 	2/2 	26
+	
+:titans: Tennessee Titans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	23/40 	218 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	22 	101 	2 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Williams 	9 	107 	1 	0 	0/0
+Hastin Rider 	4 	35 	0 	0 	0/0
+Greg Newman 	2 	25 ? 	0 	1 	0/0
+Cody Hunter 	3 	20 	1 	1 	0/0
+Derek Blalock 	2 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jack Ramsey 	2/0 	- 	1/1 	0/0 	1/0
+Tywan Tafoya 	6/0 	1.0 ? 	0/0 	0/0 	0/0
+Tyler Jones 	2/0 	1.0 	0/0 	0/0 	0/0
+Derrick Thomas 	2/0 	1.0 	0/0 	0/0 	0/0
+Randy Humphreys 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Leon Woodruff 	0/0 	5/5 	- 

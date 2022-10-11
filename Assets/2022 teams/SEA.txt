@@ -1,0 +1,54 @@
+QB Jarius Jones 6-1 205 5 Iowa [Pocket] [-1] 88 ?
+QB R.J. Stanford 5-11 203 4 Arkansas [Hybrid] [+1] 84
+QB Tucker Dowden 6-3 211 R Missouri [Scrambling] [0/C] 80?
+RB Marcus Williams 5-10 219 2 Nebraska [Speed] [-2] 83
+RB Booker T. Washington 6-1 208 7 Oklahoma State [Speed] [+1] 81
+RB Greg Allen 5-10 206 4 Marshall [Speed] [0] 75
+FB Jose Rosenthal 5-11 208 4 North Carolina [Pass Blocking] [0] 86
+WR Curtis Settles 6-0 207 4 Penn State [Speed] [0] 82
+WR Josiah McCray 6-1 199 1 Clemson [Target] [0] 82
+WR Tyler White 6-0 156 R Penn State [Speed] [+1] 80
+WR Jaheim Lemons 5-11 204 2 Michigan State [Target] [0] 80
+WR Roger Bailey ?5-10 159 3 Oregon State [Speed] ?[-1] 78
+WR Marion Sims 6-4 179 5 NC State [Target] [0] 73
+TE Tony Huff 6-4 225 5 Georgia [Receiving] [0] 85
+TE William Johnson 6-1 257 2 Michigan State [Receiving] [0] 80
+TE Gerardo Walden 6-2 267 2 Michigan [Blocking] [-1] 73
+OT John Eaton 6-5 284 3 Penn State [Run Blocking] [0] 89
+OT James Poindexter 6-6 296 3 Nebraska [Run Blocking] [0] 82
+OT David Bowles 6-3 296 5 Mississippi State [Pass Blocking] [+2] 76
+OT Eugene Scott 6-4 285 1 USF [Run Blocking] [0] 77
+OG John Tripucka 6-3 308 5 Clemson [Pass Blocking] [0/C] 86
+OG Leon Slack 6-5 263 1 Wisconsin [Pass Blocking] [0] 80??
+OG Sawyer Dougherty 6-4 298 3 Oklahoma State [Pass Blocking] [0] 76
+C Jack Podolak 6-6 293 4 Georgia [Pass Blocking] [-1] 81
+C Nate Gardner 6-0 284 3 Texas Tech [Pass Blocking] [+3] 78
+DE Brian Glenn 6-6 291 7 LSU [Blitz] [0] 90
+DE Adam Williams 6-8 266 4 Purdue [Contain] [-1] 80
+DE Travis Lee 6-8 260 4 Alabama [Contain] [0] 76
+DE Derrick Dawkins 6-0 241 R Purdue [Contain] [0/C] 74
+DT Christian Okonkwo 6-5 297 2 Oregon [2-Gap] [0] 84
+DT Reggie Howard 6-6 306 7 Washington [2-Gap] [+1] 79
+DT Rhad Ryland 6-5 325 1 Murray State [2-Gap] [0] 75
+ILB Malcolm Douglas-Scott 6-0 239 6 Angelina College [Will] [0] 95
+ILB Zion Adakwa 6-2 224 5 Illinois [Mike] [+3/C] 91
+ILB Brick Madden 6-3 239 2 Oregon [Mike] [0] 81
+ILB Adrian Connor 6-0 242 R Oklahoma State [Will] [0] 70
+OLB Kristian Little 6-0 237 3 Alabama [Blitz] [0] 84
+OLB Kyries Brown 6-0 227 6 Wisconsin [Coverage] [0] 80
+OLB Kenji Sagatomo 6-1 234 2 New Hampshire [Blitz] [+1/C] 81
+OLB Stuart Patterson 6-3 224 R NC State [Blitz] [0] 70
+CB Matt Cowan 6-2 172 6 Wisconsin [Zone Coverage] [0] 96
+CB John Queen 5-11 196 8 LSU [Man Coverage] [0] 87
+CB Duke Burchfield 5-11 163 4 North Carolina [Zone Coverage] [0] 78
+CB Eric Houser 5-9 171 3 San Jose State [Man Coverage] [0] 78
+CB Jamie Mixon 6-1 187 6 Rutgers [Man Coverage] [0] 74
+CB David Tolliver 5-10 165 R Iowa State [Man Coverage] [+2] 71
+FS Gray Corbin 5-11 159 6 Nebraska [Zone Coverage] [0] 86
+FS Tyler Patino 5-10 212 R Illinois [Zone Coverage] [0] 80
+FS Haven Wiley 5-10 181 4 LSU [Man Coverage] [0] 80
+SS Gabriel Hightower 6-0 174 1 North Carolina [Zone Coverage] [0] 79
+SS Kevin Faulkner 6-1 199 R Marshall [Zone Coverage] [0] 77
+K Chris Ritter 6-2 208 3 Stanford [Accuracy] [0] 85?
+P Gary Levels 6-1 198 4 Michigan State [Power] [0] 89?
+KR Neville Simpson 5-10 172 1 James Madison [Specialist] [-1] 81

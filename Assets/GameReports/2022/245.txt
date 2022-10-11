@@ -1,0 +1,67 @@
+ Kansas City Chiefs (7-8) at Denver Broncos (4-11) ?
+
+Denver, CO - 30 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chiefs: Kansas City Chiefs (7-8) 	7 	21 	7 	0 	- 	35
+:broncos: Denver Broncos (4-11) 	7 	0 	3 	0 	- 	10
+Team Stats Comparison
+  	:chiefs: Kansas City Chiefs 	:broncos: Denver Broncos
+Injuries 	TE Jariel Rosario - Moderate Toe Sprain 	No Injuries
+Top Player Grade 	RB Terrence Rodgers (9.58) 	ILB Cameron Jonah (7.85)
+Worst Player Grade 	DE Luke Lyles (2.05) 	OLB Evan Walsh (2.85)
+Offensive Line Rating 	8.25 	8.36
+Sacks 	2 	3
+Punting 	42.5 	50.0
+Punt Return Yards 	-4 	16
+Kick Return Yards 	32 	116
+Turnovers 	0 	1
+3rd Down Conversion 	4/9 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/47 	5/30
+:chiefs: Kansas City Chiefs
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Harris 	26/36 	287 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	21 	192 	3 	55T 	0/0
+Justin Buchanan 	4 	15 	0 	6 	0/0 ?
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Spec Davidson 	10 	105 	1 	0 	1/0
+Hines Mertens 	4 	64 	0 	0 	0/0
+Kevin Branch 	4 	41 	1 	0 	0/0
+Justin Hill 	2 	29 	0 	0 	0/0
+Daniel Hobbs 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Devin Stephens 	3/0 	- 	1/0 	0/0 	0/0
+Jeffrey Chung 	2/0 	1.0 	0/0 	0/0 	0/0
+Bud Howard 	1/0 	1.0 	0/0 	0/0 	0/0
+Cameron Riley 	8/0 	- 	0/0 	0/0 	0/0
+Rob Hamilton 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	0/0 	5/5 	-
+	
+:broncos: Denver Broncos
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jimmy Starks 	17/38 	180 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	9 	21 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ken Peelle 	5 	77 	1 	0 	0/0
+Sebastian Porter 	5 	32 	0 	1 	0/0
+Darren Jones 	2 	23 	0 	0 	0/0
+Floyd Arnold 	2 	21 	0 	1 	0/0
+Ayden Coley 	1 	15 	0 	2 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Deyonte Davis 	4/2 	2.0 	0/0 	0/0 	0/0
+Andrew Phillips 	2/0 	1.0 ? 	0/0 	0/0 	0/0
+Cameron Jonah 	7/1 	- 	0/0 	0/0 	0/0
+Donald Garcia 	5/0 	- 	0/1 	0/0 	0/0
+Ryan McDonald 	4/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	1/1 	1/1 	35 ?

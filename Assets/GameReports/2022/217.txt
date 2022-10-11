@@ -1,0 +1,67 @@
+ Detroit Lions (11-2) at Chicago Bears (3-10) ?
+
+Chicago, IL - 29 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:fibur: Detroit Lions (11-2) 	3 	14 	7 	3 	- 	27
+:bears: Chicago Bears (3-10) 	3 	0 	7 	0 	- 	10
+Team Stats Comparison
+  	:fibur: Detroit Lions 	:bears: Chicago Bears
+Injuries 	No Injuries 	OG Matthew Brewer - Mild Hand Sprain
+Top Player Grade 	RB Kenyon Randall (9.26) 	TE Donnie Allen (7.21)
+Worst Player Grade 	FS Kofi Neal (4.02) 	CB Jabari Branch (1.26)
+Offensive Line Rating 	8.42 	8.05
+Sacks 	2 	0
+Punting 	46.8 	44.2
+Punt Return Yards 	13 	2
+Kick Return Yards 	26 	83
+Turnovers 	0 	1
+3rd Down Conversion 	4/9 	4/12
+4th Down Conversion 	0/0 	1/1
+Penalties 	5/35 	7/41
+:fibur: Detroit Lions
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	22/33 	256 	1 	0 	0/0
+- 	-/- 	- 	- ? 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	20 	118 	1 	15 	0/0
+Calvin Jones 	5 	72 	1 	44T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rashad Simon 	7 	94 	0 	0 	0/0
+Emory Johnson 	3 	46 	0 	1 	0/0
+Jeremy Cook 	3 	40 	1 	0 	0/0
+Rex Walsh 	3 	32 	0 	0 	0/0
+Anthony Fasani 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Keyshawn Thompson 	1/0 	- 	1/0 	0/0 ? 	0/0
+Doug Carolan 	4/2 	1.0 	0/0 	0/0 	0/0
+Cameron Jones 	7/1 	1.0 	0/0 	0/0 	0/0
+Kieron Brooks 	5/0 	- 	0/0 	1/0 	0/0
+Earl Jackson 	4/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	2/2 	3/3 	45, 40
+	
+:bears: Chicago Bears
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mohammed Foster 	18/25 	208 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	10 	52 	0 	10 	0/0
+Norris Horton 	10 	31 	0 	9 	2/0
+Mohammed Foster 	5 	17 	0 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Donnie Allen 	5 	72 	0 	0 	0/0
+Charlie Paul 	3 	40 	1 	0 	0/0
+David Gaines 	3 	27 	0 	0 	0/0
+Peter Foster 	2 	23 	0 	1 	0/0
+Elijah Talley 	3 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jesse Hutchins 	6/0 	- 	0/0 	0/0 	0/0
+Andrew Fazande 	6/0 	- 	0/0 	0/0 	0/0
+Patrick Haines 	4/0 	- ? 	0/0 	0/0 	0/0
+Akeel Morris 	4/0 	- 	0/0 	0/0 	0/0
+Alyn Namath 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Anthony Harris 	1/1 	1/1 	29 ?

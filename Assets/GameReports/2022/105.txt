@@ -1,0 +1,67 @@
+ Los Angeles Chargers (1-5) at Baltimore Ravens (3-2) ?
+
+Baltimore, MD - 58 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (1-5) 	7 	6 	0 	3 	3 	19
+:ravens: Baltimore Ravens (3-2) 	10 	3 	0 	3 	- 	16
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:ravens: Baltimore Ravens
+Injuries 	WR Gerald Morrison - Mild Concussion 	DT Marlin Eason - Moderate Quadriceps Pull
+Top Player Grade 	WR M.L. Kriewaldt (8.64) 	OLB Tyrone Jones (8.75)
+Worst Player Grade 	ILB Kareem Boykin (4.43) 	WR Darrell Mack (3.64)
+Offensive Line Rating 	8.23 	8.10
+Sacks 	1 	3
+Punting 	43.6 	42.1
+Punt Return Yards 	25 	35
+Kick Return Yards 	64 	67
+Turnovers 	2 	2
+3rd Down Conversion 	5/14 	3/12
+4th Down Conversion 	0/0 	0/1
+Penalties 	5/30 	8/68
+:chargers: Los Angeles Chargers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	26/50 	329 	1 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	11 	37 	0 	15 	0/0
+Mamadou Heard 	5 	14 	0 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+M.L. Kriewaldt 	8 	108 	1 	0 	0/0
+Scott Howard 	4 	53 	0 	0 	0/0
+Damian Mason 	4 	52 	0 	0 	0/0
+Jarvis Ward 	3 	44 	0 	0 	0/0
+Greg Cobb 	3 	34 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kenyon Justice 	3/0 	- 	1/1 	0/0 	0/0
+Jason Bryant 	7/0 	1.0 	0/0 	0/0 	0/0
+Shane Easley 	4/0 	1.0 	0/0 	0/0 	0/0
+Christopher Malone 	6/0 	- 	0/1 	1/0 	0/0
+Stephen Elliott 	3/0 	- 	0/1 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	4/4 	1/1 	52, 23, 35, 30
+	
+:ravens: Baltimore Ravens
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	18/34 	215 	0 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	15 	50 	0 	19 	1/1
+Brett Fisher 	8 	26 	1 	15 	0/0
+Gabriel Shields ? 	7 	-2 	0 	3 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ryan Mitchell 	6 	83 	0 	0 	0/0
+David Wells 	2 	39 	0 	1 	0/0
+Danny Patrick 	3 	26 	0 	0 	0/0
+Darrell Mack 	2 	21 	0 	2 	0/0
+Joseph Dickerson 	2 	17 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Troy Marshall 	2/0 	- 	1/1 	0/0 	0/0
+Daron Haag 	2/0 	- 	1/0 	0/0 	0/0
+Tyrone Jones 	6/0 	1.0 	0/0 	0/0 	0/0
+Matthew Davis 	4/0 	1.0 	0/0 ? 	0/0 	0/0
+Alexander Hardison 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Dennis Scott 	3/4 	1/1 	44, 53, 50 - 50 

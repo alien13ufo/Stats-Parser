@@ -1,0 +1,57 @@
+ Minnesota Vikings (4-6) at Washington Redskins (5-5)
+
+Landover, MD - 46 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:vikings: Minnesota Vikings (4-6) 	0 	0 	14 	3 	- 	17
+:redskins: Washington Redskins (5-5) 	10 	7 	3 	6 	- 	26
+Team Stats Comparison
+  	:vikings: Minnesota Vikings 	:redskins: Washington Redskins
+Injuries 	Paul Goodman, OLB - Severe Quadriceps Strain 	Ricardo Reed, RB - Severe ACL Rupture
+Offensive Line Rating 	8.3 	8.6
+Sacks 	1 	1
+Punting 	46.7 	42.2
+Punt Return Yards 	7 	18
+Kick Return Yards 	118 (1) 	24
+Turnovers 	1 	1
+3rd Down Conversion 	3/14 	4/10
+4th Down Conversion 	1/2 	0/0
+Penalties 	5/35 	8/60
+:vikings: Minnesota Vikings
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	19/35 	207 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	13 	42 	0 	19 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mohamed Charles 	6 	76 	1 	0 	0/0
+Patrick Stehl 	4 	52 	0 	1 	0/0
+Jacory Kessler 	3 	31 	0 	1 	0/0
+Wayne Wegert 	2 	24 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Robert Bleeker 	2/0 	- 	1/0 	0/0 	0/0
+Justin Glass 	3/1 	1.0 	0/0 	0/0 	0/0
+Cleveland Merrill 	7/0 	- 	0/0 	0/0 	0/0
+Eric Jones 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Eric Graves 	1/2 	2/2 	39 - 52
+	
+:redskins: Washington Redskins
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	24/42 	290 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	7 	20 	0 	7 	0/0
+Joseph Bowen 	5 	18 	0 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	8 	99 	1 	0 	0/0
+Eddie McFadden 	4 	73 	1 	0 	0/0
+Ken Brown 	3 	54 	0 	1 	0/0
+Patrick Burke 	3 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jim Sisemore 	4/0 	- 	1/1 	0/0 	0/0
+Steven Jordan 	3/1 	1.0 	0/0 	0/0 	0/0
+Anthony Brown 	5/0 	- 	0/1 	0/0 	0/0
+Cameron Whitney 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	4/4 	2/2 	28, 23, 35, 39 

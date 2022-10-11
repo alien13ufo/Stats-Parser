@@ -1,0 +1,67 @@
+ Buffalo Bills (2-3) at Cincinnati Bengals (4-2) ?
+
+Cincinnati, OH - 58 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (2-3) 	7 	21 	7 	7 	- 	42
+:bengals: Cincinnati Bengals (4-2) 	7 	7 	10 	7 	- 	31
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:bengals: Cincinnati Bengals
+Injuries 	No Injuries 	OG Art Wagner - Severe Toe Fracture
+Top Player Grade 	RB Marshawn Matthison (9.62) 	WR Christopher Harris (6.77)
+Worst Player Grade 	OLB Cyrus Paulsen (3.88) 	OLB Charley Graham (1.26)
+Offensive Line Rating 	8.07 	8.09
+Sacks 	4 	2
+Punting 	45.5 	41.6
+Punt Return Yards 	5 	3
+Kick Return Yards 	95 	85
+Turnovers 	1 	1
+3rd Down Conversion 	5/8 	6/12
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/38 	6/85
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	22/33 	305 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	21 	233 	3 	79T 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L ?
+Matt Thomas 	6 	104 	0 	0 	0/0
+Gary Faneca Sr. 	5 	95 	1 	0 	0/0
+Kevin Garvin 	3 	53 	0 	1 	0/0
+Isaiah Cronin 	2 	20 	1 	0 	0/0
+Drew Abbott 	3 	17 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kyle Cunningham 	2/1 	- 	1/0 	0/0 	0/0
+Anthony Ortiz 	4/2 	1.5 	0/0 	0/0 	0/0
+Kevin Briggs 	2/1 	1.0 	0/0 	0/0 	0/0
+Rodney Galbreath 	2/0 	1.0 	0/0 	0/0 	0/0
+Richard Suarez 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	0/0 	6/6 	-
+	
+:bengals: Cincinnati Bengals
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	29/50 	287 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	7 	19 	1 	5 	1/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Christopher Harris 	9 	94 	1 	0 	0/0
+Adrian Jankowski 	4 	54 	1 	0 	0/0
+Jamir Blackburn 	4 	50 	1 	0 	0/0
+Steven Maloney 	5 	43 	0 	1 	0/0
+Ron Thomas 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+R.C. Rone 	7/1 	- 	0/0 	0/0 	0/0
+Edward Harrison 	5/0 	- 	0/0 	0/0 	0/0
+Jamal McGavin 	3/0 	1.0 	0/0 	0/0 	0/0
+Timothy Key 	2/0 	1.0 	0/0 	0/0 	0/0
+Prince Matos 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Justin Nielsen 	1/1 	4/4 	31 

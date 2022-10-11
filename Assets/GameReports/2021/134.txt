@@ -1,0 +1,57 @@
+ San Francisco 49ers (2-6) at New England Patriots (4-5)
+
+Foxborough, MA - 55 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (2-6) 	14 	7 	3 	7 	- 	31
+:patriots: New England Patriots (4-5) 	7 	14 	3 	10 	- 	34
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:patriots: New England Patriots
+Injuries 	No Injuries 	Moe McMillan, CB - Severe Hamstring Rupture
+Offensive Line Rating 	8.0 	8.7
+Sacks 	0 	2
+Punting 	42.6 	45.2
+Punt Return Yards 	5 	5
+Kick Return Yards 	21 	15
+Turnovers 	1 	1
+3rd Down Conversion 	6/16 	4/13
+4th Down Conversion 	0/1 	0/0
+Penalties 	7/58 	5/25
+:49ers: San Francisco 49ers
+Spread - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	22/26 	240 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	18 	66 	1 	11 	1/1
+Todd Lester 	6 	53 	1 	30T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Miles Collins 	5 	78 	1 	0 	0/0
+Kevin Branch 	6 	72 	1 	1 	0/0
+Steve Warner 	4 	50 	0 	0 	0/0
+John Gross 	3 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Bashir Rodriguez 	2/0 	- 	1/0 	0/0 	0/0
+Daleroy Smart 	5/0 	- 	0/0 	0/0 	0/0
+Chris Reed 	4/1 	- 	0/0 	0/0 	0/0
+Prince McGill 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	1/2 	4/4 	45 - 46
+	
+:patriots: New England Patriots
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	25/37 	290 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daniel Hutchins 	13 	37 	2 	8T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamel Beckham 	8 	106 	1 	1 	0/0
+Geno Harris 	5 	85 	0 	0 	0/0
+Jake Bates 	3 	45 	1 	0 	0/0
+George Lewis 	4 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeremy Owen 	3/1 	1.0 	0/0 	1/0 	0/0
+Mark Logan 	2/0 	1.0 	0/0 	0/0 	0/0
+Willard Arnold 	5/0 	- 	0/0 	0/1 	0/0
+Norris Nolan 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	2/2 	4/4 	46, 32 

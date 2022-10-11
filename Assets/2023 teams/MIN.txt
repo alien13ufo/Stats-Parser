@@ -1,0 +1,53 @@
+QB Brian Vardell 6-2 200 9 Washington State [Pocket] [0] 90?
+QB Blake Shell 6-5 194 8 Virginia Tech [Pocket] [0] 82
+QB Blair Holcomb 5-11 207 1 Buffalo [Pocket] [-1] 80
+RB Evan Grant 6-0 194 1 Georgia State [Power] [0] 82
+RB Emmett Spears 5-10 195 5 Kent State [Speed] [0/C] 80
+RB Isaac Wilson 6-0 210 2 Georgia [Power] [0] 79
+FB Zahir Willis 6-1 217 1 Nebraska [Run Blocking] [0] 81
+WR Mohamed Charles 6-4 192 4 Minnesota [Target] [-1] 85
+WR Luke Cobb 6-5 198 2 Florida State [Speed] [0] 82
+WR Jacory Kessler 6-3 224 3 Auburn [Speed] [-1] 84
+WR Wayne Wegert 6-5 188 9 Notre Dame [Speed] [+2/C] 75
+WR Reginald Lattimore 6-1 187 1 Air Force [Target] [+1] 76
+WR Chris Burgos 6-3 217 1 Kansas [Target] [+1] 71
+TE Eugene Jackson 6-5 253 5 Ohio State [Receiving] [0] 89
+TE Andrew Yearney 6-5 247 4 Maryland [Blocking] [-1] 75
+TE Patrick Baxter 6-7 235 1 Harvard [Receiving] [+2/C] 72
+OT Shane McCord 6-6 290 R Georgia [Run Blocking] [0] 83
+OT MacKenzie Woods 6-4 313 9 USC [Run Blocking] [-1/C] 83
+OT Donald Reed 6-5 293 3 Virginia Tech [Pass Blocking] [0] 89
+OT Jon Beebe 6-1 313 2 Purdue [Pass Blocking] [0] 77
+OG Jonah McCullough 6-2 315 R Michigan State [Run Blocking] [0/C] 79
+OG Thomas Ewing 6-2 282 4 Utah [Run Blocking] [+1] 81
+OG Billy Watkins 6-3 310 4 Vanderbilt [Run Blocki?ng] [0] 76?
+OG Nelson Portillo 6-5 295 3 Rutgers [Pass Blocking] [0] 76
+C John Hadley 6-3 285 4 Michigan [Pass Blocking] [0] 92
+C Jim Boso 6-6 286 7 Miami [Pass Blocking] [0/C] 75
+DT Bud Howard 6-2 301 5 LSU [2-Gap] [0] 82
+DT Walter Koehler 6-7 316 R Alabama [2-Gap] [+2/C] 76?
+DT Tasura Lesa 6-6 303 2 Georgia Tech [2-Gap] [0] 72
+DE Sebastian Smallwood 6-1 254 1 Alabama [Blitz] [-1/C] 84
+DE Jamal Patton 6-1 255 2 Purdue [Contain] [-2] 80
+DE James Finney 6-3 293 4 Ball State [Contain] [0] 76
+DE Henry Negron 6-2 252 R Washington State [Contain] [0] 71 
+ILB Cleveland Merrill 6-1 236 8 Ole Miss [Will] [0] 92
+ILB Eric Jones 6-1 238 7 LSU [Will] [+2/C] 88
+ILB Devin Ruff 6-1 233 R Mississippi State [Mike] [0] 80
+ILB Phillip Gillis 6-3 221 2 Boise State [Will] [+1] 77
+OLB Paul Goodman 6-2 240 5 Penn State [Blitz] [0] 87
+OLB Mike Johnson 6-0 240 6 Houston [Coverage] [0] 84?
+OLB Devin Goss 5-11 247 1 Michigan [Blitz] [-2] 79?
+OLB Calvin Harrell 6-0 224 4 Mississippi State [Coverage] [0] 77
+CB Devon Drummond 5-11 181 4 Kansas [Man Coverage] [0] 83
+CB Robert Bleeker 5-11 188 2 Arkansas [Zone Coverage] [0] 83
+CB Levern White 5-9 162 1 Toledo [Man Coverage] [0] 78
+CB Tomas Weathers 5-11 181 3 Colorado [Man Coverage] [0] 78
+CB D'Onta Neely 5-9 194 R Clemson [Man Coverage] [-2] 77
+CB Javontae Goodson 5-10 195 3 Montana [Man Coverage] [0] 71?
+FS Donovan Faulk 6-2 214 4 BYU [Man Coverage] [+1] 84
+FS Damani Sheppard 5-11 214 1 Stanford [Man Coverage] [0] 81
+SS Tyler Trent 5-10 210 5 Alabama [Man Coverage] [0] 84
+SS Devin Whitaker 6-2 193 3 Wisconsin [Man Coverage] [+1] 78
+K Sam Gilligan 5-10 219 1 Penn State [Accuracy] [0] 82
+P Theodore Sauer 6-0 156 3 Nebraska [Accuracy] [0] 82 

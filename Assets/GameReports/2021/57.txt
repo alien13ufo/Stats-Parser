@@ -1,0 +1,70 @@
+ Philadelphia Eagles (3-0) at Kansas City Chiefs (3-0)
+
+Kansas City, MO - 79 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (3-0) 	10 	0 	7 	0 	- 	17
+:chiefs: Kansas City Chiefs (3-0) 	6 	0 	0 	14 	- 	20
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:chiefs: Kansas City Chiefs
+Injuries 	
+
+Martin Whiting, OLB - Moderate Shoulder Dislocation
+
+Tim Kassell, CB - Severe PCL Rupture
+	
+
+Rodney Montgomery, WR - Moderate Biceps Tear
+
+ 
+Offensive Line Rating 	8.5 	8.0
+Sacks 	0 	1
+Punting 	45.6 	43.2
+Punt Return Yards 	46 	13
+Kick Return Yards 	0 	0
+Turnovers 	2 	1
+3rd Down Conversion 	5/12 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/68 	6/81
+
+:eagles: Philadelphia Eagles
+
+(Spread - Option 2RB)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	18/29 	227 	1 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	19 	71 	1 	23 	0/0
+Sean Egloff 	4 	7 	0 	5 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cameron Whelahan 	5 	82 	1 	0 	0/0
+Michael Hawkins 	2 	45 	0 	1 	0/0
+Damani Spillman 	3 	40 	0 	0 	0/0
+Christopher Johnson 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+James Turner 	6/0 	- 	0/0 	1/0 	0/0
+Ryan Frey 	4/0 	- 	0/0 	0/1 	0/0
+Reggie Hedberg 	4/1 	- 	0/0 	0/0 	0/0
+Joe Johson 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/2 	2/2 	45 - 45
+	
+
+:chiefs: Kansas City Chiefs
+
+(Wishbone - Flexbone 2RB)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erasmus McCready 	9/15 	110 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	25 	109 	1 	35 	1/1
+Justin Buchanan 	9 	83 	1 	41T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Justin Hill 	1 	31 	0 	0 	0/0
+Hines Mertens 	2 	23 	0 	0 	0/0
+Rodney Montgomery 	1 	18 	0 	0 	0/0
+Terrence Rodgers 	2 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Teddy Walker 	2/0 	- 	1/0 	0/0 	0/0
+Luke Lyles 	3/1 	1.0 	0/0 	1/0 	0/0
+Carnell Meadows 	5/0 	- 	0/0 	0/1 	0/0
+Arlie LeClair 	6/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	2/2 	2/2 	29, 34 

@@ -1,0 +1,67 @@
+ Miami Dolphins (9-3) at Buffalo Bills (5-7) ?
+
+Buffalo, NY - 34 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:dolphins: Miami Dolphins (9-3) 	7 	14 	0 	3 	- 	24
+:bills: Buffalo Bills (5-7) 	0 	0 	14 	0 	- 	14
+Team Stats Comparison
+  	:dolphins: Miami Dolphins 	:bills: Buffalo Bills
+Injuries 	CB Jeremy Bell - Severe ACL Rupture 	No Injuries
+Top Player Grade 	TE D.J. Gibson (9.01) 	DE Anthony Ortiz (8.56)
+Worst Player Grade 	FS Alejandro Bowen (1.48) 	SS Kevin Briggs (2.50)
+Offensive Line Rating 	8.33 	8.20
+Sacks 	2 	2
+Punting 	42.5 	44.1
+Punt Return Yards 	9 	5
+Kick Return Yards 	36 	82
+Turnovers 	1 	1
+3rd Down Conversion 	3/10 	4/12
+4th Down Conversion 	0/0 	0/1
+Penalties 	7/53 	4/25
+:dolphins: Miami Dolphins
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	28/46 	309 	2 	1 	0/0 ?
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	11 	58 	1 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+D.J. Gibson 	10 	130 	1 	1 	0/0
+J.C. Weldon 	6 	63 	0 	1 	0/0
+Bill Hardy 	3 	36 	1 	0 	0/0
+Marion Reeder 	3 	32 	0 	0 	0/0
+Marcus Barry 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cory Betts 	3/0 	- 	1/1 	0/0 	0/0
+Benjamin Blankenship 	5/2 	1.0 	0/0 	0/0 	0/0
+Josh Wilson 	4/0 	1.0 	0/0 	0/0 	0/0
+Jeremy Green 	7/0 	- 	0/0 	0/0 	0/0
+Phillip Moore 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	1/1 	3/3 	45
+	
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	23/43 	280 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	15 	50 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Drew Abbott 	6 	119 	0 	0 	0/0
+Gary Faneca 	6 	71 	1 	1 	0/0
+Tyron Chambers 	3 	42 	1 	1 	0/0
+Kevin Garvin 	2 	34 	0 	0 	0/0
+Matt Thomas 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kyle Cunningham 	4/0 	- 	1/0 	0/0 	0/0
+Anthony Ortiz 	4/1 	1.0 	0/0 	0/0 	0/0
+Rodney Galbreath 	2/0 ? 	1.0 	0/0 	0/0 	0/0
+Sammy Grey 	4/0 	- 	0/2 	0/0 	0/0
+Cyrus Paulsen 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Derek LeBlanc 	0/1 	2/2 	- 53 

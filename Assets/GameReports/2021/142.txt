@@ -1,0 +1,57 @@
+ New York Jets (6-2) at Seattle Seahawks (3-6)
+
+Seattle, WA - 56 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jets: New York Jets (6-2) 	7 	6 	7 	3 	- 	23
+:seahawks: Seattle Seahawks (3-6) 	0 	0 	0 	8 	- 	8
+Team Stats Comparison
+  	:jets: New York Jets 	:seahawks: Seattle Seahawks
+Injuries 	Jonathan Bridges, DE - Moderate Hamstring Tendonitis 	Nate Gardner, C - Severe Biceps Strain
+Offensive Line Rating 	8.3 	7.8
+Sacks 	2 	0
+Punting 	45.4 	42.1
+Punt Return Yards 	47 	7
+Kick Return Yards 	21 	20
+Turnovers 	0 	2
+3rd Down Conversion 	6/13 	4/14
+4th Down Conversion 	0/0 	0/1
+Penalties 	4/27 	6/58
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	26/39 	296 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	13 	84 	1 	40T 	0/0
+Marvin Washington 	4 	40 	0 	28 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell 	6 	68 	0 	1 	0/0
+Marcus Ratterman 	7 	65 	1 	1 	0/0
+Israel Hawker 	4 	61 	0 	0 	0/0
+Tom Branch 	4 	55 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Nathaniel Woodworth 	3/0 	- 	2/1 	0/0 	0/0
+Dennis Himes 	6/0 	1.0 	0/0 	0/0 	0/0
+Bob Ballard 	1/0 	1.0 	0/0 	0/0 	0/0
+Matt Okoye 	5/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	3/3 	2/2 	46, 28, 35
+	
+:seahawks: Seattle Seahawks
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	17/23 	266 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	15 	57 	0 	11 	1/0
+Booker T. Washington 	5 	22 	0 	8 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jim Umenyiora 	4 	80 	0 	0 	0/0
+Josiah McCray 	2 	54 	0 	0 	0/0
+Curtis Settles 	3 	51 	0 	0 	0/0
+Charlie Wilson 	3 	45 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kyries Brown 	7/0 	- 	0/0 	0/0 	0/0
+Kenji Sagatomo 	5/1 	- 	0/0 	0/0 	0/0
+Christian Okonkwo 	5/0 	- 	0/0 	0/0 	0/0
+Frank Lee 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	0/1 	0/0 	- 60 

@@ -1,0 +1,76 @@
+ Chicago Bears (1-6) at Detroit Lions (5-1) ?
+
+Detroit, MI - 53 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (1-6) 	7 	0 	0 	7 	- 	14
+:fibur: Detroit Lions (5-1) 	7 	3 	10 	3 	- 	23
+Team Stats Comparison
+  	:bears: Chicago Bears 	:fibur: Detroit Lions
+Injuries 	
+
+QB Mohammed Foster - Mild Shoulder Dislocation
+
+TE Donnie Allen - Moderate Concussion
+	
+
+OT Joe McCord - Moderate Elbow Fracture
+
+ 
+Top Player Grade 	FS Alyn Namath (6.36) 	DE Doug Carolan (8.57)
+Worst Player Grade 	OT Marcus Waterman (1.77) 	ILB Griffin Perrin (4.00)
+Offensive Line Rating 	7.87 	8.45
+Sacks 	0 	5
+Punting 	40.9 	46.2
+Punt Return Yards 	5 	27
+Kick Return Yards 	75 	26
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	3/25 	6/55
+:bears: Chicago Bears
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mohammed Foster 	16/25 	232 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	13 	84 	0 	16 	0/0
+Norris Horton 	11 	32 	1 	7 	0/0
+Mohammed Foster 	6 	23 	0 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Charlie Paul 	4 	68 	0 	0 	0/0
+David Gaines 	3 	62 	1 	0 	0/0
+Peter Foster 	3 	49 	0 	0 	0/0 ?
+Elijah Talley 	2 	23 	0 	0 	0/0
+James Ware 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Alyn Namath 	3/0 	- 	1/0 	0/0 	0/0
+Akeel Morris 	5/0 	- 	0/0 	0/0 	0/0
+Patrick Haines 	2/0 	- 	0/2 	0/0 	0/0
+Andrew Fazande 	2/2 	- 	0/0 	0/0 	0/0
+Kevin Harris 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Anthony Harris 	0/1 	2/2 	- 46
+	
+:fibur: Detroit Lions
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	21/35 	240 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	13 	62 	0 	13 	0/0
+Calvin Jones 	5 	28 	1 	15 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Cook 	6 	77 	0 	0 	0/0
+Rex Walsh 	6 	73 	1 	0 	0/0
+Rashad Simon 	2 	33 	0 	1 	0/0
+Anthony Fasani 	3 	21 	0 	1 	0/0
+Calvin Jones 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin McQueen 	2/0 	- 	1/0 	0/0 	0/0
+Cameron Jones 	4/2 	2.0 	0/0 	0/0 	0/0
+Doug Carolan 	2/0 	1.5 	0/0 	0/0 	0/0
+Kieron Brooks 	5/0 	1.0 	0/0 ? 	0/0 	0/0
+Earl Jackson 	2/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Brent Hankton 	3/3 	2/2 	52, 28, 36 

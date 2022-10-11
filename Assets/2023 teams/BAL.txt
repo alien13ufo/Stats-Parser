@@ -1,0 +1,53 @@
+QB Marcus Black 6-6 225 R Auburn [Hybrid] [+2/C] 82 ?
+QB Brett Fisher 6-2 211 3 Miami [Scrambling] [0] 86
+QB Mikeal Black 5-11 189 1 Iowa [Scrambling] [0] 79
+RB Moussa Goode 6-1 198 3 Ohio State [Speed] [-2] 85
+RB Gabriel Shields 5-11 176 1 Michigan State [Speed] [+2/C] 72
+RB Davey Jones 5-10 177 2 Richmond [Speed] [0] 75
+FB Jacob Holt 5-9 207 R Toledo [Pass Blocking] 80
+FB Kayden Dozier 5-10 228 3 Georgia [Run Blocking] [0] 84
+WR David Wells 6-5 187 7 Oregon State [Speed] [+1/C] 90
+WR Hines Mertens 5-8 176 6 LSU [Speed] [0] 85
+WR Patrick Lambert 6-1 228 3 Boston College [Target] [0] 81
+WR Zahir Wall 6-5 208 R Alabama [Target] 79
+WR Joseph Dickerson 5-11 158 3 Virginia Tech [Speed] [0] 77
+WR Andrew Williamson 6-3 204 5 Penn State [Target] [+1] 74?
+WR Kristian Hope 6-1 154 R Oregon [Speed] [0] 68
+TE Danny Patrick 6-5 223 7 North Carolina [Receiving] [+1] 87
+TE Ituha Coonaha 6-6 200 5 Georgia [Blocking] [0] 77
+TE Terrell Fuller 6-2 192 R Tulsa [Receiving] [+1] 71 ?
+OT Carlos Gothard 6-8 290 6 Clemson [Run Blocking] [+1] 86
+OT Arthur Taylor 6-8 280 3 Arizona State [Run Blocking] [0] 84
+OT Mendy Cheney 6-3 291 2 Wisconsin [Pass Blocking] [0] 83
+OT Tyson Chadwick 6-7 291 R TCU [Pass Blocking] [0/C] 81
+OG George Greene 6-3 291 4 Minnesota [Pass Blocking] [0] 87
+OG Marco Woodward 6-1 269 1 Kentucky [Run Blocking] [0] 77
+OG Christopher Quarless 6-1 328 R Nebraska [Pass Blocking] 77
+OG Franklin Bullock 6-5 299 R Harvard [Pass Blocking] 75
+C Toma Malifa 6-1 258 2 Tennessee [Run Blocking] [-1] 80 ?
+C Jonathan Jimenez 6-3 285 6 Arizona [Run Blocking] [0] 75
+DT Marlin Eason 6-3 286 6 Texas [2-Gap] [0/C] 87
+DT Emanuel Serrano 6-2 320 2 Stanford [2-Gap] [0] 78
+DT Keith Small 6-4 334 2 Maryland [2-Gap] [-1] 70
+DE Matthew Davis 6-1 269 4 TCU [Contain] [0] 82
+DE Lucas Benton 5-10 235 1 Michigan [Blitz] [-1] 80
+DE George Calvert 6-2 267 3 Minnesota [Blitz] [0] 74
+ILB Gary Bower 6-2 229 6 Utah [Mike] [0] 75
+ILB Samuel Sands 6-2 243 2 Vanderbilt [Will] [+2] 79
+ILB Peyton Roaches 6-2 224 5 LSU [Will] [0] 81
+ILB Alexander Hardison 6-1 232 4 Western Kentucky [Mike] [0/C] 86
+OLB Tyrone Jones 5-11 233 8 LSU [Blitz] [-1/C] 98
+OLB Kenyatta Henderson 5-11 228 7 Ole Miss [Blitz] [-1] 97
+OLB Nick Jones 6-2 192 2 Eastern Washington [Blitz] [+1] 75
+OLB Eric Burden 6-2 233 4 Florida [Blitz] [0] 76
+OLB Felix Hinojosa 6-2 245 1 Indiana [Blitz] [+3] 70
+CB Troy Marshall 6-1 163 4 Texas [Zone Coverage] [-1] 93
+CB Reggie Griffin 5-10 192 7 Tennessee [Zone Coverage] [0] 84?
+CB Bernard McLeod 5-9 183 1 Ohio State [Zone Coverage] [-1] 78
+CB Daron Haag 6-3 177 5 Arizona [Man Coverage] [+1] 78
+FS Traveon Howard 6-0 194 2 USF [Zone Coverage] [+1] 86
+FS Sean Youngblood 5-10 185 4 Michigan State [Zone Coverage] [+3/C] 75 ?
+SS Adam Newman 6-0 175 6 Iowa State [Zone Coverage] [0] 90 ?
+SS Abdoul Childs 5-10 198 2 Maryland [Zone Coverage] [0] 78
+K Dennis Scott 6-1 206 6 Florida State [Power] [-1] 85
+P Lucas Pappas 5-7 162 5 Illinois [Accuracy] [+3/C] 87? 

@@ -1,0 +1,54 @@
+QB Byron Harper 6-3 225 1 Utah [Hybrid] 78
+
+QB Kamau Davis 6-2 218 4 Indiana [Pocket] 89
+QB Christian Barkley 6-3 211 R Texas Tech [Pocket] 81
+RB Asante Sowell 6-3 194 R Wisconsin [Power] 83
+RB Bradie Sapp 5-11 185 5 Virginia Tech [Power] 79
+RB John Adams 5-11 171 1 Syracuse [Speed] 75
+FB Neill Sharper 6-2 212 4 LSU [Run Blocking] 84
+WR Curtis Settles 6-0 207 1 Penn State [Speed] 82
+WR Wesly Chandler 6-0 170 5 Boise State [Target] 81
+WR Taylor Eifert 6-3 208 R Nebraska [Target] 77
+WR Robert Curtis 6-5 213 R BYU [Target] 73
+WR R.J. Smith 6-1 199 2 Georgia State [Speed] 67
+WR Deitan Mruczkowski 6-2 168 4 Wisconsin [Speed] 65
+TE Derek Harrison 6-1 251 5 Rutgers [Receiving] 93
+TE Tom Ellis 6-3 265 5 USC [Blocking] 77
+TE Amir Nassib 6-0 229 R Cincinnati [Receiving] 68
+OT Glenn Boyd 6-6 311 2 Florida State [Pass Blocking] 85
+OT Mahamadou Dennis 6-3 257 R TCU [Run Blocking] 79
+OT Thomas Donaldson 6-4 302 3 Virginia Tech [Run Blocking] 79
+OT Ryan Stallworth 6-5 293 2 Kentucky [Pass Blocking] 71
+OT R.W. Pittman 6-7 309 4 Minnesota [Pass Blocking] 66
+OG Robert Roaf 6-7 267 3 Michigan State [Run Blocking] 90
+OG Dave Young 6-4 296 3 Oregon [Pass Blocking] 83
+OG Jason Peterson 6-7 291 R Michigan State [Run Blocking] 71
+OG Ian Meyer 6-5 289 2 Georgia Tech [Pass Blocking] 67
+C Patrick Ena 6-5 306 3 Texas A&M [Pass Blocking] 82
+C Tim Keaton 6-7 286 1 West Virginia [Run Blocking] 74
+DE Preston Bryant 6-8 280 2 Michigan State [Blitz] 82
+DE Shamar Manning 6-1 276 1 Florida State [Contain] 76
+DE Thomas Conley 6-4 263 R Missouri [Contain] 74
+DE Tony Shaw 6-6 280 3 Florida State [Contain] 71
+DT Rich Moore 6-7 307 4 LSU [2-Gap] 89
+DT Larry Holmes 6-6 275 2 LSU [1-Gap] 73
+ILB Richard Wilson 6-2 231 4 Oregon State [Mike] 86
+ILB Christian Haywood 6-3 243 R Arizona [Mike] 83
+ILB Melvin Cooper 6-2 227 3 Tennessee [Will] 76
+OLB Jeff Williams 6-2 237 4 Wisconsin [Coverage] 89
+OLB Hugh Boerigter 6-2 251 3 Stanford [Blitz] 78
+OLB Brett Wilson 6-1 235 1 Louisville [Coverage] 74
+OLB Calvin Harrell 6-0 224 R Mississippi State [Coverage] 73
+CB Gary Chamberlain 6-1 174 3 Notre Dame [Man Coverage] 80
+CB Jay Wade 5-10 211 R Alabama [Zone Coverage] 79
+CB B.J. Dawkins 5-11 176 5 Washington State [Man Coverage] 75
+CB Marcus Farmer 6-1 177 4 Louisville [ZoneCoverage] 69
+CB Cody  Hanna 5-11 196 R Clemson [Man Coverage] 66
+CB Ben McCullum 5-10 200 3 South Carolina [Zone Coverage] 63
+SS Larry Reeves 5-11 204 5 Tennessee [Man Coverage] 90
+SS Mark Dean 5-10 205 R Nevada [Zone Coverage] 77
+FS Kevin Johnson 6-0 174 1 Syracuse [Man Coverage] 80
+FS Jake Pugh 5-11 193 2 Florida State [Man Coverage] 72
+K Alejandro Aguirre 5-11 198 R Oklahoma [Accuracy] 84
+K Lew Roberg 6-0 177 3 North Carolina [Power] 77
+P Jason Sochia 5-10 169 2 Notre Dame [Accuracy] 90

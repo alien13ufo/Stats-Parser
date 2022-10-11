@@ -1,0 +1,67 @@
+ Cleveland Browns (5-5) at New England Patriots (1-9) ?
+
+Foxborough, MA - 48 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (5-5) 	0 	7 	14 	3 	0 	24
+:patriots: New England Patriots (1-9) 	7 	0 	14 	3 	3 	27
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:patriots: New England Patriots
+Injuries 	RB Sean Bell - Severe Wrist Sprain 	No Injuries
+Top Player Grade 	RB Sean Bell (8.72) 	OT Taylor Randolph (9.76)
+Worst Player Grade 	OG Julian Jarrell (2.21) 	DE Joey Davis (3.40)
+Offensive Line Rating 	8.36 	8.34
+Sacks 	0 	1
+Punting 	43.3 	47.1
+Punt Return Yards 	9 	21
+Kick Return Yards 	85 	64
+Turnovers 	1 	0
+3rd Down Conversion 	4/12 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/74 	5/36
+:browns: Cleveland Browns ?
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	11/17 	139 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	18 	101 	1 	18 	0/0
+Ryan Clark 	7 	56 	1 	25 	0/0
+Grady Mitchell 	9 	45 	0 	14 	1/1
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason McClairen 	4 	56 	1 	0 	0/0
+Morgan Patton 	2 	34 	0 	0 	0/0
+Tai Miller 	2 	27 	0 	1 	0/0
+Ray Lee Marconi 	1 	12 	0 	0 	0/0
+Kevin McMullen 	2 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Antonio Oliver 	6/0 	- 	0/0 	1/0 	0/0
+C.J. Thomas 	6/0 	- 	0/0 	0/0 	0/0
+Martin Hernandez 	3/0 	- 	0/0 	0/0 	0/0
+Je'Rod Wimbush 	3/0 	- 	0/0 	0/0 	0/0
+Kadeem Martin 	2/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	1/1 	3/3 	29
+	
+:patriots: New England Patriots
+Spread Option - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Luke Trickett 	10/20 	127 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Shawn Cole 	18 	84 	1 	15 	0/0
+Luke Trickett 	8 	81 	1 	31T 	0/0
+Michael Duckworth 	2 	5 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Geno Harris 	4 	53 	0 	0 	0/0
+Jamel Beckham 	2 	30 	0 	0 	0/0
+Carlos Perez 	1 	21 	1 	0 	0/0
+Michael Duckworth 	2 	14 	0 	0 	0/0
+Gary Jones 	1 	9 	0 	0 	1/0
+DEFENSE 	T/TFL 	SCK ? 	INT/PD 	FF/FR 	TD/SFTY
+Nasir Womack 	1/0 	1.0 	0/0 	0/0 	0/0
+Brett Wilson 	4/1 	- 	0/0 	0/0 	0/0
+James Carson 	6/0 	- 	0/0 	0/0 	0/0
+Rich Moore 	5/0 	- 	0/0 	0/0 	0/0
+Mark Craig 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Brad Weathersby 	2/2 	3/3 	45, 39 

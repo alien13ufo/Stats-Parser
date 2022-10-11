@@ -1,0 +1,53 @@
+QB Lawyer Johnson 6-0 194 5 Wisconsin [Pocket] [-1] 86
+QB Will Thompson 6-3 191 8 USC [Pocket] [+1/C] 81
+QB Andre Webb 5-11 213 R SMU [Pocket] [+1] 80
+RB O.J. Carano 5-11 217 7 Minnesota [Power] [0] 88
+RB Elvis Williams 5-11 181 8 North Carolina [Speed] [-2] 81
+RB Elijah Harden 5-8 187 2 Florida State [Speed] [-1] 79
+RB Ethan Newby 5-9 205 R Florida [Speed] [0] 70
+FB Harlon Collins 6-1 226 5 LSU [Run Blocking] [0] 85
+WR Sonny Beckett 6-6 188 5 Miami [Speed] [0] 84
+WR Kurt Hill 5-9 196 8 Miami [Target] [0] 82
+WR Tom Oldham 6-0 155 2 Iowa State [Speed] [0] 82
+WR Tevin Lattimore 6-2 225 R Missouri [Target] [-1] 81
+WR Curtis Jeffreys 5-11 207 4 SDSU [Target] [0] 77
+WR Evan Medley 6-1 197 2 North Carolina [Target] [0] 76
+TE Brian Engle 6-3 201 R Colorado State [Receiving] [0] 80
+TE Hunter King 6-6 211 1 Ole Miss [Receiving] [0] 77
+TE Julio Cass 6-1 216 R Wake Forest [Blocking] [0] 75
+OT Ryan Robinson 6-6 299 5 Oklahoma State [Run Blocking] [-1] 93
+OT Roderick White 6-8 304 7 Miami [Pass Blocking] [0/C] 91
+OT Kenneth Porter 6-5 290 3 Notre Dame [Run Blocking] [0] 84
+O?T ?Ari Kern 6-2 327 1 Kans as State ?[Pass Blocking] [0] 75
+OG Brian Olszewski 6-6 274 4 Florida [Run Blocking] [0] 84
+OG Xavier Werner 6-1 333 R Iowa [Pass Blocking] [+3/C] 76
+OG Marcus Slade 6-4 256 1 UCF [Pass Blocking] [+1] 78
+OG Charles Perez 6-4 283 2 Iowa [Pass Blocking] [0] 75
+C Setu Seau 6-2 281 1 SDSU [Pass Blocking] [0] 79
+C Ian Causey 6-2 299 2 Missouri [Pass Blocking] [+2] 76
+DE Curtis Lewis 6-8 283 6 Texas [Blitz] [0] 95
+DE Khairi Bryant 5-10 263 R Ohio State [Blitz] [0] 84
+DE Tyler Ashworth 6-3 243 1 Florida State [Blitz] [0] 77
+DE Justin Vela 6-2 237 ?R Penn State [Blitz] [+?1] 70
+DT James Blue 6-5 272 1 USF [1-Gap] [0] 73
+DT Brad Mungro 6-6 284 6 Minnesota [1-Gap] [0] 83
+DT Marcus Anthony 6-7 284 3 Colorado [1-Gap] [+1] 78
+ILB Freddy Suarez 6-2 226 4 Maryland [Mike] [0] 82
+ILB John Foster 6-1 227 3 Miami [Mike] [0/C] 78
+ILB Julius Conrad 6-4 240 2 Northwestern State [Mike] [0] 74
+OLB Louis Peterson 6-4 200 4 Oklahoma State [Blitz] [0] 89
+OLB Aaron Hammond 6-1 223 3 Purdue [Coverage] [0] 90
+OLB Angel Bailey 6-2 228 2 Georgia [Coverage] [0] 78
+OLB Kevin ?Little 5-11 234 3 Texas A&?M [Blitz] [0] 73
+CB Will Hall 5-10 224 4 USC [Zone Coverage] [+1] 91
+CB Stephen Mitchell-Morrison 6-1 203 4 Air Force [Zone Coverage] [+1] 83
+CB Hunter Lawrence 5-10 176 3 Colorado State [Zone Coverage] [0] 81
+CB Isaiah Polsfoot 5-11 183 6 Tyler Junior College [Zone Coverage] [0] 82
+CB T.J. Hunter 6-0 203 4 Penn State [Zone Coverage] [0] 83
+CB Jamari Turner ?5-10 171 R Oregon State [Zone Coverage?] [0 ] 71
+FS D'Qwell Moore 6-3 203 1 Florida State [Zone Coverage] [0] 84
+FS Onome Smith 6-1 191 4 California [Man Coverage] [0] 80
+SS George Russell 5-11 167 3 San Diego State [Zone Coverage] [0] 80
+SS Jonah Parker 6-3 208 1 Boise State [Man Coverage] [0] 82
+K Trent Michaels 6-3 194 1 Central Michigan [Power] [0] 76
+P Mason Singleton 6-3 198 3 Pittsburgh [Power] [0/C] 88

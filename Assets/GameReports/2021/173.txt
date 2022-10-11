@@ -1,0 +1,57 @@
+ Denver Broncos (6-4) at Kansas City Chiefs (6-4)
+
+Kansas City, MO - 49 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (6-4) 	0 	3 	7 	3 	0 	13
+:chiefs: Kansas City Chiefs (6-4) 	0 	3 	3 	7 	6 	19
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:chiefs: Kansas City Chiefs
+Injuries 	Bret Pate, OG - Mild Shoulder Dislocation 	Quinn Burr, OT - Severe Elbow Sprain
+Offensive Line Rating 	8.2 	7.8
+Sacks 	3 	2
+Punting 	42.5 	44.3
+Punt Return Yards 	39 	47
+Kick Return Yards 	24 	20
+Turnovers 	2 	1
+3rd Down Conversion 	4/12 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/46 	3/15
+:broncos: Denver Broncos
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Jennings 	17/23 	168 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	16 	58 	0 	18 	1/1
+Emmett Spears 	10 	41 	1 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darren Jones 	7 	84 	1 	0 	0/0
+Darrell Mack 	3 	31 	0 	1 	0/0
+Artemio Ramirez 	2 	22 	0 	0 	0/0
+Ken Peelle 	2 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Gray Corbin 	3/0 	- 	1/0 	0/0 	0/0
+Deyonte Davis 	4/0 	1.0 	0/0 	0/0 	0/0
+Ray Truax 	3/0 	1.0 	0/0 	0/0 	0/0
+Charles Johnson 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	2/4 	1/1 	49, 37 - 60, 52
+	
+:chiefs: Kansas City Chiefs
+Spread - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Javier Fields 	17/29 	208 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	19 	80 	0 	31 	0/0
+Justin Buchanan 	6 	29 	0 	15 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rodney Montgomery 	6 	89 	1 	0 	0/0
+Spec Davidson 	6 	82 	1 	0 	0/0
+Justin Hill 	2 	17 	0 	0 	0/0
+Harry Whiteside 	1 	10 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Riley 	6/0 	- 	1/1 	0/0 	0/0
+Luke Lyles 	3/0 	1.0 	0/0 	0/0 	0/0
+Jeffrey Chung 	1/0 	1.0 	0/0 	0/0 	0/0
+Sean Springs 	6/2 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	2/2 	1/1 	28, 24 

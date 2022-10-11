@@ -1,0 +1,30 @@
+QB Will Thompson 6-3 191 R USC [Pocket] 71
+RB Mario Rattay 5-10 187 R Michigan [Power] 64
+RB Jacquez Kunz 5-11 184 R Washington State [Speed] 57
+WR Riddick Smith 6-0 185 R Texas A&M [Target] 71
+WR Audray Gabriel 6-2 189 R Washington [Speed] 57
+WR Ahmaad Baxter 6-1 178 R Auburn [Speed] 55
+TE Derek Harrison 6-1 251 R Rutgers [Pass Blocking] 80
+TE David Kroeker 6-4 244 R Oklahoma State [Run Blocking] 60
+OT Marcellus Peterson 6-2 328 R Alabama [Run Blocking] 83
+OT Edward Daniel 6-3 296 R Army [Run Blocking] 52
+OG Henry Badanjek 6-4 289 R Alabama [Pass Blocking] 70
+OG Donald Garcia 6-3 310 R Cincinnati [Run Blocking] 54
+OG Jesse White 6-1 283 R Pittsburgh [Pass Blocking] 53
+C Harry McDaniel 6-4 292 R North Carolina [Run Blocking] 52
+DE Devone Willis 6-8 273 R Auburn [Run Stop] 59
+DE Dedric Williams 6-1 264 R Texas A&M [Run Stop] 58
+DT Jim Hostetler 6-0 279 R Texas [Run Stop] 66
+DT Zeke Burrough 6-6 291 R Texas A&M [Run Stop] 50
+ILB Kevin Harris 6-0 249 R Iowa [Pass Man-to-Man] 76
+ILB Ron Mobley 6-1 247 R Georgia [Pass Zone] 72
+ILB David Sheffield 5-11 226 R Iowa State [Pass Man-to-Man] 52
+OLB Keyon Greene 6-0 223 R Boston College [Run Zone] 58
+OLB Jody Jones 5-11 224 R Maryland [Run Zone] 51
+OLB Dat Hill 5-11 244 R Alabama [Run Man-to-Man] 50
+CB Henri Muhammad 5-10 186 R Nebraska [Man Coverage] 68
+CB Ollie Ygba 5-11 206 R Boise State [Zone Coverage] 55
+CB Tracy Jackson 5-11 175 R Texas A&M [Zone Coverage] 53
+FS Patrick Parks 5-11 167 R Utah [Zone Coverage] 55
+SS Scott McNeal 6-1 192 R Texas Tech [Man Coverage] 53
+K Ben Morrison 6-1 205 R Wisconsin [Accuracy] 75

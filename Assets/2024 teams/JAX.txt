@@ -1,0 +1,50 @@
+QB Taylor Rodriguez 6-1 209 6 Arizona [Pocket] [0] 90
+QB Jake Davis 6-3 227 R Washington [Pocket] 82?
+QB Austin Hector 6-6 233 2 San Diego [Pocket] [0] 80
+QB Zack Cera 5-10 221 1 Miami (OH) [Pocket] [+1/C] 76
+RB Asante Sowell 6-3 194 5 Wisconsin [Power] [0] [+] 96
+RB Owen Walton 5-6 219 3 Ohio [Power] [+1] 80
+RB Isaiah Peko 6-0 192 3 North Carolina [Speed] [0] [#] 79
+RB Aaron Johnson 5-9 186 R Missouri [Speed] [0] [+] 70
+WR Raheem Robinson 6-3 192 4 Oklahoma State [Speed] [0] 96
+WR Taylor Eifert 6-3 208 5 Nebraska [Target] [0] 81
+WR Tyrone Turner 6-5 202 4 Eastern Washington [Target] [-2] 78
+WR Cory Carradine 6-5 225 R Northwestern [Target] [0] 77?
+WR Antonio Caldwell 6-0 189 1 Ole Miss [Speed] [-1] 75
+WR Adrian Cherry 6-2 170 2 Iowa [Speed] [+1] 68
+TE Jordan Kemp 6-3 225 4 Georgia [Blocking] [0] 90
+TE James Mulholland 6-6 246 R Penn State [Receiving] [+3] [+] 74
+TE Derick Aguirre 6-5 208 2 Temple [Receiving] [0] 72
+OT Glenn Boyd 6-6 311 7 Florida State [Pass Blocking] [+2] 87
+OT Mahamadou Dennis 6-3 257 5 TCU [Run Blocking] [0] 85
+OT Toma Pinati 6-1 313 4 Buffalo [Run Blocking] [0] 84
+OG Robert Roaf 6-7 267 8 Michigan State [Run Blocking] [0] 93
+OG Dave Young 6-4 296 8 Oregon [Pass Blocking] [0] 85
+OG Thomas Turner 6-8 287 1 Massachusetts [Pass Blocking] [0/C] 78
+OG Logan McCarty 6-3 299 R LSU [Run Blocking] [-1] 75
+C Patrick Ena 6-5 306 8 Texas A&M [Pass Blocking] [0] 82
+C Ian Causey 6-2 299 4 Missouri [Pass Blocking] [+2] 76?
+DE Ron Rice 6-6 275 8 Michigan [Blitz] [0] 94
+DE Tyriek Humphrey 6-2 245 R Arizona [Contain] 78
+DE David Tracy 6-5 240 R FIU [Blitz] [+1] 72
+DT Shamar Ware 6-5 278 2 Penn State [2-Gap] [0/C] 88
+DT LaDavid Cantrell 6-2 294 5 Virginia [1-Gap] [0] [#] 75
+ILB Christian Haywood 6-3 243 5 Arizona [Mike] [0/C] 91
+ILB Darius Butler 6-0 232 1 Boston College [Mike] [+2/C] 81
+ILB Alejandro Mejia 6-1 238 1 South Carolina [Will] [0/C] 77
+ILB Cordarelle McGill 6-3 222 R FIU [Will] [0] [+] 76
+OLB Damien Norman 6-2 235 3 Illinois [Coverage] [0] [+] 85
+OLB Logan Bowser 6-2 226 1 Michigan [Coverage] [-1/C] [#] 84
+OLB Darrelle Paige 5-11 243 R FAU [Coverage] [-2] [#] 76
+CB Jay Wade 5-10 211 5 Alabama [Zone Coverage] [0/C] 90
+CB DeSean Barkley 5-10 162 1 Colorado [Man Coverage] [-2] [+] 84
+CB Lucas Freeman 6-1 197 1 Virginia Tech [Man Coverage] [+1] 78
+CB Travis Charles 5-10 168 3 Georgia State [Man Coverage] [0] 73
+FS Prince Pruitt 5-10 215 R Oklahoma State [Zone Coverage] 81
+FS Kevin Johnson 6-0 174 6 Syracuse [Man Coverage] [0] 79
+FS Shamar Sutton 5-11 197 3 Air Force [Man Coverage] [0] 79
+SS Larry Reeves 5-11 204 10 Tennessee [Man Coverage] [+2] 85
+SS Omar Broussard 5-10 171 3 Vanderbilt [Zone Coverage] [0] 79
+K Alejandro Aguirre 5-11 198 5 Oklahoma [Accuracy] [0] 96?
+P Jason Sochia 5-10 169 7 Notre Dame [Accuracy] [0] 95?
+KR Deion Madison 5-11 185 2 Richmond [Hybrid] [-1] 83

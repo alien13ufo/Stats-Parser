@@ -1,0 +1,128 @@
+ Seattle Seahawks (1-1) at Kansas City Chiefs (2-0) ?
+Kansas City, MO - 77 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:seahawks Seattle Seahawks (1-1) 	0 	0 	3 	14 	- 	17
+:chiefs: Kansas City Chiefs (2-0) 	0 	21 	7 	7 	- 	35
+Team Stats Comparison
+  	:seahawks Seattle Seahawks 	:chiefs: Kansas City Chiefs
+Injuries 	FS Tyler Patino - Mild Ankle Dislocation 	DE Jeffrey Chung - Severe MCL Rupture
+Top Player Grade 	RB Marcus Williams (9.21) 	QB Ryan Harris (9.72)
+Worst Player Grade 	CB David Tolliver (0.67) ? 	CB Bradley Nunn (2.42)
+Offensive Line Rating 	8.14 	8.27
+Sacks 	2 	1
+Punting 	47.7 	45.1
+Punt Return Yards 	0 	3
+Kick Return Yards 	68 	32
+Turnovers 	1 	0
+3rd Down Conversion 	4/12 	5/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/35 	8/42
+:seahawks Seattle Seahawks
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tucker Dowden 	15/26 	150 	0 	1 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	20 	102 	1 	23 	0/0
+Tucker Dowden 	5 	27 	1 	13 	0/0
+Jordan Godson 	9 	26 	0 	11 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	5 	56 	0 	0 	0/0
+Samuel Gulla 	2 	40 	0 	0 	0/0
+Paul Howell 	3 	20 	0 	1 	0/0
+Josiah McCray 	1 	12 	0 	0 	0/0
+Curtis Settles 	2 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tavarius Hicks 	5/1 	1.0 	0/0 	0/0 	0/0
+Brian Glenn 	2/0 	1.0 	0/0 	0/0 	0/0
+Gabriel Hightower 	9/0 	- 	0/0 	1/0 	0/0
+Tyler Patino 	5/0 	- 	0/0 	0/0 	0/0
+Malcolm Douglas-Scott 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+Chris Ritter 	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+1/1
+
+45
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+2/2
+
+ 
+ADDITIONAL INFO
+
+CB David Tolliver gave up 9 receptions and 2 touchdowns.
+
+ 
+	
+:chiefs: Kansas City Chiefs
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Harris 	28/42 	336 	4 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	17 	75 	0 	20 	1/0
+Preston Tolliver 	3 	12 	1 	9T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Spec Davidson 	8 	119 	0 	0 	0/0
+Allama Banta 	8 	105 	2 	0 	0/0
+Ryan Childs 	4 	51 	1 	0 	0/0
+Daniel Hobbs 	2 	41 	0 	0 	0/0
+Justin Hill 	3 	22 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Andrew Boyd 	2/0 	- 	1/0 	0/0 	0/0
+Preston Bryant ? 	4/2 	1.0 	0/0 	1/0 	0/0
+Sammy Dawkins ? 	7/0 	- 	0/0 	0/0 	0/0
+Mohamed Caldwell 	5/0 	- 	0/0 	0/0 	0/0
+Sean Springs 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+Ryan Levcik 	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+5/5
+
+ 
+ADDITIONAL INFO ?
+FS Rob Hamilton was penalized for defensive pass interference on a 4th down that led to a SEA touchdown in the 4Q. 

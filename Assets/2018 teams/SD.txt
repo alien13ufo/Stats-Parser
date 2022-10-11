@@ -1,0 +1,50 @@
+QB Will Thompson 6-3 191 4 USC [Pocket] 86
+QB Larry Haynes 6-4 209 3 Florida [Pocket] 73
+QB Richmond King 6-1 199 R West Virginia [Pocket] 67
+RB Shawn Cole 5-9 188 3 Washington [Power] 89
+RB Clayton Gorman 5-9 192 1 Cincinnati [Power] 74
+FB Raphael Fulton 6-1 221 R Southeast Community College [Power] 75
+FB Doug Reger 5-11 210 1 Iowa [Speed] 66
+WR Richard Frazier 5-8 181 2 Iowa [Target] 83
+WR Todd Druckenmiller 5-9 186 1 Alabama [Speed] 80
+WR Brandon Burks 6-5 178 3 Nebraska [Speed] 73
+WR Frank Weiss 6-4 173 2 Boise State [Speed] 70
+WR Eric Garner 6-1 170 R Tulsa [Speed] 69
+WR George Humphries 6-4 177 1 West Virginia [Target] 66
+TE Scott Howard 6-6 236 3 Northwestern [RunBlocking] 93
+TE Rick Philcox 6-2 221 1 Miami [Pass Blocking] 77
+TE David Kroeker 6-4 244 4 Oklahoma State [Run Blocking] 60
+OT Charlie Ellis 6-4 309 1 Washington State [Pass Blocking] 81
+OT Chris DeMarco 6-7 319 4 Georgia [RunBlocking] 79
+OT Barret Jennings 6-8 310 2 Alabama [Pass Blocking] 73
+OG Josh Hall 6-6 296 4 Oklahoma [Pass Blocking] 84
+OG Charles Thompson 6-5 296 2 Rutgers [PassBlocking] 84
+OG Dick Dufek 6-5 274 2 UCF [Pass Blocking] 63
+C Don Teteak 6-0 293 1 Washington [Pass Blocking] 83
+C James Seward 6-3 274 R Illinois [Run Blocking] 66
+DE Rodney Galbreath 6-8 301 4 South Carolina [Run Stop] 91
+DE Dhani Panfil 6-2 284 3 Washington [RunStop] 76
+DE Eli Cobb 6-0 242 R Florida State [Run Stop] 71
+DT Steve Poole 6-7 288 R GeorgiaTech [RunStop] 79
+DT William Robertson 6-3 291 2 Rutgers [RunStop] 77
+DT Kenny Knutson 6-4 283 1 Ohio State [Pass Stop] 65
+ILB Tunch Richardson 5-11 217 1 Alabama [Run Man-to-Man] 85
+ILB Timmy Flanigan 5-8 233 2 Florida St. [Pass Zone] 74
+ILB Jim Bailey 6-0 217 R North Carolina [Run Man-to-Man] 67
+OLB Asante Willis 6-1 229 R Kentucky [Pass Zone] 78
+OLB Charley Graham 5-11 224 2 UCLA [Pass Man-to-man] 76
+OLB Billy Anderson 6-3 241 3 USC [Pass Zone] 70
+OLB Todd Lord 6-0 240 2 Purdue [Pass Zone] 68
+OLB William Paulson 5-10 221 2 Baylor [Run Zone] 61
+CB Kevin Potts 6-1 183 1 LSU [Zone Coverage] 79
+CB Sedrick Madison 6-2 183 4 Tennessee [ZoneCoverage] 79
+CB Joshua Saunders 6-3 198 R USF [ManCoverage] 72
+CB Dainard Biggs 6-2 184 4 Alabama [Zone Coverage] 66
+FS Eric Sochia 5-10 169 R Minnesota [ManCoverage] 77
+FS Gerhard Wilson 6-1 169 1 Texas Tech [Zone Coverage] 64
+SS Tavian Oliphant 6-2 202 2 Alabama [ManCoverage] 89
+SS Matt Demaree 6-0 179 2 UCLA [Man Coverage] 66
+K Rafael Davidson 5-11 182 R Nebraska [Accuracy] 80
+K Kent Evans 5-9 192 3 OleMiss [Power] 79
+P Eric Norris 5-11 163 1 Arizona [Accuracy] 75
+P Brian Brown 5-9 163 1 West Virginia [Power] 62

@@ -1,0 +1,52 @@
+QB Christian Skaggs 6-1 214 8 Florida State [Pocket] [-1] 98?
+QB Sean Hamilton 6-2 207 2 Nebraska [Pocket] [0] 83
+QB Justin Hunter 6-0 210 4 Mississippi State [Pocket] [0] 79
+RB Mike Latta 6-0 209 5 Florida State [Speed] [-2] 89
+RB Shawn Anderson 5-8 184 5 Oregon [Power] [0] 83
+RB Brian Schlichter 5-11 206 3 Colorado [Power ] [0] 73
+FB Donnie Hubbert 5-11 229 5 Nebraska [Run Blocking] [+1] 90
+FB Julius Gaston 5-10 210 1 LSU [Pass Blocking] [0] 78
+WR Monte Jackson 6-6 227 3 Miami [Target] [-3] 90
+WR Troy Wilson 6-0 150 3 Cincinnati [Speed] [0/C] 81
+WR Jermaine Bishop 6-4 194 4 Pittsburgh [Target] [0] 80
+WR Billy Rodgers 6-1 164 6 North Carolina [Target] [0] 78
+WR Chip Johnson 6-3 188 4 Oregon [Target] [0] 78
+WR Jay Arreola 5-10 161 R UCLA [Speed] [+1] 75
+TE Curtis Henry 6-6 202 2 Utah State [Receiving] [-1] 89
+TE Norman Willard 6-1 230 3 Boston College [Receiving] [-1] 80
+TE Quentin McCullough 6-7 240 5 Clemson [Blocking] [0] 79
+OT Tron Moses 6-6 285 7 Michigan State [Pass Blocking] [0] 96
+OT Emerson Ware 6-0 297 4 Florida [Run Blocking] [0] 87
+OT Charles Mahan 6-5 332 5 TCU [Pass Blocking] [0] 75
+OT Quincy Estep 6-3 270 R ECU [Pass Blocking] [+3/C] 74
+OG Joshua Whitlock 6-6 284 2 Washington State [Run Blocking] [0] 84
+OG Vincent Peck 6-7 310 3 NC State [Pass Blocking] [0/C] 81
+OG Xavier Bridges 6-3 272 R Miami (OH) [Run Blocking] [+2] 69
+C Javon Hargrove 6-3 251 R Houston [Pass Blocking] [+1] 80
+C Jacob Alves 6-3 302 1 Akron [Pass Blocking] [0] 76
+DE Kendrick Droughns 6-6 294 6 Ohio State [Contain] [+1] 92
+DE Demarius Strong 6-4 254 5 Navy [Blitz] [0] 82
+DE Brian Bynum 6-6 275 5 Kansas State [Blitz] [0] 77
+DE Curtis Dunn 6-3 260 R Louisiana Tech [Contain] [-3] 75
+DT Mike Wohlabaugh 6-3 287 5 USC [1-Gap] [0] 91
+DT Joseph Bynum 6-6 298 1 Oregon [1-Gap] [0] 82?
+DT Wilburn Ball 6-6 290 3 Notre Dame [1-Gap] [0] 78
+ILB Kelvin Grossman 6-0 231 6 Nebraska [Mike] [-1] 83
+ILB Pierce Pryor 6-3 247 R Nevada [Mike] [0] 76
+OLB Jeff Brooks 6-0 230 5 Florida [Coverage] [0] 82
+OLB Alan Smith 6-2 223 4 Virginia [Coverage] [0] 75
+OLB Leland Anderson 6-1 236 3 Miami [Coverage] [+1] 74
+CB Nate Tensi 6-0 196 7 Clemson [Man Coverage] [0/C] 92
+CB Jacoby Seaverns 6-2 190 7 Oklahoma [Man Coverage] [0] 85
+CB Russ Barker 5-10 203 4 Miami (FL) [Zone Coverage] [0] 80
+CB Damani Jeffries 5-1?0 163 R Texas [Man Coverage] [0] 76
+CB Justin Rouse 6-0 204 2 Akron [Man Coverage] [0] 73
+FS Jon Thomas 6-0 197 4 Texas [Man Coverage] [+1/C] 80?
+FS Carlton Sylvester 6-0 193 3 Nebraska [Zone Coverage] [0] 83
+SS Darren Manning 6-4 189 6 Tennessee [Zone Coverage] [0] 93
+SS Eddie Burks 6-1 191 R Auburn? [Man Coverage] [+1/C] 79
+SS Dylan Mosley 5-11 202 1 Arizona State [Man Coverage] [0] 76
+K Skip Gibson 6-0 178 6 Georgia [Accuracy] [+2/C] 94?
+P Yuri Garisov 6-3 222 4 Auburn [Accuracy] [0] 86
+PR Glenn McCurdy 5-11 182 1 UAB [Specialist] [+1] 80
+LS Will Fisher 6-1 242 R Marist [Traditional] [0/C] 71

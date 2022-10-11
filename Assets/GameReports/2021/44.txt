@@ -1,0 +1,55 @@
+ New Orleans Saints (1-1) at Minnesota Vikings (0-2)
+
+Minneapolis, MN - 71 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:saints: New Orleans Saints (1-1) 	14 	14 	7 	3 	- 	38
+:vikings: Minnesota Vikings (0-2) 	3 	0 	7 	21 	- 	31
+Team Stats Comparison
+  	:saints: New Orleans Saints 	:vikings: Minnesota Vikings
+Injuries 	Bruce Riley, WR - Mild Shoulder Rotator Cuff Injury 	Justin Glass, DE - Severe Thumb Sprain
+Offensive Line Rating 	8.4 	8.1
+Sacks 	4 	3
+Punting 	44.3 	42.6
+Punt Return Yards 	89 (1) 	21
+Kick Return Yards 	25 	39
+Turnovers 	0 	0
+3rd Down Conversion 	6/11 	7/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/65 	4/32
+:saints: New Orleans Saints
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Devereaux 	25/39 	370 	4 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sterling Brown 	16 	78 	0 	39 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamaal Brown-Sanderson 	8 	125 	2 	1 	0/0
+Sean Jenkins 	5 	96 	0 	0 	0/0
+Will Holly 	6 	80 	1 	1 	1/0
+Carlos Warren 	3 	56 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Corey Davis 	8/0 	1.0 	0/1 	0/0 	0/0
+Garrett Holliday 	5/1 	1.0 	0/0 	0/0 	0/0
+Koren Donahue 	5/0 	- 	0/1 	0/0 	0/0
+Rabih Delaney 	4/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jack Kershner 	1/1 	5/5 	45
+	
+:vikings: Minnesota Vikings
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	23/37 	319 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	15 	58 	1 	19T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mohamed Charles 	6 	99 	0 	1 	0/0
+Luke Cobb 	3 	91 	1 	2 	0/0
+Wayne Wegert 	5 	65 	2 	0 	0/0
+Keith Dunn 	4 	34 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cleveland Merrill 	5/0 	1.0 	0/0 	0/0 	0/0
+Eric Jones 	5/0 	- 	0/0 	0/0 	0/0
+Jamal Patton 	3/1 	1.0 	0/0 	0/0 	0/0
+Paul Goodman 	4/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ilan Youngblood 	1/1 	4/4 	37 

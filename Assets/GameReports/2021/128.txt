@@ -1,0 +1,57 @@
+ New Orleans Saints (5-3) at Dallas Cowboys (4-3)
+
+Arlington, TX - 70 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:saints: New Orleans Saints (5-3) 	14 	3 	3 	0 	- 	20
+:cowboys: Dallas Cowboys (4-3) 	7 	14 	6 	6 	- 	33
+Team Stats Comparison
+  	:saints: New Orleans Saints 	:cowboys: Dallas Cowboys
+Injuries 	No Injuries 	No Injuries
+Offensive Line Rating 	8.2 	8.7
+Sacks 	0 	3
+Punting 	44.3 	43.6
+Punt Return Yards 	27 	11
+Kick Return Yards 	56 	19
+Turnovers 	2 	1
+3rd Down Conversion 	4/13 	3/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/57 	3/15
+:saints: New Orleans Saints
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Devereaux 	20/39 	260 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sterling Brown 	12 	66 	0 	14 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jammal Brown-Sanderson 	6 	110 	1 	0 	0/0
+Sean Jenkins 	7 	92 	1 	0 	0/0
+Bruce Riley 	2 	23 	0 	1 	0/0
+Sterling Brown 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Rabih Delaney 	5/0 	- 	0/0 	1/1 	0/0
+Ray Flores 	6/0 	- 	0/0 	0/0 	0/0
+Jeremy Miller 	4/2 	- 	0/0 	0/0 	0/0
+Austin Olson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jack Kershner 	2/2 	2/2 	53, 26
+	
+:cowboys: Dallas Cowboys
+Wing T 2RB - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	12/18 	136 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	24 	119 	1 	15 	1/1
+Adrian Robinson 	10 	56 	1 	13 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kurt Hill 	5 	56 	1 	0 	0/0
+Francisco Gibson 	2 	31 	0 	0 	0/0
+Benjamin Franklin 	2 	20 	0 	0 	0/0
+Alex Gash 	1 	13 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Romulus Jackson 	6/0 	- 	1/0 	0/0 	0/0
+Emmanuel Slade 	2/0 	- 	1/1 	0/0 	0/0
+Kendall Hill 	5/0 	1.5 	0/0 	0/0 	0/0
+Javier Grady 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	4/4 	3/3 	50, 27, 36, 45 

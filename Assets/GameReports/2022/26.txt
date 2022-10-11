@@ -1,0 +1,65 @@
+ Indianapolis Colts (0-1) at Denver Broncos (1-0) ?
+Denver, CO - 69 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (0-1) 	0 	10 	0 	0 	- 	10
+:broncos: Denver Broncos (1-0) 	7 	7 	7 	3 	- 	24
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:broncos: Denver Broncos
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	ILB Kelly Mitchell (6.32) 	WR Ken Peelle (8.21)
+Worst Player Grade 	QB Robert Martin (4.26) 	DT Emanuel Serrano (3.09)
+Offensive Line Rating 	8.31 	8.52
+Sacks 	0 	3
+Punting 	46.5 	43.2
+Punt Return Yards 	29 	36
+Kick Return Yards 	54 	26
+Turnovers 	2 	1
+3rd Down Conversion 	3/14 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/51 	4/40
+:colts: Indianapolis Colts
+Vertical - Trick Plays
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Robert Martin 	23/45 	228 	1 	2 	0/0
+Rashad Simon 	1/1 	37 	0 	0 	0/0 ?
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	7 	24 	0 	6 	0/0
+Nathan Coleman 	1 	3 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyler Dotson 	6 	70 	0 	0 	0/0
+Mosi Bartos 	4 	50 	1 	1 	0/0
+Rashad Simon 	3 	32 	0 	0 	0/0
+Keith Setzer 	3 	30 	0 	0 	0/0
+Sean McDermott 	3 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Samir Ware 	2/0 	- 	1/0 	0/0 	0/0
+Damion Taylor 	3/0 	- 	0/0 	1/0 	0/0
+Kelly Mitchell 	6/1 	- 	0/0 	0/0 	0/0
+Chris Brown 	3/0 	- 	0/0 	0/0 	0/0
+Malachi Douglas 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	1/2 	1/1 	38 - 48
+	
+:broncos: Denver Broncos
+Spread - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Jennings 	16/26 	200 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	21 	94 	1 	9 	1/0
+Emmett Spears ? 	4 	18 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ken Peelle 	5 	86 	1 	0 	0/0
+Artemio Ramirez 	3 	40 	0 	0 	0/0
+William Doherty 	2 ? 	32 	1 	0 	0/0
+Doug Bosley 	2 	20 	0 	0 	0/0
+Sebastian Porter 	2 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Jonah 	6/0 	- 	1/0 	0/0 	0/0
+Evan Walsh 	4/0 	- 	1/0 	0/0 	0/0
+Andrew Phillips 	3/2 	1.5 	0/0 	0/0 	0/0
+Deyonte Davis 	2/0 	1.0 	0/0 	0/0 	0/0
+Joe Palmer 	1/0 	0.5 ? 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	1/1 	3/3 	25 

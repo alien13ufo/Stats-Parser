@@ -1,0 +1,57 @@
+ Las Vegas Raiders (6-2) at Washington Redskins (3-5)
+
+Landover, MD - 56 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:raiders: Las Vegas Raiders (6-2) 	7 	10 	3 	3 	- 	27
+:redskins: Washington Redskins (3-5) 	7 	14 	7 	0 	- 	28
+Team Stats Comparison
+  	:raiders: Las Vegas Raiders 	:redskins: Washington Redskins
+Injuries 	David Pennington, SS - Moderate Elbow Dislocation 	Nick Ramos, OG - Mild Back Hyper-Extension
+Offensive Line Rating 	8.0 	8.6
+Sacks 	0 	2
+Punting 	45.7 	43.6
+Punt Return Yards 	11 	96 (1)
+Kick Return Yards 	20 	45
+Turnovers 	1 	0
+3rd Down Conversion 	6/13 	4/12
+4th Down Conversion 	0/1 	0/0
+Penalties 	7/87 	2/15
+:raiders: Las Vegas Raiders
+Spread - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	20/30 	260 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	17 	48 	0 	18 	0/0
+Quincy Turner 	7 	24 	0 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Lamont Crawford 	4 	95 	1 	0 	0/0
+Mike Tripplett 	6 	61 	1 	0 	0/0
+Willie Hodge 	4 	49 	0 	1 	0/0
+Major Morris 	2 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Alex Martin 	8/0 	- 	0/0 	0/0 	0/0
+Jamie Price 	4/0 	- 	0/0 	0/0 	0/0
+Randall Jones 	4/0 	- 	0/1 	0/0 	0/0
+Jaylen Harris 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	2/2 	3/3 	44, 33
+	
+:redskins: Washington Redskins
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	25/44 	303 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	11 	73 	1 	30T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	6 	81 	1 	0 	0/0
+Tony DeMarco 	6 	78 	0 	0 	0/0
+Ken Brown 	5 	72 	1 	0 	0/0
+Eddie McFadden 	4 	55 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Michael Barber 	1/0 	- 	1/0 	0/0 	0/0
+Steven Jordan 	4/0 	1.0 	0/0 	0/0 	0/0
+Fred Romanowski 	2/0 	1.0 	0/0 	0/0 	0/0
+Nathaniel Jeffries 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	0/0 	4/4 	- 

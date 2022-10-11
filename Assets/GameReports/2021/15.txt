@@ -1,0 +1,55 @@
+ Dallas Cowboys (0-0) at Philadelphia Eagles (0-0)
+
+Philadelphia, PA - 83 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cowboys: Dallas Cowboys (0-0) 	0 	7 	7 	14 	0 	28
+:eagles: Philadelphia Eagles (0-0) 	14 	14 	0 	0 	3 	31
+Team Stats Comparison
+  	:cowboys: Dallas Cowboys 	:eagles: Philadelphia Eagles
+Injuries 	No Injuries 	DeAndre Hawkins, CB - Moderate Concussion
+Offensive Line Rating 	8.5 	8.2
+Sacks 	2 	1
+Punting 	46.4 	42.6
+Punt Return Yards 	27 	41
+Kick Return Yards 	60 	24
+Turnovers 	0 	0
+3rd Down Conversion 	6/13 	6/13
+4th Down Conversion 	1/1 	0/0
+Penalties 	10/109 	13/121
+:cowboys: Dallas Cowboys
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	12/18 	160 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	22 	108 	1 	17 	0/0
+Adrian Robinson 	10 	65 	2 	35T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Francisco Gibson 	4 	51 	1 	1 	0/0
+Kurt Hill 	4 	43 	0 	1 	0/0
+Vaughan Abraham 	2 	32 	0 	0 	0/0
+Erasmus High 	1 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Javier Grady 	4/0 	1.0 	0/0 	0/0 	0/0
+Joseph Randolph 	2/0 	1.0 	0/0 	0/0 	0/0
+Romulus Jackson 	7/1 	- 	0/1 	0/0 	0/0
+Adam Taylor 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	0/0 	4/4 	-
+	
+:eagles: Philadelphia Eagles
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	15/25 	199 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	20 	97 	1 	29T 	0/0
+Marshawn Miller 	9 	65 	1 	44T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cameron Whelahan 	4 	64 	0 	2 	0/0
+Michael Hawkins 	3 	53 	1 	0 	0/0
+Damani Spillman 	3 	31 	0 	0 	0/0
+Marshawn Miller 	3 	29 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ulysses Smith 	3/1 	1.0 	0/0 	0/0 	0/0
+Rodrick Milligan 	8/1 	- 	0/0 	0/0 	0/0
+James Turner 	5/1 	- 	0/0 	0/0 	0/0
+Reggie Hedberg 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/1 	4/4 	37 

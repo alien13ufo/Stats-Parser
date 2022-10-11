@@ -1,0 +1,67 @@
+ Tampa Bay Buccaneers (5-5) at Los Angeles Chargers (2-8) ?
+
+Inglewood, CA - 69 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (5-5) 	0 	7 	14 	10 	- 	31
+:chargers: Los Angeles Chargers (2-8) 	6 	0 	10 	3 	- 	19
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:chargers: Los Angeles Chargers
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	QB Taylor Heiden (9.31) 	C Martin Terry (6.83)
+Worst Player Grade 	CB Manch Matthews (2.77) 	SS Christopher Malone (3.21)
+Offensive Line Rating 	8.23 	8.06
+Sacks 	3 	1
+Punting 	41.9 	45.0
+Punt Return Yards 	4 	41
+Kick Return Yards 	35 	68
+Turnovers 	0 	1
+3rd Down Conversion 	4/11 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/64 	4/35
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	20/29 	261 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	20 	102 	1 	  	0/0
+Jeremiah Newton 	4 	13 	0 	7 	0/0
+Taylor Heiden 	3 	6 	1 	3T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Richard Wilson 	4 	84 	1 	0 	0/0
+Anthony McCardell 	6 	81 	0 	0 	0/0
+Quintavius Pearson 	3 	55 	0 	0 	0/0
+Randall Johnson 	3 	21 	1 	0 	0/0 ?
+Jerry Cipa 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Newhouse 	3/0 	- 	1/1 	0/0 	0/0
+Micah Singletary 	5/0 	1.0 	0/0 	0/0 	0/0
+Frank Williams 	2/0 	1.0 	0/0 	0/0 	0/0
+Darris Hayes 	1/0 	1.0 	0/0 	0/0 	0/0
+Aaron Blakely 	4/0 	- 	0/1 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	1/1 	4/4 	37
+	
+:chargers: Los Angeles Chargers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	22/42 	290 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	11 	45 	1 	8 	0/0
+Mamadou Heard 	2 	9 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Greg Cobb 	6 	89 	0 	1 	0/0
+M.L. Kriewaldt 	4 	71 	1 	1 	1/0
+Jarvis Ward 	5 	50 	0 	1 	0/0
+Gerald Morrison 	3 	40 	0 	0 	0/0
+Scott Howard 	2 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Russell Dixon 	1/0 	1.0 	0/0 	0/0 	0/0
+Jason Bryant 	6/2 	- 	0/0 	0/0 	0/0
+Isaiah Hall 	7/0 	- 	0/0 	0/0 	0/0
+Tunch Richardson 	4/0 	- 	0/0 ? 	0/0 	0/0
+Shane Easley 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Rafael Davidson 	2/2 	1/2 	43, 23 ?

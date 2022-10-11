@@ -1,0 +1,67 @@
+ Tampa Bay Buccaneers (1-2) at Carolina Panthers (2-1) ?
+
+Charlotte, NC - 69 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (1-2) 	7 	0 	0 	0 	- 	7
+:panthers: Carolina Panthers (2-1) 	7 	0 	7 	17 	- 	31
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:panthers: Carolina Panthers
+Injuries 	No Injuries 	WR Troy Wilson - Moderate Concussion
+Top Player Grade 	- 	-
+Worst Player Grade 	WR Cotton Lewis (2.47) 	-
+Offensive Line Rating 	8.19 	8.25
+Sacks 	2 	4
+Punting 	42.1 	45.6
+Punt Return Yards 	14 	19
+Kick Return Yards 	74 	26
+Turnovers 	2 	0
+3rd Down Conversion 	2/13 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/56 	4/36
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	16/32 	147 	1 	0 	1/1
+Devin Conroy 	2/3 	18 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	13 	35 	0 	9 	0/0
+Jeremiah Newton 	3 	4 	0 	2 	1/1
+Taylor Heiden 	2 	4 	0 	5 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Quintavius Pearson 	5 	53 	1 	1 	0/0
+Richard Wilson 	3 	33 	0 	0 	0/0
+Cotton Lewis 	2 	30 	0 	2 	0/0
+William Moore 	2 	22 	0 	0 	0/0
+Jerry Cipa 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Derrick Martin 	4/0 	1.0 	0/0 	0/0 	0/0
+Ruben Walker 	1/0 	1.0 	0/0 	0/0 	0/0
+Andre Brooks 	7/0 	- 	0/0 	0/0 	0/0
+Franklin Crawford 	3/0 	- 	0/0 	0/0 	0/0
+Aaron Blakely 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	0/0 	1/1 	-
+	
+:panthers: Carolina Panthers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs ? 	23/37 	309 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+MIke Latta 	20 	115 	1 	35T 	0/0
+Donnie Hubbert 	2 	5 	1 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Curtis Henry 	5 	86 	1 	0 	0/0
+Monte Jackson 	6 	74 	1 	0 	0/0
+Jermaine Bishop 	4 	65 	0 	0 	0/0
+Troy Wilson 	3 	35 	0 	0 	0/0
+Chip Johnson ? 	2 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Demarius Strong 	3/2 	1.5 	0/0 	1/1 	0/0
+Mike Wohlabaugh 	4/1 	1.0 	0/0 	1/0 	0/0
+Jeff Brooks 	4/0 	1.0 	0/0 	0/1 ? 	0/0
+Darren Manning 	5/0 	0.5 	0/0 	0/0 	0/0
+Kelvin Grossman 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	1/1 	4/4 	37

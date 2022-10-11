@@ -1,0 +1,67 @@
+ Indianapolis Colts (7-4) at Miami Dolphins (9-2) ?
+
+Miami Gardens, FL - 83 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (7-4) 	7 	3 	7 	6 	- 	23
+:dolphins: Miami Dolphins (9-2) 	0 	3 	3 	7 	- 	13
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:dolphins: Miami Dolphins
+Injuries 	ILB Damion Taylor - Severe Achilles Tendonitis 	WR Sam Baugh - Moderate Biceps Pull
+Top Player Grade 	CB Samir Ware (7.95) 	OT Marcellus Peterson (9.87)
+Worst Player Grade 	WR Jamal Brunell (1.45) 	SS Michael Williams (3.37)
+Offensive Line Rating 	8.41 	8.41
+Sacks 	0 	2
+Punting 	42.5 	44.1
+Punt Return Yards 	24 	9
+Kick Return Yards 	38 	64
+Turnovers 	1 	2
+3rd Down Conversion 	4/13 	3/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/35 	4/21
+:colts: Indianapolis Colts
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	28/45 	291 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	14 	62 	1 	11 	0/0
+Fred Tindale 	3 	9 	0 	5 	0/0 ?
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyler Dotson 	9 	77 	0 	0 	0/0
+Mosi Bartos 	6 	74 	0 	1 	0/0
+Sean McDermott 	3 	70 	0 	1 	0/0
+Cayden Reese 	3 	37 	1 	0 	0/0
+Fred Tindale 	2 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Samir Ware 	3/0 	- 	1/1 	0/0 	0/0
+Malachi Douglas 	3/0 	- 	1/0 	0/0 	0/0
+Hudson Adam 	3/2 	- 	0/0 	0/0 	0/0
+Kelly Mitchell 	6/0 	- 	0/1 	0/0 	0/0
+Jonathan Goodwin 	3/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	3/3 	2/2 	48, 20, 36
+	
+:dolphins: Miami Dolphins
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Steven Gore 	20/30 	250 	1 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	17 	55 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marion Reeder 	6 	88 	0 	0 	0/0
+J.C. Weldon 	3 	81 	1 	0 	0/0
+D.J. Gibson 	4 	28 	0 	0 	0/0
+Oscar Fisk 	2 	23 	0 	1 	0/0
+Elias Langston 	2 	22 	0 	1 	0/0
+DEFENSE ? 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Benjamin Robinson 	5/0 	- 	1/0 	0/0 	0/0
+Josh Wilson 	3/1 	1.0 	0/0 	0/0 	0/0
+Dexter Flowers 	3/0 	1.0 	0/0 	0/0 	0/0
+Alejandro Bowen 	5/0 	- 	0/1 	0/0 	0/0
+Laurent Christensen 	1/0 	- 	0/1 ?? 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	2/2 	1/1 	53, 39 

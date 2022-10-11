@@ -1,0 +1,65 @@
+ Tampa Bay Buccaneers (0-0) at Denver Broncos (0-0) ?
+Denver, CO - 70 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (0-0) 	7 	3 	0 	7 	- 	17
+:broncos: Denver Broncos (0-0) 	0 	14 	7 	7 	- 	28
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:broncos: Denver Broncos
+Injuries 	CB Demetrius Still - Moderate Hamstring Tendonitis 	TE Darren Jones - Moderate Biceps Pull
+Top Player Grade 	QB Taylor Heiden (6.57) 	RB J.B. Blacknall (9.28)
+Worst Player Grade 	SS Dwayne Tatum (1.95) 	DT Emanuel Serrano (3.25)
+Offensive Line Rating 	8.21 	8.64
+Sacks 	0 	2
+Punting 	41.6 	46.3
+Punt Return Yards 	14 	64
+Kick Return Yards 	43 	39
+Turnovers 	1 	0
+3rd Down Conversion 	3/11 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/53 	5/43
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	21/33 	206 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	14 	50 	0 	13 	0/0
+Taylor Heiden 	2 	5 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0 ?
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Richard Wilson 	7 	76 	1 	0 	0/0
+Quintavius Pearson 	2 	32 	0 	1 	0/0
+Cotton Lewis 	3 	24 	1 	1 	0/0
+Jeremiah Newton 	2 	22 	0 	0 	0/0
+William Moore 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Thomas Barry 	10/0 	- 	0/0 	0/0 	0/0
+Andre Brooks 	6/0 	- 	0/0 	0/0 	0/0
+Franklin Crawford 	3/0 	- 	0/0 	0/0 	0/0
+Aaron Blakely 	2/0 	- 	0/1 	0/0 	0/0
+Frank Williams 	2/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	1/1 	2/2 	37
+	
+:broncos: Denver Broncos
+Spread - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Jennings 	17/23 	250 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	22 	125 	2 	27 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Artemio Ramirez 	5 	106 	1 	0 	0/0
+Doug Bosley 	4 	45 	0 	1 	0/0
+Ken Peelle 	2 	42 	0 	0 	0/0
+Darren Jones 	2 	32 	1 	0 	0/0
+Sebastian Porter 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Lynn Perry 	2/0 	- 	1/0 	0/0 	0/0
+Deyonte Davis 	3/1 	1.0 	0/0 	0/0 	0/0
+Andrew Phillips 	5/0 	1.0 	0/0 	0/0 	0/0
+Evan Walsh 	6/0 	- 	0/0 	0/0 	0/0
+Cameron Jonah 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	0/1 	4/4 	- 50

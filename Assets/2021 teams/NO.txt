@@ -1,0 +1,60 @@
+QB Aaron Devereaux 6-6 204 5 LSU [Pocket] 94
+QB Nicholas Garland 5-10 210 R Stanford [Pocket] 78
+RB Sterling Brown 6-0 174 5 Texas [Power] 90
+RB Zahir Watts 5-8 171 R Boston College [Speed] 75
+FB John Gastineau 5-11 230 5 Auburn [Run Blocking] 82
+FB John Hernandez 6-2 254 1 Kentucky [Run Blocking] 77
+WR Sean Jenkins 6-6 182 4 North Texas [Speed] 95
+WR Patrick Lambert 6-1 228 1 Boston College [Target] 79
+WR Carlos Warren 5-11 178 6 Michigan [Target] 77
+WR Jamaal Brown-Sanderson 6-1 211 2 Penn State [Target] 75
+WR Bruce Riley 6-1 219 1 Notre Dame [Target] 74
+TE Will Holly 6-2 237 2 UTEP [Receiving] 75
+TE Anthony Baumhower 6-1 237 4 Oklahoma State [Blocking] 71
+OT Roderick White 6-8 304 6 Miami [Pass Blocking] 93
+OT Wesley Dawkins 6-2 282 4 Michigan [Pass Blocking] 86
+OT Travis Clatterbuck 6-1 299 3 LSU [Run Blocking] 83
+OT Damian Mason 6-3 296 R Tennessee [Pass Blocking] 81
+OT Paul Scott 6-0 301 4 Kansas State [Run Blocking] 78
+OG Virgil Madison 6-6 293 5 NC State [Pass Blocking] 84
+OG Dee Harris 6-1 292 4 Ohio State [Pass Blocking] 79
+OG Toma Tumaalii 6-7 322 1 Hawaii [Run Blocking] 80
+OG Marc Kerns 6-1 270 1 Pittsburgh [Run Blocking] 75
+OG Herschel Howard 6-4 271 3 California [Pass Blocking] 71
+C Ryan Poole 6-1 303 6 Texas [Run Blocking] 95
+DE John Peterson 6-5 294 2 USF [Blitz] 80
+DE Adam Scott 6-4 281 6 Ohio State [Contain] 78
+DE Cliff Marconi 6-2 267 4 Florida State [Contain] 76
+DE Paul Cherry 6-3 266 R Minnesota [Blitz] 74
+DT Jeremy Miller 6-1 304 5 Texas Tech [2-Gap] 94
+DT Montae Kelly 6-2 299 3 Michigan [1-Gap] 75
+DT Felix Welch 6-6 304 3 Oklahoma State [2-Gap] 71
+ILB Rabih Delaney 6-1 237 6 Auburn [Mike] 86
+ILB Garrett Holliday 6-3 234 R Arizona State [Mike] 81
+ILB Brad Hood 6-1 219 4 Michigan State [Mike] 77
+ILB Michael Patten 6-2 237 3 California [Will] 75
+ILB Gregory Kellogg 6-3 235 3 Ohio State [Will] 75
+OLB Austin Olson 5-11 234 3 Notre Dame [Blitz] 89
+OLB Ray Flores 6-1 234 7 BYU [Coverage] 84
+OLB Dominic Cooper 5-11 224 4 UCLA [Coverage] 73
+OLB Kevin Little 5-11 234 2 Texas A&M  [Blitz] 71
+OLB Chance McKenzie 6-3 242 R Syracuse [Coverage] 69
+CB George Brady 5-11 181 6 Nebraska [Man Coverage] 84
+CB Shawn Tennell 6-1 179 7 USC [Man Coverage] 82
+CB Devin Little 5-9 204 R Michigan [Man Coverage] 77
+CB Alex Stanford 5-9 194 1 Rutgers [Man Coverage] 75
+FS Koren Donahue 5-10 190 2 Rice [Zone Coverage] 83
+FS Mike Jimenez 6-0 199 4 NC State [Zone Coverage] 79
+FS Amadou Coley 5-10 200 2 Henry Ford Community College [Man Coverage] 74
+SS Corey Davis 6-2 195 1 Pittsburgh [Zone Coverage] 81
+SS Willie Wood 6-1 198 6 Texas [Man Coverage] 81
+SS Frederick Higgins 5-11 187 3 Penn State [Man Coverage] 77
+K Jack Kershner 6-0 174 R Montana [Power] 82
+P Adonis Rosa 5-10 183 2 Tennessee [Power] 83
+ QB Jaiden Grant 6-3 239 1 Florida [Pocket] 75
+RB Ben Curry 5-11 193 2 Boston College [Speed] 72
+DE Larry Scott 6-3 255 1 Nebraska [Blitz] 72
+ILB Michael Avery 5-11 247 1 North Carolina [Will] 77
+CB Jonathan Salter 6-0 192 R Illinois [Zone Coverage] 68
+WR Steve Alexander 6-6 184 5 Florida [Target] 80
+TE Patrick Glass 6-6 203 1 Mississippi State [Receiving] 79

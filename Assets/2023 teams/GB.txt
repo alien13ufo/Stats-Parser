@@ -1,0 +1,53 @@
+QB Jason Johnson 5-11 190 9 UCLA [Pocket] [0] 96?
+QB Jon Wilson 6-5 205 5 USC [Hybrid] [0] 80
+RB Jaz Durant 6-1 195 4 Auburn [Speed] [0] 85
+RB Gil Novacek 5-11 188 5 Arizona [Power] [-1] 78
+RB Corey McShay 5-9 178 1 Dayton [Speed] [0] 76
+FB Fredrick Marshall 6-2 174 3 TCU [Pass Blocking] [0] 83
+WR Dan Nomellini 6-1 182 9 Texas [Target] [0/C] 93
+WR Justin McCain 6-2 181 3 North Carolina [Speed] [-2] 90
+WR Artavius Hopkins 5-9 204 1 Arkansas State [Speed] [0] 80
+WR Freddie Jackson 6-3 218 R Indiana [Target] [0] 79
+WR Michael Allen 6-2 214 3 Wisconsin [Target] [0] 78
+WR Dan Murphy? 6-1 196 4 Iowa [Speed] [0] 74
+TE Manny Ferguson 6-?3 205 1 Boston College [Receiving] [+1] 83?
+TE Luke Graf 6-3 196 3 Nebraska [Receiving] [0] 81?
+TE Sheldon Morrison 6-4 231 3 McNeese State [Blocking] [-1] 74
+OT Quinn Bouman 6-4 310 7 Ohio State [Run Blocking] [+1] 91
+OT David Hughes 6-0 294 6 Utah [Pass Blocking] [0] 87
+OT Charles O’Keefe 6-3 257 3 Alabama [Pass Blocking] [0] 80
+OT W.K. Olafson 6-7 324 4 Oregon [Run Blocking] [0] 77
+OG Lucas Hopkins 6-6 261 3 Missouri [Run Blocking] [0] 91
+OG Rodrick Norton 6-4 318 8 Auburn [Pass Blocking] [+1] 84
+OG John Young 6-6 291 4 LSU [Pass Blocking] [0] 80
+OG Walter Shannon 6-5 290 R Texas Tech [Pass Blocking] [+2/C] 78
+C Lucas Hurd 6-4 276 3 Alabama [Pass Blocking] [+2/C] ?92
+C Tim Keaton 6-7 286 5 West Virginia [Run Blocking] [0] 76
+??DE Barron ?Anthony 6-3 278 8 USC [Blitz] [-1] 89
+DE Kaulana Groth 6-7 304 8 Ohio State [Contain] [-1] 87
+DE Thomas Henry 6-6 295 5 Maryland [Contain] [0] 79
+DE Calvin Farmer 6-2 248 R Kentucky [Blitz] [-2] 77?
+DE Cory Hall 5-10 237 1 Penn State [Blitz] [0] 77
+DT Carter Jackson 6-6 273 6 Boise State [1-Gap] [0] 83
+DT Constantine Burnham 6-1 285 2 Arizona [1-Gap] [0] 79
+DT Paul Barkley 6-0 315 2 Purdue [2-Gap] [0] 77?
+ILB Ja?mal Harley 6-3 222 2 Illinois [Mike] [+2] 85
+ILB Ryan Hanspard 6-1 217 6 Penn State [Will] [0] 80?
+ILB James Robertson 6-2 235 3 Texas [Mike] [0] 77
+ILB Carter Duncan 6-1 244 1 Wake Forest [Mike] [0] 77
+OLB W.M. Mitchell 5-10 217 7 Michigan [Coverage] [0] 83
+OLB Brady Christiansen 6-0 249 2 Mississippi State [Coverage] [0] 83
+OLB Matt Marino 6-4 215 R Michigan State [Coverage] [0] 79
+OLB Garrison Jackson 6-1 226 7 Oklahoma State [Cov?era?ge] [+3/C] 78
+OLB Shawn Richardson 6-0 238 3 Vanderbilt [Coverage] [0] 76
+CB Marquise Reed 6-1 173 3 Clemson [Man Coverage] [-1] 92
+CB Cameron Bowman 6-0 180 4 Arizona [Man Coverage] [+1] 89
+CB Vontae Johnson 6-3 207 4 Stanford [Man Coverage] [0] 81
+CB Adam Goss 6-1 222 4 Texas A&M [Man Coverage] [-1] 76?
+CB Tegray Wingard 6-0 200 1 Nevada [Man Coverage] [0/C] 74?
+FS James White 6-1 216 3 Alabama [Man Coverage] [0] 86
+FS Marion Ekern 5-9 169 6 Alabama [Man Coverage] [0] 78
+SS Julio Barnes 5-11 194 5 Utah [Man Coverage] [+1/C] 93
+K Brian Evans 5-9 175 6 Florida [Accuracy] [0/C] 89
+P Steve Smith 6-4 169 7 Oklahoma [Power] [0] 91?
+PR Reshard Powell 5-10 182 2 South Dakota [Specialist] [0] 75

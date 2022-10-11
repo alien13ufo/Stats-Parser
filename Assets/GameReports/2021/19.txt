@@ -1,0 +1,55 @@
+ Cleveland Browns (1-0) at New York Jets (1-0)
+
+East Rutherford, NJ - 76 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (1-0) 	0 	14 	0 	3 	- 	17
+:jets: New York Jets (1-0) 	0 	3 	14 	3 	- 	20
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:jets: New York Jets
+Injuries 	No Injuries 	Corey Quinn, CB - Moderate Wrist Bruise
+Offensive Line Rating 	8.4 	8.3
+Sacks 	2 	3
+Punting 	42.5 	45.3
+Punt Return Yards 	28 	58
+Kick Return Yards 	45 	51
+Turnovers 	2 	2
+3rd Down Conversion 	4/12 	6/16
+4th Down Conversion 	1/1 	0/0
+Penalties 	9/75 	8/104
+:browns: Cleveland Browns
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	17/24 	235 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	23 	98 	0 	22 	0/0
+Ryan Clark 	6 	34 	0 	15 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tai Miller 	7 	109 	1 	0 	0/0
+Ray Lee Marconi 	3 	50 	0 	0 	0/0
+Jason McClairen 	2 	33 	1 	0 	1/0
+Dean Burkhart 	2 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jesse Solano 	1/0 	- 	1/0 	0/0 	0/0
+Nigel Strong 	0/0 	- 	1/0 	0/0 	0/0
+Ray McBride 	2/0 	1.0 	0/0 	0/0 	0/0
+Je'Rod Wimbush 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	1/2 	2/2 	44 - 49
+	
+:jets: New York Jets
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	25/35 	294 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	13 	45 	0 	20 	0/0
+Marvin Washington 	1 	9 	0 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell 	8 	102 	0 	0 	0/0
+Marcus Ratterman 	5 	84 	2 	2 	0/0
+Matt Stone 	3 	56 	0 	0 	0/0
+Sam Chapman 	4 	38 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Marques Warner 	3/0 	- 	1/0 	0/0 	0/0
+Sebastian Vaughn 	5/0 	- 	1/1 	0/0 	0/0
+Bob Ballard 	5/0 	1.5 	0/0 	0/0 	0/0
+Alvis Brumm 	3/1 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	2/2 	2/2 	44, 42 

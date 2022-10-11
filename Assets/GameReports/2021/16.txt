@@ -1,0 +1,68 @@
+ Detroit Lions (0-0) at Los Angeles Rams (0-0)
+
+Inglewood, CA - 83 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:fibur: Detroit Lions (0-0) 	3 	3 	3 	0 	- 	9
+:rams: Los Angeles Rams (0-0) 	7 	13 	3 	14 	- 	37
+Team Stats Comparison
+  	:fibur: Detroit Lions 	:rams: Los Angeles Rams
+Injuries 	
+
+Keyshawn Thompson, CB - Moderate Foot Fracture
+
+Ilan Kuhn, DE - Mild Achilles Tendonitis
+
+Wilson Hutchinson, OG - Severe Biceps Strain
+	
+
+Jamal Hawkins, TE - Severe ACL Tear
+
+ 
+
+ 
+Offensive Line Rating 	7.9 	8.0
+Sacks 	2 	4
+Punting 	44.3 	43.1
+Punt Return Yards 	6 	29
+Kick Return Yards 	65 	24
+Turnovers 	2 	0
+3rd Down Conversion 	3/14 	5/9
+4th Down Conversion 	1/2 	0/0
+Penalties 	5/49 	8/84
+:fibur: Detroit Lions
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	16/30 	189 	0 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	13 	55 	0 	13 	0/0
+Logan Pruitt 	5 	17 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony Fasani 	6 	51 	0 	0 	0/0
+Rex Walsh 	3 	48 	0 	1 	0/0
+Jeremy Cook 	2 	40 	0 	0 	0/0
+Calvin Jones 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Jones 	7/1 	1.5 	0/0 	0/0 	0/0
+Doug Carolan 	3/1 	0.5 	0/0 	0/0 	0/0
+Andre Brooks 	6/0 	- 	0/0 	0/1 	0/0
+Earl Jackson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	3/3 	0/0 	45, 35, 28
+	
+:rams: Los Angeles Rams
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	22/34 	295 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Frederick Chacon 	16 	69 	1 	22T 	0/0
+Terrell Holland 	4 	7 	1 	5 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Andrew Yearney 	5 	72 	1 	0 	0/0
+Derrick Schwartz 	4 	51 	1 	1 	0/0
+Walt Peck 	3 	48 	0 	1 	0/0
+Allama Banta 	4 	42 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brandon Sauter 	5/0 	- 	1/1 	0/0 	0/0
+Thomas Patterson 	1/0 	- 	1/1 	0/0 	0/0
+Michael Bruce 	4/1 	2.0 	0/0 	0/0 	0/0
+Jared Self 	3/1 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Hunter Hendrickson 	1/2 	4/5 	37 - 47 

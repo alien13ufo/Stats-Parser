@@ -1,0 +1,70 @@
+ Pittsburgh Steelers (1-2) at Cincinnati Bengals (1-2)
+
+Cincinnati, OH - 65 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:steelers: Pittsburgh Steelers (1-2) 	7 	3 	14 	14 	3 	41
+:bengals: Cincinnati Bengals (1-2) 	0 	7 	10 	21 	0 	38
+Team Stats Comparison
+  	:steelers: Pittsburgh Steelers 	:bengals: Cincinnati Bengals
+Injuries 	
+
+No Injuries
+
+ 
+	
+
+Blake Pile, OT - Mild Ankle Dislocation
+
+Kenneth Schwartz, FS - Mild Shoulder Rotator Cuff
+Offensive Line Rating 	8.0 	7.6
+Sacks 	1 	1
+Punting 	44.6 	42.1
+Punt Return Yards 	38 	31
+Kick Return Yards 	41 	20
+Turnovers 	2 	1
+3rd Down Conversion 	6/13 	7/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/50 	6/83
+
+:steelers: Pittsburgh Steelers
+
+(Pistol - Pro Style)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+R.J. Stanford 	15/24 	209 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	25 	101 	1 	16 	1/1
+Kalei Keil 	7 	42 	1 	22 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jake Schmidt 	4 	75 	1 	0 	0/0
+Charlie Paul 	2 	40 	1 	0 	0/0
+Samuel Jolley 	3 	35 	1 	0 	0/0
+Austin Medina 	2 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Carlos Washington 	6/2 	1.0 	0/0 	1/0 	0/0
+Quentin Smith 	6/1 	- 	0/0 	0/1 	0/0
+Ron Mobley 	5/2 	- 	0/0 	0/0 	0/0
+Dane Wilson 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Michael Turner 	2/2 	5/5 	25, 28
+	
+
+:bengals: Cincinnati Bengals
+
+(Smash Mouth - Pistol)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	13/18 	229 	1 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	28 	140 	2 	36T 	0/0
+Nick Engelberger 	6 	32 	1 	18 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	5 	121 	0 	0 	0/0
+Steven Maloney 	2 	35 	0 	0 	0/0
+Brandon Lane 	2 	32 	0 	0 	0/0
+Jamir Blackburn 	1 	27 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Blake Turner 	3/0 	- 	1/1 	0/0 	1/0
+Mike Hulsey 	7/0 	1.0 	0/0 	0/0 	0/0
+R.C. Rone 	5/0 	- 	0/2 	0/0 	0/0
+Germane Dixon 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	1/1 	5/5 	43 

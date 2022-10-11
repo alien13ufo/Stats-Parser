@@ -1,0 +1,67 @@
+ Los Angeles Rams (0-6) at Philadelphia Eagles (2-3) ?
+
+Philadelphia, PA - 56 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:rams: Los Angeles Rams (0-6) 	0 	7 	10 	0 	- 	17
+:eagles: Philadelphia Eagles (2-3) 	14 	7 	7 	3 	- 	31
+Team Stats Comparison
+  	:rams: Los Angeles Rams 	:eagles: Philadelphia Eagles
+Injuries 	WR Allama Banta - Moderate Hamstring Tendonitis 	RB Marshawn Miller - Severe Quadriceps Strain
+Top Player Grade 	OLB Jeff Cox (7.00) 	RB Troy White (8.19)
+Worst Player Grade 	CB Jeremy Starks (3.25) 	WR Christopher Johnson (4.34)
+Offensive Line Rating 	7.99 	8.28
+Sacks 	1 	3
+Punting 	43.6 	45.2
+Punt Return Yards 	5 	19
+Kick Return Yards 	95 	46
+Turnovers 	2 	1
+3rd Down Conversion 	4/14 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	10/104 	11/86
+:rams: Los Angeles Rams
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	17/28 	199 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daveed Knox 	13 	41 	0 	12 	1/1
+Terrell Holland 	4 	19 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Walt Peck 	4 	43 	0 	1 	0/0
+Kevin O'Neal 	3 	41 	1 	0 	0/0
+Allama Banta 	3 	40 	0 	1 	0/0
+Steve Alexander 	3 	32 	1 	0 	0/0
+Jamal Hawkins 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Thomas Patterson 	3/0 	- 	1/0 	0/0 	0/0
+Jeff Cox 	4/0 	1.0 	0/0 	0/0 	0/0
+Brandon Sauter 	6/0 	- 	0/0 	0/0 	0/0
+Markus Golden 	4/0 	- 	0/0 	0/0 	0/0
+Michael Bruce 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Walsh 	1/1 	2/2 	38
+	
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	17/24 	180 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	16 	106 	1 	31T 	0/0
+Allan Taylor 	7 	39 	1 	25 	0/0
+Marshawn Miller 	9 	33 	0 	20 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Michael Hawkins 	5 	64 	0 	0 	0/0
+Sebastian Babb 	3 	41 	0 	0 	0/0
+Erik Bray 	3 	23 	1 	0 	0/0
+Christopher Johnson ? 	2 	20 	0 	1 	0/0
+Cameron Whelahan 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Bowden 	2/0 	- 	1/0 	0/0 	1/0
+Tommy Brooks 	3/0 	1.0 	0/0 	0/0 	0/0
+Lawrence Marshall 	1/1 	1.0 	0/0 	0/0 	0/0
+Ryan Frey 	2/0 	1.0 	0/0 	0/0 	0/0
+Rodrick Milligan 	7/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP ? 	KICK DISTANCES
+Mark Kirschbaum 	1/1 	4/4 	37 

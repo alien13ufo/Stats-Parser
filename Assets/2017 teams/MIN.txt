@@ -1,0 +1,40 @@
+QB Brian Vardell 6-2 200 3 Washington State [Pocket] 97
+RB Chester Henson 5-11 226 3 USC [Speed] 99
+RB Rasheed Kent 6-1 205 1 Minnesota [Power] 78
+FB Anthony Thomas 5-11 222 2 Texas [Speed] 80
+WR Sonny Beckett 6-6 188 R Miami [Speed] 80
+WR Mark Walker 5-11 190 3 Florida [Speed] 80
+WR Eric Minter 6-4 187 2 Tennessee [Target] 78
+WR Sid Wilson 6-1 205 R Stanford [Target] 72
+TE Bill Jenkins 6-5 242 2 Virginia Tech [Run Blocking] 87
+TE Larry Turner 6-3 235 2 PennState [RunBlocking] 79
+OT MacKenzie Woods 6-4 313 3 USC [Run Blocking] 88
+OT Rodney Todd 6-5 312 1 Georgia [PassBlocking] 76
+OG Joe Smith 6-2 300 2 Arizona State [Pass Blocking] 82
+OG Ernest Welch 6-8 313 R Arizona [Pass Blocking] 68
+OG Tony Baxter 6-7 317 1 USC [RunBlocking] 79
+OG Chuck Carroll 6-5 316 R UCLA [Pass Blocking] 65
+OG Michael Bellamy 6-1 299 R Rutgers [Run Blocking] 65
+C Tim Beban 6-1 301 R LSU [Pass Blocking] 73
+OT Bryan Green 6-3 312 1 VirginiaTech [RunBlocking] 82
+DE Dennis Niland 6-4 284 1 USC [PassStop] 87
+DE Ernie Bouggess 6-2 272 R West Virginia [Run Stop] 70
+DE Brant Thomas 6-2 270 2 Georgia [Run Stop] 84
+DT Jared Lee 6-5 313 2 Florida State [RunStop] 82
+DT Frank Jones 6-5 295 R Iowa [Run Stop] 75
+DT Toussaint Tasker 6-5 294 R UCLA [Run Stop] 68
+ILB Cleveland Merrill 6-1 236 2 Ole Miss [Pass Man-to-Man] 93
+ILB Eric Jones 6-1 238 1 LSU [PassMan-to-Man] 82
+ILB Stephen McKenzie 6-1 234 R Wisconsin [Pass Man-to-Man] 70
+OLB Arlie LeClair 6-2 245 3 Virginia Tech [Pass Man-to-Man] 89
+OLB Charley Graham 5-11 224 R UCLA [Pass Man-to-Man] 72
+OLB Mike Johnson 6-0 240 R Houston [Pass Man-to-Man] 75
+CB Jim Dupre 6-2 182 R Nebraska [Zone Coverage] 79
+CB Jim Brewer 6-2 195 R Michigan [Zone Coverage] 77
+CB Rashaan Viger 5-11 177 2 USC [ZoneCoverage] 74
+CB Richard Hoge 5-9 190 R Auburn [Zone Coverage] 65
+FS Terry Cole 6-2 202 3 Ole Miss [Man Coverage] 76
+FS Colston Watson 5-10 191 R Clemson [Man Coverage] 73
+SS Darren Manning 6-4 189 1 Tennessee [ZoneCoverage] 85
+SS Tom Crabtree 5-10 180 2 Virginia [ManCoverage] 71
+K Ryan Levcik 5-9 177 1 Alabama [Power] 86

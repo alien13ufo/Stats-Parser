@@ -1,0 +1,67 @@
+ New England Patriots (0-3) at New York Jets (0-3) ?
+
+East Rutherford, NJ - 64 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:patriots: New England Patriots (0-3) 	0 	7 	3 	7 	- 	17
+:jets: New York Jets (0-3) 	10 	0 	7 	10 	- 	27
+Team Stats Comparison
+  	:patriots: New England Patriots 	:jets: New York Jets
+Injuries 	OLB Peter Williams - Severe Foot Fracture 	No Injuries
+Top Player Grade 	WR Geno Harris (8.26) 	RB Sam Chapman (8.30)
+Worst Player Grade 	CB Matty Brennan (3.63) 	CB Samuel Shaw (3.84)
+Offensive Line Rating 	8.54 	8.47
+Sacks 	2 	1
+Punting 	46.5 	48.2
+Punt Return Yards 	15 ? 	21
+Kick Return Yards 	47 	70
+Turnovers 	2 	1
+3rd Down Conversion 	5/12 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	14/108 	10/85
+:patriots: New England Patriots
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	23/40 	261 	2 	1 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Michael Duckworth 	9 	21 	0 	5 	1/0
+John Harris 	4 	-7 	0 	0 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Geno Harris 	9 	95 	1 	0 	0/0
+Jamel Beckham 	4 	62 	1 	0 	0/0
+Carlos Perez 	3 	40 	0 	0 	0/0
+Tommy Pottios 	2 	31 	0 	1 	0/0
+Michael Duckworth 	3 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dave Stokley 	2/0 	- 	1/0 	0/0 	0/0
+Phillip Davenport 	6/1 	1.0 	0/0 	0/0 	0/0
+Rich Moore 	2/0 	1.0 	0/0 	0/0 	0/0
+Mark Craig 	5/0 	- 	0/0 	0/0 	0/0
+Peter Williams 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	1/2 	2/2 	37 - 51
+	
+:jets: New York Jets
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	17/29 	288 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	20 	100 	1 	33T 	0/0
+Marvin Washington 	6 	51 	0 	21 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adam Coles 	3 	76 	1 	0 	0/0
+Israel Hawker 	5 ? 	73 	0 	0 	0/0
+Paul Howell 	4 	45 	0 	0 	0/0
+Matt Stone 	2 	40 	0 	1 	0/0
+Marvin Washington 	1 ? 	31 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Nathaniel Woodworth 	2/0 	- 	1/0 	0/0 	0/0
+Sebastian Vaughn 	3/0 	1.0 	0/0 	0/0 	0/0
+Javier Davenport 	2/0 	- 	0/0 	1/0 	0/0
+Dennis Himes 	2/0 	- 	0/0 	1/0 	0/0
+Chris Tucker 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Chris Hoag 	2/2 	3/3 	50, 31 

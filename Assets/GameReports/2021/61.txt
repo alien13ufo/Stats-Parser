@@ -1,0 +1,61 @@
+ Dallas Cowboys (1-2) at Los Angeles Rams (1-2)
+
+Inglewood, CA - 76 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cowboys: Dallas Cowboys (1-2) 	6 	7 	0 	0 	- 	13
+:rams: Los Angeles Rams (1-2) 	7 	7 	3 	14 	- 	31
+Team Stats Comparison
+  	:cowboys: Dallas Cowboys 	:rams: Los Angeles Rams
+Injuries 	No Injuries 	Quinn Cooper, FS - Moderate Hamstring Bruise
+Offensive Line Rating 	8.6 	8.2
+Sacks 	1 	0
+Punting 	43.2 	46.6
+Punt Return Yards 	4 	26
+Kick Return Yards 	23 	18
+Turnovers 	0 	0
+3rd Down Conversion 	5/15 	3/10
+4th Down Conversion 	0/0 	1/1
+Penalties 	8/74 	4/38
+
+:cowboys: Dallas Cowboys
+
+(Wing T 2RB - Option)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Luke Williams 	9/15 	111 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	23 	100 	1 	26 	0/0
+Adrian Robinson 	7 	32 	0 	16 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kurt Hill 	3 	40 	0 	0 	0/0
+Francisco Gibson 	2 	32 	0 	0 	0/0
+Benjamin Franklin 	1 	21 	0 	0 	0/0
+Alex Gash 	1 	7 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Romulus Jackson 	7/0 	- 	0/2 	0/0 	0/0
+Adam Taylor 	5/0 	- 	0/0 	0/0 	0/0
+Cleo Blair 	5/0 	- 	0/0 	0/0 	0/0
+Javier Grady 	1/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	2/2 	1/1 	45, 23
+	
+
+:rams: Los Angeles Rams
+
+(Spread - Pro Style)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	20/30 	300 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Frederick Chacon 	16 	70 	1 	15 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Allama Banta 	6 	92 	1 	0 	0/0
+Kevin O'Neal 	6 	67 	1 	0 	0/0
+Walt Peck 	3 	63 	1 	0 	0/0
+Andrew Williamson 	1 	45 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Leigh Davey 	8/0 	- 	0/1 	0/0 	0/0
+Daniel Watkins 	5/1 	- 	0/0 	0/0 	0/0
+Anthony Beltran 	5/0 	- 	0/0 	0/0 	0/0
+Michael Bruce 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Hunter Hendrickson 	1/2 	4/4 	38 - 50 

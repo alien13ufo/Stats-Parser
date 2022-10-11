@@ -1,0 +1,55 @@
+ Green Bay Packers (2-0) at Dallas Cowboys (1-1)
+
+Arlington, TX - 84 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:packers: Green Bay Packers (2-0) 	14 	3 	0 	7 	- 	24
+:cowboys: Dallas Cowboys (1-1) 	7 	6 	3 	0 	- 	16
+Team Stats Comparison
+  	:packers: Green Bay Packers 	:cowboys: Dallas Cowboys
+Injuries 	No Injuries 	Cleo Blair, ILB - Mild Quadriceps Strain
+Offensive Line Rating 	8.2 	8.2
+Sacks 	0 	2
+Punting 	45.6 	43.0
+Punt Return Yards 	12 	25
+Kick Return Yards 	22 	40
+Turnovers 	1 	1
+3rd Down Conversion 	6/13 	4/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/93 	9/99
+:packers: Green Bay Packers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	25/35 	280 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	15 	62 	1 	15 	0/0
+Gil Novacek 	6 	26 	0 	20 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Bernard Taylor 	7 	102 	1 	0 	0/0
+Justin McCain 	6 	92 	1 	0 	0/0
+Dan Nomellini 	6 	53 	0 	1 	0/0
+Tom Grant 	3 	35 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Julio Barnes 	5/1 	- 	1/0 	0/0 	0/0
+Richard Wilson 	7/1 	- 	0/0 	0/0 	0/0
+Donovan Faulk 	4/0 	- 	0/0 	0/0 	0/0
+Damione Ellis 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	1/2 	3/3 	33 - 50
+	
+:cowboys: Dallas Cowboys
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Luke Williams 	10/20 	160 	0 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	22 	98 	1 	21 	0/0
+Adrian Robinson 	8 	64 	0 	35T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Benjamin Franklin 	2 	55 	0 	0 	0/0
+Francisco Gibson 	4 	39 	0 	1 	0/0
+Kurt Hill 	2 	32 	0 	0 	0/0
+Vaughan Abraham 	1 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Emmanuel Slade 	3/0 	- 	1/1 	0/0 	0/0
+Javier Grady 	5/0 	1.0 	0/0 	0/0 	0/0
+Joseph Randolph 	3/0 	1.0 	0/0 	0/0 	0/0
+Cleo Blair 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	3/3 	1/1 	40, 45, 23 

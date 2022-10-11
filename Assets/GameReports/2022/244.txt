@@ -1,0 +1,67 @@
+ Indianapolis Colts (8-7) at Houston Texans (5-10) ?
+
+Houston, TX - 65 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (8-7) 	7 	3 	6 	13 	- 	29
+:texans: Houston Texans (5-10) 	7 	7 	7 	7 	- 	28
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:texans: Houston Texans
+Injuries 	No Injuries 	WR Spencer Saul - Moderate Concussion
+Top Player Grade 	WR Mosi Bartos (8.66) 	DT Bob Ballard (9.05)
+Worst Player Grade 	SS Jonathan Norman (2.50) 	FS Michael Bryan (1.85)
+Offensive Line Rating 	8.25 	8.24
+Sacks 	2 	0
+Punting 	46.6 	48.4
+Punt Return Yards 	4 	17
+Kick Return Yards 	84 	57
+Turnovers 	1 	2
+3rd Down Conversion 	4/12 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/66 	8/67
+:colts: Indianapolis Colts
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	20/33 	245 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	19 	94 	1 	16 	0/0
+Fred Tindale 	3 	12 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mosi Bartos 	8 	115 	1 	0 	0/0 ?
+Messiah Bernard 	2 	59 	1 	0 	0/0
+Tyler Dotson 	3 	32 	0 	1 	0/0
+Sean McDermott 	2 	20 	0 	1 	0/0
+Cayden Reese 	3 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dwayne Carter 	3/0 	- 	1/0 	0/0 	0/0
+Chris Brown 	2/0 	- 	1/0 	0/0 	0/0
+Anthony Miller 	3/0 	1.0 	0/0 	0/0 	0/0
+Jonathan Goodwin 	3/0 	1.0 	0/0 	0/0 	0/0
+Lukas Forman 	7/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	3/3 	2/2 	44, 32, 29
+	
+:texans: Houston Texans
+Air Raid - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	31/50 	306 	4 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Arturo Pacheco 	12 	50 	0 	12 	0/0
+Brendan Milton 	1 	-4 	0 	-4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marvin White 	9 	110 	1 	0 	0/0
+Jeremy Scarborough 	7 	76 	1 	1 	0/0
+Cameron Lindsey 	4 	45 	0 	1 	0/0
+Kendall Brandon 	6 	43 	2 	0 	0/0
+Arturo Pacheco 	2 	22 	0 	0 	0/0
+DEFENSE ? 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Richard Jones 	3/0 	- 	1/0 	0/0 	0/0
+Bob Ballard 	6/3 	- 	0/0 	0/0 	0/0
+Miles Slater 	5/1 	- 	0/0 	0/0 	0/0
+Robert Fulton 	4/0 	- 	0/0 	0/0 	0/0
+Blair Williams 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	0/0 	4/4 	- ?

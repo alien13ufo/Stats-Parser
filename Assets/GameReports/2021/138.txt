@@ -1,0 +1,70 @@
+ Jacksonville Jaguars (5-3) at Houston Texans (3-5)
+
+Houston, TX - 73 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jaguars: Jacksonville Jaguars (5-3) 	14 	14 	0 	3 	0 	31
+:texans: Houston Texans (3-5) 	0 	7 	17 	7 	6 	37
+Team Stats Comparison
+  	:jaguars: Jacksonville Jaguars 	:texans: Houston Texans
+Injuries 	
+
+Asante Sowell, RB - Severe ACL Rupture
+
+Donnie Bavaro, OLB - Severe Thumb Bruise
+
+Larry Reeves, SS - Mild Hip Strain
+	
+
+Matt Bogle, OT - Moderate Hip Bruise
+
+ 
+
+ 
+Offensive Line Rating 	8.3 	8.2
+Sacks 	3 	1
+Punting 	45.6 	43.1
+Punt Return Yards 	37 	41
+Kick Return Yards 	46 	24
+Turnovers 	0 	1
+3rd Down Conversion 	5/15 	4/12
+4th Down Conversion 	0/0 	1/1
+Penalties 	3/29 	6/48
+:jaguars: Jacksonville Jaguars
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Barkley 	17/30 	189 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Owen Walton 	14 	53 	1 	9 	0/0
+Asante Sowell 	7 	40 	2 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Raheem Robinson 	4 	66 	0 	0 	0/0
+Gary Faneca 	5 	61 	1 	0 	0/0
+Derek Harrison 	2 	30 	0 	0 	0/0
+Tyrone Turner 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Gary Chamberlain 	2/0 	- 	1/0 	0/0 	0/0
+Preston Bryant 	4/0 	1.5 	0/0 	0/0 	0/0
+Ron Rice 	2/0 	1.0 	0/0 	0/0 	0/0
+Hugh Boerigter 	1/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	1/1 	4/4 	53
+	
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	21/38 	230 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jermaine Lockett 	14 	60 	1 	14 	0/0
+Arturo Pacheco 	4 	27 	1 	20T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marvin White 	6 	102 	1 	0 	0/0
+Hakeem Black 	5 	76 	0 	1 	0/0
+Jeremy Scarborough 	4 	23 	1 	0 	0/0
+Arturo Beckham 	3 	13 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Robert Fulton 	3/0 	1.0 	0/0 	0/0 	0/0
+Michael Bryan 	6/0 	- 	0/1 	0/0 	0/0
+Joseph Blair 	5/2 	- 	0/0 	0/0 	0/0
+Richard Jones 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	1/1 	4/4 	47 

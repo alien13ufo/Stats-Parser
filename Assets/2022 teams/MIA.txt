@@ -1,0 +1,53 @@
+QB Brian Brown 6-4 228 7 Boise State [Pocket] [+1/C] 99
+QB ?Steven? Gore? 5-11 235 R UCLA [Pocket]? [+1]? 77?
+RB Marcus Barry 6-0 193 6 Ohio State [Power] [0] 91
+RB Daniel Curtis 5-10 192 1 Eastern Illinois [Power] [-3] 78
+RB Caleb Sherwin 6-0 192 3 Missouri [Speed] [0] 75?
+FB Alex Engram 6-1 252 7 TCU [Pass Blocking] [+1/C] 83
+WR Marcus Ratterman 6-4 190 3 Hawaii [Speed] [-2] 81
+WR J.C. Weldon 6-2 183 1 West Virginia [Target] [0] 86
+WR Jim Umenyiora 6-2 197 6 NC State [Speed] [0/C] 84
+WR Sam Baugh 6-4 228 R Air Force [Target] [+2/C] 79
+WR Marion Reeder 5-11 210 6 Nebraska [Target] [-1] 80
+WR Elias Langston 6-0 227 R West Virginia [Target] [+1/C] 71
+TE D.J. Gibson 6-5 232 4 North Carolina [Receiving] [+2/C] 90
+TE Oscar Fisk 6-8 245 4 Washington [Receiving] [0] 79
+TE Denario Jackson 6-1 219 4 Pittsburgh [Receiving] [+1] 76
+OT Marcellus Peterson 6-2 328 8 Alabama [Run Blocking] [0/C] 96
+OT Ricky Edwards 6-1 269 4 Auburn [Run Blocking] [0] 86
+OT Joseph Stanford 6-6 281 4 Cincinnati [Run Blocking] [0] 83
+OT Ben Goode 6-6 312 1 Kansas [Pass Blocking] [0/C] 81
+OG Jace Blakley 6-2 312 7 Tennessee [Pass Blocking] [+1] 94
+OG Todd Hevesy 6-2 284 4 Michigan State [Pass Blocking] [0] 85
+OG Charles Harkins 6-4 279 3 Louisville [Pass Blocking] [-2] 81
+OG Osvaldo? Dunham 6-1 299 4 Arizona [Run Bloc?king] [0] 74
+C Haskel Moore 6-8 315 7 Florida State [Pass Blocking] [0/C] 80
+C Aaron Petersen 6-4 255 1 Virginia Tech [Run Blocking] [0] 80
+DE Benjamin Blankenship 6-1 290 4 Georgia [Blitz] [-2] 88
+DE Dexter Flowers 6-1 265 2 Southern Miss [Blitz] [0] 85
+DE Isaiah Riggins 6-3 253 3 South Carolina [Blitz] [+1] 80
+DE Clifton Chong 6-6 254 3 Wisconsin [Blitz] [0] 72
+DT Josh Wilson 6-7 278 6 Texas Tech [1-Gap] [0] 84
+DT Nigel McKinney 6-4 296 2 Georgia [1-Gap] [-1] 79
+DT David Lee 6-3 278 7 Mississippi State [1-Gap] [0] 83?
+DT Kaden Oglesby 6-3 291 R Boise State [1-Gap] [0] 76
+ILB Phillip Moore 5-11 216 5 Houston [Will] [0/C] 89
+ILB Benjamin Thompson 5-10 220 3 Marshall [Mike] [0/C] 81
+ILB Stephen McKenzie 6-1 234 5 Wisconsin [Will] [0] 76
+ILB Braylon Shippen 6-3 247 R Alabama [Mike] [+1] 70
+OLB Benjamin Robinson 6-0 240 3 Boston College [Coverage] [0] 83
+OLB Alton Drazenovich 6-1 217 4 LSU [Coverage] [0] 82
+OLB Jeremy Green 6-2 243 R Oklahoma [Coverage] [+2] 75
+OLB Brent Ouellette 6-3 232 2 Georgia Tech [Coverage] [0] 77
+CB Justin Davis 5-11 173 6 Florida [Zone Coverage?] [+1?/C?] ?97
+CB Laurent Christensen 5-10 192 5 Army [Man Coverage] [-1] 89
+CB Jeremy Bell 5-10 170 5 Kansas [Man Coverage] [0] 81?
+CB Cory Betts 6-1 183 2 Army [Man Coverage] [-2] 76
+CB Giovanni Bynum 6-0 195 1 Florida [Man Coverage] [0] 71
+FS Ashton Britt 6-1 190 3 Georgia Tech [Zone Coverage] [0] 79
+FS Darren Rucker 6-0 212 3 Pittsburgh [Zone Coverage] [0] 79
+FS Alejandro Bowen 6-3 202 3 Houston [Zone Coverage] [+2] 76
+SS Michael Williams 6-2 187 2 Tennessee [Zone Coverage] [0] 83
+SS Jerry Walker 6-0 181 4 Oklahoma [Zone Coverage] [0] 79??
+K Ben Morrison 6-1 205 8 Wisconsin [Accuracy] [0/C] 95 ?
+P A.J. Kinney 5-9 205 5 West Virginia [Accuracy] [+2] 81

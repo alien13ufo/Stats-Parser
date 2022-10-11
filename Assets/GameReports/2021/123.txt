@@ -1,0 +1,66 @@
+ Tampa Bay Buccaneers (4-3) at Houston Texans (3-4)
+
+Houston, TX - 72 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (4-3) 	21 	10 	7 	7 	- 	45
+:texans: Houston Texans (3-4) 	7 	14 	7 	14 	- 	42
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:texans: Houston Texans
+Injuries 	
+
+Michael Hernandez, CB - Severe Elbow Fracture
+
+Kevin Nguyen, SS  - Severe Concussion
+	
+
+Dillon Grant, ILB - Severe Hamstring Rupture
+
+Tom Wyman, CB - Mild Thumb Sprain
+Offensive Line Rating 	8.2 	8.2
+Sacks 	2 	1
+Punting 	42.2 	47.3
+Punt Return Yards 	6 	31
+Kick Return Yards 	56 	62
+Turnovers 	0 	1
+3rd Down Conversion 	6/9 	5/10
+4th Down Conversion 	0/0 	1/1
+Penalties 	5/35 	7/90
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	23/30 	400 	4 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	19 	102 	1 	20 	0/0
+Taylor Heiden 	2 	4 	1 	3T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony McCardell 	5 	140 	2 	0 	0/0
+Richard Wilson 	5 	109 	1 	0 	0/0
+Quintavius Pearson 	4 	63 	1 	0 	0/0
+Jerry Cipa 	5 	52 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Newhouse 	4/0 	- 	1/1 	0/0 	0/0
+Frank Williams 	5/0 	1.0 	0/0 	0/0 	0/0
+Darris Hayes 	2/0 	1.0 	0/0 	0/0 	0/0
+Aaron Blakely 	4/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	1/1 	6/6 	48
+	
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	25/36 	321 	4 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jermaine Lockett 	16 	68 	1 	12 	0/0
+Arturo Pacheco 	5 	51 	1 	35T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kendall Brandon 	6 	77 	1 	0 	1/0
+Hakeem Black 	6 	74 	1 	0 	0/0
+Marvin White 	4 	69 	1 	2 	0/0
+Jeremy Scarborough 	4 	62 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Freeman Schubert 	3/1 	1.0 	0/0 	0/0 	0/0
+Kliff Papac 	7/0 	- 	0/0 	0/0 	0/0
+Michael Bryan 	6/0 	- 	0/0 	0/0 	0/0
+Ahmed London 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	0/0 	6/6 	- 

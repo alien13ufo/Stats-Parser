@@ -1,0 +1,67 @@
+ New York Jets (3-4) at Miami Dolphins (6-1) ?
+
+Miami Gardens, FL - 84 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jets: New York Jets (3-4) 	0 	3 	7 	0 	- 	10
+:dolphins: Miami Dolphins (6-1) 	7 	6 	7 	7 	- 	27
+Team Stats Comparison
+  	:jets: New York Jets 	:dolphins: Miami Dolphins
+Injuries 	OG Joe Farmer - Moderate Foot Sprain 	OLB Jeremy Green - Mild Hamstring Tendonitis
+Top Player Grade 	FS Reshad Jenkins (8.27) 	CB Justin Davis (8.64)
+Worst Player Grade 	C Aden Hastings (4.16) 	OT Ricky Edwards (4.26)
+Offensive Line Rating 	8.43 	8.41
+Sacks 	1 	1
+Punting 	45.4 	45.2
+Punt Return Yards 	14 	29
+Kick Return Yards 	74 	32
+Turnovers 	2 	1
+3rd Down Conversion 	3/13 	5/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/35 	6/52
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	18/34 	199 	1 	1 	1/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	12 	47 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell 	5 	44 	0 	0 	0/0
+Adam Coles 	3 	43 	0 	1 	0/0
+Eli Austin 	2 	39 	1 	0 	0/0
+Israel Hawker 	3 	35 	0 	1 	0/0
+William Bouchard 	2 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Alvis Brumm 	3/0 	0.5 	0/0 	0/0 	0/0
+Kyle Pratt 	2/0 	0.5 	0/0 	0/0 	0/0
+Reshad Jenkins 	7/0 	- 	0/1 	0/0 	0/0
+Adam Lovelace 	5/0 	- 	0/0 	0/0 	0/0
+Dennis Himes 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	1/1 	1/1 	40
+	
+:dolphins: Miami Dolphins ?
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	22/33 	280 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	17 	92 	1 	26 	0/0
+Caleb Sherwin 	5 	25 	0 	11 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marion Reeder 	5 	78 ? 	1 	0 	0/0
+J.C. Weldon 	5 	72 	0 	0 	0/0
+Todd Druckenmiller 	3 	43 	0 	0 	0/0
+D.J. Gibson 	3 	38 	0 	0 	0/0
+Oscar Fisk 	2 	32 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Justin Davis 	3/0 	- 	1/1 ? 	0/0 	0/0
+Benjamin Blankenship 	3/2 	1.0 	0/0 	0/0 	0/0
+Benjamin Robinson 	4/0 	- 	0/0 	1/0 	0/0
+David Lee 	4/0 	- 	0/0 	0/1 	0/0
+Michael Williams 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Ben Morrison 	2/2 	3/3 	46, 42 

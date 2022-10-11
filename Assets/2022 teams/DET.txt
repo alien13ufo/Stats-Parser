@@ -1,0 +1,54 @@
+QB Rob LeCount 6?-3 212 7 Michigan [Pocket] [0] 88
+QB Will Chacko 6-1 203 R NDSU [Hybrid] [0] 81
+QB Rahim Murrell 6-2 220 R Kansas State [Pocket] [-2] 77
+RB Kenyon Randall 5-6 209 R LSU [Power] [-1] 83
+RB Logan Pruitt 5-7 232 2 North Carolina [Power] [+1] 80
+RB Calvin Jones 6-4 208 3 Georgia Tech [Speed] [+2] 76
+FB Cory Graham 6-1 210 R Northwestern [Pass Blocking] [+3/C] 76
+WR Jeremy Cook 6-0 217 2 Washington State [Target] [0] 85
+WR Rex Walsh 5-11 165 4 Florida State [Target] [0] 84?
+WR Tyrone Cunningham 6-0 222 3 Arizona [Target] [0] 81
+WR Glenn Franckowiak 6-0 201 6 Nebraska [Target] [0] 79
+WR Frederick Bartlett 6-1 219 R Purdue [Speed] [-1] 76?
+TE Anthony Fasani 6-6 222 6 Nebraska [Receiving] [0] 84
+TE Emory Johnson 6-7 255 1 Northern Illinois [Receiving] [-1] 83
+TE Cap Mitchell 6-2 222 5 Michigan [Blocking] [0] 78
+OT Grey Brown 6-6 308 5 Florida State [Pass Blocking] [0/C] 97
+OT Joe McCord 6-5 309 7 Notre Dame [Run Blocking ] [0] 86
+OT Tierre Bowen 6-8 305 4 Florida [Run Blocking] [0] 79
+OT Nathan Iverson 6-3 288 R Florida [Pass Blocking] [0] 77
+OG LaMont Sheriff 6-7 298 6 Virginia Tech [Pass Blocking] [-1] 97
+OG Ruben Winstead 6-3 315 3 Florida [Pass Blocking] [0] 80
+OG Ben Verba 6-0 283 4 Texas A&M [Pass Blocking] [+2] 78
+OG Christopher Sullivan 6-3 308 2 Texas [Run Blocking] [0] 76
+OG Jayson Schmidt 6-2 263 R Alabama [Run Blocking] [0] 75
+C Don Teteak 6-0 293 5 Washington [Pass Blocking] [0] 84
+C Mike Stahl 6-3 280 4 Mississippi State [Run Blocking] [0] 78
+DE Doug Carolan 6-0 263 4 Florida [Blitz] [-1] 93
+DE Ricky Mayo 6-6 251 3 Vanderbilt [Blitz] [0] 78
+DE Damian Johnson 6-3 241 3 Duke [Contain] [0] 76
+DE Ilan Kuhn 5-11 261 1 USC [Blitz] [0] 77
+DE Karim Brown 6-6 270 6 Nebraska [Contain] [0] 74
+DT Earl Jackson 6-3 293 7 Oklahoma State [2-Gap] [-2/C] 93
+DT James Arnold 6-8 291 4 Cincinnati [1-Gap] [0] 78
+DT Joshua Thurman 6-2 317 R Michigan [1-Gap] [0] 75?
+ILB Kieron Brooks 6-1 239 R Charlotte [Mike] [0] 81
+ILB Griffin Perrin 5-11 231 2 Michigan State [Will] [0] 80
+ILB Joshua Olson 5-11 245 2 Air Force [Mike] [0] 78
+ILB John Morrison 6-1 229 5 Iowa [Will] [0/C] 77
+ILB Jacob Watson 6-2 250 R Ohio State [Will] [+2/C] 75
+OLB Cameron Jones 6-4 221 3 Arizona [Blitz] [+1] 89
+OLB Richard Ryan 6-3 230 2 Virginia Tech [Coverage] [-1] 80
+OLB Scott Wallace 5-11 207 4 Texas [Coverage] [0] 74
+OLB Nehemiah Goode 6-1 243 R Georgia [Coverage] [+1] 71
+CB Keyshawn Thompson 6-2 181 7 Michigan State [Zone Coverage] [0] 94
+CB Kevin McQueen 5-11 176 1 UCF [Man Coverage] [0] 82
+CB Ronyell Buchanon 6-1 171 5 Florida State [Zone Coverage] [-2] 81
+CB Chris Tolbert 6-0 161 3 Washington [Zone Coverage] [+2] 79 ?
+FS Mike Henderson 5-10 193 6 UCF [Man Coverage] [0] 79
+FS Kofi Neal 6-2 215 1 Michigan State [Zone Coverage] [0] 78
+FS Craig Lee 6-3 202 3 USF [Zone Coverage] [0] 77
+SS Willard McCready 6-0 189 4 Wisconsin [Zone Coverage] [0/C] 86 ?
+SS Carter Leavitt 6-1 193 2 LSU [Zone Coverage] [0] 78 ?
+K Brent Hankton 6-4 215 7 West Virginia [Power] [0] 95
+P Bryan Johnson 6-1 204 8 Utah [Accuracy] [+3/C] 93

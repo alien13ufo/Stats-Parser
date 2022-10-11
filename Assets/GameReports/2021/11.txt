@@ -1,0 +1,55 @@
+ Las Vegas Raiders (0-0) at Los Angeles Chargers (0-0)
+
+Inglewood, CA - 84 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:raiders: Las Vegas Raiders (0-0) 	21 	10 	7 	14 	- 	52
+:chargers: Los Angeles Chargers (0-0) 	7 	7 	0 	0 	- 	14
+Team Stats Comparison
+  	:raiders: Las Vegas Raiders 	:chargers: Los Angeles Chargers
+Injuries 	No Injuries 	Prince Williams, CB - Moderate Concussion
+Offensive Line Rating 	8.4 	7.8
+Sacks 	3 	0
+Punting 	46.6 	42.5
+Punt Return Yards 	28 	10
+Kick Return Yards 	45 	27
+Turnovers 	0 	2
+3rd Down Conversion 	6/8 	2/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/32 	8/69
+:raiders: Las Vegas Raiders
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	26/32 	350 	4 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	20 	109 	2 	21T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mike Tripplett 	9 	106 	1 	0 	0/0
+Brian Gary 	5 	94 	1 	0 	0/0
+Malcolm Davis 	3 	72 	1 	0 	0/0
+Brian Becker 	2 	39 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Mike Gradishar 	0/0 	- 	1/1 	0/0 	1/0
+Randall Jones 	4/0 	- 	1/0 	0/0 	0/0
+Shah Vereen 	3/1 	1.0 	0/0 	0/0 	0/0
+Sergio Miller 	4/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	1/1 	7/7 	46
+	
+:chargers: Los Angeles Chargers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	27/51 	270 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	7 	25 	0 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gerald Morrison 	7 	96 	0 	1 	0/0
+Scott Howard 	8 	65 	1 	0 	0/0
+Tommy Pottios 	4 	47 	0 	2 	0/0
+M.L. Kriewaldt 	3 	41 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tavian Oliphant 	6/0 	- 	0/1 	0/0 	0/0
+Shane Easley 	6/1 	- 	0/0 	0/0 	0/0
+Tunch Richardson 	6/0 	- 	0/0 	0/0 	0/0
+Andrew Pearson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	0/1 	2/2 	- 42 

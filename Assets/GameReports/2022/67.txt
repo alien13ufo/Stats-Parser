@@ -1,0 +1,67 @@
+ Jacksonville Jaguars (3-1) at New York Jets (1-3) ?
+
+East Rutherford, NJ - 57 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jaguars: Jacksonville Jaguars (3-1) 	3 	7 	7 	6 	- 	23
+:jets: New York Jets (1-3) 	3 	10 	3 	3 	- 	19
+Team Stats Comparison
+  	:jaguars: Jacksonville Jaguars 	:jets: New York Jets
+Injuries 	DT Shamar Ware - Moderate Hamstring Bruise 	TE Shane Kaufman - Severe ACL Rupture
+Top Player Grade 	WR Marcus Holmes (8.22) 	K Chris Hoag (8.09)
+Worst Player Grade 	C Patrick Ena (4.25) 	OLB Dennis Himes (4.53)
+Offensive Line Rating 	8.42 	8.39
+Sacks 	2 	2
+Punting 	49.6 	47.5
+Punt Return Yards 	29 	23
+Kick Return Yards 	76 	42
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	3/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/77 	6/37
+:jaguars: Jacksonville Jaguars
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	26/45 	275 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	13 	70 	1 	10 	0/0
+Isaiah Peko 	2 	0 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Holmes 	7 	89 	1 	0 	0/0
+Raheem Robinson 	4 	65 	0 	0 	0/0
+Taylor Eifert 	3 	39 	0 	1 	0/0
+Tyrone Turner 	4 	35 	0 	0 	0/0
+Derek Harrison 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Christian Haywood 	5/0 	- 	1/0 	0/0 	0/0
+Preston Bryant 	3/2 	1.0 	0/0 	0/0 	0/0
+Ron Rice 	2/0 	1.0 	0/0 	0/0 	0/0
+Donnie Bavaro 	6/0 	- 	0/1 	0/0 	0/0
+Damien Norman 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	3/3 	2/2 	40, 36, 23
+	
+:jets: New York Jets
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	23/39 	266 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	17 	53 	0 	14 	0/0
+Marvin Washington 	5 	26 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell ? 	6 	85 	1 	0 	0/0
+Israel Hawker 	4 	81 	0 	1 	0/0
+Adam Coles 	3 	39 	0 	0 	0/0
+Rocky Kruse 	2 	23 	0 	1 	0/0
+Marvin Washington 	4 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Corey Quinn 	3/0 	- 	1/1 	0/0 	0/0
+Kyle Pratt 	2/1 	1.0 	0/0 	0/0 	0/0
+Alvis Brumm 	2/0 	1.0 	0/0 	0/0 	0/0
+Reshad Jenkins 	4/0 	- 	0/2 	0/0 	0/0
+Daquan Darcey 	5/0 	- 	0/0 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Chris Hoag 	4/4 	1/1 	52, 27, 54, 40 

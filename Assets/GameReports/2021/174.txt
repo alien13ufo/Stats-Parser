@@ -1,0 +1,57 @@
+ Arizona Cardinals (3-7) at Seattle Seahawks (3-7)
+
+Seattle, WA - 41 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (3-7) 	7 	10 	7 	3 	- 	27
+:seahawks: Seattle Seahawks (3-7) 	3 	3 	10 	0 	- 	16
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:seahawks: Seattle Seahawks
+Injuries 	Butch Harper, WR - Severe Shoulder Dislocation 	Frank Lee, ILB - Moderate Biceps Strain
+Offensive Line Rating 	7.9 	8.1
+Sacks 	3 	3
+Punting 	47.6 	45.1
+Punt Return Yards 	12 	24
+Kick Return Yards 	38 	23
+Turnovers 	0 	1
+3rd Down Conversion 	4/9 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/29 	7/62
+:cardinals: Arizona Cardinals
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	23/35 	244 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Fred Tindale 	20 	100 	1 	31 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ricky Chambers 	7 	86 	1 	0 	0/0
+Art Baber 	6 	81 	1 	1 	0/0
+Noah Hills 	3 	32 	0 	0 	0/0
+Cameron Lindsey 	3 	27 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ian Garner 	2/0 	- 	1/0 	0/0 	0/0
+Jeffrey King 	5/0 	1.0 	0/0 	0/0 	0/0
+Asante Willis 	4/0 	1.0 	0/0 	0/0 	0/0
+William Thomas 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	2/2 	3/3 	56, 41
+	
+:seahawks: Seattle Seahawks
+Spread - Pistol 2RB (AI)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	16/25 	206 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	16 	68 	0 	28 	0/0
+Booker T. Washington 	7 	40 	0 	14 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Josiah McCray 	4 	67 	0 	0 	0/0
+Charlie Wilson 	5 	61 	0 	1 	0/0
+Curtis Settles 	4 	40 	1 	0 	0/0
+Jim Umenyiora 	2 	33 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brian Glenn 	6/0 	2.0 	0/0 	0/0 	0/0
+Kenji Sagatomo 	3/0 	1.0 	0/0 	0/0 	0/0
+Zion Adakwa 	6/1 	- 	0/0 	0/0 	0/0
+Edward Harrison 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	3/3 	1/1 	44, 20, 26 

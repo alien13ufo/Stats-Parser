@@ -1,0 +1,53 @@
+QB Christi?an Skaggs 6-1 214 9 Florida State [Pocket] [-1] 99?
+QB Sean Hamilton 6-2 207 3 Nebraska [Poc?ket] [0] 84?
+QB Justin Hunter 6-0 210 5 Mississippi State [Pocket] [0] 80
+RB Mike Latta 6-0 209 6 Florida State [Speed] [-2] 88
+RB Ronnie Peterson 5-11 188 R Miami (FL) [Speed] [0] 74
+FB Donnie Hubbert 5-11 229 6 Nebraska [Run Blocking] [+1] 89
+FB Julius Gaston 5-10 210 2 LSU [Pass Blocking] [0] 79
+WR Monte Jackson 6-6 227 4 Miami [Target] [-3] 92
+WR Troy Wilson 6-0 150 4 Cincinnati [Speed] [0/C] 82
+WR Jermaine Bishop 6-4 194 5 Pittsburgh [Target] [0] 80?
+WR Chip Johnson 6-3 188 5 Oregon [Target] [0] 78
+WR Butch Harper 6-5 165 5 Florida [Speed] [-1] 78
+TE Curtis Henry 6-6 202 3 Utah State [Receiving] [-1] 92
+TE Norman Willard 6-1 230 4 Boston College [Receiving] [-1] 81
+TE Quentin McCullough 6-7 240 6 Clemson [Blocking] [0] 78
+OT Tron Moses 6-6 285 8 Michigan State [Pass Blocking] [0] 96
+OT Emerson Ware 6-0 297 5 Florida [Run Blocking] [0] 88
+OT Charles Mahan 6-5 33?2 6 TCU [Pass Blocking] [0] 73
+OT Quincy Estep 6-3 270 1 ECU [Pass Blocking] [+3/C] 75
+OG Delvin Hodgins 6-5 287 8 Michigan [Pass Blocking] [0] 88
+OG Joshua Whitlock 6-6 284 3 Washington State [Run Blocking] [0] 86
+OG Vincent Peck 6-7 310 4 NC State [Pass Bl?ocking] [0/C] 82
+?OG Pat Dorenbos 6-0 276 5 Oregon [Pass Blocking] [0] 7?4
+OG Xavier Bridges 6-3 272 1 Miami (OH) [Run Blocking] [+2] 71
+C Javon Hargrove 6-3 251 1 Houston [Pass Blocking] [+1] 82
+C Jacob Alves 6-3 302 2 Akron [Pass Blocking] [0] 77
+DE Kendrick Droughns 6-6 294 7 Ohio State [Contain] [+1] 92
+DE Demarius Strong 6-4 254 6 Navy [Blitz] [0] 79
+DE Curtis Dunn 6-3 260 1 Louisiana Tech [Contain] [-3] 77
+DE Aaron Pagan  6-6 271 R West Virginia [Blitz] [+1] 71
+DT Mike Wohlabaugh 6-3 287 6 USC [1-Gap] [0] 92
+DT Joseph Bynum 6-6 298 2 Oregon [1-Gap] [0] 84 ?
+ILB Chris Tucker 6-3 230 4 Tennessee [Mike] [0] 87
+ILB Pierce Pryor 6-3 247 1 Nevada [Mike] [0] 78
+OLB Trent Haynes 6-1 228 7 Tennessee [Coverage] [-2] 87
+OLB Jeff Brooks 6-0 230 6 Florida [Coverage] [0] 83
+OLB Alton Drazenovich 6-1 217 5 LSU [Coverage] [0] 82
+OLB Josiah Benton 6-2 243 R Arizona [Coverage] [0] 75
+OLB Leland Anderson 6-1 236 4 Miami [Coverage] [+1] 74
+CB Nate ?Tensi 6-0 196 8 Clemson [Man Coverage] [0/C] 91
+CB Russ Barker 5-10 203 5 Miami (FL) [Zone Coverage] [0] 81
+CB Damani Jeffries 5-10 163 1 Texas [?Man Cove?rage] [0] 78 ?
+CB Benjamin Parris 6-0 198 R Iowa [Man Coverage] [0] 78
+FS Jon Thomas 6-0 197 5 Texas [Man Coverage] [+1/C] 81
+FS Carlton Sylvester 6-0 193 4 Nebraska [Zone Coverage] [0] 84
+SS Darren Manning 6-4 189 7 Tennessee [Zone Coverage] [0] 92
+SS Eddie Burks 6-1 191 1 Auburn [Man Coverage] [+1/C] 80
+SS Dylan Mosley 5-11 202 2 Arizona State [Man Coverage] [0] 77
+K Skip Gibson 6-0 178 7 Georgia [Accuracy] [+2/C] 95
+P Yuri Garisov 6-3 ?222 5 Auburn [Accuracy] [0] 87
+P A.J. Houser 6-3 160 R Purdue [Accuracy] [0] 81
+PR Glenn McCurdy 5-11 182 2 UAB [Specialist] ?[+1] 82
+LS Will Fisher 6-1 242 1 Marist [Traditional] [0/C] 73??

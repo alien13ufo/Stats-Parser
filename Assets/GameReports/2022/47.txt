@@ -1,0 +1,67 @@
+ Green Bay Packers (1-1) at New York Jets (0-2) ?
+
+East Rutherford, NJ - 74 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:packers: Green Bay Packers (1-1) 	7 	14 	3 	0 	6 	30
+:jets: New York Jets (0-2) 	7 	6 	3 	8 	0 	24
+Team Stats Comparison
+  	:packers: Green Bay Packers 	:jets: New York Jets
+Injuries 	OT Quinn Bouman - Moderate Elbow Tendonitis 	WR Eli Austin - Severe Shoulder Dislocation
+Top Player Grade 	RB Jaz Durant (8.61) 	FS Reshad Jenkins (8.94)
+Worst Player Grade 	ILB Jamal Harley (6.02) 	OT Joel Snow (5.21)
+Offensive Line Rating 	8.52 	8.50
+Sacks 	1 	1
+Punting 	44.6 	50.0
+Punt Return Yards 	9 	27
+Kick Return Yards 	37 	25
+Turnovers 	1 	1
+3rd Down Conversion 	3/10 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/65 	3/45
+:packers: Green Bay Packers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	24/36 	308 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	17 	109 	2 	31T 	0/0
+Gil Novacek 	4 	26 	0 	15 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L ?
+Dan Nomellini 	8 	102 	1 	1 	0/0
+Justin McCain 	4 	94 	1 	0 	0/0
+T.J. Ropati 	3 	43 	0 	1 	0/0
+Tom Grant 	2 	20 	0 	0 	0/0
+Bernard Taylor 	2 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+James White 	4/0 	- 	1/0 	0/0 	0/0
+Barron Anthony 	3/1 	0.5 	0/0 	0/0 	0/0
+Kaulana Groth 	2/0 	0.5 	0/0 	0/0 	0/0
+Garrison Jackson 	4/0 	- 	0/1 	0/0 	0/0
+Jamal Harley 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	1/1 	3/3 	45
+	
+:jets: New York Jets
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	23/42 	260 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	11 	43 	0 	6 	0/0
+Marvin Washington 	2 	7 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell 	6 	74 	1 	0 	0/0
+Adam Coles 	4 	53 	1 	0 	0/0
+Eli Austin 	4 	40 	0 	1 	0/0
+Israel Hawker 	3 	37 	0 	0 	0/0
+Matt Stone 	3 	33 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Reshad Jenkins 	5/0 	- 	1/1 	0/0 	0/0
+Javier Davenport 	2/0 	1.0 ? 	0/0 	0/0 	0/0
+Chris Tucker 	6/0 	- 	0/0 	0/0 	0/0
+Daquan Darcey 	4/1 	- 	0/0 	0/0 	0/0
+Sebastian Vaughn 	4/0 	- 	0/0 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Chris Hoag 	3/3 	1/1 	41, 45, 29 

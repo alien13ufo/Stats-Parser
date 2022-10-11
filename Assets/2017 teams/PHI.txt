@@ -1,0 +1,34 @@
+QB Richard Ramos 6-0 184 3 OregonState [Pocket] 76
+QB Ken Eller 6-4 200 R UCLA [Pocket] 74
+RB Bryan Davis 5-8 195 3 TexasA&M [Power] 85
+RB David Ortiz 5-10 207 3 BYU [Power] 77
+FB Mike Carr 6-0 198 R SMU [Power] 67
+WR Michael Hawkins 5-9 196 R Florida [Speed] 79
+WR Christopher Johnson 6-1 173 1 VirginiaTech [Speed] 76
+WR Todd Walker 6-5 198 2 FloridaState [Speed] 63
+WR Terry Jones 6-3 196 1 ECU [Target] 62
+TE Scott Brown 6-1 250 1 Stanford [PassBlocking] 79
+TE Vince Shea 6-5 221 1 MichiganState [PassBlocking] 62
+OT Eric Peebles 6-3 350 2 LSU [RunBlocking] 85
+OT Ki'Jana Parrish 6-4 312 2 Auburn [PassBlocking] 79
+OG Mike Rachal 6-8 326 1 OhioState [PassBlocking] 68
+OG Dwight Anderson 6-5 313 1 FloridaState [RunBlocking] 67
+C Joseph Colbert 6-1 241 R Valley CC [Pass Blocking] 76
+C Kevin Powell 6-6 282 1 OhioState [RunBlocking] 67
+DE Gary Redmon 6-1 289 2 PennState [PassStop] 77
+DE Marcus Carver 6-7 286 R Florida [Run Stop] 68
+DE Ted Pointer 6-0 278 1 Virginia [PassStop] 64
+DT Reggie Hedberg 6-8 258 R Tennessee [Run Stop] 75
+DT Turk Davis 6-3 268 R Georgia [Run Stop] 73
+DT Morris Alexander 6-4 290 1 Nebraska [RunStop] 72
+ILB Rodrick Milligan 6-2 254 3 Michigan [PassMan-to-Man] 87
+OLB Kenny Salata 5-11 236 2 Nebraska [PassMan-to-Man] 79
+OLB Ben Lane 6-1 236 2 Northwestern [PassMan-to-Man] 70
+OLB Tim Kinderman 5-11 230 2 Georgia [PassMan-to-Man] 63
+CB Jim Milloy 6-1 173 2 FloridaState [ManCoverage] 82
+CB Tim Kassell 5-11 191 1 UCLA [ManCoverage] 79
+CB William McNair 5-9 194 3 Northwestern [Man Coverage] 61
+FS Rob O'Neal 6-1 192 2 OhioState [ZoneCoverage] 72
+SS Joe Johnson 6-0 206 R Houston [Zone Coverage] 80
+K Wilson Mitchell 6-1 196 R Northern Illinois [Power] 66
+P Leo O’Brien 5-11 204 R Mississippi State [Power] 65

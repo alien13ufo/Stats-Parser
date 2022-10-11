@@ -1,0 +1,65 @@
+ Houston Texans (5-9) at Jacksonville Jaguars (9-5) ?
+Jacksonville, FL - 76 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (5-9) 	14 	7 	10 	7 	0 	38
+:jaguars: Jacksonville Jaguars (9-5) 	7 	14 	10 	7 	3 	41
+Team Stats Comparison
+  	:texans: Houston Texans 	:jaguars: Jacksonville Jaguars
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	WR Marvin White (9.26) 	RB Asante Sowell (9.55)
+Worst Player Grade 	C David Greene (0.95) 	CB Travis Charles (1.25)
+Offensive Line Rating 	8.30 	8.29
+Sacks 	1 	5
+Punting 	46.0 	50.0
+Punt Return Yards 	0 	0
+Kick Return Yards 	126 	145
+Turnovers 	1 	1
+3rd Down Conversion 	5/10 	4/8
+4th Down Conversion 	0/0 	0/0
+Penalties 	10/95 	11/87
+:texans: Houston Texans
+Air Raid - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	38/61 	404 	5 	1 	2/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Arturo Pacheco 	6 	25 	0 	8 	0/0
+Brendan Milton 	1 	2 	0 	2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marvin White 	10 	105 	2 	0 	0/0
+Jeremy Scarborough 	10 	101 	1 	2 	0/0
+Cameron Lindsey 	5 	77 	1 	2 	0/0
+Kendall Brandon 	5 	51 	1 	1 	0/0
+Arturo Pacheco 	3 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Shane Brinkley 	5/0 	- 	1/0 	0/0 	0/0
+Robert Fulton 	2/2 	1.0 	0/0 	0/0 	0/0
+Frederick Fain 	11/0 	- 	0/0 	0/0 	0/0
+Dillon Grant 	7/0 	- 	0/0 	0/0 	0/0
+Dick McCready 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	1/1 	5/5 	47
+	
+:jaguars: Jacksonville Jaguars
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	25/35 	289 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	21 	172 	2 	36T 	0/0
+Isaiah Peko 	5 	31 	0 	17 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Raheem Robinson ? 	10 	122 	2 	0 	0/0
+Marcus Holmes 	3 	45 	0 	0 	0/0
+Derek Harrison 	4 	41 	0 	1 	0/0
+Isaiah Peko 	3 	34 	1 	0 	0/0
+Taylor Eifert 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jay Wade 	5/0 	- 	1/2 	0/0 	0/0
+Ron Rice 	3/0 	2.0 	0/0 	1/0 	0/0
+Shamar Ware 	1/0 	2.0 	0/0 	0/0 	0/0
+Preston Bryant 	1/0 	1.0 	0/0 ? 	0/0 	0/0
+Larry Reeves 	9/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Alejandro Aguirre 	2/2 	5/5 	60, 28 

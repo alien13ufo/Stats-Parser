@@ -1,0 +1,66 @@
+ San Francisco 49ers (2-8) at New York Jets (8-2)
+
+East Rutherford, NJ - 39 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (2-8) 	14 	0 	14 	7 	- 	35
+:jets: New York Jets (8-2) 	6 	3 	14 	7 	- 	30
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:jets: New York Jets
+Injuries 	
+
+No Injuries
+
+ 
+	
+
+Paul Howell, WR - Moderate Wrist Bruise
+
+Marques Warner, CB - Severe Elbow Fracture
+Offensive Line Rating 	8.2 	8.2
+Sacks 	2 	0
+Punting 	41.7 	50.2
+Punt Return Yards 	3 	46
+Kick Return Yards 	39 	19
+Turnovers 	0 	1
+3rd Down Conversion 	4/9 	4/12
+4th Down Conversion 	0/0 	1/1
+Penalties 	8/60 	7/91
+:49ers: San Francisco 49ers
+Spread - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	19/27 	198 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	21 	108 	2 	18 	0/0
+Todd Lester 	7 	74 	1 	29T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Branch 	5 	65 	1 	0 	0/0
+Miles Collins 	4 	56 	0 	0 	0/0
+Steve Warner 	3 	40 	1 	0 	0/0
+John Gross 	2 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Bashir Rodriguez 	2/0 	- 	1/0 	0/0 	0/0
+Brandon Thomas 	5/0 	1.0 	0/0 	0/0 	0/0
+Dennis Niland 	3/0 	1.0 	0/0 	0/0 	0/0
+Daleroy Smart 	6/1 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	0/0 	5/5 	-
+	
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	22/31 	270 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	18 	78 	1 	23 	0/0
+Marvin Washington 	2 	-3 	0 	-1 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Ratterman 	5 	75 	1 	1 	0/0
+Israel Hawker 	5 	75 	0 	1 	0/0
+Matt Stone 	4 	46 	1 	0 	0/0
+Tom Branch 	3 	41 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Daquan Darcey 	8/0 	- 	0/1 	0/0 	0/0
+Kwazi Robb 	5/0 	- 	0/0 	0/0 	0/0
+Chris Tucker 	4/1 	- 	0/0 	0/0 	0/0
+Sebastian Vaughn 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	3/3 	3/3 	41, 28, 47 

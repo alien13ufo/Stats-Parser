@@ -1,0 +1,27 @@
+AFC
+Coach: Emperor_of_Orange, IND
+FB: John Bills, OAK
+OT: Andrew O'Neil, NE
+OT: Marcellus Peterson, MIA
+OT: Gary Tomlinson, DEN
+OG: Joe Farmer, NYJ
+OG: Jimmie Shelton, IND
+OG: David Wilson, OAK
+C: John Zatkoff, DEN
+C: Enoch Dickinson, CLE
+P: John Maslowski, NYJ
+KR: Ben Offerdahl, KC
+
+NFC
+Coach: DStack11, PHI
+FB: Donnie Hubbert, CAR
+OT: Ryan Robinson, NYG
+OT: Grey Brown, DET
+OT: Tron Moses, CAR
+OG: Jace Brown, DAL
+OG: Jerris Jordan, NYG
+OG: LaMont Sheriff, DET
+C: Sid Henson, DAL
+C: LaMarcus Smith, STL
+P: Forest Garrett, TB
+KR: Christopher Johnson, PHI

@@ -1,0 +1,67 @@
+ Houston Texans (0-0) at New York Giants (0-0) ?
+
+East Rutherford, NJ - 80 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (0-0) 	14 	0 	14 	3 	- 	31
+:giants: New York Giants (0-0) 	0 	3 	7 	0 	- 	10
+Team Stats Comparison
+  	:texans: Houston Texans 	:giants: New York Giants
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	QB Alex Leshoure (8.64) 	TE Hunter King (7.21)
+Worst Player Grade 	ILB Dick McCready (4.85) 	SS Jonah Parker (3.24)
+Offensive Line Rating 	8.35 	8.29
+Sacks 	3 	1
+Punting 	46.3 	43.2
+Punt Return Yards 	45 	14
+Kick Return Yards 	23 	64
+Turnovers 	0 	2
+3rd Down Conversion 	6/13 	2/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/84 	3/25
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	24/36 	294 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L ?
+Brendan Milton 	14 	31 	1 	6 	0/0
+Arturo Pacheco 	1 	3 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kendall Brandon 	6 	65 	1 	0 	0/0
+Jeremy Scarborough 	5 	63 	0 	1 	0/0
+Marvin White 	5 	60 	1 	0 	0/0
+Arturo Beckham 	3 	53 	1 	0 	0/0
+Spencer Saul 	2 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Reynaldo Harris 	5/0 	- 	1/0 	0/0 	0/0
+Tom Wyman 	1/0 	- 	1/0 	0/0 	0/0
+Miles Slater 	3/1 	1.0 	0/0 	0/0 	0/0
+Bob Ballard 	3/0 	1.0 	0/0 	0/0 	0/0
+Robert Fulton 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	1/1 	4/4 	42
+	
+:giants: New York Giants
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Lawyer Johnson 	22/43 	209 	1 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	10 	30 	0 	6 	0/0
+Elijah Harden 	1 	-2 	0 	-2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Hunter King 	4 	64 	1 	0 	0/0
+Tevin Lattimore 	6 	45 	0 	0 	0/0
+Sonny Beckett 	3 	29 	0 	1 	0/0
+Kurt Hill 	2 	22 	0 	1 	0/0
+Brian Engle 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Louis Peterson 	4/0 	1.0 	0/0 	0/0 	0/0
+D'Qwell Moore 	5/0 	- 	0/0 	0/0 	0/0
+S. Mitchell-Morrison 	4/0 	- 	0/0 	0/0 	0/0
+Freddy Suarez 	4/0 	- 	0/0 ? 	0/0 	0/0
+Jonah Parker 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Trent Michaels 	1/2 	1/1 	39 - 45 

@@ -1,0 +1,47 @@
+QB Kamau Davis 6-2 218 3 Indiana [Pocket] 87
+QB Taylor Rodriguez 6-1 209 R Arizona [Pocket] 81
+RB Vaughan Abraham 5-10 201 4 LSU [Speed] 97
+RB Adrian Robinson 5-11 203 R Houston [Power] 77
+FB Edgerrin Petty 6-1 219 2 Notre Dame [Power] 78
+FB Art Shaw 6-0 202 2 Tennessee [Speed] 67
+WR Kurt Hill 5-9 196 4 Miami [Target] 86
+WR M.L. Kriewaldt 5-8 170 3 Louisville [Speed] 84
+WR Joe Coleman 5-10 172 2 Missouri [Target] 73
+WR Alex Gash 6-5 186 R Texas A&M [Speed] 71
+WR Clint Wiley 6-6 178 R South Carolina [Target] 70
+TE A.J. Carter 6-6 226 3 BostonCollege [PassBlocking] 77
+TE Paul Carter-Williams 6-6 237 1 TCU [Pass Blocking] 76
+OT Justin Campbell 6-6 291 3 Penn State [Run Blocking] 97
+OT Wayne Gelbaugh 6-6 299 3 Oklahoma [Pass Blocking] 88
+OT Bert Scott 6-8 301 1 Missouri [Pass Blocking] 75
+OG Jace Brown 6-6 270 2 Florida [Pass Blocking] 94
+OG Barry Waterfield 6-7 284 2 Syracuse [Run Blocking] 82
+OG Kenny Banta 6-1 296 1 Arkansas [Run Blocking] 66
+OG Kenneth Walter 6-8 273 R Illinois [Run Blocking] 65
+C Sid Henson 6-5 298 2 USC [Run Blocking] 88
+C Billy Williams 6-7 289 1 Oregon [Pass Blocking] 66
+DE Dainard Breedlove 6-2 273 R Georgia Tech [Pass Stop] 76
+DE Kevin Olford 6-5 275 1 Stanford [Pass Stop] 74
+DE Jarius Davis 6-3 261 1 Oklahoma [Run Stop] 71
+DE Lonzell Rentzel 6-8 265 2 FloridaState [RunStop] 70
+DT Shawn Bowers 6-1 305 3 Boise State [Run Stop] 87
+DT Jim Hostetler 6-0 279 4 Texas [RunStop] 77
+DT Dalton McWatters 6-3 269 1 Florida State [Pass Stop] 73
+ILB Cleo Blair 6-1 251 3 NC State [Run Zone] 88
+ILB Kelvin Grossman 6-0 231 2 Nebraska [Run Zone] 86
+ILB Kendrell Franklin 6-1 230 3 Vanderbilt [RunZone] 73
+ILB Michael Allison 6-0 216 R Ole Miss [Run Man-to-Man] 70
+OLB Jeff Mangum 6-2 256 4 Missouri [Run Zone] 90
+OLB Adam Taylor 6-3 227 R Rice [Pass Zone] 74
+OLB Ray Lee Coia 6-2 232 3 TCU [Run Zone] 71
+CB Travis Chatman 5-10 172 4 Washington [Zone Coverage] 90
+CB T.J. Hunter 6-0 203 R Penn State [Zone Coverage] 80
+CB Ronyell Buchanon 6-1 171 1 Florida State [Zone Coverage] 76
+CB Andrew Faulkner 6-0 176 1 Cincinnati [Zone Coverage] 70
+CB Corey Evans 6-2 181 2 Oklahoma St. [Zone Coverage] 67
+FS Albert White 5-10 184 3 Mississippi State [Zone Coverage] 76
+FS Henry Smith 5-11 167 R Georgia [Zone Coverage] 71
+SS Romulus Jackson 6-0 193 1 Fresno State [Zone Coverage] 84
+SS Lou Proehl 6-1 171 3 Texas [ZoneCoverage] 70
+K Carlos Cruz 6-2 197 R Air Force [Accuracy] 77
+P Freddie Mughelli 6-0 183 4 Stanford [Accuracy] 87

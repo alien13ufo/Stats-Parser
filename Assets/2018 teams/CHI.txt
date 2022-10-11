@@ -1,0 +1,53 @@
+QB Norris Brooksheer 6-3 207 1 Oklahoma [Pocket] 86
+QB Charles Quinn 6-2 197 3 Utah [Pocket] 75
+QB Eric Covington 6-0 234 R Michigan State [Pocket] 73
+RB Quincy Turner 6-1 200 3 UCLA [Speed] 83
+RB Moshae Jackson 5-9 175 1 Boise State [Speed] 72
+FB Michael Lamb 6-2 210 R Texas [Speed] 73
+FB Tom Johnston 6-2 241 3 Stanford [Speed] 67
+WR David Gaines 6-2 190 4 Syracuse [Target] 88
+WR Brandon Snead 6-1 205 3 Oregon [Target] 85
+WR Peter Foster 6-1 174 1 Baylor [Speed] 75
+WR Bob Armour 5-9 165 1 Oklahoma [Target] 68
+WR Dennis Hahn 6-0 187 1 Northwestern [Target] 64
+TE Donnie Allen 6-5 247 R Notre Dame [Run Blocking] 81
+TE Obafemi Chamberlin 6-6 243 4 Iowa [RunBlocking] 78
+TE Robert Kerr 6-6 216 1 Mississippi State [Run Blocking] 68
+OT Fred Huber 6-5 285 R Tennessee [Pass Blocking] 81
+OT Bob McMahon 6-7 297 1 Oklahoma [Run Blocking] 80
+OT James Johnson 6-7 345 3 Kansas [RunBlocking] 78
+OT Tim Archuleta 6-6 323 3 Florida [PassBlocking] 69
+OG Matthew Brewer 6-1 277 1 Texas [Run Blocking] 79
+OG Jim Thomas 6-5 265 R LSU [Run Blocking] 76
+OG Ordell Green 6-1 274 1 NC State [Pass Blocking] 71
+C George Doll 6-3 295 3 Texas Tech [Pass Blocking] 74
+C Qadry Davis 6-5 316 4 Clemson [Run Blocking] 65
+C Ty Gold 6-4 285 3 Syracuse [PassBlocking] 59
+DE Jeff Holleyman 6-3 297 4 Notre Dame [PassStop] 85
+DE Chuck Smith 6-6 268 4 Oklahoma St. [Pass Stop] 74
+DE Jesus Brooks 6-8 259 1 Maryland [Run Stop] 70
+DE Gary Rounds 6-2 285 4 Mississippi State [Run Stop] 65
+DT Terry Dewalt 6-2 312 4 Minnesota [Run Stop] 73
+DT Charlie Autry 6-2 317 4 Virginia [PassStop] 71
+DT Francisco Caudill 6-4 279 2 Arizona [Pass Stop] 69
+DT Spec Lewis 6-4 281 R Texas Tech [Pass Stop] 65
+ILB William Wallace 6-1 224 3 BoiseState [PassZone] 65
+ILB Art Mills 6-1 230 2 Michigan [Pass Zone] 84
+ILB David Mosley 6-0 236 R Kentucky [Pass Zone] 75
+ILB Jay Cash 6-0 242 R UCLA [Run Zone] 68
+OLB Morris Millen 6-0 246 3 UCLA [RunZone] 92
+?OLB Trevor Reed 5-11 223 1 Alabama [Pass Zone] 77
+OLB Craig Stratton 6-1 229 1 Texas [Pass Zone] 63
+CB Ivory Hull 6-2 173 R Texas [Zone Coverage] 81
+CB Tony Ross 5-11 188 4 Florida State [Zone Coverage] 76
+CB Ken Whiting 6-2 181 R Connecticut [Zone Coverage] 72
+CB Butch McCullough 6-0 187 1 Penn State [Man Coverage] 70
+CB Oliver Yarbrough 6-1 171 3 KansasState [ZoneCoverage] 70
+FS Juan Hutchinson 5-9 170 3 Utah [Man Coverage] 79
+FS Brandon Curtis 5-11 176 R UCF [Zone Coverage] 71
+SS Robert Medina 5-11 210 3 Kansas [Zone Coverage] 79
+SS Wayne Myers 6-0 175 R Oklahoma State [Zone Coverage] 65
+K Stephen Morris 5-9 211 4 TCU [Accuracy] 76
+K Ken Hodel 6-4 202 4 Oklahoma [Power] 67
+P Cliff Batch 6-3 176 2 Alabama [Accuracy] 76
+P Daniel Brown 6-0 204 2 Texas A&M [Accuracy] 70

@@ -1,0 +1,55 @@
+QB Jason Johnson 5-11 190 10 UCLA [Pocket] [0] 95?
+QB Jon Wilson 6-5 205 6 USC [Hybrid] [0] [#] 81
+RB Jaz Durant 6-1 195 5 Auburn [Speed] [0] 87?
+RB Qua'sean Bell 5-8 215 R Western Kentucky [Power] [0] 78
+RB Corey McShay 5-9 178 2 Dayton [Speed] [0] 78
+FB Fredrick Marshall 6-2 174 4 TCU [Pass Blocking] [0] 83
+WR Justin McCain 6-2 181 4 North Carolina [Speed] [-2] 92
+WR Dan Nomellini 6-1 182 10 Texas [Target] [0/C] 90
+WR Artavius Hopkins 5-9 204 2 Arkansas State [Speed] [0] 83
+WR Freddie Jackson 6-3 218 1 Indiana [Target] [0] 81
+WR Michael Allen 6-2 214 4 Wisconsin [Target] [0] [#] 79
+TE Manny Ferguson 6-3 205 2 Boston College [Receiving] [+1] [+] 87
+TE Luke Graf 6-3 196 4 Nebraska [Receiving] [0] 83
+OT Quinn Bouman 6-4 310 8 Ohio State [Run Blocking] [+1] 91
+OT David Hughes 6-0 294 7 Utah [Pass Blocking] [0] 86
+OT Mendy Cheney 6-3 291 3 Wisconsin [Pass Blocking] [0] 83
+OT Charles O’Keefe 6-3 257 4 Alabama [Pass Blocking] [0] 82
+OG Lucas Hopkins 6-6 261 4 Missouri [Run Blocking] [0] 93
+OG Rodrick Norton 6-4 318 9 Auburn [Pass Blocking] [+1] 83
+OG Walter Shannon 6-5 290 1 Texas Tech [Pass Blocking] [+2/C] 81
+OG John Watson 6-7 299 R Fresno State [Pass Blocking] [0] 78
+OG Jack Harrell 6-3 268 6 Notre Dame [Pass Blocking] [0] 78
+C Lucas Hurd 6-4 276 4 Alabama [Pass Blocking] [+2/C] 95
+C Jack Podolak 6-6 293 6 Georgia [Pass Blocking ] [-1] 80
+DE Barron Anthony 6-3 278 9 USC [Blitz] [-1] 87
+DE Quincy Hobson 5-11 261 R Washington State [Blitz] [-1/C] 80
+DE Calvin Farmer 6-2 248 1 Kentucky [Blitz] [-2] 79
+DE Cory Hall 5-10 237 2 Penn State [Blitz] [0] 78
+DT Constantine Burnham 6-1 285 3 Arizona [1-Gap] [0] 80
+DT Etena Leiataua 6-4 304 R Fresno State [1-Gap] [-1] [+] 78
+DT Paul Barkley 6-0 315 3 Purdue [2-Gap] [0] 78
+DT David Thompson 6-6 298 4 Stanford [2-Gap] [0/C] 78
+ILB Jamal Harley 6-3 222 3 Illinois [Mike] [+2] 88
+ILB Ryan Hanspard 6-1 217 7 Penn State [Will] [+1] 79
+ILB Carter Duncan 6-1 244 2 Wake Forest [Mike] [0] 79 ?
+ILB James Robertson 6-2 235 4 Texas [Mike] [0] 78 ?
+ILB Jordan Stallings 6-0 239 R Temple [Will] [+2/C] 73
+OLB Brady Christiansen 6-0 249 3 Mississippi State [Coverage] [0] 84
+OLB Sam Caron 5-11 228 R Colorado [Blitz] [0/C] 82
+OLB Matt Marino 6-4 215 1 Michigan State [Coverage] [0] 81
+OLB Shawn Richardson 6-0 238 4 Vanderbilt [Coverage] [0] 77
+CB/WR Marquise Reed 6-1 173 4 Clemson [Man Coverage] [-1] 93
+CB Cameron Bowman 6-0 180 5 Arizona [Man Coverage] [+1] 90
+CB Vontae Johnson 6-3 207 5 Stanford [Man Coverage] [0] 83
+CB Tegray Wingard 6-0 200 2 Nevada [Man Coverage] [0/C] 77 ?
+CB Sebastian Byrd 6-0 192 R Oklahoma State [Man Coverage] [0] 75
+FS James White 6-1 216 4 Alabama [Man Coverage] [0] 87
+FS Samuel Prince 6-0 191 4 Texas A&M [Man Coverage] [0] 79
+SS Julio Barnes 5-11 194 6 Utah [Man Coverage] [+1/C] 95
+SS Gregory Noel 5-11 199 4 Georgia State [Man Coverage] [0] 80
+SS Bryce Moore 6-0 199 1 Nebraska [Man Coverage] [0] 75
+K Brian Evans 5-9 175 7 Florida [Accuracy] [0/C] 90
+K Ian Todd 5-8 200 R TCU [Power] [+1] 80
+P Steve Smith 6-4 169 8 Oklahoma [Power] [0] 93?
+PR Reshard Powell 5-10 182 3 South Dakota [Specialist] [0] 79

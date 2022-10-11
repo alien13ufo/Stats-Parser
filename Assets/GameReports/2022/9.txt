@@ -1,0 +1,65 @@
+ Los Angeles Rams (0-0) at Cleveland Browns (0-0) ?
+Cleveland, OH - 83 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:rams: Los Angeles Rams (0-0) 	0 	3 	10 	7 	- 	20
+:browns: Cleveland Browns (0-0) 	7 	7 	10 	0 	- 	24
+Team Stats Comparison
+  	:rams: Los Angeles Rams 	:browns: Cleveland Browns
+Injuries 	OLB Jeff Cox - Moderate Quadriceps Pull 	OG Henry Brown - Mild Toe Fracture
+Top Player Grade 	SS Brandon Sauter (9.05) 	RB Sean Bell (8.94)
+Worst Player Grade 	OG Julio Dunn (4.37) 	OLB Caleb McNamara (4.94)
+Offensive Line Rating 	8.33 	8.19
+Sacks 	2 	2
+Punting 	42.8 	43.6
+Punt Return Yards 	34 	119 (1)
+Kick Return Yards 	46 	63
+Turnovers 	2 	1
+3rd Down Conversion 	4/14 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/59 	5/39
+:rams: Los Angeles Rams
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	20/35 	232 	2 	1 	1/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daveed Knox 	15 	49 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamal Hawkins 	6 	82 	0 	1 	0/0
+Allama Banta 	4 	45 	0 	0 	0/0 ?
+Walt Peck 	3 	43 	0 	1 	0/0
+Kevin O'Neal 	2 	32 	1 	1 	0/0
+Norman Spencer 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brandon Sauter 	5/0 	- 	1/0 	1/0 	0/0
+Michael Bruce 	2/0 	1.5 	0/0 	0/0 	0/0
+Jared Self 	3/0 	0.5 	0/0 	0/0 	0/0
+Daniel Watkins 	7/1 	- 	0/0 	0/0 	0/0
+Markus Golden 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Walsh 	2/2 	2/2 	21, 45
+	
+:browns: Cleveland Browns
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	21/29 	211 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	18 	102 	1 	21T 	1/0
+Ryan Clark 	6 	39 	0 	16 	0/0
+Grady Mitchell 	3 	19 	0 	11 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ray Lee Marconi 	6 	68 	1 	0 	0/0
+Tai Miller 	6 	63 	0 	0 	0/0
+Morgan Patton 	2 	29 	0 	1 	0/0
+Jason McClairen 	3 	23 	0 	0 	0/0
+Sean Bell 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Marshall 	2/0 	- 	1/1 	0/0 	0/0
+Ray McBride 	4/2 	2.0 	0/0 	0/0 	0/0
+C.J. Thomas 	7/2 ? 	- 	0/0 	0/0 	0/0
+Jabari Fletcher 	4/0 	- 	0/0 	0/0 	0/0
+Caleb McNamara 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	1/1 	3/3 	38 ?

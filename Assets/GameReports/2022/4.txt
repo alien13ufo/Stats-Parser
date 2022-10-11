@@ -1,0 +1,65 @@
+ Jacksonville Jaguars (0-0) at New England Patriots (0-0) ?
+Foxborough, MA - 78 F :rainy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jaguars: Jacksonville Jaguars (0-0) 	14 	3 	0 	3 	6 	26
+:patriots: New England Patriots (0-0) 	10 	3 	7 	0 	0 	20
+Team Stats Comparison
+  	:jaguars: Jacksonville Jaguars 	:patriots: New England Patriots
+Injuries 	CB Jonathan Blankenship - Mild Calf Pull 	No Injuries
+Top Player Grade 	RB Asante Sowell (8.74) 	TE Gary Jones (8.35)
+Worst Player Grade 	OLB Donnie Bavaro (4.63) 	FS Robert Pendleton (4.45)
+Offensive Line Rating 	8.19 	8.28
+Sacks 	2 	2
+Punting 	47.6 	45.6
+Punt Return Yards 	29 	17
+Kick Return Yards 	53 	43
+Turnovers 	1 	1
+3rd Down Conversion 	6/12 	4/12
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/72 	5/47
+:jaguars: Jacksonville Jaguars
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	29/43 	309 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	13 	78 	1 	18 	1/0
+Isaiah Peko 	1 	2 	0 	2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Taylor Eifert 	9 	106 	1 	0 	0/0
+Raheem Robinson 	6 	84 	0 	0 	0/0
+Isaiah Peko 	3 	53 	1 	0 	0/0
+Marcus Holmes 	3 	21 	0 	1 	0/0
+Derek Harrison 	3 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jay Wade 	3/0 	- 	1/0 	0/0 	0/0
+Preston Bryant 	4/1 	1.5 	0/0 	0/0 	0/0
+Shamar Ware 	3/2 	0.5 	0/0 	0/0 	0/0
+Larry Reeves 	5/0 	- 	0/0 	0/0 	0/0
+Christian Haywood 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	2/2 	2/2 	49, 32
+	
+:patriots: New England Patriots
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	24/32 	291 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Michael Duckworth 	18 	59 	0 	8 	0/0
+Daniel Nance 	2 	16 	0 	11 	0/0
+- ? 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Jones 	7 	102 	0 	0 	0/0
+Geno Harris 	3 	64 	1 	0 	0/0
+Carlos Perez 	4 	41 	0 	0 	0/0
+Jamel Beckham 	4 	36 	1 	0 	0/0
+Abdoulaye Boone 	2 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dave Stokley 	2/0 	- 	1/1 	0/0 	0/0
+Phillip Davenport 	5/0 	1.0 	0/0 	0/0 	0/0
+Rich Moore 	1/0 	1.0 	0/0 	0/0 	0/0
+Mark Craig 	6/1 	- 	0/0 ? 	1/0 	0/0
+Mohamed Latham 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	2/2 	2/2 	44, 32 ?

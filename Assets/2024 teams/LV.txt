@@ -1,0 +1,55 @@
+QB Nick Hall 6-2 221 9 Syracuse [Pocket] [+3/C] 98? ?
+QB Byron Harper 6-3 225 6 Utah [Hybrid] [0] 81 ?
+QB E.J. McGuire 6-1 197 1 Northwestern [Pocket] [0] 77??
+RB Major Morris 5-10 207 4 ?The Citadel [Speed] [0] 83?
+RB DeSean Madison 5-7 222 R Western Michigan [Power] [0] 81
+RB Ricky Lewis 5-11 208 4 Temple [Power] [0] 76??
+RB Kenny Ames 6-1 201 1 South Carolina [Speed] [0] 75??
+FB Andrew Lilly 5-10 202 3 SDSU [Pass Blocking] [0] 81???
+WR Mike Tripplett 6-3 173 9 Ohio State [Target] [-1/C] 95?
+WR Lamont Crawford 5-11 166 4 Temple [Speed] [0] 85
+WR Trevon Bowser 6-0 217 R Mississippi State [Target] [0] 80
+WR Deshaun Pickens 6-4 211 1 Wake Forest [Target] [-1] 77
+WR Devon Tillman 6-2 153 3 Kansas State [Speed] [+3] 72?
+TE Jahmir Rolle 6-1 216 2 Georgia Tech [Receiving] [0] 86?
+TE Brian Becker 6-3 216 4 Connecticut [Receiving] [+1] 76
+TE Ituha Coonaha 6-6 200 6 Georgia [Blocking] [0] 76
+OT Kyle Will 6-5 272 2 Michigan [Pass Blocking] [+1] 84
+OT Kiuga Kamu 6-6 293 3 Houston [Pass Blocking] [+1] 84?
+OT Bobby Drake 6-7 311 R Texas [Pass Blocking] [0] [#] 80
+OT Michael Becker 6-3 261 1 Vanderbilt [Run Blocking] [0] 74?
+OG David Wilson 6-1 299 10 Oklahoma [Run Blocking] [+2] 91?
+OG Daniel Keene 6-6 299 5 Oklahoma [Pass Blocking] [0] 82
+OG Cole Fay 6-7 271 1 Virginia Tech [Run Blocking] [0/C] 81
+OG Tomas Duran-Zuniga 6-3 335 R Temple [Pass Blocking] [0] 76
+C Brendan Doherty 6-3 262 5 Washington State [Pass Blocking] [+1] [+] 84
+C Richard Guthrie 6-1 280 3 USC [Pass Blocking] [0] 79
+C Taijuan Rockwell 6-1 290 1 Temple [Pass Blocking] [0] 74??
+DE Shah Vereen 6-1 259 4 South Carolina [Blitz] [-2] 90
+DE Tristan Priest 6-6 251 1 Texas [Blitz] [+1] 81??
+DE Devin Blakely 6-2 256 R UCF [Blitz] [0] 80
+DE Abdoulaye Hannah 6-0 244 2 Navy [Blitz] [-2] 76
+DT Marlon Bailey 6-7 322 ?2 ??Akron [2-Gap] [0] 81??
+DT Silas Booker 6-2 321 1 Western Michigan [1-Gap] [-2] 82??
+DT Bud Howard 6-2 301 6 LSU ?[2-Gap] [0] 79 ?
+DT Shane Gallegos 6-4 259 R Coastal Carolina [2-Gap] [-1] 74
+ILB Alex Martin 6-0 240 7 Texas A&M [Mike] [+3/C] 96??
+ILB Shia Reeder 6-0 236 4 Toledo [Mike] [0] 79
+ILB Abdul Leggett 6-0 236 R SMU [Will] [0/C] [#] 76
+OLB Sergio Miller 5-11 227 5 Alabama [Blitz] [+1] 84?
+OLB Jeff Cox 5-11 220 6 California [Blitz] [+2] 88
+OLB Chance Herring 5-11 231 1 TCU [Blitz] [0] 80?
+OLB Roger Odom 6-1 220 R Delaware [Coverage] [0] 75
+CB Mike Gradishar 5-10 166 7 Alabama [Zone Coverage] [0] 93
+CB Antonio Burch 6-2 188 8 Michigan [Man Coverage] [0] 79
+CB A'Shawn Ellison 5-9 197 3 Central Michigan [Man Coverage] [+2] [+] 82?
+CB Khary Miller 5-9 146 6 Oklahoma State [Zone Coverage] [+1/C] 77
+CB Adam Young 5-9 188 2 SMU [Man Coverage] [+1] 78
+CB Sean Benson 5-10 178 4 Georgia Tech [Zone Coverage] [+2] 76??
+FS Darius Patton 6-1 213 2 Washington State [Man Coverage] [+1] 81?
+FS Derrick Dennis 5-11 221 1 Colorado [Man Coverage] [0] 78?
+SS David Pennington 6-1 192 5 Vanderbilt [Zone Coverage] [+1] 93?
+SS Stephen Daniel 5-10 193 R Temple [Man Coverage] [-1] 79
+K Matt Fisk 5-11 171 5 Penn State [Power] [+1] 80??
+P Jim Brown 6-1 165 7 Auburn [Power] [0] 93?
+PR Landon Garner 5-9 177 R Temple [Hybrid] [+3] 78

@@ -1,0 +1,53 @@
+QB Darrell Murphy 6-2 215 6 Wisconsin [Pocket] 97
+QB Jeremy Henry 6-3 204 2 USF [Pocket] 81
+QB Kevin Marshall 6-4 230 R South Dakota [Hybrid] 77
+RB Frederick Chacon 6-0 172 2 Air Force [Power] 81
+RB Larry Holleyman 5-11 187 2 Tennessee [Power] 76
+RB Trainer Joyce 6-3 221 1 Houston [Speed] 70
+FB Marq Walsh 6-1 229 3 Washington [Pass Blocking] 85
+WR Walt Peck 6-5 203 6 Penn State [Speed] 95
+WR Allama Banta 6-0 185 4 Boston College [Target] 83
+WR Derrick Schwartz 6-0 155 2 Kentucky [Speed] 82
+WR Andrew Williamson 6-3 204 2 Penn State [Target] 73
+WR Norman Spencer 5-9 159 R Maryland [Speed] 70
+WR Dan Murphy 6-1 196 1 Iowa [Speed] 69
+TE Jamal Hawkins 6-4 247 5 Arizona State [Receiving] 88
+TE Cameron Duncan 6-3 249 5 Nebraska [Blocking] 79
+TE Andrew Yearney 6-5 247 1 Maryland [Blocking] 72
+OT Nijrell Smith 6-4 346 4 Miami [Pass Blocking] 86
+OT August Gilliland 6-1 282 2 TCU [Run Blocking] 81
+OT Clifford Santiago 6-6 305 1 Syracuse [Run Blocking 80
+OT Conor Crane 6-6 303 R Mississippi State [Pass Blocking] 76
+OG Art Haley 6-2 342 6 Nebraska [Pass Blocking] 90
+OG Kevin Levy 6-5 261 1 Boise State [Run Blocking] 82
+OG Julio Dunn 6-4 292 R Nebraska [Pass Blocking] 79
+OG Eugene Giles 6-4 290 1 Washington State [Pass Blocking] 74
+C LaMarcus Smith 6-3 298 5 Ole Miss [Run Blocking] 90
+C Malachi Vera 6-1 242 1 Colorado [Pass Blocking] 73
+DE Michael Bruce 6-8 252 1 Texas Tech [Blitz] 81
+DE Jared Self 6-2 256 R Michigan [Blitz] 81
+DE Clayton James 6-6 265 3 Mississippi State [Contain] 74
+DE Thomas Henry 6-6 295 2 Maryland [Contain] 75
+DT Jeffrey Bryant 6-7 303 5 ECU [2-Gap] 82
+DT Clint Harmon 6-8 283 3 Missouri [1-Gap] 71
+DT Anthony Beltran 6-5 299 2 Penn State [2-Gap] 86
+DT David Thompson 6-6 298 R Stanford [2-Gap] 74
+ILB Tom Henderson 6-0 234 4 Iowa [Will] 85
+ILB Daniel Watkins 6-0 231 1 Louisville [Mike] 83
+ILB Brad Hood 6-1 219 3 Michigan State [Mike] 78
+ILB Roland Patterson 6-4 232 1 Auburn [Will] 75
+OLB Leigh Davey 6-1 232 3 Minnesota [Coverage] 85
+OLB Jeff Cox 5-11 220 2 California [Blitz] 82
+OLB James Garcia 6-1 231 1 Houston [Blitz] 75
+OLB Jerry Thornton 6-2 229 R Texas Tech [Coverage] 72
+CB Isaiah Polsfoot 5-11 183 4 Tyler Junior College [Zone Coverage] 84
+CB Thomas Patterson 5-11 184 1 Mississippi State [Man Coverage] 81
+CB Jeremy Starks 5-10 187 R Missouri [Man Coverage] 77
+CB Brian Berry 5-11 187 3 Baylor [Zone Coverage] 69
+CB Russ Barker 5-10 203 2 Miami (FL) [Zone Coverage] 79
+FS Oronde Jackson 5-10 173 2 Air Force [Zone Coverage] 83
+FS Quinn Cooper 6-2 185 2 TCU [Zone Coverage] 71
+SS Brandon Sauter 6-2 200 3 Michigan State [Zone Coverage] 90
+SS Ethan Crockett 6-2 176 R Alabama [Zone Coverage] 77
+K Cliff Chamblin 6-4 191 5 LSU [Power] 97
+P Mark Coleman 6-1 196 2 USC [Power] 83

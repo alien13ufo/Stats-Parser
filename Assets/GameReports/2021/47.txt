@@ -1,0 +1,55 @@
+ New York Jets (2-0) at Jacksonville Jaguars (1-1)
+
+Jacksonville, FL - 88 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jets: New York Jets (2-0) 	10 	3 	7 	14 	- 	34
+:jaguars: Jacksonville Jaguars (1-1) 	6 	3 	7 	14 	- 	30
+Team Stats Comparison
+  	:jets: New York Jets 	:jaguars: Jacksonville Jaguars
+Injuries 	Sam Chapman, RB - Severe Hamstring Bruise 	Glenn Boyd, OT - Mild Thumb Sprain
+Offensive Line Rating 	8.5 	8.1
+Sacks 	1 	2
+Punting 	43.3 	49.2
+Punt Return Yards 	0 	27
+Kick Return Yards 	22 	18
+Turnovers 	1 	1
+3rd Down Conversion 	7/13 	4/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/63 	4/43
+:jets: New York Jets
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	22/38 	280 	3 	1 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	11 	36 	0 	12 	0/0
+Emmanuel Fields 	10 	33 	1 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell 	8 	122 	2 	0 	0/0
+Eugene Sanders 	3 	45 	0 	2 	0/0
+Marcus Ratterman 	5 	42 	0 	1 	0/0
+Israel Hawker 	3 	41 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jose Ortiz 	4/0 	- 	0/0 	1/0 	0/0
+Kwazi Robb 	4/0 	- 	0/0 	0/1 	0/0
+Alvis Brumm 	3/1 	1.0 	0/0 	0/0 	0/0
+Sebastian Vaughn 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	2/2 	4/4 	52, 42
+	
+:jaguars: Jacksonville Jaguars
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Barkley 	15/27 	192 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	21 	98 	1 	27T 	0/0
+Owen Walton 	5 	22 	1 	11 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca 	5 	82 	1 	0 	0/0
+Derek Harrison 	3 	50 	0 	0 	1/1
+Raheem Robinson 	3 	42 	0 	0 	0/0
+Tyrone Turner 	2 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jay Wade 	3/0 	- 	1/1 	0/0 	0/0
+Ron Rice 	4/0 	1.0 	0/0 	1/0 	0/0
+Preston Bryant 	2/0 	1.0 	0/0 	0/0 	0/0
+Christian Haywood 	8/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	3/3 	3/3 	50, 23, 43 

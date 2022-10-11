@@ -1,0 +1,67 @@
+ Atlanta Falcons (3-2-1) at San Francisco 49ers (1-5) ?
+
+Santa Clara, CA - 63 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:falcons: Atlanta Falcons (3-2-1) 	14 	7 	7 	7 	- 	35
+:49ers: San Francisco 49ers (1-5) 	3 	7 	10 	0 	- 	20
+Team Stats Comparison
+  	:falcons: Atlanta Falcons 	:49ers: San Francisco 49ers
+Injuries 	TE Darius Mitchell - Moderate Concussion 	No Injuries
+Top Player Grade 	TE Joseph Erwin (8.73) 	ILB Daleroy Smart (9.26)
+Worst Player Grade 	WR Joseph Thurston (3.15) 	OT Dylan Hastings (3.95)
+Offensive Line Rating 	8.40 	8.18
+Sacks 	3 	0
+Punting 	45.0 	45.1
+Punt Return Yards 	29 	5
+Kick Return Yards 	56 	104
+Turnovers 	0 	1
+3rd Down Conversion 	5/9 	4/13
+4th Down Conversion 	0/0 	1/1
+Penalties 	8/83 	4/23
+:falcons: Atlanta Falcons
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	20/26 	290 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Bradley Cooley 	15 	84 	1 	19 	0/0
+Zion Norris 	13 	56 	1 	28 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason Erwin 	7 	120 	1 	0 	0/0
+Riddick Smith 	3 	83 	1 	0 	0/0
+Bo Woodall 	2 	43 	1 	0 	0/0
+Bradley Cooley 	3 	25 	0 	0 	0/0
+Joseph Thurston 	2 	19 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+David Wilburn 	3/0 	- 	1/0 	0/0 	0/0
+Robert Lacy 	5/1 	1.5 	0/0 	0/0 	0/0
+Eric Jennings 	3/0 	1.0 	0/0 	0/0 	0/0
+Marcus Terrell 	2/0 	0.5 	0/0 	0/0 	0/0
+Mario Ruff 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	0/1 	5/5 	- 46
+	
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Orly Vaccaro 	14/22 	180 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	16 	66 	1 	9 	0/0
+Orly Vaccaro 	3 	17 	0 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jarius Shaw-Dodd 	5 	64 	1 	0 	0/0
+Kevin Branch ? 	2 	42 	0 	0 	0/0
+Miles Collins 	2 	23 	0 	0 	0/0
+Daniel Marshall 	2 	21 	0 	0 	0/0
+Troy McCray 	1 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Daleroy Smart 	8/2 	- 	0/1 	0/0 	0/0
+Bryce O'Donnell 	4/0 	- 	0/0 	0/0 	0/0
+Michael McBride 	4/0 	- 	0/0 	0/0 	0/0
+Dennis Niland 	3/0 	- 	0/0 	0/0 	0/0
+Tavian Oliphant 	3/0 	- 	0/0 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Vincent Comer 	2/2 	2/2 	39, 43 

@@ -1,0 +1,39 @@
+QB Kareem Taylor 6-2 202 R Notre Dame [Pocket] 81
+QB Joe Lang 6-1 202 R Texas Tech [Pocket] 49
+RB James Bush 6-1 242 R Notre Dame [Speed] 82
+RB Gary Sharpe 5-8 199 R Ole Miss [Power] 48
+FB Broderick Snell 5-11 235 R Texas [Speed] 68
+WR Buddy Heap 6-4 177 R Missouri [Target] 69
+WR Hugh Brown 6-6 194 R California [Target] 63
+WR Rashad Simon 6-4 216 R Texas Tech [Target] 53
+WR Champ Whitaker 5-11 170 R USC [Target] 52
+WR Glenn Mosley 6-3 187 R Baylor [Target] 47
+TE Tom Ellis 6-3 265 R USC [Run Blocking] 69
+TE Tony Saunders 6-0 233 R Baylor [Pass Blocking] 52
+OT Ryan Elliss 6-3 333 R Washington State [Pass Blocking] 54
+OG Osi Wiley 6-2 307 R Texas A&M [Pass Blocking] 51
+C Bob Bennett 6-0 297 R Utah [Run Blocking] 51
+OG Brian Simmons 6-1 291 R Georgia Tech [Pass Blocking] 50
+OG Reggie Fontenot 6-8 293 R Wisconsin [Run Blocking] 49
+OT Vernon Marshall 6-5 309 R Navy [Pass Blocking] 51
+OT Trent Reynolds 6-5 324 R Texas Tech [Pass Blocking] 45
+DE Carl Krause 6-1 267 R Rutgers [Pass Stop] 54
+DE Mark Wilson 6-1 268 R Florida [Pass Stop] 53
+DT Floyd Vazquez 6-7 283 R Mississippi State [Pass Stop] 57
+DE Vincent Jones 6-1 304 R Boise State [Run Stop] 53
+DE Rick Bednarik 6-5 299 R Oregon [Pass Stop] 47
+OLB Todd Hoover 6-0 232 R Miami [Pass Man-to-Man] 55
+OLB Montae Smith 6-1 243 R Arizona State [Run Man-to-Man] 53
+OLB Paul Elmore 6-1 234 R Mississippi State [Run Man-to-Man] 49
+ILB Mel Montgomery 6-0 237 R Miami [Run Man-to-Man] 58
+ILB Jon Brown 6-1 230 R Penn State [Run Man-to-Man] 55
+CB Joel Prince 6-1 207 R NC State [Zone Coverage] 76
+CB Dainard Biggs 6-2 184 R Alabama [Zone Coverage] 54
+CB Morten Smith 6-0 173 R Auburn [Zone Coverage] 52
+CB Mike Curran 6-1 173 R Colorado [Zone Coverage] 49
+SS Larry Reeves 5-11 204 R Tennessee [Man Coverage] 82
+SS Gerald Chung 5-10 196 R Maryland [Zone Coverage] 50
+FS Ramon Hulsey 5-10 179 R Virginia Tech [Man Coverage] 52
+FS Shane England 5-9 182 R Kansas [Man Coverage] 52
+K Stephen Morris 5-9 211 R TCU [Accuracy] 63
+P Ronyell Goebel 5-8 169 R Texas [Accuracy] 57

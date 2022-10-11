@@ -1,0 +1,67 @@
+ Houston Texans (4-6) at Indianapolis Colts (6-4) ?
+
+Indianapolis, IN - 49 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (4-6) 	0 	0 	7 	0 	- 	7
+:colts: Indianapolis Colts (6-4) 	3 	7 	3 	14 	- 	27
+Team Stats Comparison
+  	:texans: Houston Texans 	:colts: Indianapolis Colts
+Injuries 	WR Arturo Beckham - Mild Groin Tear 	No Injuries
+Top Player Grade 	OG John Chance (6.98) 	FS Sean Burton (8.56)
+Worst Player Grade 	FS Reynaldo Harris (3.80) 	CB Dan Weaver (4.05)
+Offensive Line Rating 	8.30 	8.32
+Sacks 	1 	0
+Punting 	46.7 	45.6
+Punt Return Yards 	10 	32
+Kick Return Yards 	89 	31
+Turnovers 	2 	0
+3rd Down Conversion 	3/12 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/50 	3/19
+:texans: Houston Texans
+Pro Style - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	16/28 	150 	1 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Arturo Pacheco 	14 	61 	0 	12 	0/0 ?
+Justin Barksdale 	3 	8 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kendall Brandon 	5 	61 	1 	0 	0/0
+Jeremy Scarborough 	3 	40 	0 	0 	0/0
+Marvin White 	2 	18 	0 	0 	0/0
+Spencer Saul 	2 	15 	0 	1 	0/0
+Justin Barksdale 	2 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Robert Fulton 	2/1 	1.0 	0/0 	0/0 	0/0
+Frederick Fain 	8/0 	- 	0/0 	0/0 	0/0
+Richard Jones 	5/0 	- 	0/0 	0/0 	0/0
+Tom Wyman 	3/0 	- 	0/0 	0/0 	0/0
+Dick McCready 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	0/1 	1/1 	- 46
+	
+:colts: Indianapolis Colts
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	31/51 	322 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	11 	51 	1 	8 	0/0
+Fred Tindale 	2 	8 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mosi Bartos 	7 	87 	1 	1 	0/0
+Sean McDermott 	7 	83 	0 	0 	0/0
+Tyler Dotson 	6 	80 	1 	1 	0/0
+Jamal Brunell 	3 	40 	0 	1 	0/0
+Cayden Reese 	3 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK ? 	INT/PD 	FF/FR 	TD/SFTY
+Sean Burton 	4/0 	- 	1/1 	0/0 	0/0
+Samir Ware 	2/0 	- 	1/0 	0/0 	0/0
+Lukas Forman 	4/0 	- 	0/1 	0/0 	0/0
+Kwazi Robb 	5/0 	- 	0/0 	0/0 	0/0
+Damion Taylor 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	2/2 	3/3 	40, 43 ?

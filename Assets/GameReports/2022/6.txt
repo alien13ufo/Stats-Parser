@@ -1,0 +1,65 @@
+ Seattle Seahawks (0-0) at Cincinnati Bengals (0-0) ?
+Cincinnati, OH - 82 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:seahawks: Seattle Seahawks (0-0) 	3 	0 	3 	7 	- 	13
+:bengals: Cincinnati Bengals (0-0) 	7 	14 	7 	7 	- 	35
+Team Stats Comparison
+  	:seahawks: Seattle Seahawks 	:bengals: Cincinnati Bengals
+Injuries 	No Injuries 	ILB Nick Upshaw - Moderate Groin Pull
+Top Player Grade 	DE Brian Glenn (8.26) 	QB Joel King (9.24)
+Worst Player Grade 	WR Tyler White (3.18) 	K Justin Nielsen (5.75)
+Offensive Line Rating 	8.27 	8.05
+Sacks 	3 	2
+Punting 	47.6 	42.5
+Punt Return Yards 	25 	62
+Kick Return Yards 	68 	25
+Turnovers 	2 	0
+3rd Down Conversion 	3/14 	5/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/42 	7/68
+:seahawks: Seattle Seahawks
+Spread - Pistol 2RB ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	16/32 	175 	0 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	17 	52 	1 	9 	1/1
+Booker T. Washington 	5 	28 	0 	17 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyler White 	5 	56 	0 	2 	1/1
+Josiah McCray 	3 	34 	0 	0 	0/0
+Curtis Settles 	2 	24 	0 	0 	0/0
+Jaheim Lemons 	2 	21 	0 	1 	0/0
+Marcus Williams 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kristian Little 	4/0 	1.0 	0/0 	0/0 	0/0
+Brian Glenn 	4/1 	1.0 	0/0 	0/0 	0/0
+Adam Williams 	2/0 	1.0 	0/0 	0/0 	0/0
+ZIon Adakwa 	6/0 	- 	0/1 	0/0 	0/0
+Christian Okonkwo 	3/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	2/2 	1/1 	44, 25
+	
+:bengals: Cincinnati Bengals
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	28/42 	352 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	12 	66 	2 	16 	0/0
+- ? 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	8 	125 	1 	0 	0/0
+Steven Maloney 	6 	82 	1 	0 	0/0
+Christopher Harris 	3 	64 	0 	1 	0/0
+Jamir Blackburn 	3 	42 	1 	0 	0/0
+Ron Thomas 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Aaron Stiles 	2/0 	- 	0/1 	1/1 	0/0
+Brett Bailey 	4/0 	1.0 	0/0 	0/0 	0/0
+Sila Lotomau 	3/0 	1.0 	0/0 	0/0 	0/0
+Prince Matos 	4/0 	- 	0/0 ? 	1/0 	0/0
+Germane Dixon 	3/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Justin Nielsen 	0/2 	5/5 	- 49, 51 

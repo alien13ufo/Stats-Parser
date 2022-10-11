@@ -1,0 +1,52 @@
+QB Jason Johnson 5-11 190 4 UCLA [Pocket] 93
+QB Alex Rodgers 6-3 198 R Kentucky [Pocket] 77
+QB John Jones 6-1 199 3 Texas [Pocket] 77
+RB Gil Novacek 5-11 188 R Arizona [Power] 77
+RB Keena Kane 5-9 180 3 Nebraska [Power] 80
+RB Lynn Bartkowski 6-0 192 2 Miami [Speed] 79
+RB Don Bryant 5-8 186 1 Florida State [Speed] 74
+FB Damion Stewart 6-0 227 R Notre Dame [Power] 74
+FB Barrett Goode 6-1 222 3 Florida State [Speed] 72
+FB Billy Davis 6-2 218 2 NC St. [Power] 67
+WR Dan Nomellini 6-1 182 4 Texas [Target] 96
+WR Wayne Wegert 6-5 188 4 Notre Dame [Speed] 84
+WR John Gross 6-6 185 2 Miami [Speed] 78
+WR Otis Turner 5-11 209 3 Oklahoma [Target] 71
+WR Frank Weiss 6-4 173 2 Boise State [Speed] 70
+TE Bernard Taylor 6-1 267 4 Tennessee [Pass Blocking] 92
+TE Johnny Symonette 6-6 222 3 Virginia [Run Blocking] 80
+TE James Chandler 6-6 254 2 Kentucky [Pass Blocking] 74
+OT Quinn Bouman 6-4 310 2 Ohio State [Run Blocking] 87
+OT David Hughes 6-0 294 1 Utah [Pass Blocking] 84
+OT Terrell Thompson 6-2 345 3 Oklahoma State [Pass Blocking] 72
+OT W.K. Badger 6-5 312 4 Wisconsin [Pass Blocking] 71
+OG Rodrick Norton 6-4 318 3 Auburn [Pass Blocking] 84
+OG Craig Brooks 6-1 297 3 BostonCollege [PassBlocking] 77
+OG Terrance Campbell 6-1 276 2 Arkansas [Run Blocking] 70
+C John Hinton 6-2 298 1 Michigan St. [Pass Blocking] 80
+C Sam Savage 6-2 282 R Texas Tech [Run Blocking] 68
+DE Mike Taylor 6-4 295 3 Virginia [Pass Stop] 85
+DE Charles Lewis 6-5 266 2 Mississippi St. [Pass Stop] 76
+DE Alex Fulcher 6-2 268 2 Clemson [Run Stop] 73
+DE Blair Basnight 6-0 272 1 Texas Tech [Run Stop] 66
+DT Mark Bassett 6-5 299 3 Minnesota [Run Stop] 85
+DT Bud Howard 6-2 301 R LSU [Run Stop] 79
+DT Ira Adams 6-8 263 2 UCLA [Run Stop] 72
+ILB Peyton Roaches 6-2 224 R LSU [Run Man-to-Man] 80
+ILB Ed Haws 6-1 241 3 Wisconsin [Pass Man-to-Man] 74
+ILB Ryan Hanspard 6-1 217 1 Penn State [Pass Man-to-Man] 73
+ILB Paul Buck 5-11 225 R Air Force [Run Man-to-Man] 69
+OLB Damione Ellis 6-2 249 4 Oklahoma State [Pass Man-To-Man] 85
+OLB W.M. Mitchell 5-10 217 2 Michigan [Pass Man-to-Man] 83
+OLB Eugene Parker 6-2 234 2 Arizona [RunMan-to-Man] 66
+CB Dave Stokley 6-2 199 3 Minnesota [Man Coverage] 87
+CB Antonio Burch 6-2 188 2 Michigan [Man Coverage] 83
+CB David Tierney 5-8 169 2 Baylor [Zone Coverage] 72
+CB Victor Ruby 6-1 193 R Maryland [Man Coverage] 66
+FS Randy Moulds 6-2 198 4 Missouri [Man Coverage] 82
+FS Marion Ekern 5-9 169 1 Alabama [Man Coverage] 73
+SS Julio Barnes 5-11 194 R Utah [Man Coverage] 79
+SS Darrell Brown 6-0 197 3 UCLA [Man Coverage] 77
+SS Gerald Foreman 5-9 167 2 Missouri [Man Coverage] 63
+K Brian Evans 5-9 175 1 Florida [Accuracy] 85
+P Steve Smith 6-4 169 2 Oklahoma [Power] 89

@@ -1,0 +1,53 @@
+QB R.J. Stanford 5-11 203 1 Arkansas [Hybrid] 82
+QB Dick Cook 6-2 205 2 Florida State [Scrambling] 82
+QB Brett Bowlin 5-11 205 3 Boise State [Hybrid] 77
+RB O.J. Carano 5-11 217 4 Minnesota [Power] 94
+RB Daniel Nance 5-6 189 R Marshall [Speed] 77
+RB Vernon Haggan 5-11 191 1 Utah [Speed] 76
+RB Keena Kane 5-9 180 4 Nebraska [Power] 78
+FB Harlon Collins 6-1 226 2 LSU [Run Blocking] 84
+FB Mathew Willis 6-2 227 2 Colorado [Run Blocking] 72
+WR Mark Harrington 6-6 177 2 Penn State [Speed] 83
+WR Cotton Lewis 6-1 182 2 Auburn [Target] 85
+WR Keith Setzer 6-2 213 1 Boise State [Speed] 77
+WR Bob Standlee 6-6 163 3 Georgia [Speed] 76
+WR Aric Greene 6-0 214 4 Nebraska [Target] 74
+TE Joe Barrett 6-3 249 4 Mississippi State [Blocking] 81
+TE Chris Gano 6-4 235 1 Stanford [Receiving] 81
+TE John Raiola 6-3 239 2 UCLA [Blocking] 71
+OT Ryan Robinson 6-6 299 2 Oklahoma State [Run Blocking] 87
+OT Alan Holmes 6-7 301 3 Arizona [PassBlocking] 83
+OT Kenneth Porter 6-5 290 R Notre Dame [Run Blocking] 78
+OT Rich Manget 6-8 276 1 Ole Miss [Pass Blocking] 77
+OG Brian Olszewski 6-6 274 1 Florida [Run Blocking] 83
+OG Jerris Jordan 6-5 296 5 Georgia [Pass Blocking] 85
+OG James Redd 6-0 296 2 Iowa [Run Blocking] 78
+OG Dominique Burnett 6-4 296 R Missouri [RunBlocking] 68
+C Arnold Smith 6-4 289 3 Texas [RunBlocking] 81
+C Fred Coulter 6-5 290 1 Houston [Pass Blocking] 68
+DE Curtis Lewis 6-8 283 3 Texas [Blitz] 91
+DE Ulysses Smith 6-8 290 3 Penn State [Contain] 78
+DE Keyshawn Vance 6-2 240 2 Iowa [Contain] 78
+DE Ron Rasby 6-1 275 1 Michigan [Blitz] 74
+DT Joe Micho 6-7 300 5 NotreDame [2-Gap] 82
+DT Brad Mungro 6-6 284 3 Minnesota [1-Gap] 84
+DT Marcus Anthony 6-7 284 R Colorado [1-Gap] 74
+DT Roy Norman 6-4 279 R Miami [1-Gap] 73
+DT Francisco Caudill 6-4 279 3 Arizona [1-Gap] 69
+ILB Freddy Suarez 6-2 226 1 Maryland [Mike] 79
+ILB John Foster 6-1 227 R Miami [Mike] 74
+OLB Kenyatta Henderson 5-11 228 3 OleMiss [Blitz] 93
+OLB Aaron Hammond 6-1 223 R Purdue [Coverage] 82
+OLB Peter Williams 6-0 213 1 Virginia Tech [Coverage] 78
+OLB Michael Clark 6-2 225 3 BYU [Coverage] 71
+CB Will Hall 5-10 224 1 USC [Zone Coverage] 86
+CB Hunter Lawrence 5-10 176 R Colorado State [Zone Coverage] 77
+CB Allen Foster 6-1 172 2 Missouri [Man Coverage] 76
+CB Stephen Mitchell-Morrison 6-1 203 1 Air Force [Zone Coverage] 77
+CB Carl Robinson 6-3 185 1 USF [Zone Coverage] 69
+FS Alex Collins 6-0 214 5 Auburn [Man Coverage] 89
+FS Haven Wiley 5-10 181 1 LSU [Man Coverage] 75
+SS Walter Dorow 5-11 200 2 Georgia [Man Coverage] 82
+SS George Russell 5-11 167 R San Diego State [Zone Coverage] 79
+K Stanley Brewster 6-1 204 2 Pittsburgh [Accuracy] 84
+P Mason Singleton 6-3 198 R Pittsburgh [Power] 80

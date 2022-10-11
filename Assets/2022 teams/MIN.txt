@@ -1,0 +1,53 @@
+QB Brian Vardell 6-2 200 8 Washington State [Pocket] [0] 93
+QB Blake Shell 6-5 194 7 Virginia Tech [Pocket] [0] 84
+QB Blair Holcomb 5-11 207 R Buffalo [Pocket] [-1] 79
+RB Evan Grant 6-0 194 R Georgia State [Power] [0] 81
+RB Keith Dunn 5-11 179 7 Penn State [Power] [-1] 81
+RB Josh Taylor 5-10 178 3 USF [Power] [0] 80
+RB Isaac Wilson 6-0 210 1 Georgia [Power] [0] 78
+?FB Anth?ony Thomas 5-11 222? 7 Texas [Pass Blocking] [0] 82 ??
+WR Mohamed Charles 6-4 192 3 Minnesota [Target] [-1] 84?
+WR Luke Cobb 6-5 198 1 Florida State [Speed] [0] 80
+WR Jacory Kessler 6-3 224 2 Auburn [Speed] [-1] 82
+WR Wayne Wegert 6-5 188 8 Notre Dame [Speed] [+2/C] 77
+WR Aaron Ayala 6-1 169 2 Wisconsin [Speed] [0] 75
+WR Chris Burgos 6-3 217 R Kansas ?[Target] [+1] 70
+TE Eugene Jackson 6-5 253 4 Ohio State [Receiving] [0] 90
+TE James Chandler 6-6 254 6 Kentucky [Blocking] [0] 75
+TE Patrick Baxter 6-7 235 R Harvard [Receiving] [+2/C] 71
+OT MacKenzie Woods 6-4 313 8 USC [Run Blocking] [-1/C] 85
+OT Donald Reed 6-5 293 2 Virginia Tech [Pass Blocking] [0] 86
+OT Jon Beebe 6-1 313 1 Purdue [Pass Blocking] [0] 76
+OT Sam Stroud 6-4 2 63 1 Tulane [Pass Blocking] [0] 71
+OG Joe Smith 6-2 300 7 Arizona State [Pass Blocking] [+1] 81
+OG Charles Thompson 6-5 296 6 Rutgers [Pass Blocking] [+2/C] 81
+OG Thomas Ewing 6-2 282 3 Utah [Run Blocking] [+1] 80
+OG Gregory Cooke 6-5 291 4 Kansas [Pass Blocking] [0] 76
+C John Hadley 6-3 285 3 Michigan [Pass Blocking] [0] 90
+C Tim Beban 6-1 301 5 LSU [Pass Blocking] [-2] 78
+DT Jared Lee 6-5 313 7 Florida State [2-Gap] [0] 82
+DT Frank Jones 6-5 295 5 Iowa [2-Gap] [-1] 77
+DT Marcus Brown 6-5 331 1 Clemson [2-Gap] [0] 78
+DE Sebastian Smallwood 6-1 254 R Alabama [Blitz] [-1/C] 82
+DE Jamal Patton 6-1 255 1 Purdue [Contain] [-2] 79
+DE James Finney 6-3 293 3 Ball State [Contain] [0] 77
+DE Robert Anderson 6-8 275 3 Arizona [Contain] [0] 74
+ILB Cleveland Merrill 6-1 236 7 Ole Miss [Will] [0] 94
+ILB Eric Jones 6-1 238 6 LSU [Will] [+2/C] 89
+ILB Phillip Gillis 6-3 221 1 Boise State [Will] [+1] 76
+ILB Matt Thomas 6-3 247 2 North Dakota [Mike] [0] 70
+OLB Paul Goodman 6-2 240 4 Penn State [Blitz] [0] 88
+OLB Devin Goss 5-11 247 ?R ?Michigan [Blitz] [-3] 76??
+OLB Ralph Watts 6-1 229 2 Nebraska [Blitz] [0] 73
+OLB David Kuppe 5-11? 214 6 Missouri [Coverage] [0] 73
+CB Devon Drummond 5-11 181 3 Kansas [Man Coverage] [0] 84
+CB Robert Bleeker 5-11 188 1 Arkansas [Zone Coverage] [0] 81
+CB Levern White 5-9 162 R Toledo [Man Coverage] [0] 78
+CB Tomas Weathers 5-11 181 2 Colorado [Man Coverage] [0] 78
+CB Javontae Goodson 5-10 195 2 Montana [Man Coverage] [0] 70
+FS Eric Sochia 5-10 169 4 Minnesota [Man Coverage] [-1] 83
+FS Damani Sheppard 5-11 214 R Stanford [Man Coverage] [0] 79
+SS Tyler Trent 5-10 210 4 Alabama [Man Coverage] [0] 83
+SS Devin Whitaker 6-2 193 2 Wisconsin [Man Coverage] [+1] 79
+K Sam Gilligan 5-10 219 R Penn State [Accuracy] [0] 81
+P Theodore Sauer 6-0 156 2 Nebraska [Accuracy] [0] 80

@@ -1,0 +1,55 @@
+ Philadelphia Eagles (2-0) at New York Giants (0-2)
+
+East Rutherford, NJ - 79 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (2-0) 	15 	14 	3 	14 	- 	46
+:giants: New York Giants (0-2) 		0 	0 	7 	0 	- 	7
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:giants: New York Giants
+Injuries 	Marshawn Miller, RB - Severe Foot Dislocation 	No Injuries
+Offensive Line Rating 	8.4 	8.0
+Sacks 	3 	1
+Punting 	45.3 	43.2
+Punt Return Yards 	67 	-2
+Kick Return Yards 	0 	46
+Turnovers 	0 	1
+3rd Down Conversion 	5/9 	1/14
+4th Down Conversion 	0/0 	0/1
+Penalties 	8/70 	3/28
+:eagles: Philadelphia Eagles
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	18/24 	264 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Miller 	7 	70 	0 	38 	0/0
+Troy White 	15 	67 	1 	15T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cameron Whelahan 	7 	102 	1 	0 	0/0
+Michael Hawkins 	3 	74 	2 	0 	0/0
+Christopher Johnson 	2 	45 	0 	1 	0/0
+Damani Spillman 	2 	33 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+DeAndre Hawkins 	2/0 	- 	1/2 	0/0 	1/0
+Reggie Hedberg 	4/1 	1.5 	0/0 	0/0 	0/0
+Ulysses Smith 	2/0 	1.0 	0/0 	0/0 	0/1
+Martin Whiting 	6/0 	0.5 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	3/3 	5/5 	40, 48, 53
+	
+:giants: New York Giants
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mike Thomas 	22/40 	209 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	13 	16 	0 	6 	0/0
+Will Fuller 	2 	0 	0 	1 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tom Oldham 	6 	67 	0 	1 	0/0
+Chris Gano 	3 	62 	0 	1 	0/0
+O.J. Carano 	4 	40 	1 	0 	0/0
+Cotton Lewis 	3 	32 	0 	2 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Marcus Carver 	2/1 	1.0 	0/0 	0/0 	0/0
+Brad Mungro 	9/0 	- 	0/0 	0/0 	0/0
+Aaron Hammond 	5/1 	- 	0/0 	0/0 	0/0
+D'Qwell Moore 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Tyler Oliva 	0/1 	1/1 	- 47 

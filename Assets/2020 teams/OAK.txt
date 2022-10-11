@@ -1,0 +1,53 @@
+QB Nick Hall 6-2 221 5 Syracuse [Pocket] 97
+QB Robert Martin 6-1 184 3 Colorado State [Pocket] 81
+QB Charlie Walter 6-3 228 1 Hawaii [Pocket] 75
+RB Emmett Spears 5-10 195 2 Kent State [Speed] 82
+RB Lavontae Jackson 5-10 234 2 SMU [Power] 77
+RB Major Morris 5-10 207 R The Citadel [Speed] 75
+RB Brian Kanell 5-8 198 5 Georgia Tech [Speed] 74
+FB John Bills 5-11 210 2 Boise State [Run Blocking] 81
+RB Ricky Lewis 5-11 208 R Temple [Power] 72
+WR Mike Tripplett 6-3 173 5 Ohio State [Target] 94
+WR Rex Walsh 5-11 165 2 Florida State [Target] 84
+WR Lamont Crawford 5-11 166 R Temple [Speed] 80
+WR Willie Hodge 6-5 194 5 Penn State [Target] 77
+WR Darryl McGlockton 6-1 199 1 USC [Speed] 71
+TE Brian Gary 6-6 267 6 Wisconsin [Receiving] 92
+TE Matt Thomas 6-3 219 2 Hawaii [Receiving] 80
+TE Brian Becker 6-3 216 R Connecticut [Receiving] 70
+OT John McKelvey 6-2 360 6 Georgia [Pass Blocking] 90
+OT Robert Lee 6-7 310 2 California [Pass Blocking] 80
+OT Charles O’Keefe 6-3 257 R Alabama [Pass Blocking] 76
+OT Kris Broadwick 6-6 319 3 Boston College [Pass Blocking] 74
+OG David Wilson 6-1 299 6 Oklahoma [Run Blocking] 97
+OG Jamie Shank 6-6 287 4 UCLA [Run Blocking] 82
+OG Daniel Keene 6-6 299 1 Oklahoma [Pass Blocking] 77
+C Brendan Doherty 6-3 262 1 Washington State [Pass Blocking] 80
+C Kevin Jones 6-4 310 3 Duke [Pass Blocking] 74
+DE Shah Vereen 6-1 259 R South Carolina [Blitz] 81
+DE Jamal Norwood 6-2 251 1 Boston College [Contain] 79
+DE Adam Williams 6-8 266 2 Purdue [Contain] 78
+DT Gregg Martin 6-6 274 4 Ohio State [1-Gap] 86
+DT Edward Eason 6-5 309 1 Nebraska [2-Gap] 74
+DT Ira Adams 6-8 263 4 UCLA [1-Gap] 70
+ILB Alex Martin 6-0 240 3 Texas A&M [Mike] 90
+ILB Dick McCready 6-2 218 2 West Virginia [Will] 81
+ILB Shia Reeder 6-0 236 R Toledo [Mike] 75
+ILB Ayden Bellamy 6-2 230 1 West Virginia [Will] 72
+OLB Sergio Miller 5-11 227 1 Alabama [Blitz] 80
+OLB Alexander Baumgartner 6-0 224 3 Oklahoma [Coverage] 78
+OLB Timothy Smith 5-11 212 2 Arizona [Blitz] 72
+OLB Jamie Price 6-0 240 R Ohio State [Blitz] 72
+CB Mike Gradishar 5-10 166 3 Alabama [Zone Coverage] 89
+CB Jaylen Harris 5-10 173 2 Louisville [Zone Coverage] 80
+CB Michael Wilkerson 6-1 187 1 Vanderbilt [Zone Coverage] 76
+CB Khary Miller 5-9 146 2 Oklahoma State [Zone Coverage] 76
+CB David Tierney 5-8 169 4 Baylor [Zone Coverage] 73
+CB Antonio Powers 5-11 158 5 Virginia Tech [Zone Coverage] 72
+FS Randall Jones 6-2 190 5 California [Man Coverage] 92
+FS James White 6-1 216 R Alabama [Man Coverage] 79
+SS David Pennington 6-1 192 1 Vanderbilt [Zone Coverage] 84
+SS Chekwume Angacho 6-0 203 3 Penn State [Man Coverage] 75
+K Eric Holder 6-3 186 R Alabama [Power] 75
+K Matt Fisk 5-11 171 2 Penn State [Power] 73
+P Jim Brown 6-1 165 4 Auburn [Power] 90

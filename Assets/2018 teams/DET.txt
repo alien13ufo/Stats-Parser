@@ -1,0 +1,45 @@
+QB Rob LeCount 6-3 212 3 Michigan [Pocket] 86
+QB Brett Bowlin 5-11 205 2 Boise State [Pocket] 77
+QB Adrian Jenkins 6-1 188 R Fresno State [Pocket] 73
+RB Elvis Williams 5-11 181 4 North Carolina [Speed] 89
+RB Dontrell Jackson 5-10 192 2 Boise State [Speed] 76
+RB Kieran Laws 6-1 202 R Notre Dame [Power] 67
+FB Lorenzo Makovicka 5-8 211 2 USC [Power] 74
+WR Gary Faneca 6-5 189 4 Oregon [Speed] 96
+WR Aaron Pagliei 6-3 185 1 Florida [Speed] 78
+WR Bob Standlee 6-6 163 2 Georgia [Speed] 78
+WR Tom Branch 5-9 174 R Boston College [Speed] 72
+WR Reggie Sayers 5-11 205 R Washington [Speed] 68
+TE Anthony Fasani 6-6 222 2 Nebraska [Pass Blocking] 88
+TE Cap Mitchell 6-2 222 1 Michigan [Pass Blocking] 74
+TE Santana Sellers 6-6 240 R Michigan State [Run Blocking] 69
+OT Andrew O'Neil 6-7 319 4 LSU [Pass Blocking] 94
+OT Grey Brown 6-6 308 1 Florida State [Pass Blocking] 88
+OT Tierre Bowen 6-8 305 R Florida [Run Blocking] 74
+OT Bryon Dixon 6-1 322 3 Iowa State [Run Blocking] 72
+OG LaMont Sheriff 6-7 298 2 Virginia Tech [Pass Blocking] 90
+OG Larry Williams 6-5 308 4 Baylor [Pass Blocking] 77
+OG Craig Burford 6-5 295 4 California [Pass Blocking] 73
+C Kenoy Wilson 6-5 293 3 Boston College [Run Blocking] 72
+C Mike Stahl 6-3 280 R Mississippi State [Run Blocking] 70
+DE Doug Carolan 6-0 263 R Florida [Pass Stop] 82
+DE James Duncan 6-3 258 1 Utah [Pass Stop] 70
+DE Cory Fonoti 6-7 279 3 Minnesota [Run Stop] 73
+DT Earl Jackson 6-3 293 3 Oklahoma State [Pass Stop] 94
+DT Bam Gannon 6-6 300 2 Virginia [Pass Stop] 66
+ILB Andre Brooks 6-1 256 4 Wisconsin [Pass Zone] 97
+ILB John Morrison 6-1 229 1 Iowa [Pass Zone] 76
+ILB Jack Bentley 6-0 241 1 Iowa [Pass Zone] 65
+OLB Lamar Tennell 6-1 240 R Washington [Pass Zone] 77
+OLB Scott Wallace 5-11 207 R Texas [Run Zone] 70
+OLB Hal Rodriguez 6-1 251 4 Utah [Pass Zone] 70
+OLB James Royals 5-11 231 3 North Carolina [Pass Zone] 69
+CB Keyshawn Thompson 6-2 181 3 Michigan State [Zone Coverage] 96
+CB Scott Cartwright 5-11 187 1 USC [Zone Coverage] 74
+CB Tony Fouts 6-0 166 2 USC [Zone Coverage] 70
+FS Keith Farr 6-1 174 3 Syracuse [Man Coverage] 84
+FS Rock Darius 6-1 171 4 USC [Man Coverage] 64
+SS Willard McCready 6-0 189 R Wisconsin [Zone Coverage] 80
+SS Luis Nelson 6-4 201 4 Michigan [Man Coverage] 73
+K Brent Hankton 6-4 215 3 West Virginia [Power] 90
+P Bryan Johnson 6-1 204 4 Utah [Accuracy] 87

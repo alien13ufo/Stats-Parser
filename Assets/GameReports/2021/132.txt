@@ -1,0 +1,57 @@
+ Pittsburgh Steelers (3-4) at Chicago Bears (5-2)
+
+Chicago, IL - 48 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:steelers: Pittsburgh Steelers (3-4) 	14 	7 	0 	7 	- 	28
+:bears: Chicago Bears (5-2) 	7 	0 	3 	0 	- 	10
+Team Stats Comparison
+  	:steelers: Pittsburgh Steelers 	:bears: Chicago Bears
+Injuries 	Ray Taylor, ILB - Severe Wrist Bruise 	Matthew Brewer, OG - Moderate Hip Strain
+Offensive Line Rating 	8.3 	7.7
+Sacks 	4 	1
+Punting 	45.4 	44.2
+Punt Return Yards 	9 	24
+Kick Return Yards 	24 	40
+Turnovers 	0 	1
+3rd Down Conversion 	3/12 	5/16
+4th Down Conversion 	0/0 	0/2
+Penalties 	7/94 	5/45
+:steelers: Pittsburgh Steelers
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+R.J. Stanford 	19/26 	280 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	19 	72 	1 	13 	0/0
+Kalei Keil 	5 	37 	1 	27T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Eric Watson 	6 	99 	1 	0 	0/0
+Charlie Paul 	4 	56 	0 	0 	0/0
+Austin Medina 	3 	52 	1 	0 	0/0
+Jake Schmidt 	3 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kordell McKinnon 	2/0 	- 	1/0 	0/0 	0/0
+Carlos Washington 	3/0 	2.0 	0/0 	0/0 	0/0
+David Drake 	2/0 	1.5 	0/0 	0/0 	0/0
+Patrick Murphy 	4/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Michael Turner 	0/1 	4/4 	- 50
+	
+:bears: Chicago Bears
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	21/35 	309 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Quincy Honeycutt 	11 	32 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Aaron Pagliei 	5 	110 	0 	0 	0/0
+David Gaines 	5 	92 	1 	0 	0/0
+Glenn Franckowiak 	3 	60 	0 	0 	0/0
+Donnie Allen 	4 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeff Holleyman 	2/0 	1.0 	0/0 	0/0 	0/0
+Kevin Harris 	7/0 	- 	0/0 	0/0 	0/0
+Akeel Morris 	5/1 	- 	0/0 	0/0 	0/0
+Alyn Namath 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Daniel Olson 	1/2 	1/1 	38 - 52 

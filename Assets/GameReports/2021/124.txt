@@ -1,0 +1,57 @@
+ Kansas City Chiefs (5-2) at Tennessee Titans (5-3)
+
+Nashville, TN - 59 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chiefs: Kansas City Chiefs (5-2) 	0 	0 	0 	7 	- 	7
+:titans: Tennessee Titans (5-3) 	10 	3 	10 	0 	- 	23
+Team Stats Comparison
+  	:chiefs: Kansas City Chiefs 	:titans: Tennessee Titans
+Injuries 	C.J. Hickman, TE - Severe ACL Rupture 	No Injuries
+Offensive Line Rating 	7.8 	8.2
+Sacks 	0 	1
+Punting 	42.6 	45.3
+Punt Return Yards 	5 	40
+Kick Return Yards 	0 	0
+Turnovers 	2 	0
+3rd Down Conversion 	3/14 	2/9
+4th Down Conversion 	0/1 	0/0
+Penalties 	9/87 	5/45
+:chiefs: Kansas City Chiefs
+Wishbone - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erasmus McCready 	7/14 	75 	0 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	24 	105 	1 	16 	0/0
+Justin Buchanan 	7 	30 	0 	13 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Justin Hill 	2 	23 	0 	0 	0/0
+Harry Whiteside 	2 	18 	0 	0 	0/0
+Richard Frazier 	1 	15 	0 	0 	0/0
+Hines Mertens 	1 	13 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Rob Hamilton 	7/0 	- 	0/2 	0/0 	0/0
+Dewey Tomlinson 	5/0 	- 	0/0 	0/0 	0/0
+Sean Springs 	4/0 	- 	0/0 	0/0 	0/0
+Carnell Meadows 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	0/1 	1/1 	- 41
+	
+:titans: Tennessee Titans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	23/36 	270 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chris Bell 	15 	67 	0 	13 	0/0
+Nikita Crowe 	2 	21 	0 	16 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cody Hunter 	6 	99 	1 	0 	0/0
+Greg Newman 	6 	60 	1 	0 	0/0
+Kevin Williams 	4 	55 	0 	0 	0/0
+Tommy Furrey 	3 	42 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jack Ramsey 	2/0 	- 	1/1 	0/0 	0/0
+Tyler Jones 	5/1 	1.0 	0/0 	0/0 	0/0
+Charles Woods 	5/0 	- 	0/0 	0/0 	0/0
+Joseph Whiteside 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	3/3 	2/2 	45, 28, 36 

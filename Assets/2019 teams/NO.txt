@@ -1,0 +1,53 @@
+QB Aaron Devereaux 6-6 204 3 LSU [Pocket] 91
+QB Mike Thomas 6-3 230 2 USC [Pocket] 80
+QB Mike Hill 6-0 202 5 NC State [Scrambling] 76
+RB Sterling Brown 6-0 174 3 Texas [Power] 89
+RB Greg Hadnot 5-9 192 3 Oklahoma [Power] 82
+RB Paul Gibbs 5-9 189 2 Kansas [Speed] 74
+FB John Gastineau 5-11 230 3 Auburn [Run Blocking] 82
+WR Sean Jenkins 6-6 182 2 North Texas [Speed] 88
+WR Steve Alexander 6-6 184 3 Florida [Target] 80
+WR Jamaal Brown-Sanderson 6-1 211 R Penn State [Target] 74
+WR Paul Godfrey 6-1 180 4 Clemson [Speed] 74
+WR John Rowe 5-9 184 1 Arizona [Target] 68
+TE Spec Davidson 6-2 243 5 Georgia [Receiving] 88
+TE George Cox 6-6 243 3 Louisville [Blocking] 73
+TE Will Holly 6-2 237 R UTEP [Receiving] 72
+OT Roderick White 6-8 304 4 Miami [Pass Blocking] 94
+OT Wesley Dawkins 6-2 282 2 Michigan [Pass Blocking] 86
+OT Travis Clatterbuck 6-1 299 1 LSU [Run Blocking] 80
+OT Steve Johnson 6-7 283 R LSU [RunBlocking] 72
+OG Virgil Madison 6-6 293 3 NCState [Pass Blocking] 84
+OG Dee Harris 6-1 292 2 Ohio State [Pass Blocking] 78
+OG Bobby Stallworth 6-5 277 2 LSU [Run Blocking] 70
+OG Herschel Howard 6-4 271 1 California [Pass Blocking] 68
+C Ryan Poole 6-1 303 4 Texas [Run Blocking] 89
+C Darryl McGee 6-3 274 1 Oklahoma State [Run Blocking] 68
+DE Cliff Marconi 6-2 267 2 Florida State [Contain] 79
+DE John Peterson 6-5 294 R USF [Blitz] 78
+DE Bo Bokamper 6-4 259 1 Washington State [Contain] 68
+DE Robert Thomas 6-3 275 1 Air Force [Contain] 66
+DT Jeremy Miller 6-1 304 3 Texas Tech [2-Gap] 92
+DT Montae Kelly 6-2 299 1 Michigan [1-Gap] 76
+DT Felix Welch 6-6 304 1 Oklahoma State [2-Gap] 69
+ILB Rabih Delaney 6-1 237 4 Auburn [Mike] 90
+ILB Jackie Eaton 6-0 234 4 Virginia Tech [Will] 86
+ILB Gregory Kellogg 6-3 235 1 Ohio State [Will] 74
+ILB Correll Carroll 6-0 223 1 Syracuse [Will] 72
+OLB Ray Flores 6-1 234 5 BYU [Coverage] 85
+OLB Austin Olson 5-11 234 1 Notre Dame [Blitz] 84
+OLB Rolando Brown 6-1 223 4 OregonState [Coverage] 71
+OLB Kevin Little 5-11 234 R TexasA&M  [Blitz] 69
+CB Aaron Stiles 5-11 180 R Tennessee [Man Coverage] 80
+CB Bob Brewer 6-1 179 5 Oklahoma State [Man Coverage] 78
+CB Adam Harris 6-1 183 3 AirForce [ManCoverage] 77
+CB Moe McMillan 5-10 183 3 VirginiaTech [Man Coverage] 79
+CB Tony Preston 5-10 166 3 California [Man Coverage] 70
+FS Koren Donahue 5-10 190 R Rice [Zone Coverage] 79
+FS Mike Jimenez 6-0 199 2 NC State [Zone Coverage] 77
+FS Amadou Coley 5-10 200 R Henry Ford Community College [ManCoverage] 72
+SS Willie Wood 6-1 198 4 Texas [Man Coverage] 81
+SS Frederick Higgins 5-11 187 1 Penn State [Man Coverage] 76
+K Skip Gibson 6-0 178 3 Georgia [Accuracy] 91
+P Adonis Rosa 5-10 183 R Tennessee [Power] 78
+P Brett Donahue 6-4 210 R Miami [Power] 77

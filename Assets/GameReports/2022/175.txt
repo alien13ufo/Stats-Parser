@@ -1,0 +1,67 @@
+ Dallas Cowboys (6-4) at Philadelphia Eagles (7-3) ?
+
+Philadelphia, PA - 44 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cowboys: Dallas Cowboys (6-4) 	0 	6 	3 	0 	- 	9
+:eagles: Philadelphia Eagles (7-3) 	7 	7 	7 	10 	- 	31
+Team Stats Comparison
+  	:cowboys: Dallas Cowboys 	:eagles: Philadelphia Eagles
+Injuries 	TE Erasmus High - Moderate Quadriceps Pull 	WR Michael Hawkins - Mild Concussion
+Top Player Grade 	ILB Cleo Blair (6.93) 	QB Allan Taylor (8.99)
+Worst Player Grade 	QB Benjamin Hanson (3.05) 	OLB Donald Collier (4.06)
+Offensive Line Rating 	8.36 	8.30
+Sacks 	0 	1
+Punting 	43.3 	46.1
+Punt Return Yards 	6 	26
+Kick Return Yards 	89 	36
+Turnovers 	1 	0
+3rd Down Conversion 	3/13 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/56 	5/35
+:cowboys: Dallas Cowboys
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Benjamin Hanson 	17/35 	166 	0 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Adrian Robinson 	11 	44 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Francisco Gibson 	5 	55 	0 	2 	0/0
+Rodney Montgomery 	3 	51 	0 	0 	0/0
+Austin Medina 	2 	16 	0 	1 	0/0
+Francisco Gibson 	2 	13 	0 	0 	0/0
+Alex Gash 	2 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cleo Blair 	7/1 	- 	0/0 	0/0 	0/0
+Kendall Hill 	5/0 	- 	0/0 	0/0 	0/0
+Javier Grady 	4/0 	- 	0/0 	0/0 	0/0
+Jeff Mangum 	4/0 	- 	0/0 	0/0 	0/0
+Antoine Mayfield 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	3/3 	0/0 	29, 35, 21
+	
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	17/24 	228 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	13 	51 	1 	11 	0/0
+Marshawn Miller 	12 	50 	0 	7 	0/0
+Allan Taylor 	6 	41 	1 	15 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cameron Whelahan 	5 	80 	0 	0 	0/0
+Roy Davis ? 	3 	45 	1 	0 	0/0
+Christopher Johnson 	3 	35 	0 	0 	0/0
+Sebastian Babb 	1 	26 	1 	0 	0/0
+Erik Bray 	3 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD ? 	FF/FR 	TD/SFTY
+Logan Holmes 	3/0 	- 	1/0 	0/0 	0/0
+Ryan Frey 	2/0 	1.0 	0/0 	0/0 	0/0
+Rodrick Milligan 	8/0 	- 	0/0 	0/0 	0/0
+Martin Whiting 	4/0 	- 	0/1 	0/0 	0/0
+Donald Collier 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Mark Kirschbaum 	1/1 	4/4 	46 

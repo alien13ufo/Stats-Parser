@@ -1,0 +1,67 @@
+ Philadelphia Eagles (6-3) at Tampa Bay Buccaneers (5-4) ?
+
+Tampa, FL - 80 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (6-3) 	7 	7 	3 	0 	- 	17
+:buccaneers: Tampa Bay Buccaneers (5-4) 	0 	0 	7 	0 	- 	7
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:buccaneers: Tampa Bay Buccaneers
+Injuries 	WR Justin Evans - Severe Hip Strain 	FS Micquel Carter - Severe ACL Rupture
+Top Player Grade 	FS Cameron Bowden (8.01) 	CB Cameron Newhouse (7.26)
+Worst Player Grade 	OG Robert Fontenot (3.56) 	OT John Young (3.32)
+Offensive Line Rating 	8.32 	8.27
+Sacks 	2 	1
+Punting 	47.6 	42.3
+Punt Return Yards 	36 	9
+Kick Return Yards 	36 	64
+Turnovers 	2 	3
+3rd Down Conversion 	3/13 	3/15
+4th Down Conversion 	0/0 	1/2
+Penalties 	7/56 	9/80
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	15/29 	166 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	13 	50 	0 	16 	1/1
+Marshawn Miller 	9 	23 	1 	6 	0/0
+Allan Taylor 	4 	17 	0 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP ? 	F/L
+Sebastian Babb 	5 	60 	0 	0 	0/0
+Michael Hawkins 	3 	42 	1 	0 	0/0
+Cameron Whelahan 	2 	16 	0 	1 	0/0
+Erik Bray 	2 	13 	0 	1 	0/0
+Christopher Johnson 	1 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Bowden 	4/0 	- 	1/1 	0/0 	0/0
+Travaris Jackson 	2/0 	- 	1/0 	0/0 	0/0
+Logan Holmes 	1/0 	- 	1/0 	0/0 	0/0
+Ryan Frey 	3/0 	1.0 	0/0 	0/0 	0/0
+Ulysses Smith 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/3 	2/2 	32 - 40, 46
+	
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	17/35 	175 	1 	3 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	9 	24 	0 	8 	0/0
+Taylor Heiden 	2 	-5 	0 	-2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Richard Wilson 	6 	64 	0 	0 	0/0
+Anthony McCardell 	3 	43 	0 	2 	0/0
+Quintavius Pearson 	2 	32 	1 	0 	0/0
+Randall Johnson 	2 	17 	0 	1 	0/0
+William Moore 	2 ? 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Newhouse 	3/0 	- 	1/1 	0/0 	0/0
+Micah Singletary 	4/1 	1.0 	0/0 	0/0 	0/0
+Frank Williams 	2/0 	1.0 	0/0 	0/0 	0/0
+Gustavo Adcock 	2/0 	1.0 	0/0 	0/0 	0/0
+Andre Brooks 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	0/1 	1/1 	- 49 

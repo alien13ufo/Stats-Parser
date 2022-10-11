@@ -1,0 +1,53 @@
+QB Jordan North 6-1 230 1 Temple [Hybrid] [0] 82?
+QB Matthew Dobbs 6-1 213 3 Virginia Tech [Scrambling] [+2/C] 79
+RB Sean Bell 6-1 209 3 Baylor [Speed] [0] 86
+RB Daniel Hutchins 5-7 212 2 Northern Illinois [Power] [-1] 81
+RB Daniel Nance 5-6 189 4 Marshall [Speed] [0] 77
+FB Alex Broughton 5-9 229 2 UAB [Pass Blocking] [0] 80
+WR Darrell Mack 6-2 156 6 Alabama [Speed] [0] 86
+WR Morgan Patton 6-3 193 1 Penn State [Target] [0] 82
+WR Kevin Garvin 6-4 224 3 Boise State [Target] [0] 81
+WR Dean Burkhart 6-4 207 2 SMU [Target] [-2] 79
+WR Kevin McMullen 6-1 153 4 Mississippi State [Speed] [0] 78
+WR George Lewis 5-11 181 5 UCLA [Speed] [0] 77
+TE Jason McClairen 6-4 220 5 Texas A&M [Receiving] [+1] 84
+TE Jacob Darby 6-0 223 R Illinois [Blocking] [+1] 75
+OT Kevin Grey 6-5 260 2 USC [Pass Blocking] [+2/C] 83
+OT James Poindexter 6-6 296 4 Nebraska [Run Blocking] [0] 83
+OT Nick Grant 6-6 296 6 LSU [Pass Blocking] [0] 82
+OT Michael Johnson 6-4 295 1 Eastern Illinois [Pass Blocking] [0] 76
+OT Scott Jennings 6-4 307 4 Iowa [Run Blocking] [0] 82
+OG Kevin Levy 6-5 261 4 Boise State [Run Blocking] [-1] 87
+OG Henry Brown 6-4 291 4 Louisville [Run Blocking] [0] 85
+OG Julian Jarrell 6-6 336 3 Wyoming [Pass Blocking] [-1] 81
+OG Steven Davidson 6-3 280 1 Michigan [Run Blocking] 79
+C Enoch Dickinson 6-1 276 8 Minnesota [Pass Blocking] [0/C] 92
+C Jonathan Smith 6-2 262 3 Northwestern [Run Blocking] [0] 78
+DE Ray McBride 6-6 275 7 Alabama [Blitz] [-1/C] 96
+DE Gabriel Beauchamp 6-1 256 3 Akron [Blitz] [0] 84
+DE Justice Glenn 5-10 257 R USF [Blitz] [0] 71
+DE Kareem Yancey 6-1 249 3 Nebraska [Blitz] [-2] 75
+DE George Alexander 6-8 250 4 Maryland [Contain] [0] 72
+DT Je'Rod Wimbush 6-4 277 8 Auburn [1-Gap] [0] 83
+DT Maximillian Baker 6-3 304 4 Georgia Tech [1-Gap] [0/C] 82
+DT Adriel Sierra 6-1 328 1 TCU [2-Gap] [0] 76
+DT ?Chris James 6-3 285 5 North Carolina [1-Gap] [0] 75 ?
+ILB C.J. Thomas 6-4 240 3 Georgia [Mike] [0/C] 87
+ILB Thomas Morton 6-2 254 R Baylor [Mike] [0/C] 79
+OLB Caleb McNamara 6-2 217 2 Vanderbilt [Coverage] [0] 84
+OLB Jabari Fletcher 6-5 239 1 Texas [Coverage] [+2/C] 82
+OLB? Stephen Cann?on 5-11 228 4 San Diego State?[Coverage] [+2] 8??1
+OLB Evan Belcher 6-2 230 R Texas A&M [Coverage] [0] 75
+CB? Cameron Marshall 6-1 170 3 Penn State [Zone Coverage] [-1] 86?
+CB Patrick Mitchell 5-9 163 4 San Diego State [Zone Coverage] [0] 81
+CB Devon Braxton 6-1 182 R Texas [Zone Coverage] [-2] 80
+CB Israel Greer 6-0 192 4 Nevada [Zone Coverage] [0] 79
+CB Malik Smith 6-1 168 1 Louisiana-Lafayette [Zone Coverage] [+1] 74
+FS LaMichael Jones 6-3 173 6 Stanford [Man Coverage] [0] 84
+FS Martin Hernandez 6-2 197 4 Miami [Man Coverage] [0] 79
+SS Antonio Oliver 6-0 196 4 Houston [Man Coverage] [+1] 87
+SS Wesley Rosado 6-0 173 4 North Carolina [Man Coverage] [0] 78
+K A.K. McGowan 6-2 212 2 Penn State [Power] [0] 86
+P Sylvester Word 6-3 192 7 Missouri [Power] [+1] 88
+LS Kirk Fitzpatrick 6-1 236 2 North Dakota State [Specialized] [0] 85
+KR Art Vogt 5-8 180 R Louisville [Specialized] [-2] 76

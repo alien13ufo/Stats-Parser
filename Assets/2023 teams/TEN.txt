@@ -1,0 +1,53 @@
+QB Thomas Wheeler 6-1 208 8 Florida State [Pocket] [+1/C] 95?
+QB Kareem Taylor 6-2 202 9 Notre Dame [Pocket] [0] 86
+QB Julius McIntosh 6-0 232 3 Washington [Hybrid] [0] 82
+RB Chad Dess 6-1 241 8 Virginia [Power] [-1] 88
+RB Jamal Trufant 6-1 223 R Wisconsin [Power] [-2] 80
+RB Nikita Crowe 5-11 226 2 Tennessee [Power] [0] 74
+FB Ibrahim High 5-9 208 4 Air Force [Run Blocking] [0] 84
+WR Kevin Williams 6-0 165 7 Boston College [Speed] [+3/C] 90
+WR Cody Hunter 6-3 190 3 Tennessee-Martin [Target] [-2] 82
+WR Percy Brown 6-4 200 R Eastern Washington [Speed] [0] 79
+WR Ray Harrison 6-1 197 4 Purdue [Target] [0] 78
+WR Derek Blalock 5-10 168 1 Western Carolina [Speed] [0] 78
+WR Nicholas Spence Jr. 6-3 181 R Massachusetts [Target] [0] 75
+TE Hastin Rider 6-1 206 2 Baylor [Receiving] [0] 83
+TE Johnny Duerson 6-5 238 5 Syracuse [Blocking] [+1] 80
+TE Jayden Townsend 6-6 194 2 Auburn [Receiving] [0] 78
+TE Chris Irizarry 6-3 203 2 Clemson [Receiving] [0] 72
+OT Brandon Reamon 6-8 298 5 Texas [Pass Blocking] [0/C] 93
+OT Jeremy Summers 6-7 321 2 Ole Miss [Pass Blocking] [0] 80
+OT Jevonne Goodwin 6-3 302 2 Dayton [Pass Blocking] [0] 77
+OG Ian Braden 6-2 335 3 Western Michigan [Run Blocking] [0] 85
+OG Barry Waterfield 6-7 284 7 Syracuse [Run Blocking] [0] 85
+OG Donald Reilly 6-6 312 R New Mexico State [Pass Blocking] [0] 76
+OG Ordell Green 6-1 274 6 NC State [Pass Blocking]? [0] 76
+C Dean Strauss 6-3 284 2 Auburn [Pass Blocking] [0] 84
+C Jayson Pierce 6-4 282 1 SMU [Pass Blocking] [0] 77
+DE Tyler Jones 6-1 257 3 Mississippi State [Contain] [0] 91
+DE? Steven Jordan 6-?7 279 8 Iowa State [Contain] [+1]? 8?6
+DE John Peterson 6-5 294 4 USF [Blitz] [0] 81
+DE Darcy McShea 6-5 250 1 Western Carolina [Blitz] [0] 73
+DT Joseph Whiteside 6-2 327 3 USC [2-Gap] [0] 83
+DT Rashaad Malcolm 6-6 327 1 Ball State [2-Gap] [+2] 80
+DT Jasiah Pickens 6-1 334 R TCU [2-Gap] [0] 75
+ILB Randy Humphreys 6-1 252 7 Purdue [Will] [0/C] 88
+ILB Tyrese Thompson 6-3 228 1 Auburn [Mike] [-1/C] 84
+ILB Philip Sargent 6-2 240 3 Nebraska [Will] [0] 77
+ILB Louis Landry 6-0 223 2 USC [Will] [+1] 74
+OLB David Doherty 6-1 228 6 Kansas State [Coverage] [+2] 90
+OLB Jeff Cox 5-11 220 5 California [Blitz] [+2] 87
+OLB Terrence Plummer 6-5 239 2 Chattanooga [Blitz] [-2] 81
+OLB Omar Callaway 6-1 244 1 SMU [Blitz] [+1] 72
+CB Jack Ramsey 6-2 172 5 Virginia Tech [Zone Coverage] [-2] 93
+CB Jordan Harris 5-10 185 3 North Dakota State [Zone Coverage] [0] 86
+CB M.K. Sharpe 5-11 201 R BYU [Man Coverage] [-1] 80
+CB Samuel Echols 5-10 200 R Northern Illinois [Zone Coverage] [-2] 76
+CB Frederick Harper 6-2 213 5 Hawaii [Zone Coverage] [0] 74
+FS Chad Walker 5-11 180 2 Tulsa [Man Coverage] [+1] 82 ?
+FS Damani Crump-Jackson 5-11 198 2 Colorado State [Man Coverage] [-1] 79
+SS Tywan Tafoya 6-2 185 8 Washington State [Zone Coverage] [+1] 86
+SS Noel Barfield 5-10 177 R Kansas [Zone Coverage] [+1] 80
+K Leon Woodruff 5-8 169 6 Northwest Mississippi CC [Accuracy] [0] 83?
+P Scottie Ware 5-10 174 5 Clemson [Power] [0] 86
+PR Margene Huard 6-6 169 5 Arizona [Specialist] [-3] 87

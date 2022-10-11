@@ -1,0 +1,63 @@
+QB Brett Fisher 6-2 211 1 Miami [Scrambling] 84
+QB Alexander Williams 6-0 187 7 Texas A&M [Scrambling] 87
+QB Andrew Davis 6-3 222 2 Northern Illinois [Pocket] 79
+RB Moussa Goode 6-1 198 1 Ohio State [Speed] 83
+RB Marty Keisel 5-11 222 2 UAB [Power] 77
+RB Greg Allen 5-10 206 3 Marshall [Speed] 74
+RB Davey Jones 5-10 177 R Richmond [Speed] 73
+FB Kayden Dozier 5-10 228 1 Georgia [Run Blocking] 82
+WR David Wells 6-5 187 5 Oregon State [Speed] 92
+WR Sean Waller 6-2 167 R USC [Speed] 77
+WR Ibrahim Smiley 6-0 168 3 Baylor [Speed] 78
+WR A.J. Byrne 6-1 216 2 Wake Forest [Target] 81
+WR Joseph Dickerson 5-11 158 1 Virginia Tech [Speed] 74
+TE Ituha Coonaha 6-6 200 3 Georgia [Blocking] 77
+TE Kevin Knight 6-8 234 7 Texas [Receiving] 77
+TE Jason Lee 6-1 232 7 Boston College [Blocking] 77
+OT Craig Foster 6-2 318 6 Arizona [Pass Blocking] 86
+OT Carlos Gothard 6-8 290 4 Clemson [Run Blocking] 85
+OT Arthur Taylor 6-8 280 1 Arizona State [Run Blocking] 82
+OT John Mathews 6-6 296 3 Boise State [Run Blocking] 76
+OT Mendy Cheney 6-3 291 R Wisconsin [Pass Blocking] 80
+OG Fred Watts 6-3 293 6 Nebraska [Pass Blocking] 83
+OG George Greene 6-3 291 2 Minnesota [Pass Blocking] 85
+OG Dejuan Holmes 6-7 283 4 USC [Pass Blocking] 80
+OG Will Doughty 6-3 271 1 Alabama [Pass Blocking] 80
+C Jim Boso 6-6 286 5 Miami [Pass Blocking] 78
+C Toma Malifa 6-1 258 R Tennessee [Run Blocking] 77
+DE Tommy Wietecha 6-2 277 7 Tennessee [Blitz] 84
+DE Matthew Davis 6-1 269 2 TCU [Contain] 82
+DE George Calvert 6-2 267 1 Minnesota [Blitz] 72
+DE Jason Johnson 6-3 264 4 Penn State [Contain] 75
+DT Marlin Eason 6-3 286 4 Texas [2-Gap] 89
+DT Micheal Black 6-5 281 2 UCLA [2-Gap] 78
+ILB Tom Lavergne 6-0 226 3 Florida [Will] 80
+ILB Gary Bower 6-2 229 4 Utah [Mike] 78
+ILB Samuel Sands 6-2 243 R Vanderbilt [Will] 77
+ILB Alexander Hardison 6-1 232 2 Western Kentucky [Mike] 82
+OLB Tyrone Jones 5-11 233 6 LSU [Blitz] 99
+OLB Louis Peterson 6-4 200 3 Oklahoma State [Blitz] 88
+OLB Nick Jones 6-2 192 R Eastern Washington [Blitz] 71
+OLB Eric Burden 6-2 233 2 Florida [Blitz] 73
+CB Sammy Muhammad 5-10 178 5 Missouri [Man Coverage] 89
+CB Troy Marshall 6-1 163 2 Texas [Zone Coverage] 89
+CB Lynn Perry 6-3 187 4 LSU [Man Coverage] 83
+CB Dan Weaver 5-9 169 3 Purdue [Man Coverage] 78
+CB Donald Tucker 6-1 179 3 Boise State [Man Coverage] 72
+CB Paul Olson 5-11 174 4 BYU [Man Coverage] 74
+SS Adam Newman 6-0 175 4 Iowa State [Zone Coverage] 90
+SS Jonah Parker 6-3 208 R BoiseState [Man Coverage] 79
+FS Dwayne Harden 6-1 185 3 Nebraska [Zone Coverage] 80
+FS Traveon Howard 6-0 194 R USF [Zone Coverage] 80
+K Dennis Scott 6-1 206 4 Florida State [Power] 84
+P Lucas Pappas 5-7 162 3 Illinois [Accuracy] 84
+WR Samuel Ritter 6-2 218 R Pittsburgh [Target] 70
+RB Justin Couture 5-10 178 2 Ohio [Speed] 70
+WR Mike Middleton 6-0 219 2 Hawaii [Speed] 71
+CB James Ortiz 5-10 195 1 Kentucky [Man Coverage] 69
+DE Thierno Mingo 6-1 244 2 Western Michigan [Blitz] 70
+DT Keith Small 6-4 334 R Maryland [2-Gap] 67
+OLB Gregory Jenkins 6-4 232 1 Temple [Coverage] 70
+LS Nicolas Slack 6-2 284 2 Northern Illinois [Traditional] 71
+TE Floyd Arnold 6-2 233 1 Colorado State [Receiving] 74
+TE Danny Patrick 6-5 223 5 North Carolina [Receiving] 89

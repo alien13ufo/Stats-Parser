@@ -1,0 +1,53 @@
+QB Jarius Jones 6-1 205 3 Iowa [Pocket] 88
+QB Philip Rea 6-3 235 1 Michigan [Pocket] 80
+QB Sean Sitton 6-4 196 R Arkansas [Pocket] 75
+RB Marcus Williams 5-10 219 R Nebraska [Speed] 81
+RB Booker T. Washington 6-1 208 5 OklahomaState [Speed] 83
+RB Rasheed Kent 6-1 205 4 Minnesota [Power] 81
+FB Jose Rosenthal 5-11 208 2 North Carolina [Pass Blocking] 85
+WR Gary Faneca 6-5 189 6 Oregon [Speed] 96
+WR Steve Warner 6-2 193 5 Michigan State [Target] 85
+WR Jim Umenyiora 6-2 197 4 NC State [Speed] 85
+WR Matt Kreutz 6-3 199 5 Penn State [Speed] 76
+WR Alex Kauffman 6-4 232 R Arkansas [Target] 70
+TE Tony Huff 6-4 225 3 Georgia [Receiving] 87
+TE Denario Jackson 6-1 219 2 Pittsburgh [Receiving] 73
+OT Walter Adair 6-1 310 4 Army [Run Blocking] 92
+OT John Eaton 6-5 284 1 Penn State [Run Blocking] 84
+OT James Poindexter 6-6 296 1 Nebraska [Run Blocking] 80
+OT Nick Auld 6-6 302 3 Connecticut [Pass Blocking] 77
+OT David Bowles 6-3 296 3 Mississippi State [Pass Blocking] 77
+OG John Tripucka 6-3 308 3 Clemson [Pass Blocking] 84
+OG Trey Durrence 6-2 300 4 Alabama [PassBlocking] 81
+OG Sawyer Dougherty 6-4 298 1 Oklahoma State [Pass Blocking] 75
+OG Ricky Witman 6-4 280 2 Boston College [Pass Blocking] 74
+OG Nelson Portillo 6-5 295 R Rutgers [Pass Blocking] 73
+C Nate Gardner 6-0 284 1 Texas Tech [Pass Blocking] 77
+C Kevin Thompson 6-3 283 R California [Run Blocking] 75
+DE Brian Glenn 6-6 291 5 LSU [Blitz] 88
+DE Steven Jordan 6-7 279 5 Iowa State [Contain] 83
+DE Travis Lee 6-8 260 2 Alabama [Contain] 74
+DE Kareem Yancey 6-1 249 R Nebraska [Blitz] 74
+DT Christian Okonkwo 6-5 297 R Oregon [2-Gap] 82
+DT Reggie Howard 6-6 306 5 Washington [2-Gap] 80
+DT Craig Boyd 6-8 277 3 Ole Miss [1-Gap] 75
+ILB Malcolm Douglas-Scott 6-0 239 4 Angelina College [Will] 96
+ILB Frank Lee 6-1 227 6 Florida State [Will] 80
+ILB Brick Madden 6-3 239 R Oregon [Mike] 78
+ILB Sylvester Feeley 6-1 227 4 LSU [Will] 77
+OLB Kristian Little 6-0 237 1 Alabama [Blitz] 81
+OLB Kyries Brown 6-0 227 4 Wisconsin [Coverage] 81
+OLB Kenji Sagatomo 6-1 234 R New Hampshire [Blitz] 74
+OLB Melvin Bedell 6-1 221 4 Texas [Coverage] 73
+CB Matt Cowan 6-2 172 4 Wisconsin [ZoneCoverage] 95
+CB Corey Quinn 6-0 191 3 Oregon [Zone Coverage] 89
+CB Duke Burchfield 5-11 163 2 North Carolina [Zone Coverage] 74
+CB Eric Houser 5-9 171 1 San Jose State [Man Coverage] 76
+FS Onome Smith 6-1 191 2 California [Man Coverage] 80
+FS Samuel Porter 5-11 206 R Boise State [Man Coverage] 76
+FS Haven Wiley 5-10 181 2 LSU [Man Coverage] 76
+SS Antonio Oliver 6-0 196 1 Houston [Man Coverage] 81
+SS Anthony Foster 6-3 206 3 Purdue [Man Coverage] 74
+SS Patrick Carr 5-10 201 2 Navy [Zone Coverage] 72
+K Chris Ritter 6-2 208 1 Stanford [Accuracy] 83
+P Gary Levels 6-1 198 2 Michigan State [Power] 86

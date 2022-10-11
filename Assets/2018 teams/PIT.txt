@@ -1,0 +1,53 @@
+QB Onterrio Smith 6-1 180 4 Miami [Scrambling] 84
+QB Paul Davenport 6-0 198 R Miami [Scrambling] 80
+QB Rob Corp 6-3 203 1 Miami [Scrambling] 75
+QB Les Henderson 6-4 193 R Georgia [Scrambling] 75
+QB Keith Price 6-2 171 1 Minnesota [Scrambling] 68
+RB James Bush 6-1 242 4 Notre Dame [Speed] 84
+RB Nick Engelberger 5-8 186 1 Notre Dame [Power] 75
+RB Donald Dingle 6-0 207 R Clemson [Power] 71
+RB Robert Hall 6-0 165 R Alabama [Speed] 70
+FB James Brown 6-4 206 R Michigan [Power] 68
+FB Marc Ladner 6-0 210 1 Iowa State [Speed] 73
+WR Austin Medina 5-11 192 3 Kentucky [Speed] 85
+WR Samuel Jolley 6-2 218 R Houston [Speed] 80
+WR Anthony McCardell 6-1 186 1 Clemson [Target] 79
+WR Malaefou Lewis 5-8 181 R Arizona State [Target] 68
+WR Marion Sims 6-4 179 1 NC State [Target] 67
+TE Jake Schmidt 6-6 235 2 OhioState [RunBlocking] 83
+TE Lawrence Gibson 6-3 239 1 Colorado State [Pass Blocking] 76
+TE John Raiola 6-3 239 1 UCLA [Pass Blocking] 70
+TE Johnny Nutten 6-3 247 2 Ole Miss [Run Blocking] 68
+C Lloyd Nieves 6-5 293 1 Utah [Run Blocking] 80
+OT Jason Kelly 6-6 319 4 Minnesota [Pass Blocking] 78
+OT Nick Grant 6-6 296 1 LSU [Pass Blocking] 79
+OT Robert Lee 6-7 310 R California [Pass Blocking] 78
+OT Antuan Byrdsong 6-2 1 Nebraska [Run Blocking] 71
+OT Tom Gilbert 6-5 316 R Kansas State [Pass Blocking] 67
+OG Joe Kramer 6-5 290 1 Texas Tech [Pass Blocking] 75
+OG Phillip Dickson 6-7 289 1 Boise State [Run Blocking] 75
+DT Carnell Meadows 6-5 273 1 Nebraska [Pass Stop] 83
+DT Al Lindsey 6-1 296 2 WashingtonState [Pass Stop] 75
+DE Billy Stevenson 6-7 259 2 Utah [Run Stop] 79
+DE Jesse Boyd 6-6 276 R Fresno State [Run Stop] 72
+DE Jim Pagac 6-7 292 R California [Run Stop] 68
+OLB Patrick Murphy 6-2 201 R Minnesota [Run Zone] 82
+OLB Charlie Johnson 6-2 230 1 South Carolina [Pass Zone] 81
+OLB Garrison Jackson 6-1 226 2 Oklahoma St. [Pass Man-to-Man] 70
+OLB Ronald Jagade 6-0 234 1 Michigan State [Run Man-to-Man] 66
+ILB Jack Muhammad 6-2 248 3 Clemson [Pass Man-to-Man] 81
+ILB Jamie Zuman 6-3 223 R Kansas [Run Zone] 74
+ILB Donny Hunter 5-11 207 R Ohio State [Run Man-to-Man] 69
+ILB Ernest Cross 6-1 229 2 Ole Miss [Pass Man-to-Man] 66
+CB Joel Prince 6-1 207 4 NCState [Zone Coverage] 87
+CB Cade Donovan 5-11 172 2 Washington State [Zone Coverage] 80
+CB Donnie Thomas 6-3 171 R Kentucky [Zone Coverage] 69
+CB Marlin Schrader 5-11 192 1 Washington State [Man Coverage] 66
+FS Stephen Elliott 6-3 197 4 Cincinnati [ZoneCoverage] 92
+FS John Gregory 5-10 167 1 Cincinnati [Man Coverage] 66
+SS Walter Valdez 5-11 178 1 Boise State [Zone Coverage] 79
+SS Johnathan Salazar 5-11 179 1 Mississippi State [Zone Coverage] 65
+K Michael Turner 5-10 187 3 Notre Dame [Power] 81
+K Larry DeLamielleure 5-11 173 1 Arizona State [Accuracy] 70
+P Quan Qi 6-3 221 R California [Accuracy] 74
+P Dennis Carson 6-4 169 4 Michigan [Power] 71

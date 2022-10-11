@@ -1,0 +1,53 @@
+QB Javier Fields 6-0 195 5 Kentucky [Pocket] 88
+QB Yancey Musgrave 6-0 187 2 Florida [Hybrid] 83
+QB Jon Wilson 6-5 205 2 USC [Hybrid] 75
+RB Ricardo Reed 5-9 201 1 Connecticut [Power] 82
+RB Jeff Collett 5-11 193 3 NC State [Speed] 76
+RB Lionel Dickinson 6-0 194 4 Auburn [Power] 74
+FB Matthew O'Connor 6-1 247 1 Mississippi State [Run Blocking] 85
+WR Patrick Burke 6-4 165 3 Auburn [Target] 83
+WR Sam Hiller-Weeden 6-3 205 R Fresno State [Target] 82
+WR Tony Gross 6-4 188 5 Michigan [Speed] 76
+WR Buddy Heap 6-4 177 6 Missouri [Target] 75
+WR John Benjamin 6-3 179 2 Connecticut [Target] 73
+TE James Ware 6-8 236 5 Northwestern [Blocking] 84
+TE Nathan Taylor 6-3 232 4 Texas [Blocking] 81
+C Matt Cole 6-6 290 2 USC [Pass Blocking] 90
+C Eddie O'Hara 6-1 293 3 Virginia [Run Blocking] 72
+OT Tom Scott 6-4 300 4 Auburn [Run Blocking] 84
+OT John Marchetti 6-4 320 5 North Carolina [Pass Blocking] 81
+OT Connor Kraus 6-1 312 R Northwestern [Pass Blocking] 75
+OT J.T. Dalby 6-3 302 2 Clemson [Pass Blocking] 74
+OG Clayton Williams 6-3 278 2 North Carolina [Run Blocking] 85
+OG Nick Ramos 6-4 297 R Colorado State [Pass Blocking] 81
+OG Zack Blackmon 6-2 285 5 Iowa [Pass Blocking] 77
+OG Harmon Cooper 6-5 284 3 Florida State [Run Blocking] 75
+OG Patrick Shields 6-8 310 5 Penn State [Pass Blocking] 73
+DE Mike Hill 6-7 289 5 California [Blitz] 86
+DE Dennis Abdullah 6-5 281 6 Ole Miss [Blitz] 80
+DE Kenneth Stanford 5-11 258 R NC State [Blitz] 74
+DE Charlie Morrall 6-1 267 2 Virginia [Blitz] 71
+DE Thomas Mughelli 6-6 262 2 Texas [Blitz] 70
+DT Fred Romanowski 6-2 279 5 Michigan [1-Gap] 93
+DT Kevin Nitschke 6-2 270 5 Georgia [1-Gap] 79
+DT Kris Lewis 6-3 274 3 Clemson [1-Gap] 75
+DT Scott Shafer 6-3 309 1 Utah [1-Gap] 72
+OLB Craig Davis 6-1 221 4 Syracuse [Blitz] 82
+OLB Anthony Brown 6-1 223 2 Arizona State [Coverage] 82
+OLB Vince Smith 6-1 234 5 Penn State [Coverage] 73
+OLB Casey Brzezinski 5-11 227 5 UCF [Coverage] 71
+ILB Nicolas Haskell 6-4 215 1 Wisconsin [Mike] 78
+ILB Tom Ames 6-1 225 5 Syracuse [Mike] 76
+ILB John Morrison 6-1 229 3 Iowa [Will] 76
+ILB Raheem Burkett 6-3 240 R Penn State [Will] 75
+CB Michael Barber 6-0 183 3 Florida State [Man Coverage] 85
+CB Joe Gammon 6-0 184 5 Syracuse [Man Coverage] 83
+CB Henri Muhammad 5-10 186 6 Nebraska [Man Coverage] 74
+CB Jonathan White 5-11 196 1 Nebraska [ManCoverage] 70
+SS Arthur Flores 5-10 166 2 California [Zone Coverage] 78
+SS Louis Richter 6-1 175 5 Florida State [Zone Coverage] 71
+FS Patrick Parks 5-9 184 3 Texas A&M [Zone Coverage] 79
+FS Robert Wozniak 6-2 200 4 Arkansas [Zone Coverage] 75
+FS Reshad Oliver 5-11 204 1 Navy [Zone Coverage] 73
+K Thomas McMahan 6-2 203 R Oregon [Power] 77
+P John Collins 5-9 194 6 North Carolina [Power] 92

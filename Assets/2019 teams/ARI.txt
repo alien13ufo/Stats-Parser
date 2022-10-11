@@ -1,0 +1,53 @@
+QB Jarius Jones 6-1 205 2 Iowa [Pocket] 89
+QB Sam Armour 6-4 206 4 Georgia [Pocket] 81
+RB Joseph Bowen 5-9 185 2 Purdue [Power] 81
+RB Chester Dorenbos 6-0 222 2 Syracuse [Power] 80
+RB Marshawn Matthison 6-0 234 R NCState [Speed] 80
+RB Kwendi Nkwenti 6-0 219 1 Rice [Speed] 70
+FB Matthew Ramos 5-11 231 R Arizona [RunBlocking] 81
+FB Donald Johns 5-11 239 1 Houston [Pass Blocking] 77
+WR Marcus Banks 5-11 201 3 OhioState [Target] 90
+WR Mark Walker 5-11 190 5 Florida [Speed] 81
+WR Butch Harper 6-5 165 1 Florida [Speed] 79
+WR Drew Jackson 6-6 177 3 Syracuse [Target] 77
+WR Cameron Lindsey 6-3 207 R Missouri [Speed] 72
+TE Wilbert Stoutmire 6-2 247 5 FloridaState [Receiving] 82
+TE Tiki Maslowski 6-3 229 1 California [Receiving] 74
+OT Wayne Gelbaugh 6-6 299 4 Oklahoma [Pass Blocking] 90
+OT Robert Lee 6-7 310 1 California [Pass Blocking] 79
+OT Stan Allen 6-4 336 5 NotreDame [PassBlocking] 79
+OT T.C. Bradford 6-3 283 2 TCU [Pass Blocking] 76
+OT Dan McDonald 6-0 317 2 Virginia Tech [Pass Blocking] 72
+OT Orlando Burris 6-0 279 2 Oklahoma State [Pass Blocking] 71
+OG Doug Aska 6-6 301 1 Miami(FL) [RunBlocking] 84
+OG Mike Weir 6-6 324 R Indiana [RunBlocking] 76
+OG Mike Grant 6-2 322 3 California [PassBlocking] 72
+OG Thomas Rodriguez 6-2 287 R Hawaii [Pass Blocking] 72
+C Jonathan Jimenez 6-3 285 2 Arizona [Run Blocking] 74
+DE Richard Hicks 6-5 297 2 North Carolina [Contain] 77
+DE Joe Lewis 6-1 295 3 Georgia [Contain] 76
+DE George Alexander 6-8 250 R Maryland [Contain] 72
+DE Alvin Welch 6-4 271 1 Northwestern [Blitz] 67
+DT Keith Hooks 6-3 293 5 Colorado [1-Gap] 82
+DT Jeffrey King 6-3 312 R BostonCollege [2-Gap] 80
+DT Ken Wells 6-4 316 4 OhioState [2-Gap] 69
+DT Brad Campbell 6-3 266 2 Wisconsin [1-Gap] 69
+ILB Johnny Grossman 6-4 243 4 USC [Mike] 82
+ILB Tom Reis 6-2 225 R Alabama [Will] 81
+ILB Daniel Allen 5-11 220 1 Navy [Will] 66
+OLB Charley Rivers 6-2 254 5 LSU [Coverage] 87
+OLB William Thomas 6-4 215 R BYU [Coverage] 79
+OLB John Woodley 6-2 223 3 Boston College [Coverage] 72
+OLB Edgar Young 6-3 229 R Nebraska [Coverage] 72
+CB Ian Garner 6-0 199 R Minnesota [ZoneCoverage] 81
+CB Antonio Powers 5-11 158 4 VirginiaTech [Zone Coverage] 73
+CB Paul Olson 5-11 174 2 BYU [Man Coverage] 72
+CB Curt Wood 5-10 190 1 Mississippi State [Man Coverage] 68
+FS Reggie Beasley 5-10 207 4 Washington [Man Coverage] 85
+FS Mo Wilkins 6-2 179 4 Syracuse [Man Coverage] 73
+FS Nate Gant 6-0 157 1 Oklahoma State [Man Coverage] 71
+SS Rob Evans 6-3 182 1 WestVirginia [Man Coverage] 81
+SS Jimmy Parr 6-2 207 R Houston [Man Coverage] 72
+K Darryl Lemus 5-10 181 2 Northwestern [Accuracy] 80
+K Hunter Hendrickson 6-1 199 R Erie Community College [Power] 76
+P Steve Noonan 6-2 199 4 LSU [Accuracy] 98

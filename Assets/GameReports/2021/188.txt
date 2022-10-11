@@ -1,0 +1,57 @@
+ Tennessee Titans (8-3) at Denver Broncos (6-5)
+
+Denver, CO - 48 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (8-3) 	0 	7 	3 	10 	- 	20
+:broncos: Denver Broncos (6-5) 	0 	7 	14 	3 	- 	24
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:broncos: Denver Broncos
+Injuries 	No Injuries 	Darren Jones, TE - Moderate Hamstring Bruise
+Offensive Line Rating 	8.1 	8.5
+Sacks 	0 	2
+Punting 	45.5 	41.2
+Punt Return Yards 	26 	14
+Kick Return Yards 	0 	0
+Turnovers 	2 	0
+3rd Down Conversion 	5/12 	4/13
+4th Down Conversion 	0/0 	1/1
+Penalties 	9/84 	4/36
+:titans: Tennessee Titans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	19/34 	209 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chris Bell 	15 	63 	1 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Hastin Rider 	6 	86 	1 	0 	0/0
+Kevin Williams 	3 	43 	0 	1 	0/0
+Cody Hunter 	3 	41 	0 	0 	0/0
+Greg Newman 	3 	29 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Randy Humphreys 	8/0 	- 	0/1 	0/0 	0/0
+David Doherty 	7/1 	- 	0/0 	0/0 	0/0
+Tywan Tafoya 	3/0 	- 	0/1 	0/0 	0/0
+Jack Ramsey 	2/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	2/2 	2/2 	45, 25
+	
+:broncos: Denver Broncos
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Jennings 	16/25 	206 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	19 	98 	1 	18T 	0/0
+Emmett Spears 	8 	46 	1 	24 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darrell Mack 	5 	67 	0 	0 	0/0
+Ken Peelle 	5 	63 	1 	0 	0/0
+Artemio Ramirez 	2 	35 	0 	0 	0/0
+William Doherty 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Reggie Griffin 	2/0 	- 	1/0 	0/0 	0/0
+Tony Smith 	0/0 	- 	1/0 	0/0 	0/0
+Charles Johnson 	4/2 	1.0 	0/0 	0/0 	0/0
+Ray Truax 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	1/1 	3/3 	39 

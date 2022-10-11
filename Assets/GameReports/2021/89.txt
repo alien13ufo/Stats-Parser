@@ -1,0 +1,66 @@
+ Washington Redskins (2-2) at Philadelphia Eagles (4-1)
+
+Philadelphia, PA - 59 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:redskins: Washington Redskins (2-2) 	7 	7 	7 	0 	- 	21
+:eagles: Philadelphia Eagles (4-1) 	3 	7 	3 	14 	- 	27
+Team Stats Comparison
+  	:redskins: Washington Redskins 	:eagles: Philadelphia Eagles
+Injuries 	
+
+Nick Ramos, OG - Mild Elbow Sprain
+
+Joe Gammon, CB - Moderate Groin Pull
+	
+
+Christopher Johnson, WR - Mild Calf Tear
+
+Joe Johnson, SS - Moderate Hip Strain
+Offensive Line Rating 	8.4 	8.0
+Sacks 	2 	3
+Punting 	43.7 	45.2
+Punt Return Yards 	26 	21
+Kick Return Yards 	22 	19
+Turnovers 	2 	1
+3rd Down Conversion 	5/13 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/65 	3/32
+:redskins: Washington Redskins
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	24/36 	282 	3 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	19 	81 	0 	26 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Eddie McFadden 	7 	92 	1 	0 	0/0
+Sam Hiller-Weeden 	4 	90 	1 	0 	0/0
+Patrick Burke 	3 	43 	1 	0 	0/0
+Ricardo Reed 	4 	38 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Mike Hill 	4/0 	1.5 	0/0 	1/0 	0/0
+Steven Jordan 	4/1 	0.5 	0/0 	0/1 	0/0
+Craig Davis 	5/1 	- 	0/0 	0/0 	0/0
+Jim Sisemore 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	0/1 	3/3 	- 39
+	
+:eagles: Philadelphia Eagles
+Spread - Option 2 RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	18/26 	240 	1 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	15 	82 	1 	15 	0/0
+Marshawn Miller 	8 	62 	1 	36T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cameron Whelahan 	7 	101 	1 	0 	0/0
+Michael Hawkins 	4 	64 	0 	0 	0/0
+Troy White 	3 	42 	0 	0 	0/0
+Roy Davis 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin Hartley 	6/0 	- 	1/0 	0/0 	0/0
+Travaris Jackson 	2/0 	- 	1/1 	0/0 	0/0
+Ryan Frey 	5/1 	2.0 	0/0 	0/0 	0/0
+Reggie Hedberg 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	2/2 	3/3 	33, 27 

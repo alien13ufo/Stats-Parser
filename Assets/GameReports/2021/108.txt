@@ -1,0 +1,66 @@
+ Cincinnati Bengals (2-4) at Minnesota Vikings (1-6)
+
+London, England - 57 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (2-4) 	0 	6 	0 	14 	- 	20
+:vikings: Minnesota Vikings (1-6) 	14 	7 	7 	7 	- 	35
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:vikings: Minnesota Vikings
+Injuries 	
+
+Jack Harrell, OG - Moderate Biceps Pull
+
+E.J. McQuarters, DE - Moderate Thumb Bruise
+	
+
+Eugene Jackson, TE - Mild Calf Tear
+
+Justin Glass, DE - Moderate Wrist Sprain
+Offensive Line Rating 	7.5 	8.2
+Sacks 	1 	3
+Punting 	42.7 	44.2
+Punt Return Yards 	28 	40
+Kick Return Yards 	19 	44
+Turnovers 	2 	0
+3rd Down Conversion 	4/15 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/67 	8/83
+:bengals: Cincinnati Bengals
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	14/19 	226 	1 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	23 	96 	1 	27 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamir Blackburn 	3 	76 	0 	0 	0/0
+Adrian Jankowski 	5 	64 	1 	0 	0/0
+Brandon Lane 	2 	50 	0 	0 	0/0
+Christopher Harris 	1 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brett Bailey 	3/0 	1.0 	0/0 	0/0 	0/0
+Daniel Barnes 	6/1 	- 	0/0 	1/0 	0/0
+Germane Dixon 	5/0 	- 	0/1 	0/0 	0/0
+Tom Rambo 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	2/3 	2/2 	44, 27 - 52
+	
+:vikings: Minnesota Vikings
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brad Davis 	20/37 	242 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	16 	135 	2 	48T 	0/0
+Anthony Thomas 	2 	5 	1 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jacory Kessler 	7 	125 	1 	0 	0/0
+Mohamed Charles 	4 	56 	1 	0 	0/0
+Wayne Wegert 	3 	21 	0 	1 	0/0
+Tony Gross 	3 	17 	0 	0 	1/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Devon Drummond 	1/0 	- 	1/1 	0/0 	0/0
+Jamal Patton 	4/1 	1.0 	0/0 	1/1 	0/0
+Justin Glass 	2/0 	1.0 	0/0 	0/0 	0/0
+Paul Goodman 	6/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Eric Graves 	0/1 	5/5 	- 45 

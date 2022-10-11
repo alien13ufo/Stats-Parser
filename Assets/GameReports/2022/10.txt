@@ -1,0 +1,65 @@
+ Baltimore Ravens (0-0) at San Francisco 49ers (0-0) ?
+Santa Clara, CA - 80 F :cloudy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:ravens: Baltimore Ravens (0-0) 	0 	10 	6 	7 	- 	23
+:49ers: San Francisco 49ers (0-0) 	0 	7 	0 	0 	- 	7
+Team Stats Comparison
+  	:ravens: Baltimore Ravens 	:49ers: San Francisco 49ers
+Injuries 	RB Davey Jones - Severe ACL Rupture 	ILB Ernie Crawford - Severe Toe Bruise
+Top Player Grade 	OLB Tyrone Jones (9.64) 	OLB Brandon Thomas (9.35)
+Worst Player Grade 	OT Arthur Taylor (4.26) 	QB Philip Rea (4.16)
+Offensive Line Rating 	8.05 	8.01
+Sacks 	5 	3
+Punting 	48.7 	42.6
+Punt Return Yards 	47 	18
+Kick Return Yards 	29 	74
+Turnovers 	0 	2
+3rd Down Conversion 	4/11 	2/12
+4th Down Conversion 	0/0 	0/1
+Penalties 	8/83 	5/64
+:ravens: Baltimore Ravens
+Option 2RB - Flexbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	14/24 	179 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	17 	71 	0 	12 	0/0
+Brett Fisher 	8 	66 	1 	28T 	0/0 ?
+Gabriel Shields 	3 	28 	0 	13 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darrell Mack 	6 	76 	1 	0 	1/0
+David Wells 	3 	30 	0 	0 	0/0
+Danny Patrick 	2 	25 	0 	1 	0/0
+Moussa Goode 	1 	21 	0 	0 	0/0
+Joseph Dickerson 	1 	14 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tyrone Jones 	4/0 	2.0 	0/0 	1/0 	0/0
+Marlin Eason 	2/0 	0.5 	0/0 	1/0 	0/0
+Matthew Davis 	3/0 	1.5 	0/0 	0/1 	0/0
+Kenyatta Henderson 	3/0 	0.5 	0/0 	0/1 	0/0
+Alexander Hardison 	5/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	3/3 	2/2 	48, 23, 31
+	
+:49ers: San Francisco 49ers
+Spread - Flexbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Philip Rea 	16/33 	152 	1 	0 	2/2
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	9 	27 	0 	7 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Miles Collins 	5 	52 	1 	0 	0/0
+Kevin Branch 	3 	31 	0 	0 	0/0
+Jarius Shaw-Dodd 	3 	23 	0 	0 	0/0
+Daniel Marshall 	2 	20 	0 	0 	0/0
+Troy McCray 	1 	11 	0 	0 ? 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brandon Thomas 	6/0 	2.0 	0/0 	0/0 	0/0
+Parker Holmes 	3/0 	1.0 	0/0 	0/0 	0/0
+Daleroy Smart 	8/2 	- 	0/0 	0/0 	0/0
+Timothy Greer 	4/0 	- 	0/0 	0/0 	0/0
+Tavian Oliphant 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Vincent Comer 	0/1 	1/1 	- 52 

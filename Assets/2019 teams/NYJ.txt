@@ -1,0 +1,53 @@
+QB Erik Wegert 6-4 218 3 Wisconsin [Pocket] 91
+QB James Dale 6-2 213 2 Pittsburgh [Pocket] 82
+QB Raoul Gomez 6-0 220 R Washington State [Pocket] 68
+RB Brian Kiel 6-1 213 5 Florida [Power] 79
+RB Emmanuel Fields 5-7 213 R Western Michigan [Power] 78
+RB Marvin Washington 5-8 178 1 California [Speed] 78
+FB Cyril Harris 6-0 230 2 Nebraska [Run Blocking] 76
+WR Paul Howell 6-0 191 4 Mississippi State [Target] 92
+WR Charlie Paul 5-9 163 3 Maryland [Target] 87
+WR Ken Brown 6-5 174 4 NC State [Speed] 81
+WR Dennis Carr 5-11 193 2 Iowa [Target] 72
+WR Jesse Scott 5-11 179 1 Purdue [Speed] 68
+TE Matt Stone 6-4 236 R UCLA [Blocking] 82
+TE Charlie Wilson 6-7 247 4 GeorgiaTech [Blocking] 86
+TE Charlie Bryson 6-6 231 4 OklahomaState [Receiving] 78
+TE Raymond Rivera 6-3 253 R Rutgers [Blocking] 68
+OT Darnerien Sohn 6-7 306 1 Miami (FL) [Pass Blocking] 85
+OT Joe McCord 6-5 309 4 Notre Dame [Run Blocking] 82
+OT Arthur Bonds 6-5 313 R BYU [Run Blocking] 76
+OT Erik Russell 6-6 296 4 OhioState [Pass Blocking] 76
+OT Oliver Lewis 6-6 309 R Arizona [Run Blocking] 75
+OG Joe Farmer 6-1 322 4 VirginiaTech [RunBlocking] 96
+OG David Schlereth 6-4 298 3 Wisconsin [Pass Blocking] 89
+OG Tavon Logan 6-4 304 1 Florida State [Run Blocking] 70
+OG Andre Goodridge 6-4 265 1 Ole Miss [Run Blocking] 69
+C T.J. Brumm 6-1 267 2 Arizona State [Pass Blocking] 84
+C Patrick Neville 6-4 272 R UCLA [Run Blocking] 67
+DE Alvis Brumm 6-6 268 5 Penn State [Blitz] 99
+DE Jonathan Bridges 6-6 267 R Penn State [Blitz] 76
+DE Karim Brown 6-6 270 3 Nebraska [Contain] 74
+DE Sidney Burris 6-3 274 4 OregonState [Contain] 73
+DE Charlie Bacon 6-4 269 1 Ole Miss [Contain] 67
+DT Bob Ballard 6-1 292 4 PennState [2-Gap] 89
+DT Kyle Pratt 6-4 301 R Virginia [1-Gap] 79
+DT James Arnold 6-8 291 1 Cincinnati [1-Gap] 77
+DT Chris James 6-3 285 1 North Carolina [1-Gap] 75
+ILB Zion Adakwa 6-2 224 2 Illinois [Mike] 84
+ILB Chris Tucker 6-3 230 R Tennessee [Mike] 77
+OLB Kwazi Robb 6-1 232 5 Minnesota [Coverage] 91
+OLB Tommy Leonard 6-1 229 5 Nebraska [Blitz] 81
+OLB Dennis Himes 6-0 228 R Oklahoma [Coverage] 77
+OLB Matt Okoye 5-11 217 1 Florida State [Coverage] 69
+CB John Queen 5-11 196 5 LSU [ManCoverage] 89
+CB Marques Warner 6-1 193 3 Texas A&M [Man Coverage] 86
+CB Rufus Freeman 5-10 186 3 Pittsburgh [Man Coverage] 72
+CB Adam Goss 6-1 222 R Texas A&M [Man Coverage] 70
+CB Rolando Olafson 6-1 190 1 Notre Dame [Man Coverage] 70
+FS Reshad Jenkins 5-11 198 1 Houston [Man Coverage] 81
+FS Jose Ortiz 6-1 204 R Tennessee [Zone Coverage] 77
+SS Sebastian Vaughn 6-1 194 1 Penn State [Zone Coverage] 82
+SS Taz Tomlinson 5-10 183 3 Minnesota [Man Coverage] 78
+K Chris Hoag 6-2 184 2 UCLA [Power] 87
+P John Maslowski 5-8 203 3 USC [Accuracy] 91

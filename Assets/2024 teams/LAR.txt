@@ -1,0 +1,55 @@
+QB Darrell Murphy 6-2 215 10 Wisconsin [Pocket] [+2/C] 93?
+QB Ahmed Jarvis 5-11 223 2 Wisconsin [Pocket] [0] 78
+RB Daveed Knox 5-11 202 2 Illinois [Speed] [-2] 81
+RB Terrell Holland 5-8 211 3 SMU [Speed] [0] 81
+RB Barack Holmes 5-10 206 R Delaware [Speed] [-1] 71
+FB Kyle Wagner 6-0 212 3 Minnesota [Run Blocking] [0] 81
+WR Walt Peck 6-5 203 10 Penn State [Speed] [+1/C] 86
+WR Tom Oldham 6-0 155 4 Iowa State [Speed] [0] 82
+WR Kevin O'Neal 6-5 180 3 Portland State [Target] [-3] [++] 80
+WR Troylen Bolden 6-3 193 R UC Davis [Target] [+1] [+] 79
+WR Tyrus Wilson 6-2 190 4 Michigan [Speed] [-2] [++] 78
+WR Finn Nielsen 6-2 194 R TCU [Target] [0] [+] 74
+TE Jamal Hawkins 6-4 247 9 Arizona State [Receiving] [0] [#] 83
+TE Jonathan Greer 6-2 217 3 Virginia [Blocking] [0] 79
+TE Avery Pressley 6-2 229 2 Florida [Blocking] [-1] 73
+OT Nijrell Smith 6-4 346 8 Miami [Pass Blocking] [0/C] 87
+OT Shawaun Holsey 6-2 297 3 Virginia [Run Blocking] [0/C] [+] 86
+OT Conor Crane 6-6 303 4 Mississippi State [Pass Blocking] [0] 80
+OT Izzy Garvey 6-7 283 1 Pittsburgh [Run Blocking] [0] 79
+OG Julio Dunn 6-4 292 4 Nebraska [Pass Blocking] [-1] 83
+OG Charlie Cooper 6-7 282 1 Auburn [Pass Blocking] [0] 82
+OG Albert Palacios 6-2 315 1 Miami (FL) [Pass Blocking] [0] [#] 77
+OG Coop Logan 6-6 312 R Iowa [Pass Blocking] [+3/C] 77
+C LaMarcus Smith 6-3 298 9 Ole Miss [Run Blocking] [+2/C] 88
+C Dillon Root 6-4 260 R Alabama [Run Blocking] [0] [+] 76
+DE Michael Bruce 6-8 252 5 Texas Tech [Blitz] [+3] 90
+DE Blake Tipton 6-0 264 1 UCLA [Blitz] [+1/C] 80
+DE Reuben Barry 6-0 266 R Alabama [Contain] [0] 76
+DE Jermon Brock 6-5 267 R FAU [Blitz] [-3] 70
+DE Vince Walls 6-6 236 R Fresno ?State [Blitz] [-1] 67
+DT Anthony Beltran 6-5 299 6 Penn State [2-Gap] [-2] 88
+DT Brady Whittaker 6-0 305 1 Ohio [2-Gap] [-1] 77
+DT Landry Everett 6-6 285 1 Oregon [2-Gap] [-3] [#] 76
+ILB Daniel Watkins 6-0 231 5 Louisville [Mike] [+1/C] 90
+ILB Markus Golden 6-5 240 2 Ole Miss [Mike] [0] 86
+ILB Calvin Tucker 6-4 236 1 Alabama [Mike] [0/C] 81
+ILB Kieran Linn 6-0 235 1 Northern Illinois [Will] [0] [#] 78
+ILB James Burroughs 6-3 234 3 Minnesota [Mike] [0] 71
+OLB Leigh Davey 6-1 232 7 Minnesota [Coverage] [0] 86?
+OLB Jeffrey Aranda 5-11 221 5 Oklahoma [Coverage] [0] 85
+OLB Elliot Underwood 5-11 251 1 Wisconsin [Blitz] [0/C] 76
+OLB Omar Callaway 6-1 244 2 SMU [Blitz] [+1] 73
+CB Thomas Patterson 5-11 184 5 Mississippi State [Man Coverage] [0] 82
+CB Darren Ruffin 5-10 165 5 Army [Man Coverage] [0] [+] 79
+CB Zaire Hooker 5-11 166 1 Western Michigan [Man Coverage] [-1] 77
+CB Christopher Anthony 5-10 171 3 Temple [Man Coverage] [-1] 76
+CB Samuel Gant 5-10 190 R Duke [Man Coverage] [-2] 72 
+FS J.J. Fowler 6-1 202 1 Old Dominion [Zone Coverage] [0] 81
+FS Donovan Faulk 6-2 214 5 BYU [Man Coverage] [+1] 81
+FS Jeremy Whitehead 5-11 206 1 LSU [Zone Coverage] [+1] 79
+SS Brandon Sauter 6-2 200 7 Michigan State [Zone Coverage] [-2] 94
+SS Michael Williams 6-2 187 4 Tennessee [Zone Coverage] [0] [+] 81
+K Sam Walsh 6-4 203 2 California [Power] [0] 86
+P Mark Coleman 6-1 196 6 USC [Power] [0] 88
+LS Juju Gunn 6-1 244 1 TCU [Traditional] [0] 80

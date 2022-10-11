@@ -1,0 +1,54 @@
+QB Taylor Rodriguez 6-1 209 3 Arizona [Pocket] 88
+QB Rory Weston 5-10 235 1 Alabama [Pocket] 82
+QB Kareem Taylor 6-2 202 7 Notre Dame [Pocket] 88
+RB Marshawn Matthison 6-0 234 2 NC State [Speed] 82
+RB Michael Duckworth 5-7 179 5 Michigan State [Speed] 84
+RB Fred Tindale 5-11 204 5 Florida [Speed] 83
+FB Matthew Ramos 5-11 231 2 Arizona [Run Blocking] 84
+FB Donald Johns 5-11 239 3 Houston [Pass Blocking] 79
+WR Marcus Banks 5-11 201 5 Ohio State [Target] 90
+WR Eli Austin 6-5 217 1 Tennessee [Target] 83
+WR Ricky Chambers 6-1 193 4 Alabama [Target] 85
+WR Butch Harper 6-5 165 3 Florida [Speed] 79
+WR Cameron Lindsey 6-3 207 2 Missouri [Speed] 74
+WR Charles Garcia 6-0 166 2 Miami [Speed] 72
+TE Noah Hills 6-2 206 R Kansas [Receiving] 82
+TE Emanuelu Lesa 6-4 196 1 TCU [Receiving] 79
+TE Wilbert Stoutmire 6-2 247 7 Florida State [Receiving] 79
+OT Jack Allen 6-4 279 3 USC [Run Blocking] 85
+OT Beckett Miller 6-1 300 R Oklahoma State [Pass Blocking] 82
+OT T.C. Bradford 6-3 283 4 TCU [Pass Blocking] 78
+OT Keith Rodriguez 6-4 308 2 Michigan [Pass Blocking] 72
+OG Doug Aska 6-6 301 3 Miami(FL) [Run Blocking] 90
+OG Mike Weir 6-6 324 2 Indiana [Run Blocking] 78
+OG Christopher Sullivan 6-3 308 1 Texas [Run Blocking] 75
+OG Thomas Rodriguez 6-2 287 2 Hawaii [Pass Blocking] 74
+C T.J. Brumm 6-1 267 4 Arizona State [Pass Blocking] 85
+C Jonathan Jimenez 6-3 285 4 Arizona [Run Blocking] 74
+DE Josiah Harden 6-3 249 R North Carolina [Blitz] 82
+DE Omar McManus 5-11 258 1 Fresno State [Blitz] 80
+DE Charles Fowler 6-2 250 1 Oregon State [Blitz] 77
+DE George Alexander 6-8 250 2 Maryland [Contain] 73
+DT Jeffrey King 6-3 312 2 Boston College [2-Gap] 82
+DT Keith Hooks 6-3 293 7 Colorado [1-Gap] 79
+DT James Blue 6-5 272 R USF [1-Gap] 72
+DT Larry Holmes 6-6 275 4 LSU [1-Gap] 75
+ILB Tom Reis 6-2 225 2 Alabama [Will] 86
+ILB Mark Hills 6-3 246 1 Virginia [Will] 76
+ILB Steven Cyr 6-4 235 3 Penn State [Will] 75
+ILB Kameron Reaves 6-3 235 R Kansas [Mike] 70
+OLB Charley Rivers 6-2 254 7 LSU [Coverage] 84
+OLB William Thomas 6-4 215 2 BYU [Coverage] 82
+OLB Asante Willis 6-1 229 3 Kentucky [Coverage] 83
+OLB Edgar Young 6-3 229 2 Nebraska [Coverage] 75
+CB Ian Garner 6-0 199 2 Minnesota [Zone Coverage] 87
+CB Eugene Malone 6-0 190 1 LSU [Man Coverage] 81
+CB Daron Haag 6-3 177 3 Arizona [Man Coverage] 75
+CB Sean Benson 5-10 178 1 Georgia Tech [Zone Coverage] 72
+CB Scott Cartwright 5-11 187 4 USC [Zone Coverage] 76
+FS Reggie Beasley 5-10 207 6 Washington [Man Coverage] 83
+FS Damani Crump-Jackson 5-11 198 R Colorado State [Man Coverage] 80
+SS Rob Evans 6-3 182 3 West Virginia [Man Coverage] 84
+SS Walter Valdez 5-11 178 4 Boise State [Zone Coverage] 76
+K Cliff Chamblin 6-4 191 6 LSU [Power] 97
+P Steve Noonan 6-2 199 6 LSU [Accuracy] 96

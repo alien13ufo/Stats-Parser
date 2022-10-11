@@ -1,0 +1,66 @@
+ Tennessee Titans (4-3) at Houston Texans (3-3)
+
+Houston, TX - 78 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (4-3) 	7 	21 	21 	3 	- 	52
+:texans: Houston Texans (3-3) 	0 	0 	14 	14 	- 	28
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:texans: Houston Texans
+Injuries 	
+
+Cap Christian, WR - Severe Achilles Bruise
+
+ 
+	
+
+Frederick Fain, SS - Severe ACL Rupture
+
+Blair Williams, ILB - Moderate Toe Fracture
+Offensive Line Rating 	7.8 	8.2
+Sacks 	2 	1
+Punting 	46.5 	43.5
+Punt Return Yards 	104 (1) 	15
+Kick Return Yards 	45 	21
+Turnovers 	1 	4
+3rd Down Conversion 	7/11 	3/15
+4th Down Conversion 	0/0 	0/1
+Penalties 	5/45 	9/104
+:titans: Tennessee Titans
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	31/54 	406 	4 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chris Bell 	13 	70 	1 	16 	0/0
+Nikita Crowe 	3 	25 	1 	20T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Williams 	9 	127 	0 	0 	0/0
+Greg Newman 	7 	105 	2 	0 	0/0
+Cody Hunter 	6 	95 	2 	1 	0/0
+Hastin Rider 	3 	60 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jack Ramsey 	2/0 	- 	1/1 	0/0 	1/0
+Jordan Harris 	3/0 	- 	0/1 	0/0 	0/0
+Alex Collins 	3/0 	- 	0/1 	0/0 	0/0
+Tyler Jones 	4/1 	1.5 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	1/1 	7/7 	46
+	
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	22/42 	290 	4 	3 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jermaine Lockett 	12 	50 	0 	24 	1/1
+Arturo Pacheco 	5 	22 	0 	11 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kendall Brandon 	5 	89 	2 	1 	0/0
+Jeremy Scarborough 	7 	87 	1 	0 	0/0
+Marvin White 	4 	53 	1 	1 	0/0
+Hakeem Black 	3 	42 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Shane Brinkley 	2/0 	- 	1/0 	0/0 	0/0
+Robert Fulton 	4/2 	1.0 	0/0 	0/0 	0/0
+Dillon Grant 	7/1 	- 	0/0 	0/0 	0/0
+Richard Jones 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	0/1 	4/4 	- 53 

@@ -1,0 +1,57 @@
+Cleveland Browns (1-6) at Chicago Bears (4-2)
+
+Chicago, IL - 54 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (1-6) 	14 	7 	7 	0 	- 	28
+:bears: Chicago Bears (4-2) 	6 	14 	7 	3 	- 	30
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:bears: Chicago Bears
+Injuries 	Antonio Heath, TE - Mild Concussion 	Fred Huber, OT - Severe Foot Dislocation
+Offensive Line Rating 	8.2 	7.4
+Sacks 	4 	2
+Punting 	46.7 	42.3
+Punt Return Yards 	15 	23
+Kick Return Yards 	20 	23
+Turnovers 	2 	2
+3rd Down Conversion 	6/13 	5/12
+4th Down Conversion 	1/1 	1/1
+Penalties 	5/60 	7/92
+:browns: Cleveland Browns
+Spread Option - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	19/26 	249 	2 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	23 	106 	1 	25 	0/0
+Grady Mitchell 	6 	30 	1 	11T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tai Miller 	6 	90 	1 	1 	0/0
+Ray Lee Marconi 	4 	67 	1 	0 	0/0
+Kevin McMullen 	2 	32 	0 	0 	0/0
+Jason McClairen 	3 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Marshall 	3/0 	- 	2/2 	0/0 	0/0
+Ray McBride 	5/1 	2.0 	0/0 	0/0 	0/0
+Caleb McNamara 	4/0 	1.0 	0/0 	0/0 	0/0
+Gabriel Beauchamp 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	0/0 	4/4 	-
+	
+:bears: Chicago Bears
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	23/35 	326 	3 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Quincy Honeycutt 	17 	52 	0 	19 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Donnie Allen 	6 	110 	1 	0 	0/0
+Aaron Pagliei 	7 	65 	1 	1 	0/0
+Glenn Franckowiak 	3 	58 	0 	0 	0/0
+Quincy Honeycutt 	2 	50 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Morris Millen 	6/1 	1.0 	0/0 	0/0 	0/0
+Ivory Hull 	3/0 	- 	1/0 	0/0 	0/0
+David Medley 	2/0 	1.0 	0/0 	1/0 	0/0
+Akeel Morris 	7/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Daniel Olson 	3/3 	4/4 	30, 30, 43 

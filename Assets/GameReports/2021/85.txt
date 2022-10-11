@@ -1,0 +1,57 @@
+ Buffalo Bills (2-2) at San Francisco 49ers (1-3)
+
+Santa Clara, CA - 64 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (2-2) 	17 	3 	0 	10 	- 	30
+:49ers: San Francisco 49ers (1-3) 	14 	6 	7 	7 	- 	34
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:49ers: San Francisco 49ers
+Injuries 	Rob Lipscomb, OG - Moderate Ankle Sprain 	Kevin Branch, WR - Moderate Concussion
+Offensive Line Rating 	7.8 	7.9
+Sacks 	3 	2
+Punting 	45.5 	44.2
+Punt Return Yards 	2 	16
+Kick Return Yards 	0 	21
+Turnovers 	2 	2
+3rd Down Conversion 	5/12 	7/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/56 	7/92
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Kamau Davis 	25/37 	300 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	13 	45 	1 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Matt Thomas 	9 	109 	1 	0 	0/0
+Isaiah Cronin 	5 	97 	1 	0 	0/0
+Kevin Garvin 	3 	63 	0 	1 	0/0
+Tyron Chambers 	4 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sean Taylor 	1/0 	- 	1/0 	0/0 	0/0
+Patrick Chaney 	1/0 	- 	1/0 	0/0 	0/0
+Rodney Galbreath 	3/0 	2.5 	0/0 	0/0 	0/0
+Anthony Whipple 	3/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Darryl Lemus 	3/4 	3/3 	46, 26, 34 - 52
+	
+:49ers: San Francisco 49ers
+Air Raid - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	29/46 	289 	4 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	10 	26 	0 	9 	0/0
+Todd Lester 	1 	2 	0 	2 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Branch 	9 	136 	2 	0 	0/0
+Steve Warner 	8 	67 	1 	1 	0/0
+Miles Collins 	4 	36 	0 	2 	0/0
+John Gross 	3 	32 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Bashir Rodriguez 	3/0 	- 	1/2 	0/0 	0/0
+Josh Holland 	1/0 	- 	1/0 	0/0 	0/0
+Dennis Niland 	6/1 	0.5 	0/0 	0/0 	0/0
+Jeffrey Bryant 	3/0 	1.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	2/2 	4/4 	40, 40 

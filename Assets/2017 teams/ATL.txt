@@ -1,0 +1,47 @@
+QB A.J. Jefferson 6-3 194 R North Carolina [Pocket] 82
+QB Gerald Bright 6-3 220 2 Missouri [Pocket] 79
+QB Jasen Broadnax 6-0 196 1 Oregon [Scrambling] 76
+RB Akili Wallace 5-10 180 1 FloridaState [Speed] 90
+RB Austin Mitchell 5-10 185 2 Syracuse [Power] 78
+RB Michael Pass 5-10 208 2 Wisconsin [Power] 71
+RB David Giammona 5-8 179 1 UCLA [Power] 70
+FB Richard Myers 6-2 242 3 Pittsburgh [Power] 78
+FB Dennis Stewart 6-1 219 1 BYU [Power] 66
+WR Riddick Smith 6-0 185 3 Texas A&M [Target] 89
+WR Art Baber 5-9 201 2 Auburn [Speed] 82
+WR Willie Davis 6-5 165 R Missouri [Target] 78
+WR Robert Shipp 5-10 168 2 Colorado [Speed] 73
+TE Preston Gold 6-3 259 2 Tennessee [Pass Blocking] 82
+TE Ron Jensen 6-2 265 2 Michigan [PassBlocking] 68
+OT Julian Sykes 6-6 307 1 BostonCollege [PassBlocking] 88
+OT Kelly Meier 6-8 307 R Alabama [Run Blocking] 80
+OT Herbert Smith 6-0 330 3 Cincinnati [Run Blocking] 63
+OT Larry Shelton 6-4 318 3 UCLA [Pass Blocking] 66
+OG Tom McKelvey 6-6 312 2 UCLA [Pass Blocking] 89
+OG Larry Hadley 6-4 317 2 Baylor [Run Blocking] 84
+OG Jerry Santiago 6-6 311 3 Florida [Run Blocking] 69
+OG Bill Potts 6-6 298 2 USC [PassBlocking] 65
+C Rodney Williams 6-4 290 3 Boston College [Run Blocking] 81
+DE Blair Kopay 6-3 275 3 Iowa [Run Stop] 90
+DE Michael Schuster 6-3 265 2 Mississippi State [Run Stop] 83
+DE Rickie Bradley 6-3 253 1 WesternNebraskaCC [PassStop] 73
+DT Cris LeBaron 6-7 282 R Virginia [Pass Stop] 74
+DT Steve Perry 6-6 295 2 VirginiaTech [PassStop] 66
+ILB Kay Anderson 6-1 231 2 Georgia Tech [Run Man-to-Man] 84
+ILB Ross Parker 5-11 227 2 Texas [RunMan-to-Man] 72
+ILB Bill Sualua 6-0 240 3 Oklahoma State [Run Zone] 71
+ILB Ben Flores 6-1 223 R Mississippi State [Run Man-to-Man] 67
+OLB James Turner 6-2 237 2 Florida State [Pass Man-to-Man] 86
+OLB Joe Palmer 6-1 242 1 OleMiss [PassMan-to-Man] 82
+OLB Al Graff 6-2 215 R Missouri [Run Man-to-Man] 68
+CB David Wilburn 5-10 195 3 Stanford [Man Coverage] 99
+CB B.J. Dawkins 5-11 176 3 Washington State [Man Coverage] 75
+CB Steven Holland 6-1 175 3 Kentucky [Zone Coverage] 60
+FS Warren Johnson 5-10 177 3 Penn State [Zone Coverage] 74
+FS James Ponder 5-9 183 1 Florida [Zone Coverage] 69
+SS R.C. Rone 6-1 204 3 Oklahoma State [Zone Coverage] 93
+SS Bill Burnett 5-11 188 2 Minnesota [ZoneCoverage] 66
+K Gino Chiaverini 6-3 206 R Texas [Accuracy] 82
+K Mike Waters 5-9 204 3 California [Power] 71
+P Elvin Johnson 5-10 192 1 Wisconsin [Power] 79
+P Bernard Kovac 5-10 198 1 Washington [Accuracy] 65

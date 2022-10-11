@@ -1,0 +1,63 @@
+QB Thomas Wheeler 6-1 208 6 Florida State [Pocket] 93
+QB Julius McIntosh 6-0 232 1 Washington [Hybrid] 81
+QB Bobby Kolodziej 6-2 205 3 California [Pocket] 78
+QB J.J. Robinson 6-1 209 1 Temple [Hybrid] 77
+RB Chris Bell 6-3 198 2 Navy [Speed] 84
+RB John Harris 5-11 181 4 Arizona State [Speed] 82
+RB Nikita Crowe 5-11 226 R Tennessee [Power] 74
+FB Ibrahim High 5-9 208 2 Air Force [Run Blocking] 82
+WR Tommy Furrey 6-6 178 7 West Virginia [Speed] 86
+WR Kevin Williams 6-0 165 5 Boston College [Speed] 84
+WR Greg Newman 5-9 168 7 Alabama [Target] 83
+WR Cap Christian 6-3 176 5 Georgia Tech [Target] 80
+WR Cody Hunter 6-3 190 1 Tennessee-Martin [Target] 78
+WR Ray Harrison 6-1 197 2 Purdue [Target] 77
+TE Hastin Rider 6-1 206 R Baylor [Receiving] 81
+TE Johnny Duerson 6-5 238 3 Syracuse [Blocking] 78
+TE Kavika Russell 6-1 223 3 Oklahoma [Receiving] 76
+OT Brandon Reamon 6-8 298 3 Texas [Pass Blocking] 91
+OT Willard Love 6-3 336 4 Wisconsin [Pass Blocking] 83
+OT Lyle Matthews 6-1 343 4 Arizona State [Pass Blocking] 82
+OT Jeremy Summers 6-7 321 R Ole Miss [Pass Blocking] 76
+OG Ian Braden 6-2 335 1 Western Michigan [Run Blocking] 80
+OG James Redd 6-0 296 4 Iowa [Run Blocking] 78
+OG Darrell Kincaid 6-5 271 1 Nebraska [Pass Blocking] 74
+C Dean Strauss 6-3 284 R Auburn [Pass Blocking] 82
+C Rob Johnston 6-2 292 6 Florida State [Run Blocking] 77
+DE Tyler Jones 6-1 257 1 Mississippi State [Contain] 88
+DE Charles Woods 6-5 273 2 Notre Dame [Contain] 86
+DE Derrick Thomas 6-7 272 5 Texas A&M [Blitz] 78
+DE Josh Swift 6-4 264 5 Vanderbilt [Contain] 75
+DT Joseph Whiteside 6-2 327 1 USC [2-Gap] 81
+DT Carl Connor 6-6 285 4 Auburn [2-Gap] 79
+ILB Randy Humphreys 6-1 252 5 Purdue [Will] 90
+ILB Jackie Eaton 6-0 234 6 Virginia Tech [Will] 85
+ILB Melvin Cooper 6-2 227 5 Tennessee [Will] 78
+ILB Philip Sargent 6-2 240 1 Nebraska [Will] 74
+OLB David Doherty 6-1 228 4 Kansas State [Coverage] 92
+OLB Jeffrey Aranda 5-11 221 2 Oklahoma [Coverage] 82
+OLB Terrence Plummer 6-5 239 R Chattanooga [Blitz] 78
+OLB Herb Peko 6-0 226 4 Nebraska [Blitz] 74
+CB Jack Ramsey 6-2 172 3 Virginia Tech [Zone Coverage] 85
+CB Jordan Harris 5-10 185 1 North Dakota State [Zone Coverage] 82
+CB Allen Foster 6-1 172 4 Missouri [Man Coverage] 77
+CB Timothy Parks 6-0 178 R Virginia [Man Coverage] 75
+FS Alex Collins 6-0 214 7 Auburn [Man Coverage] 85
+FS Chad Walker 5-11 180 R Tulsa [Man Coverage] 80
+FS Mike Henderson 5-10 193 5 UCF [Man Coverage] 80
+FS Luis Henry 5-11 194 2 Arizona [Man Coverage] 75
+SS Tywan Tafoya 6-2 185 6 Washington State [Zone Coverage] 88
+SS Clarence Peete 6-0 168 4 South Carolina [Man Coverage] 80
+K Leon Woodruff 5-8 169 4 Northwest Mississippi CC [Accuracy] 85
+P Scottie Ware 5-10 174 3 Clemson [Power] 86
+PR Margene Huard 6-6 169 3 Arizona [Specialist] 83
+RB Kwendi Nkwenti 6-0 219 3 Rice [Speed] 72
+FB Arthur Skelton 5-9 254 R Army [Pass Blocking] 75
+WR Amadou Chambers 6-2 160 1 Iowa [Speed] 70
+WR Oscar Marroquin 5-11 161 R Auburn [Speed] 68
+TE Chris Irizarry 6-3 203 R Clemson [Receiving] 68
+OG Daniel Collins 6-4 295 1 Michigan [Pass Blocking] 70
+DT Walter Murillo 6-1 309 1 Nebraska [2-Gap] 72
+CB Gary Lee 6-2 188 1 TCU [Zone Coverage] 70
+SS Devin McCauley 6-3 194 1 Arizona [Man Coverage] 72
+P Thomas Purcell 6-1 185 R Air Force [Power] 76

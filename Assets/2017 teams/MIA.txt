@@ -1,0 +1,40 @@
+QB Brian Brown 6-4 228 2 Boise State [Pocket] 99
+QB Glen Spencer 6-1 170 R Ohio State [Scrambling] 79
+QB Glenn White 6-2 176 1 Texas Tech [Pocket] 76
+RB Marcus Barry 6-0 193 1 Ohio State [Power] 85
+RB Mario Rattay 5-10 187 3 Michigan [Power] 73
+FB Alex Engram 6-1 252 2 TCU [Speed] 79
+WR Rodney Montgomery 6-0 185 2 LSU [Target] 92
+WR Greg Cobb 6-3 188 R Cincinnati [Target] 77
+WR Bill Hardy 5-11 190 R California [Target] 78
+WR Jacky Walters 5-11 179 R Texas [Speed] 71
+TE Derek Harrison 6-1 251 3 Rutgers [Pass Blocking] 95
+TE Kendall Brandon 6-6 240 R Georgia Tech [Pass Blocking] 71
+OT Marcellus Peterson 6-2 328 3 Alabama [Run Blocking] 99
+OT Tom McAfee 6-4 304 1 UCLA [Pass Blocking] 77
+OT James Jones 6-6 285 R Iowa [Pass Blocking] 74
+OT Edward Daniel 6-3 296 3 Army [Run Blocking] 65
+OG Jace Blakley 6-2 312 2 Tennessee [Pass Blocking] 90
+OG Zak Cole 6-0 301 1 Alabama [Run Blocking] 85
+OG Brandon Gregory 6-2 298 R NC State [Run Blocking] 70
+C Haskel Moore 6-8 315 2 Florida State [Pass Blocking] 80
+DE David Drake 6-2 271 R Wisconsin [Run Stop] 75
+DE Alex Fulcher 6-2 268 1 Clemson [Run Stop] 74
+DE Devone Willis 6-8 273 3 Auburn [Run Stop] 69
+DT Josh Wilson 6-7 278 1 Texas Tech [Run Stop] 85
+DT Lindsay Powell 6-8 270 1 Penn State [Run Stop] 74
+ILB Kevin Harris 6-0 249 3 Iowa [Pass Man-to-Man] 93
+ILB Phillip Moore 5-11 216 R Houston [Pass Man-to-Man] 81
+OLB Jason Bryant 6-2 227 3 Washington State [Run Man-to-Man] 82
+OLB Jack Durrence 5-11 238 R LSU [Run Man-to-Man] 74
+OLB Jeromy Potter 6-2 232 2 ECU [Run Man-to-Man] 69
+OLB Mike Tucker 6-1 223 2 Alabama [Run Zone] 69
+CB Justin Davis 5-11 173 1 Florida [Zone Coverage] 89
+CB Laurent Christensen 5-10 192 R Army [Man Coverage] 78
+CB Alphonso Greisen 5-10 196 R Texas [Zone Coverage] 71
+CB Francisco Diaz 6-1 165 R Colorado State [Zone Coverage] 68
+FS Reggie Beasley 5-10 207 2 Washington [Man Coverage] 85
+SS Dane Wilson 6-1 178 2 LSU [Zone Coverage] 93
+SS Mark Pennington 6-0 188 R Georgia Tech [Zone Coverage] 67
+K Ben Morrison 6-1 205 3 Wisconsin [Accuracy] 96
+P A.J. Kinney 5-9 205 R West Virginia [Accuracy] 76

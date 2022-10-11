@@ -1,0 +1,47 @@
+QB A.J. Jefferson 6-3 194 1 North Carolina [Pocket] 85
+QB Gerald Bright 6-3 220 3 Missouri [Pocket] 77
+QB Jasen Broadnax 6-0 196 2 Oregon [Scrambling] 74
+RB Akili Wallace 5-10 180 2 FloridaState [Speed] 94
+RB Bradley Cooley 5-11 198 R TCU [Speed] 76
+RB Michael Pass 5-10 208 3 Wisconsin [Power] 68
+FB Richard Myers 6-2 242 4 Pittsburgh [Power] 81
+FB Dennis Stewart 6-1 219 2 BYU [Power] 68
+WR Riddick Smith 6-0 185 4 Texas A&M [Target] 89
+WR Bo Woodall 6-1 202 R North Carolina [Target] 81
+WR Art Baber 5-9 201 3 Auburn [Speed] 83
+WR E.J. Steed 6-2 217 R Arkansas [Speed] 69
+WR Robert Shipp 5-10 168 3 Colorado [Speed] 70
+WR Tommy Boiman 6-6 154 1 Oklahoma State [Speed] 69
+WR Willie Davis 6-5 165 1 Missouri [Target] 75
+TE Preston Gold 6-3 259 3 Tennessee [Pass Blocking] 81
+TE Oscar Fisk 6-8 245 R Washington [Run Blocking] 78
+OT Julian Sykes 6-6 307 2 BostonCollege [PassBlocking] 89
+OT Kelly Meier 6-8 307 1 Alabama [Run Blocking] 83
+OT Arthur Roberson 6-6 310 R Marshall [Pass Blocking] 76
+OT Johnathan Bell 6-7 279 1 Washington State [Pass Blocking] 71
+OG Tom McKelvey 6-6 312 3 UCLA [Pass Blocking] 89
+OG Larry Hadley 6-4 317 3 Baylor [Run Blocking] 83
+OG Jerry Santiago 6-6 311 4 Florida [Run Blocking] 66
+C Rodney Williams 6-4 290 4 Boston College [Run Blocking] 78
+DE Blair Kopay 6-3 275 4 Iowa [Run Stop] 88
+DE Michael Schuster 6-3 265 3 Mississippi State [Run Stop] 80
+DE Rickie Bradley 6-3 253 2 WesternNebraskaCC [PassStop] 75
+DT Cris LeBaron 6-7 282 1 Virginia [Pass Stop] 75
+ILB Kay Anderson 6-1 231 3 Georgia Tech [Run Man-to-Man] 83
+ILB Marcus Grant 6-2 239 R Notre Dame [Pass Man-to-Man] 77
+ILB Rufus Horn 6-1 218 R Washington [Pass Zone] 79
+ILB Ross Parker 5-11 227 3 Texas [RunMan-to-Man] 70
+ILB Ben Flores 6-1 223 1 Mississippi State [Run Man-to-Man] 69
+OLB James Turner 6-2 237 3 Florida State [Pass Man-to-Man] 85
+OLB Joe Palmer 6-1 242 2 OleMiss [PassMan-to-Man] 83
+OLB Al Graff 6-2 215 1 Missouri [Run Man-to-Man] 66
+CB David Wilburn 5-10 195 4 Stanford [Man Coverage] 99
+CB B.J. Dawkins 5-11 176 4 Washington State [Man Coverage] 77
+FS Darius Jones 6-1 205 R Washington [ZoneCoverage] 83
+FS Warren Johnson 5-10 177 4 Penn State [Zone Coverage] 73
+FS James Ponder 5-9 183 2 Florida [Zone Coverage] 66
+FS David Koenig 5-10 173 1 Kansas State [Zone Coverage] 65
+SS R.C. Rone 6-1 204 4 Oklahoma State [Zone Coverage] 94
+SS Bill Burnett 5-11 188 3 Minnesota [ZoneCoverage] 63
+K Gino Chiaverini 6-3 206 1 Texas [Accuracy] 86
+P Elvin Johnson 5-10 192 2 Wisconsin [Power] 80

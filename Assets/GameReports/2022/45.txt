@@ -1,0 +1,65 @@
+ Detroit Lions (1-1) at Dallas Cowboys (2-0) ?
+Arlington, TX - 84 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:fibur: Detroit Lions (1-1) 	7 	14 	7 	14 	- 	42
+:cowboys: Dallas Cowboys (2-0) 	0 	0 	14 	7 	- 	21
+Team Stats Comparison
+  	:fibur: Detroit Lions 	:cowboys: Dallas Cowboys
+Injuries 	C Don Teteak - Moderate Wrist Bruise 	ILB Cleo Blair - Moderate Concussion
+Top Player Grade 	CB Keyshawn Thompson (8.88) 	DE Joseph Randolph (7.82)
+Worst Player Grade 	SS Willard McCready (5.25) 	OLB Adam Taylor (4.39)
+Offensive Line Rating 	8.42 	8.67
+Sacks 	2 	2
+Punting 	49.3 	45.1
+Punt Return Yards 	32 	16
+Kick Return Yards 	45 	67
+Turnovers 	0 	1
+3rd Down Conversion 	6/11 	6/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/37 	6/41
+:fibur: Detroit Lions
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	25/41 	303 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	20 	109 	2 	18 	0/0
+Calvin Jones 	3 	41 	1 	30T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Cook 	5 	95 	1 	2 	0/0
+Anthony Fasani 	7 	85 	1 	0 	0/0
+Rex Walsh 	4 	53 	0 	1 	0/0
+Glenn Franckowiak 	3 	26 	0 	0 	0/0
+Frederick Bartlett 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Keyshawn Thompson 	2/0 	- 	1/0 	0/0 	1/0
+Doug Carolan 	4/0 	1.0 	0/0 	0/0 	0/0
+Ilan Kuhn 	2/0 	1.0 	0/0 	0/0 	0/0
+Richard Ryan 	5/1 	- 	0/1 	0/0 	0/0
+Cameron Jones 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	0/0 	6/6 	-
+	
+:cowboys: Dallas Cowboys
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	22/36 	238 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Adrian Robinson ? 	16 	62 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+- ? 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rodney Montgomery 	5 	75 	1 	0 	0/0
+Francisco Gibson 	5 	72 	1 	0 	0/0
+Austin Medina 	4 	32 	1 	1 	0/0
+Alex Gash 	3 	20 	0 	0 	0/0
+Erasmus High 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL ? 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Joseph Randolph 	3/1 	1.0 	0/0 	0/0 	0/0
+Kendall Hill 	2/0 	1.0 	0/0 	0/0 	0/0
+Antoine Mayfield 	5/0 	- 	0/1 	0/0 	0/0
+Travis Chatman 	2/0 	- 	0/2 	0/0 	0/0
+Romulus Jackson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Carlos Cruz 	0/1 	3/3 	- 46 

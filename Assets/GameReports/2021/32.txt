@@ -1,0 +1,55 @@
+ Carolina Panthers (0-1) at Indianapolis Colts (1-0)
+
+Indianapolis, IN - 77 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:panthers: Carolina Panthers (0-1) 	14 	7 	7 	0 	- 	28
+:colts: Indianapolis Colts (1-0) 	7 	0 	10 	3 	- 	20
+Team Stats Comparison
+  	:panthers: Carolina Panthers 	:colts: Indianapolis Colts
+Injuries 	No Injuries 	Keyuo Clark, OLB - Mild Achilles Tendonitis
+Offensive Line Rating 	8.3 	8.1
+Sacks 	1 	3
+Punting 	44.6 	43.6
+Punt Return Yards 	25 	16
+Kick Return Yards 	25 	37
+Turnovers 	1 	1
+3rd Down Conversion 	6/13 	4/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/89 	5/38
+:panthers: Carolina Panthers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	22/34 	292 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	18 	75 	2 	15T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Curtis Henry 	7 	102 	1 	0 	0/0
+Chip Johnson 	4 	65 	0 	1 	0/0
+Mike Latta 	3 	46 	1 	0 	0/0
+Jermaine Bishop 	3 	41 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darren Manning 	6/0 	- 	1/1 	0/0 	0/0
+Kendrick Droughns 	4/1 	1.0 	0/0 	0/0 	0/0
+Jeff Brooks 	6/0 	- 	0/0 	0/0 	0/0
+Kelvin Grossman 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	0/0 	4/4 	-
+	
+:colts: Indianapolis Colts
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	31/48 	333 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Lavontae Jackson 	8 	25 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ryan Mitchell 	9 	102 	1 	0 	0/0
+Mosi Bartos 	6 	85 	1 	0 	0/0
+Keith Setzer 	5 	67 	0 	0 	0/0
+Shane Kaufman 	4 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Aaron Samuelsson 	3/0 	- 	1/0 	0/0 	0/0
+Jonathan Goodwin 	4/0 	2.5 	0/0 	0/0 	0/0
+Anthony Miller 	1/0 	0.5 	0/0 	0/0 	0/0
+Chris Brown 	8/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dana Currier 	2/3 	2/2 	44, 24 - 41 

@@ -1,0 +1,57 @@
+ Miami Dolphins (11-1) at Buffalo Bills (3-9)
+
+Buffalo, NY - 32 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:dolphins: Miami Dolphins (11-1) 	14 	7 	7 	3 	- 	31
+:bills: Buffalo Bills (3-9) 	3 	0 	10 	3 	- 	16
+Team Stats Comparison
+  	:dolphins: Miami Dolphins 	:bills: Buffalo Bills
+Injuries 	J.C. Weldon, WR - Mild Concussion 	Matt Thomas, TE - Moderate Hamstring Tendonitis
+Offensive Line Rating 	8.3 	7.8
+Sacks 	1 	1
+Punting 	42.6 	43.6
+Punt Return Yards 	8 	6
+Kick Return Yards 	20 	41
+Turnovers 	1 	1
+3rd Down Conversion 	5/10 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/39 	6/57
+:dolphins: Miami Dolphins
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	20/30 	250 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daniel Curtis 	16 	55 	0 	11 	0/0
+Bryan Davis 	4 	12 	1 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Greg Cobb 	7 	93 	1 	0 	0/0
+Gordon Kleinsasser 	4 	53 	0 	1 	0/0
+D.J. Gibson 	3 	41 	1 	0 	0/0
+Michael Potts 	2 	38 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jack Durrence 	4/0 	1.0 	0/0 	0/0 	0/0
+Phillip Moore 	6/0 	- 	0/0 	1/0 	0/0
+T.J. Lawrence 	3/0 	- 	0/1 	0/1 	0/0
+Benjamin Blankenship 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	1/1 	4/4 	43
+	
+:bills: Buffalo Bills
+Spread - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Kamau Davis 	17/26 	209 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Will Hammond 	15 	36 	0 	6 	1/1
+Mamadou Wynn 	6 	19 	0 	8 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Garvin 	6 	85 	0 	0 	0/0
+Isaiah Cronin 	4 	45 	1 	0 	0/0
+Tyron Chambers 	3 	31 	0 	1 	0/0
+Richard Dodge 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Keyshawn Ayanbadejo 	4/0 	- 	1/0 	0/0 	0/0
+Gabe Werner 	3/0 	1.0 	0/0 	0/0 	0/0
+Chester Williams 	6/0 	- 	0/1 	0/0 	0/0
+Mike Bledsoe 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Darryl Lemus 	3/3 	1/1 	28, 28, 26 

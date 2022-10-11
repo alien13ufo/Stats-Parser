@@ -1,0 +1,48 @@
+QB Nick Hall 6-2 221 3 Syracuse [Pocket] 94
+QB Robert Martin 6-1 184 1 Colorado State [Pocket] 77
+QB Rocky Waters 6-5 222 R Notre Dame [Pocket] 69
+RB Brian Kanell 5-8 198 3 Georgia Tech [Speed] 74
+RB Lavontae Jackson 5-10 234 R SMU [Power] 77
+RB Chester Dorenbos 6-0 222 1 Syracuse [Power] 81
+RB Emmett Spears 5-10 195 R Kent State [Speed] 78
+FB John Bills 5-11 210 R Boise State [Power] 75
+WR Mike Tripplett 6-3 173 3 Ohio State [Target] 95
+WR Marvin White 6-4 184 2 OhioState [Speed] 85
+WR Rex Walsh 5-11 165 R Florida State [Target] 81
+WR Willie Hodge 6-5 194 3 Penn State [Target] 78
+WR Troy Faneca 6-3 209 1 UCF [Target] 68
+TE Brian Gary 6-6 267 4 Wisconsin [RunBlocking] 94
+TE Matt Thomas 6-3 219 R Hawaii [Run Blocking] 76
+TE Uriel Leach 6-1 239 R Arizona [Pass Blocking] 70
+OT John McKelvey 6-2 360 4 Georgia [PassBlocking] 92
+OG David Wilson 6-1 299 4 Oklahoma [RunBlocking] 99
+OT Jack Allen 6-4 279 R USC [Run Blocking] 81
+OT Thomas Newton 6-8 288 1 Syracuse [Pass Blocking] 76
+OT Kris Broadwick 6-6 319 1 Boston College [Pass Blocking] 74
+OG Jamie Shank 6-6 287 2 UCLA [RunBlocking] 82
+OG Damon Milloy 6-5 265 R Georgia [Pass Blocking] 68
+C Kevin Jones 6-4 310 1 Duke [Pass Blocking] 74
+DE Derrick Thomas 6-7 272 2 TexasA&M [PassStop] 78
+DE Adam Williams 6-8 266 R Purdue [Run Stop] 76
+DE Keith Hood 6-1 266 R Iowa [Run Stop] 69
+DE James Garcia 6-7 261 2 Nebraska [Pass Stop] 66
+DT Fred Romanowski 6-2 279 3 Michigan [RunStop] 90
+DT Gregg Martin 6-6 274 2 OhioState [RunStop] 85
+DT Ronald Young 6-7 287 R Air Force [Pass Stop] 68
+ILB Alex Martin 6-0 240 1 Texas A&M [Run Zone] 83
+ILB Hugo Miller 6-1 241 2 Kentucky [PassZone] 77
+ILB Bryce O'Donnell 6-1 217 R Boston College [Pass Zone] 70
+OLB Donnie Bavaro 6-2 239 3 Florida [RunMan-to-Man] 86
+OLB Alexander Baumgartner 6-0 224 1 Oklahoma [Pass Zone] 75
+OLB Timothy Smith 5-11 212 R Arizona [Run Zone] 71
+CB Mike Gradishar 5-10 166 1 Alabama [Zone Coverage] 85
+CB Jaylen Harris 5-10 173 R Louisville [Zone Coverage] 76
+CB Khary Miller 5-9 146 R Oklahoma State [Zone Coverage] 72
+CB Frederick Harper 6-2 213 R Hawaii [Zone Coverage] 68
+CB Richard Hoge 5-9 190 1 Auburn [Zone Coverage] 62
+FS Randall Jones 6-2 190 3 California [ManCoverage] 88
+FS Marcus Urlacher 5-10 160 R Boston College [Man Coverage] 70
+SS Kliff Papac 6-0 161 2 Syracuse [Zone Coverage] 77
+SS Chekwume Angacho 6-0 203 1 Penn State [Man Coverage] 72
+K Nathan Vazquez 5-9 168 2 Maryland [Power] 76
+P Jim Brown 6-1 165 2 Auburn [Power] 87

@@ -1,0 +1,67 @@
+ Philadelphia Eagles (11-4) at Dallas Cowboys (8-7) ?
+
+Arlington, TX - 67 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (11-4) 	7 	3 	7 	3 	- 	20
+:cowboys: Dallas Cowboys (8-7) 	0 	3 	7 	14 	- 	24
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:cowboys: Dallas Cowboys
+Injuries 	DE Lawrence Marshall - Severe Achilles Rupture 	OLB Adam Taylor - Severe Shoulder Strain
+Top Player Grade 	FS Cameron Bowden (8.26) 	QB Graham Burnett (9.15)
+Worst Player Grade 	CB Tim Kassell (2.06) 	ILB Antoine Mayfield (2.84)
+Offensive Line Rating 	8.33 	8.50
+Sacks 	0 	2
+Punting 	41.9 	43.5
+Punt Return Yards 	5 	20
+Kick Return Yards 	82 	53
+Turnovers 	1 	1
+3rd Down Conversion 	3/11 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/64 	5/30
+:eagles: Philadelphia Eagles ?
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	15/28 	180 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	10 	45 	1 	9 	0/0
+Allan Taylor 	5 	28 	0 	10 	0/0
+Marshawn Miller 	8 	25 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Michael Hawkins 	5 	70 	0 	1 	0/0
+Justin Evans 	2 	32 	1 	0 	0/0
+Cameron Whelahan 	2 	24 	0 	0 	0/0
+Christopher Johnson 	3 	22 	0 	1 	0/0
+Roy Davis 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+DeAndre Hawkins 	1/0 	- 	1/0 	0/0 	0/0
+Cameron Bowden 	5/1 	- 	0/1 	0/0 	0/0
+Logan Holmes 	4/0 	- 	0/1 	0/0 	0/0
+Rodrick Milligan 	6/0 	- 	0/0 	0/0 	0/0
+Martin Whiting 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	2/3 	2/2 	40, 28 - 50
+	
+:cowboys: Dallas Cowboys
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	23/40 	315 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Adrian Robinson 	11 	53 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+- ? 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Francisco Gibson 	6 	105 	1 	1 	0/0
+Rodney Montgomery 	4 	84 	1 	0 	0/0
+Austin Medina 	5 	43 	1 	1 	0/0
+Charles Sherrill 	3 	40 	0 	0 	0/0
+Alex Gash 	2 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeff Mangum 	5/1 	1.0 	1/0 	0/0 	0/0
+Kendall Hill 	4/1 	1.0 	0/0 	0/0 	0/0
+Romulus Jackson 	8/0 	- 	0/0 	0/0 	0/0
+Cleo Blair 	5/0 	- 	0/0 ? 	0/0 	0/0
+Emmanuel Slade 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Carlos Cruz 	1/1 	3/3 	41 

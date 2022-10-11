@@ -1,0 +1,53 @@
+QB Taylor Heiden 6-3 197 7 Arkansas [Hybrid] [+1/C] 91?
+QB R.J. Stanford 5-11 203 5 Arkansas [Hybrid] [+1] 83
+RB DeNorris Jackson 6-0 235 2 UCF [Power] [-1] 86
+RB Jeremiah Newton 6-0 174 3 Iowa [Speed] [0] 79
+RB Aaron Street 5-8 210 1 Cincinnati [Power] [0] 71
+FB Maurice Ervin 5-8 207 2 Virginia Tech [Pass Blocking] [0] 80
+WR Cotton Lewis 6-1 182 6 Auburn [Target] [0] 84
+WR Anthony McCardell 6-1 186 6 Clemson [Target] [0] 82
+WR Ken Peelle 6-6 214 9 Florida State [Target] [-1] 82
+WR A.J. Edwards 6-4 217 R Alabama [Speed] [-2] 81
+WR Randall Johnson 6-1 180 2 Southern Miss [Target] [+1] 78
+WR Jamaal Brown-Sanderson 6-1 211 4 Penn State [Target] [0] 76
+TE Darren Jones 6-7 241 5 Baylor [Receiving] [-1] 92
+TE Jerry Cipa 6-0 236 6 USC [Blocking] [0] 82
+TE Marius Greenwood 6-2 228 4 South Carolina [Blocking] [+1] 81
+TE Jaime Bautista 6-1 203 R Kansas [Receiving] [0/C] 77
+OT Gene Miller 6-6 297 8 Ohio State [Pass Blocking] [-3/C] 88
+OT John Young 6-3 275 5 Ohio State [Run Blocking] [+1/C] 86
+OT Demonte Green 6-3 326 1 Illinois [Pass Blocking] [0] 80
+OT James Jones 6-6 285 6 Iowa [Pass Blocking] [+1] 80
+OG Zak Cole 6-0 301 7 Alabama [Run Blocking] [0] 86
+OG Jack Brown 6-1 299 7 Florida [Pass Blocking] [0] 85
+OG Ethan Champion 6-7 259 2 USC [Pass Blocking] [+1] 81
+OG Terrell Oliver 6-7 337 R Georgia State [Run Blocking] [0] 76
+C? T.J. Brumm 6-1 267 6 Arizona State [Pass Blocking] [?0] 82??
+C Sam Holmes 6-2 280 4 North Carolina [Pass Blocking] [0] 79
+DE Charles Johnson 6-8 261 5 Hawaii [Blitz] [+1] 88
+DE Darris Hayes 6-6 289 6 Ole Miss [Blitz] [0] 85
+DE Gustavo Adcock 6-3 271 4 LSU [Contain] [0] 79
+DE Sebastian Traylor 6-2 250 4 Penn State [Contain] [-1] 76
+DT Jeremi Alexander 6-6 264 5 Texas [1-Gap] [0] 81
+DT Forest Williams 6-2 273 5 Oklahoma [1-Gap] [0] 81
+DT Omar Adcock 6-5 311 1 Fresno State [1-Gap] [0] 81
+ILB Andre Brooks 6-1 256 9 Wisconsin [Mike] [+1/C] 88
+ILB Julien Daly 6-1 234 3 Kansas State [Mike] [0] 78
+OLB Thomas Barry 6-1 225 6 Arizona State [Coverage] [0] 90
+OLB Nathaniel Jeffries 5-11 253 2 Tennessee [Blitz] [-3] 80
+OLB Micah Singletary 6-2 229 2 Tennessee [Blitz] [+1/C] 78?
+OLB Jeremy Woodall 6-2 236 R Purdue [Coverage] [0/C] 76
+CB Sammy Muhammad 5-10 178 7 Missouri [Man Coverage] [0] 88
+CB Blake Turner 6-3 176 3 Ohio State [Man Coverage] [-2] 84
+CB Demetrius Still 6-0 162 4 LSU [Zone Coverage] [0] 81
+CB T.J. Hunter 6-0 203 5 Penn State [Zone Coverage] [0] 80
+CB Franklin Crawford Jr. 5-11 174 1 Northern Iowa [Zone Coverage] [0] 78
+FS Aaron Blakely 6-1 182 3 Wisconsin [Man Coverage] [+1] 85
+FS Micquel Carter 6-2 216 2 Marist [Zone Coverage] [0] 77
+SS Chris Brown 5-11 176 6 Alabama [Zone Coverage] [0] 85
+SS Kevin Nguyen 5-10 159 5 Marshall [Man Coverage] [-1] 82
+SS Jon Mallory 6-1 200 R Boston College [Man Coverage] [0] 76
+K Jarret Veals 5-10 178 8 Miami [Power] [0] 9?8
+P Zack Kauffman 6-2 200 1 Auburn [Power] [+1/C] 78
+PR D.J. Barnes 5-10 161 R Ohio State [Hybrid] [0] 81
+KR Derek Payton 5-11 197 1 Colorado [Hybrid] [0] 77

@@ -1,0 +1,67 @@
+ Buffalo Bills (3-3) at New England Patriots (0-7) ?
+
+Foxborough, MA - 51 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (3-3) 	0 	7 	10 	6 	- 	23
+:patriots: New England Patriots (0-7) 	10 	3 	3 	8 	- 	24
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:patriots: New England Patriots
+Injuries 	TE Matt Thomas - Moderate Hamstring Tendonitis 	OLB Steve Windsor - Severe ACL Rupture
+Top Player Grade 	CB D.J. Reed (7.04) 	TE Gary Jones (7.26)
+Worst Player Grade 	K Derek LeBlanc (3.50) 	WR Jamel Beckham (2.64)
+Offensive Line Rating 	8.17 	8.31
+Sacks 	1 	2
+Punting 	41.2 	46.4
+Punt Return Yards 	22 	7
+Kick Return Yards 	85 	94
+Turnovers 	2 	2
+3rd Down Conversion 	5/13 	6/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/95 	8/53
+:bills: Buffalo Bills
+Pro Style - Spread ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	22/39 	250 	2 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	16 	81 	0 	10 	0/0
+Matt Jones 	1 	5 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Chance Billingsley 	5 	80 	0 	0 	0/0
+Isaiah Cronin 	5 	53 	1 	1 	0/0
+Drew Abbott 	3 	50 	0 	1 	0/0
+Gary Faneca Sr. 	2 	32 	1 	0 	0/0
+Marshawn Matthison 	3 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+D.J. Reed 	3/0 	- 	1/0 	0/0 	0/0
+Anthony Ortiz 	3/1 	0.5 	0/0 	0/0 	0/0
+Cyrus Paulsen 	4/0 	0.5 	0/0 	0/0 	0/0
+Richard Suarez 	5/0 	- 	0/0 	1/0 	0/0
+Chester Williams 	3/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	3/5 	2/2 	45, 23, 39 - 47, 43
+	
+:patriots: New England Patriots
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	21/32 	259 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Shawn Cole 	13 	44 	0 	7 	1/1
+Michael Duckworth 	10 	39 	0 	11 	0/0
+- 	- 	- ? 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Jones 	7 	107 	1 	0 	0/0
+Geno Harris 	3 	56 	0 	0 	0/0
+Carlos Perez 	3 	43 	1 	0 	0/0
+Jamel Beckham 	2 	25 	0 	2 	0/0
+Abdoulaye Boone 	3 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jayshawn Watts 	3/0 	- 	1/1 	0/0 	0/0
+Dave Stokley 	2/0 	- 	1/0 	0/0 	0/0
+Bill Young 	3/0 	1.0 	0/0 	0/0 	0/0
+Phillip Davenport 	3/0 	1.0 	0/0 	0/0 	0/0
+Rodney Olson 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Brad Weathersby 	3/3 	1/1 	28, 24, 36 

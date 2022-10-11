@@ -1,0 +1,53 @@
+QB Taylor Heiden 6-3 197 4 Arkansas [Hybrid] 91
+QB Devin Conroy 5-10 218 R Colorado State [Pocket] 80
+QB Dylan Bishop 6-4 188 R Syracuse [Scrambling] 71
+RB Eddie Anderson 5-10 173 3 Missouri [Power] 73
+RB Brian Schlichter 5-11 206 1 Colorado [Power] 74
+RB Jeremiah Newton 6-0 174 R Iowa [Speed] 78
+WR Richard Wilson 6-5 173 5 Purdue [Speed] 89
+WR Marcus Ratterman 6-4 190 1 Hawaii [Speed] 81
+WR Quintavius Pearson 6-0 196 2 Louisville [Target] 80
+WR James Richardson 6-0 156 R Mississippi State [Speed] 77
+WR William Moore 6-1 173 R Boston College [Speed] 76
+TE Jerry Cipa 6-0 236 3 USC [Blocking] 82
+TE Marius Greenwood 6-2 228 1 South Carolina [Blocking] 77
+TE Ruben Bowman 6-1 231 2 Northwestern [Blocking] 68
+TE William Johnson 6-1 257 R Michigan State [Receiving] 80
+OT Gene Miller 6-6 297 5 Ohio State [Pass Blocking] 90
+OT John Young 6-3 275 2 Ohio State [Run Blocking] 82
+OT Bryce Whitaker 6-6 289 1 Michigan [Run Blocking] 76
+OT Rodney Davis 6-3 283 1 UCF [Run Blocking] 69
+OT Kelly Bethea 6-2 326 6 Iowa [Run Blocking] 84
+OT James Jones 6-6 285 3 Iowa [Pass Blocking] 77
+OG Zak Cole 6-0 301 4 Alabama [Run Blocking] 87
+OG Jack Brown 6-1 299 4 Florida [Pass Blocking] 82
+OG Osvaldo Dunham 6-1 299 2 Arizona [Run Blocking] 72
+OG Pat Dorenbos 6-0 276 3 Oregon [Pass Blocking] 72
+C John Spears 6-1 265 3 Kentucky [Run Blocking] 77
+C Sam Holmes 6-2 280 1 North Carolina [Pass Blocking] 76
+DE Darris Hayes 6-6 289 3 Ole Miss [Blitz] 84
+DE Demarius Strong 6-4 254 3 Navy [Blitz] 82
+DE Rudi Sinceno 6-7 283 5 Texas A&M [Contain] 77
+DE Gustavo Adcock 6-3 271 1 LSU [Contain] 78
+DE Sebastian Traylor 6-2 250 1 Penn State [Contain] 76
+DE Jacob Kirk 6-3 242 R South Dakota [Blitz] 75
+DT Frank Williams 6-8 293 5 Alabama [1-Gap] 97
+DT Jeremi Alexander 6-6 264 2 Texas [1-Gap] 78
+DT Bobby Griggs 6-5 299 R Boise State [1-Gap] 74
+ILB Justin Bullard 6-1 230 5 Missouri [Mike] 77
+ILB Ron Mobley 6-1 247 6 Georgia [Will] 89
+ILB Julien Daly 6-1 234 R Kansas State [Mike] 74
+OLB Derrick Martin 6-0 241 5 UCLA [Blitz] 95
+OLB Thomas Barry 6-1 225 3 Arizona State [Coverage] 85
+OLB Shawn Richardson 6-0 238 R Vanderbilt [Coverage] 70
+CB Cameron Newhouse 5-11 177 5 Oklahoma State [Man Coverage] 88
+CB Demetrius Still 6-0 162 1 LSU [Zone Coverage] 79
+CB Sean Hawthorne 5-8 182 4 Ole Miss [Zone Coverage] 76
+CB Manch Matthews 6-3 198 3 Purdue [Zone Coverage] 76
+CB Michael Hernandez 6-1 185 R Alabama [Man Coverage] 76
+FS Aaron Blakely 6-1 182 R Wisconsin [Man Coverage] 82
+FS Edward Harrison 5-10 168 3 Northwestern [Man Coverage] 80
+SS Kevin Jackson 6-2 187 3 Virginia [Zone Coverage] 71
+SS Kevin Nguyen 5-10 159 2 Marshall [Man Coverage] 84
+K Jarret Veals 5-10 178 5 Miami [Power] 99
+P Forest Garrett 6-0 193 6 Florida [Accuracy] 99

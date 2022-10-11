@@ -1,0 +1,57 @@
+ Dallas Cowboys (1-3) at Washington Redskins (2-1)
+
+Landover, MD - 55 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cowboys: Dallas Cowboys (1-3) 	14 	7 	7 	7 	- 	35
+:redskins: Washington Redskins (2-1) 	3 	6 	0 	0 	- 	9
+Team Stats Comparison
+  	:cowboys: Dallas Cowboys 	:redskins: Washington Redskins
+Injuries 	Sid Henson, C - Mild Biceps Strain 	Miles Gray, CB - Moderate Hamstring Bruise
+Offensive Line Rating 	8.5 	8.0
+Sacks 	2 	0
+Punting 	45.5 	43.2
+Punt Return Yards 	36 	0
+Kick Return Yards 	0 	23
+Turnovers 	0 	3
+3rd Down Conversion 	4/11 	6/17
+4th Down Conversion 	0/0 	1/1
+Penalties 	4/25 	6/30
+:cowboys: Dallas Cowboys
+Wing T 2 RB - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	12/18 	206 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	21 	126 	2 	40T 	0/0
+Adrian Robinson 	9 	56 	1 	27T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Francisco Gibson 	4 	70 	1 	0 	0/0
+Kurt Hill 	2 	47 	0 	0 	0/0
+Erasmus High 	1 	35 	1 	0 	0/0
+Alex Gash 	2 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Emmanuel Slade 	3/0 	- 	2/1 	0/0 	0/0
+Travis Chatman 	2/0 	- 	1/2 	0/0 	0/0
+Kendall Hill 	5/0 	1.0 	0/0 	0/0 	0/0
+Joseph Randolph 	3/1 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	0/0 	5/5 	-
+	
+:redskins: Washington Redskins
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	20/35 	184 	0 	3 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	13 	36 	0 	16 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	6 	56 	0 	0 	0/0
+Tony DeMarco 	3 	52 	0 	0 	0/0
+Ken Brown 	2 	33 	0 	1 	0/0
+Eddie McFadden 	4 	21 	0 	2 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Fred Romanowski 	9/2 	- 	0/0 	0/0 	0/0
+Craig Davis 	6/0 	- 	0/0 	0/0 	0/0
+Jim Sisemore 	5/0 	- 	0/0 	0/0 	0/0
+Steven Jordan 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	3/3 	0/0 	34, 27, 35 

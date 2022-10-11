@@ -1,0 +1,43 @@
+QB Darren Werner 6-1 206 R Iowa [Pocket] 76
+QB Alan Watts 6-3 198 R Minnestoa [Pocket] 47
+RB Elvis Williams 5-11 181 R NorthCarolina [Speed] 76
+RB Ricky Moore 5-8 186 R West Virginia [Power] 60
+RB Jim Blue 5-11 214 R Syracuse [Speed] 53
+FB Leonard McIntyre 6-2 245 R FloridaState [Speed] 57
+FB Woody Dawkins 5-11 246 R Florida [Power] 51
+WR Tommy Furrey 6-6 178 R WestVirginia [Speed] 71
+WR Sam Salaam 6-3 193 R Louisville [Target] 60
+WR Bill Pryor 5-10 181 R Nebraska [Target] 60
+WR Terrence Barker 6-2 204 R Oregon [Speed] 51
+TE Cecil Meinert 6-6 250 R Auburn [PassBlocking] 56
+TE Jerry Walker 6-2 245 R Clemson [RunBlocking] 57
+TE Levi Grant 6-5 249 R Pittsburgh [RunBlocking] 49
+OT Stan Allen 6-4 336 R NotreDame [PassBlocking] 68
+OT Jason Horton 6-5 314 1 Kansas [PassBlocking] 40
+OG Willie Burton 6-8 313 R Kansas [RunBlocking] 52
+OG Paul McCready 6-4 288 1 Kansas [Run Blocking] 40
+C Josh Rosenfels 6-0 294 R Michigan [PassBlocking] 52
+OG Terrance Jenkins 6-4 312 R Washington [PassBlocking] 55
+OT Boomer Wages 6-7 330 R Tennessee [RunBlocking] 68
+DE Dennis Abdullah 6-5 281 R OleMiss [RunStop] 65
+DE Jimmy Bones 6-3 243 1 UCF [Pass Stop] 40
+DE Daniel LaFell 6-3 230 1 Virginia [Run Stop] 40
+DE Frank Kylander 6-2 229 1 Army [Pass Stop] 40
+DT Oliver Miller 6-8 301 R Utah [PassStop] 62
+DT Bob Whigham 6-8 293 R VirginiaTech [RunStop] 59
+ILB Andre Brooks 6-01 256 R Wisconsin [PassZone] 81
+ILB DeMond Goode 6-1 232 R TCU [PassMan-to-Man] 58
+OLB Charley Rivers 6-2 254 R LSU [PassZone] 74
+OLB Bryan Jones 6-2 234 R NotreDame [PassMan-to-Man] 65
+OLB Erasmus Quinn 6-5 223 1 Penn State [Run Man-to-Man] 40
+CB Will Baker 5-11 190 R Oklahoma [ManCoverage] 60
+CB Mark Broussard 6-0 195 R ECU [ZoneCoverage] 58
+CB Vance Morris 6-1 194 1 Michigan [Man Coverage] 40
+CB Xavier George 5-11 176 1 Oklahoma [Zone Coverage] 40
+FS Chuck Russell 6-0 184 R Minnesota [ZoneCoverage] 61
+FS Lovett Campbell 5-11 195 R Wisconsin [ManCoverage] 51
+SS Mike Robinson 6-0 196 R VirginiaTech [ZoneCoverage] 69
+SS Dave Gaylor 5-10 171 R WashingtonState [ZoneCoverage] 53
+P Tony Taylor 5-10 206 R FloridaState [Power] 75
+P Kevin Rogers 6-3 219 R Maryland [Accuracy] 56
+K James Harris 6-3 191 R Oregon [Accuracy] 61

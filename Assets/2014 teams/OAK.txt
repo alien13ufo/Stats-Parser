@@ -1,0 +1,36 @@
+QB Mike Hill 6-0 202 R NCState [Scrambling] 73
+QB Sean Hopkins 6-5 192 R Stanford [Pocket] 56
+RB Justin Buchanan 5-10 184 R MississippiState [Power] 74
+FB Michael Banks 6-2 247 R Michigan [Power] 58
+FB Jose McCoy 5-11 230 R Oregon State [Power] 50
+WR Eric Barlow 5-11 175 R Colorado [Target] 53
+WR Mario Dickson 6-6 189 R Cincinnati [Target] 52
+WR Ron Porter 6-2 207 R OleMiss [Speed] 52
+WR Kelvin Neece 6-3 194 1 USC [Target] 40
+TE Brian Gary 6-6 267 R Wisconsin [RunBlocking] 76
+TE Will Tensi 6-2 238 R WestVirginia [PassBlocking] 57
+TE Robert Bell 6-2 226 R BoiseState [RunBlocking] 53
+OT John McKelvey 6-2 360 R Georgia [PassBlocking] 73
+OT John McMurtry 6-5 294 1 Virginia [Pass Blocking] 40
+OG David Wilson 6-1 299 R Oklahoma [RunBlocking] 81
+OG Willard Horton 6-4 284 1 North Carolina [Run Blocking] 40
+C Sid Blake 6-2 254 1 South Carolina [Run Blocking] 40
+OG Nicholas Smith 6-2 295 R NC State [Pass Blocking] 50
+OT Scott Jones 6-1 343 R Syracuse [PassBlocking] 68
+DE Tommy Wietecha 6-2 277 R Tennessee [PassStop] 68
+DE Victor Quick 6-3 251 1 Florida [Pass Stop] 40
+DT Carlos Freitas 6-7 263 R MichiganState [PassStop] 49
+DT Frank Black 6-7 325 1 Baylor [Run Stop] 40
+DE Jeff Holleyman 6-3 297 R NotreDame [PassStop] 69
+OLB Chris Ferguson 6-2 238 R SouthCarolina [RunMan-to-Man] 59
+ILB Rodrick Milligan 6-2 254 R Michigan [PassMan-to-Man] 74
+ILB Joseph Landis 6-1 251 R Navy [PassZone] 48
+ILB Chris Samuels 6-1 229 1 Maryland [Run Zone] 40
+OLB Jonathan Daly 6-4 240 1 Wisconsin [Run Man-to-Man] 40
+CB Lawrence Matthews 5-10 181 R Wisconsin [ManCoverage] 54
+CB Geno Johnson 6-0 182 1 Georgia [Man Coverage] 40
+CB Patrick Wendell 5-11 170 1 Penn State [Zone Coverage] 40
+FS Stephen Elliott 6-3 197 R Cincinnati [ZoneCoverage] 76
+SS Keyshawn Ayanbadejo 6-1 217 R FloridaState [ManCoverage] 76
+K Mike Waters 5-9 204 R California [Power] 62
+P John Collins 5-9 194 R NorthCarolina [Power] 68

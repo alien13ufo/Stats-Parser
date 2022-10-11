@@ -1,0 +1,55 @@
+QB Todd Lester 6-0 194 8 California [Scrambling] [+1] 93?
+QB Akiem Williams III 6-3 235 1 Clemson [Scrambling] [-1] 84
+QB Orly Vaccaro 6-2 215 6 SDSU [Hybrid] [+3] 81
+RB Solomon McLaughlin 5-10 235 1 Texas Tech [Power] [+1] 87
+RB Troy McCray 6-0 205 6 Wake Forest [Speed] [0] 81
+RB Jasiah Braxton 5-10 233 R Rice [Power] [+1] 68
+FB Sean Denton 5-10 200 3 Clemson [Run Blocking] [0] 79
+WR Tai Miller 6-4 186 7 Oklahoma [Target] [-3] 89
+WR Miles Collins 5-11 163 5 San Diego State [Speed] [0] 85
+WR Roscoe Bishop 6-6 191 1 Arkansas State [Target] [0] 79
+WR Joshua Freeman 6-2 233 2 Stanford [Target] [0] [#] 78
+WR Danny Paz 6-0 219 4 Duke [Target] [0] 73
+WR Eugene Sanders 6-3 214 4 Texas Tech [Target] [0] [+] 72
+TE Garrett Taylor 6-3 239 1 Temple [Receiving] [+1] 88
+TE Travis Pressley 6-2 215 1 Marshall [Blocking] [0] 74
+TE Aboubacar Dukes 6-1 224 R Oregon [Blocking] [-1] 73
+OT Dylan Hastings 6-5 323 4 Boston College [Run Blocking] [+2] 88
+OT Nico Renner 6-6 312 3 Michigan [Run Blocking] [0] 86
+OT Ryan Rodrigues 6-1 256 2 Michigan [Run Blocking] [-2] 81
+OT Sam Walsh III 6-6 286 1 Wisconsin [Run Blocking] [0] 78?
+OG Logan Hunter 6-4 308 7 Navy [Pass Blocking] [+1/C] 83
+OG Derrick Briggs 6-4 285 1 Bowling Green [Run Blocking] [-1] [++] 84
+OG Fletcher Joyner 6-6 261 2 Utah [Pass Blocking] [0] 80
+OG P.K. Fletcher 6-1 297 4 Penn State [Pass Blocking] [0] 80
+OG Mario Lawton 6-3 273 R West Virginia [Run Blocking] [+1] 80
+C Nick Vaikauskas 6-3 293 R San Jose State [Pass Blocking] [0/C] 81
+C Thomas Chandler 6-2 273 3 Alabama [Run Blocking] [0] 80
+DE Parker Holmes 6-3 247 2 Tennessee [Contain] [0] 84
+DE Randall Marcus 6-6 288 3 Youngstown State [Blitz] [0] 80
+DE Tyler Toney 6-1 261 1 Arizona [Contain] [0] 81
+DE Vi?ctor Crosby 6-2 246 R Northwe?stern [Contain] [-1] [+]? 75
+DT Michael McBride 6-4 313 4 Pittsburgh [2-Gap] [-2] 81
+DT Ezekiel Sewell 6-5 325 1 Baylor [2-Gap] [-2] 80
+DT Devon Brantley 6-3 315 2 Nebraska [2-Gap] [0] 79
+ILB Daleroy Smart 5-11 224 8 Washington State [Mike] [-3/C] 92
+I?LB Garrett Powers 6-4 229 R ?Baylor? [Mike] [+2/C] 80
+ILB Amadou Christian 6-3 243 3 Auburn [Mike] [+1] 77
+OLB Chris Reed 6-1 230 7 Oklahoma State [Blitz] [0] 86
+OLB Brandon Thomas 6-3 229 3 Bowling Green [Blitz] [0] 89
+OLB Harold Kennedy 6-2 205 5 UCLA [Coverage] [0] 77
+OLB Timothy Greer 6-3 231 2 Arizona State [Blitz] [0] 75
+CB Bashir Rodriguez 6-1 194 9 Georgia Tech [Man Coverage] [0] 88
+CB Josh Holland 5-10 163 5 Arizona [Man Coverage] [0] 84
+CB Eugene Malone 6-0 190 4 LSU [Man Coverage] [0] 83?
+CB Rashawn Loftus 5-11 187 3 SDSU [Zone Coverage] [0] 80
+CB Shawn Burden 6-1 168 1 Cincinnati [Man Coverage] [0] [#] 75
+CB Chad Bullock 6-1 184 4 Kansas [Man Coverage] [-1] 76
+CB Ashton Evans 5-10 186 1 Virginia [Man Coverage] [0] 70
+FS Prince McGill 6-2 206 5 Florida [Man Coverage] [0] 88
+FS Steve Williams 6-0 201 4 Georgia Tech [Man Coverage] [0] [#] 76
+SS Xavien Smith 5-10 183 2 Murray State [Man Coverage] [0] 80
+SS Devin McCauley 6-3 194 4 Arizona [Man Coverage] [0] 75
+K Vincent Comer 5-7 185 3 Notre Dame [Power] [-2] 83
+P Isaiah Anderson 5-11 205 5 Boston College [Accuracy] [0] 89
+PR Luke Guy 6-1 182 3 Washington [Hybrid] [0] 76

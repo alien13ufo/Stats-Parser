@@ -1,0 +1,74 @@
+ Baltimore Ravens (2-4) at Minnesota Vikings (1-5)
+
+Minnesota, MN - 49 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:ravens: Baltimore Ravens (2-4) 	7 	14 	14 	10 	- 	45
+:vikings: Minnesota Vikings (1-5) 	3 	0 	0 	8 	- 	11
+Team Stats Comparison
+  	:ravens: Baltimore Ravens 	:vikings: Minnesota Vikings
+Injuries 	
+
+Sean Waller, WR - Mild Hamstring Tendonitis
+
+ 
+
+ 
+
+ 
+	
+
+Jared Lee, DT - Moderate Ankle Sprain
+
+Stephen Elliott, FS - Severe ACL Rupture
+
+Tyler Trent, SS - Moderate Biceps Pull
+
+Ilan Youngblood, K - Moderate Elbow Sprain
+Offensive Line Rating 	7.8 	8.2
+Sacks 	3 	1
+Punting 	43.5 	45.1
+Punt Return Yards 	43 	16
+Kick Return Yards 	0 	0
+Turnovers 	0 	3
+3rd Down Conversion 	5/11 	2/14
+4th Down Conversion 	0/0 	0/1
+Penalties 	5/50 	7/35
+:ravens: Baltimore Ravens
+Option - Wishbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	15/20 	288 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Davey Jones 	25 	96 	2 	35T 	0/0
+Brett Fisher 	7 	66 	1 	32 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Knight 	5 	100 	0 	0 	0/0
+Davey Jones 	2 	56 	1 	0 	0/0
+Sean Waller 	1 	52 	1 	0 	0/0
+David Wells 	2 	41 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Traveon Howard 	2/0 	- 	1/2 	0/0 	0/0
+Troy Marshall 	1/0 	- 	1/1 	0/0 	0/0
+Sammy Muhammad 	1/0 	- 	1/0 	0/0 	0/0
+Tyrone Jones 	7/1 	1.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	1/1 	6/6 	48
+	
+:vikings: Minnesota Vikings
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brad Davis 	15/32 	140 	1 	3 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	10 	38 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Wayne Wegert 	6 	67 	0 	0 	0/0
+Eugene Jackson 	3 	23 	0 	0 	0/0
+Mohamed Charles 	2 	22 	0 	0 	0/0
+Jacory Kessler 	1 	18 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Justin Glass 	2/1 	1.0 	0/0 	0/0 	0/0
+Paul Goodman 	9/2 	- 	0/1 	0/0 	0/0
+Eric Jones 	5/1 	- 	0/0 	0/0 	0/0
+Mike Johnson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ilan Youngblood 	1/2 	0/0 	45 - 32 

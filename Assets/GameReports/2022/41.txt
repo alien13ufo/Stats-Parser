@@ -1,0 +1,65 @@
+ Miami ?Dolphins (2-0) at Chicago Bears (0-2) ?
+Chicago, IL - 73 F :windy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:dolphins: Miami Dolphins (2-0) 	0 	6 	7 	14 	- 	27
+:bears: Chicago Bears (0-2) 	10 	3 	3 	0 	- 	16
+Team Stats Comparison
+  	:dolphins: Miami Dolphins 	:bears: Chicago Bears
+Injuries 	OT Ricky Edwards - Severe Hip Bruise 	No Injuries
+Top Player Grade 	ILB Phillip Moore (9.64) 	FS Alyn Namath (9.53)
+Worst Player Grade 	P A.J. Kinney (4.83) 	CB Jabari Branch (4.32)
+Offensive Line Rating 	8.31 	8.00
+Sacks 	1 	2
+Punting 	40.6 	43.6
+Punt Return Yards 	25 	29
+Kick Return Yards 	43 	51
+Turnovers 	2 	2
+3rd Down Conversion 	3/11 	3/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/85 	6/32
+:dolphins: Miami Dolphins
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	20/37 	280 	2 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	20 	109 	1 	19 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marion Reeder 	4 	56 	1 	0 	0/0
+J.C. Weldon 	4 	53 	0 	1 	0/0
+Jim Umenyiora 	3 	50 	0 	0 	0/0
+Sam Baugh 	2 	44 	1 	0 	0/0
+Elias Langston 	3 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cory Betts 	1/0 	- 	1/0 	0/0 	0/0
+Laurent Christensen 	1/0 	- 	1/0 	0/0 	0/0
+Dexter Flowers 	3/1 	1.0 	0/0 	0/0 	0/0
+Phillip Moore 	4/0 	- 	0/3 	0/0 	0/0
+Darren Rucker 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	2/2 	3/3 	49, 50
+	
+:bears: Chicago Bears
+Option 2RB - Pistol 2RB ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mohammed Foster 	15/25 	208 	1 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT ? 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	19 	68 	0 	18 	0/0
+Mohammed Foster 	7 	46 	0 	27 	0/0
+Quincy Honeycutt 	7 	29 	0 	10 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Gaines 	3 	73 	0 	1 	0/0
+Charlie Paul 	2 	43 	1 ? 	0 	0/0
+Elijah Talley 	2 	25 	0 	0 	0/0
+Dwayne Maddox 	3 	23 	0 	0 	0/0
+Darius Goode 	3 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Alyn Namath 	4/0 	- 	2/1 	0/0 	0/0
+Akeel Morris 	5/1 	1.0 	0/0 	0/0 	0/0 ?
+Morris Millen 	4/0 	1.0 	0/0 	0/0 	0/0
+David Medley 	2/1 	- 	0/0 	0/0 	0/0
+Jeff Holleyman 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Anthony Harris 	3/3 	1/1 	32, 46, 41 ?

@@ -1,0 +1,49 @@
+QB Greg Bierria 6-3 186 4 Auburn [Pocket] 85
+QB Aaron Shea 6-2 204 R Missouri [Pocket] 83
+QB Corey Mendoza 6-5 223 R Purdue [Pocket] 73
+QB Horace Johnson 5-11 199 1 Texas A&M [Pocket] 66
+RB Tony Peaks 5-10 239 4 Florida State [Power] 87
+RB Dick Lilly 5-11 199 2 Virginia Tech [Speed] 72
+RB Craig Grimsley 6-1 216 1 Louisville [Power] 67
+FB Cory Hendricks 6-1 239 R Oklahoma [Speed] 78
+FB Joseph Lopez 5-11 213 3 Air Force [Power] 65
+WR Mosi Bartos 5-8 161 2 Boston College [Speed] 90
+WR Rashad Simon 6-4 187 2 Boise State [Target] 86
+WR Matt Kreutz 6-3 199 3 Penn State [Speed] 76
+WR Tyrone Whitfield 6-3 197 R Texas Tech [Speed] 67
+TE Jason Lee 6-1 232 4 Boston College [Run Blocking] 82
+TE Shane Kaufman 6-2 237 R LSU [Pass Blocking] 76
+TE Kevin Knight 6-8 234 4 Texas [Run Blocking] 74
+OT Richard Carter 6-7 309 3 Rutgers [Pass Blocking] 87
+OT Leslie Hoover 6-1 339 3 Michigan [Run Blocking] 78
+OT William Kinard 6-5 294 R Texas [Run Blocking] 77
+OT Antwon Breedlove 6-5 302 3 Oklahoma [Pass Blocking] 72
+OT Kevin Barker 6-8 314 2 Georgia Tech [PassBlocking] 75
+OG Jimmie Shelton 6-6 304 2 Cincinnati [RunBlocking] 88
+OG Andre Goodridge 6-4 265 R Ole Miss [Run Blocking] 68
+OG John Cooke 6-6 276 1 California [Pass Blocking] 67
+C Tim Thomas 6-3 288 R Florida [Pass Blocking] 77
+C Billy Brumm 6-8 307 2 Georgia Tech [Run Blocking] 66
+DE Joey Green 6-1 260 R Boston College [Run Stop] 77
+DE Grover Walker 6-4 259 2 Kentucky [PassStop] 73
+DE Charley Long 6-1 238 2 Hiwassee College [Pass Stop] 70
+DT Quentin Smith 6-8 294 4 Ohio State [Pass Stop] 93
+DT Travis Williams 6-5 270 2 California [Pass Stop] 69
+DT Alfredo Walker 6-8 320 R Missouri [Pass Stop] 67
+ILB Kelly Mitchell 6-3 217 R Michigan State [Pass Zone] 82
+ILB Doug Odoms 6-1 235 3 Washington [Run Zone] 81
+ILB Rick Avellini 6-1 223 1 Auburn [Pass Zone] 72
+OLB Keyuo Clark 6-1 242 3 Florida State [Pass Zone] 84
+OLB Rob Walls 6-1 227 1 Georgia [Run Man-to-Man] 74
+OLB Tom Johnson 6-1 218 R Georgia State [Run Zone] 68
+CB Shawn Tennell 6-1 179 4 USC [ManCoverage] 81
+CB Aaron Samuelsson 6-2 202 R Michigan State [Zone Coverage] 74
+CB Jeremy Bell 5-10 170 1 Kansas [Man Coverage] 74
+CB Kenny Allen 5-8 182 3 Utah [Man Coverage] 70
+CB Marcus Farmer 6-1 177 3 Louisville [ZoneCoverage] 67
+FS Sean Burton 6-0 202 3 Oklahoma [Zone Coverage] 94
+FS Robert Garrett 6-0 206 2 Utah [Zone Coverage] 68
+SS Chris Brown 5-11 176 1 Alabama [Zone Coverage] 82
+K Eric Anderson 5-8 193 1 Michigan [Accuracy] 70
+P Greg Bradley 5-10 196 2 Boston College [Accuracy] 74
+P Jerome Morris 6-4 161 1 Maryland [Accuracy] 69

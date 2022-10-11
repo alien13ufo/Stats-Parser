@@ -1,0 +1,34 @@
+QB Onterrio Smith 6-1 180 R Miami [Scrambling] 71
+RB Brian Kiel 6-1 213 R Florida [Power] 74
+FB Aric Webster 5-11 241 R Iowa [Power] 53
+WR David Gaines 6-2 190 R Syracuse [Target] 69
+WR Rod Woodley 6-2 199 R Stanford [Speed] 58
+WR Wayne Grover 6-1 185 1 Rutgers [Speed] 40
+WR Hector Jefferson 6-2 173 1 Penn State [Target] 40
+TE Obafemi Chamberlin 6-6 243 R Iowa [RunBlocking] 65
+OT Don Fontenot 6-1 328 R Nebraska [RunBlocking] 66
+OG Hines Coleman 6-5 300 R Minnesota [Pass Blocking] 50
+OG Harry Schroeder 6-7 305 R California [Pass Blocking] 47
+C Spencer Flutie 6-5 304 R TexasTech [RunBlocking] 63
+OG Mathias Banks 6-5 300 R Michigan [RunBlocking] 58
+OT Jon McCaffrey 6-5 309 R North Carolina [Pass Blocking] 52
+OT Charles Ford 6-0 297 R Oregon [Pass Blocking] 46
+DE Alvis Brumm 6-6 268 R PennState [RunStop] 80
+DE Steve Thomas 6-4 254 1 Texas [Pass Stop] 40
+DT Alex Todd 6-8 286 R FloridaState [RunStop] 58
+DT Daniel Graben 6-6 285 1 Arkansas [Run Stop] 40
+DE Tom Schmidt 6-3 283 R Purdue [Pass Stop] 52
+DE Albert Taylor 6-5 267 R Navy [Run Stop] 50
+OLB Tommy Leonard 6-1 229 R Nebraska [RunMan-to-Man] 69
+OLB Neal OLeary 6-3 230 1 Miami [Pass Zone] 40
+ILB Frank Lee 6-1 227 R FloridaState [PassMan-to-Man] 68
+ILB Ron Rader 6-1 255 R ColoradoState [RunMan-to-Man] 50
+OLB Kwazi Robb 6-1 232 R Minnesota [PassMan-to-Man] 74
+CB John Queen 5-11 196 R LSU [ManCoverage] 70
+CB Shawn Tennell 6-1 179 R USC [ManCoverage] 69
+CB John Johnson 6-1 174 R Washington [Man Coverage] 52
+CB Ollie Vance 5-9 156 1 Colorado [Man Coverage] 40
+FS Jim Sisemore 5-10 181 R NotreDame [ManCoverage] 80
+SS Tony Hennigan 5-10 184 R UCF [ManCoverage] 66
+K Ken Hodel 6-4 202 R Oklahoma [Power] 58
+P Dennis Carson 6-4 169 R Michigan [Power] 60

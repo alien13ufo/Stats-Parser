@@ -1,0 +1,42 @@
+QB Darren Werner 6-1 206 3 Iowa [Pocket] 83
+QB Robert Price 6-4 229 2 Oklahoma [Pocket] 77
+RB Jerry Rambo 5-10 220 1 USC [Speed] 85
+RB Don Anderson 5-9 195 1 Tennessee [Power] 72
+RB Sean Woody 5-9 183 3 Boston College [Speed] 69
+FB Ian Smith 6-2 222 1 Oklahoma [Speed] 73
+WR Darrell Mack 6-2 156 R Alabama [Speed] 80
+WR Marion Reeder 5-11 210 1 Nebraska [Target] 78
+WR Joe Wallace 5-11 193 2 Baylor [Speed] 77
+WR Bud Farmer 6-3 195 1 FloridaState [Target] 66
+WR Sam Hill 6-5 176 1 WakeForest [Speed] 61
+TE Jake Schmidt 6-6 235 1 OhioState [RunBlocking] 79
+TE Doug Bosley 6-4 245 1 Wisconsin [RunBlocking] 73
+OT Gary Tomlinson 6-6 304 R Wisconsin [Run Blocking] 81
+OT William Hart 6-5 323 2 Arizona [PassBlocking] 73
+OT Charles Mahan 6-5 332 R TCU [Pass Blocking] 73
+OT Philip Rose 6-8 308 1 AirForce [RunBlocking] 65
+OG Bret Pate 6-3 310 1 Texas [PassBlocking] 81
+OG Logan Hunter 6-4 308 R Navy [Pass Blocking] 75
+OG Kerwin McGeoghan 6-3 269 1 OleMiss [PassBlocking] 71
+C John Zatkoff 6-7 296 1 Alabama [PassBlocking] 85
+DE Adam Scott 6-4 281 2 OhioState [RunStop] 75
+DE Lonzell Rentzel 6-8 265 1 FloridaState [RunStop] 72
+DE Eric Scott 6-4 300 2 MichiganState [RunStop] 72
+DE Claxton Robertson 6-6 275 1 Auburn [Run Stop] 70
+DE Bruce Dwyer 6-4 294 2 Auburn [PassStop] 64
+DT Tommy Brooks 6-7 285 R Texas A&M [Pass Stop] 78
+DT Jim Hostetler 6-0 279 3 Texas [RunStop] 75
+DT A.B. Todd 6-6 308 2 Tennessee [RunStop] 73
+ILB Cameron Jonah 6-1 243 1 HartnellCollege [RunMan-to-Man] 82
+ILB Sylvester Feeley 6-1 227 1 LSU [PassMan-to-Man] 78
+ILB Ron Sanderson 6-1 221 1 PennState [PassZone] 76
+OLB Todd Byers 6-2 251 1 Tennessee [Run Man-to-Man] 74
+OLB Steve Windsor 6-0 241 R Nebraska [Run Man-to-Man] 74
+CB Reggie Griffin 5-10 192 1 Tennessee [ZoneCoverage] 82
+CB Joe Gammon 6-0 184 2 Syracuse [Man Coverage] 80
+CB Tony Smith 6-1 191 2 Georgia [Man Coverage] 80
+FS James Delarosa 6-0 183 1 OregonState [ZoneCoverage] 65
+SS Jonathan Parker 6-2 183 3 South Carolina [Man Coverage] 82
+SS Pat Carpenter 6-1 174 1 OhioState [ManCoverage] 68
+K Frank McFarlane 5-1 197 2 Wisconsin [Power] 72
+P Dan Hamilton 6-1 198 1 MississippiState [Accuracy] 83

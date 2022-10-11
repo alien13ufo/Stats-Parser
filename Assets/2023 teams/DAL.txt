@@ -1,0 +1,53 @@
+QB Graham Burnett 6-3 211 3 Oklahoma [Pocket] [0] 89?
+QB Luke Williams 6-4 185 4 Pittsburgh [Pocket] [0] 79
+QB Jordan Godwin 6-0 190 R Nevada [Pocket] [0/C] 76
+RB Adrian Robinson 5-11 203 5 Houston [Power] [0] 86
+RB Jayden Huff 5-7 213 2 LSU [Speed] [0] 78
+FB Rory Horton 5-9 228 2 Illinois [Pass Blocking] [0] 83
+WR Rodney Montgomery 6-0 185 8 LSU [Target] [-1] 91
+WR Francisco Gibson 6-1 216 4 Washington [Target] [0] 82
+WR DeAndre Felder 6-5 216 R Vanderbilt [Target] [0] 80
+WR Alex Gash 6-5 186 5 Texas A&M [Speed] [+3/C] 80
+WR Gabe Barrientos 5-11 207 1 Michigan [Target] [-1] 79
+WR Ramon Stewart 6-1 177 3 USF [Target] [0] 77
+TE Erasmus High 6-0 217 4 Alabama [Blocking] [0] 85
+TE Charles Sherrill 6-4 212 1 Southern Miss [Receiving] [0] 78??
+TE Samuel Hardy 6-1 226 R Kansas [Blocking] [0] 78
+OT Justin Campbell 6-6 291 8 Penn State [Run Blocking] [0] 97
+OT D.?J. Franklin 6-6 302 1 Montana [Pass Blocking] [+1/C] 85
+OT Andrew Ruth 6-7 302 4 ?Missouri [Pass Blocking] [0] 77
+OT Lawrence Miller 6-5 268 1 Dayton [Run Blocking] [0] 72
+OG Jace Brown 6-6 270 7 Florida [Pass Blocking] [0/C] 95
+OG Donald Goode 6-7 271 4 Hawaii [Pass Blocking] [0] 81
+OG Brett Spangler 6-5 291 R Toledo [Run Blocking] [+1] 77
+OG Cameron Schreiber 6-7 270 2 Kansas [Run Blocking] [?0] 73
+C Sid Henson 6-5 298 7 USC [Run Blocking] [0/C] 88
+C Robert Troutman 6-1 299 2 Georgia [Pass Blocking] [0] 75??
+DE Joseph Randolph 6-1 266 4 San Jose State [Blitz]? [-1] 81?
+DE Javier Grady 6-1 238 2 North Texas [Blitz] [-1] 85
+DE Donte Floyd 6-1 253 R Oregon [Contain] [+2] 76
+DE Kevin Mims 6-2 266 4 UCF [Blitz] [-2] 74
+DT Kendall Hill 6-6 312 8 California [2-Gap] [0/C] 89
+DT Nikolas Gleason 6-2 317 2 Army [2-Gap] [0] 81
+DT Patrick Garber 6-2 303 3 Buffalo [1-Gap] [0/C] 75
+ILB Cleo Blair 6-1 251 8 NC State [Mike] [0] 89
+ILB Marcus Grant 6-2 239 5 Notre Dame [Will] [-2] 84
+ILB Antoine Mayfield 5-11 226 2 Syracuse [Will] [0] 80
+ILB Sam Richardson 6-2 221 1 South Dakota State [Mike] [0] 80
+ILB Tyler Pennel 5-11 241 R Georgia [Will] [+1] 77
+OLB Jeff Mangum 6-2 256 9 Missouri [Blitz] [0] 86
+OLB Adam Taylor 6-3 227 5 Rice [Coverage] [+1] 85
+OLB Ryan Bailey 6-3 216 R Florida [Blitz] [+1/C] 81
+OLB Steve Windsor 6-0 241 6 Nebraska [Blitz] [0] 76
+CB Travis Chatman 5-10 172 9 Washington [Zone Coverage] [0] 96
+CB Jeremy Evans 6-0 191 3 BYU [Zone Coverage] [-1/C] 83
+CB Dashon Hodge-Stevens 5-11 212 4 Virginia Tech [Man Coverage] [0] 82
+CB Shawn Tillman 5-10 194 R Ohio [Man Coverage] [0] 78 ?
+CB Julius Monroe 5-11 178 R USF [Man Coverage] [+1/C] 75
+CB Israel Mathis 5-9 178 2 Air Force [Zone Coverage] [+2] 73
+FS Emmanuel Slade 6-1 184 3 Oregon State [Zone Coverage] [0] 84
+FS Omar Bush 6-1 192 1 Baylor [Man Coverage] [-3] 78
+SS Noah Tubbs 6-1 205 2 Syracuse [Man Coverage] [0] 81
+SS Jaylin Dickens 5-11 174 R Texas [Zone Coverage] [-1] 74
+K Carlos Cruz 6-2 197 5 Air Force [Accuracy] [+1] 88 ?
+P Freddie Mughelli 6-0 183 9 Stanford [Accuracy] [0] 88

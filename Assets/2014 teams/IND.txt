@@ -1,0 +1,36 @@
+QB Andrew Jones 6-3 204 1 Georgia [Pocket] 40
+QB Greg Bierria 6-3 186 R Auburn [Pocket] 75
+RB Shawn Carr 6-0 177 R Iowa [Power] 73
+RB Tony Peaks 5-10 239 R Florida State [Power] 79
+FB Robert Williamson 6-2 245 R Rutgers [Speed] 68
+WR Tom Grant 6-0 172 R LSU [Speed] 70
+WR Kawika Clowney 6-1 183 1 Oregon State [Speed] 40
+WR Jarius Mitchell 6-4 164 1 Virginia [Target] 40
+TE Jason Lee 6-1 232 R Boston College [Run Blocking] 72
+TE Orly Jones 6-6 220 1 USC [Pass Blocking] 40
+OT Jim Otto 6-8 322 R Colorado [Run Blocking] 80
+OT Walter Campfield 6-5 304 1 South Carolina [Pass Blocking] 40
+OG Ollie Phelps 6-5 295 1 Syracuse [Run Blocking] 40
+C Grady Frobishar 6-2 264 1 Penn State [Run Blocking] 40
+OG DeMond Seaverns 6-1 299 R TCU [Run Blocking] 59
+OG Quinn Cooper 6-4 318 1 Colorado [Pass Blocking] 40
+OT Erasmus Jacobs 6-4 285 1 Indiana [Run Blocking] 40
+OT Earl Jackson 6-6 302 1 Illinois [Run Blocking] 40
+DE Billy Banks 6-6 264 R Florida State [Run Stop] 50
+DT James Whitfield 6-7 309 1 Florida State [Run Stop] 40
+DT Quentin Smith 6-8 294 R Ohio State [Pass Stop] 74
+DE Zeke Furrowes 6-3 244 1 USC [Pass Stop] 40
+DE Sean Jones 6-3 253 1 ECU [Run Stop] 40
+OLB Robert Strange 6-2 241 R Navy [Run Zone] 50
+OLB Warren McNeal 6-4 238 1 Nebraska [Run Man-to-Man] 40
+ILB Harold Johnson 6-3 230 1 Maryland [Run Zone] 40
+ILB Patrick Parkinson 6-5 248 1 Virginia Tech [Pass Man-to-Man] 40
+OLB Damian Norris 6-4 233 1 Florida [Pass Zone] 40
+CB Michael Toliver 5-11 174 1 Arizona [Zone Coverage] 40
+CB Steven Holland 6-1 175 R Kentucky [Zone Coverage] 57
+CB Darren McNeal 5-11 163 1 Oregon [Man Coverage] 40
+FS Alex Collins 6-0 214 R Auburn [Man Coverage] 74
+FS Troy McMahon 5-11 201 R Georgia Tech [Man Coverage] 55
+SS Norman Rodriguez 5-10 179 R Utah [Man Coverage] 67
+FS Troy McMahon 5-11 201 R Georgia Tech [Man Coverage] 55
+K Kris Rayden 6-2 193 1 LSU [Power] 40

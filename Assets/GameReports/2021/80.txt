@@ -1,0 +1,66 @@
+ Detroit Lions (1-4) at Pittsburgh Steelers (2-3)
+
+Pittsburgh, PA - 60 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:fibur: Detroit Lions (1-4) 	17 	6 	0 	0 	- 	23
+:steelers: Pittsburgh Steelers (2-3) 	3 	7 	6 	3 	- 	19
+Team Stats Comparison
+  	:fibur: Detroit Lions 	:steelers: Pittsburgh Steelers
+Injuries 	
+
+No Injuries
+
+ 
+	
+
+Charlie Paul, WR - Moderate Biceps Pull
+
+R.J. Stanford, QB - Moderate Thumb Bruise
+Offensive Line Rating 	8.5 	8.1
+Sacks 	3 	1
+Punting 	43.3 	46.8
+Punt Return Yards 	11 	62 (1)
+Kick Return Yards 	29 	23
+Turnovers 	0 	1
+3rd Down Conversion 	6/16 	4/40
+4th Down Conversion 	0/0 	0/1
+Penalties 	5/46 	3/22
+:fibur: Detroit Lions
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Blake Shell 	20/35 	224 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Calvin Jones 	16 	66 	1 	18T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rex Walsh 	6 	93 	0 	0 	0/0
+Jeremy Cook 	6 	65 	1 	1 	0/0
+Anthony Fasani 	2 	32 	0 	0 	0/0
+Calvin Jones 	3 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin McQueen 	2/0 	- 	1/1 	0/0 	0/0
+Doug Carolan 	4/3 	2.0 	0/0 	0/0 	0/0
+Ricky Mayo 	2/0 	1.0 	0/0 	0/0 	0/0
+Earl Jackson 	5/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	3/3 	2/2 	30, 54, 48
+	
+:steelers: Pittsburgh Steelers
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+R.J. Stanford 	17/27 	199 	1 	1 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	18 	60 	1 	22 	0/0
+R.J. Stanford 	2 	10 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jake Schmidt 	5 	66 	0 	0 	0/0
+Samuel Jolley 	5 	52 	1 	0 	0/0
+Austin Medina 	2 	30 	0 	0 	0/0
+Charlie Paul 	2 	28 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+David Drake 	1/0 	1.0 	0/0 	0/0 	0/0
+Ron Mobley 	6/1 	- 	0/0 	0/0 	0/0
+Patrick Murphy 	6/0 	- 	0/1 	0/0 	0/0
+Ray Taylor 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Michael Turner 	2/2 	1/2 	44, 42 

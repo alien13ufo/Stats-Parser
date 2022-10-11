@@ -1,0 +1,51 @@
+QB Onterrio Smith 6-1 180 3 Miami [Scrambling] 82
+QB Rob Corp 6-3 203 R Miami [Scrambling] 71
+QB Cleveland Jones 6-3 192 R Tennessee [Pocket] 68
+QB Keith Price 6-2 171 R Minnesota [Scrambling] 66
+QB Itula Moore 6-5 207 2 Ole Miss [Scrambling] 64
+RB James Bush 6-1 242 3 Notre Dame [Speed] 84
+RB Nick Engelberger 5-8 186 R Notre Dame [Power] 72
+RB P.J. Junker 5-9 184 R Wake Forest [Speed] 70
+RB Ray Scifres 5-11 198 R Penn State [Speed] 68
+RB Frank Bortz 5-8 202 1 Oklahoma St. [Power] 65
+FB Marc Ladner 6-0 210 R Iowa State [Speed] 68
+WR Austin Medina 5-11 192 2 Kentucky [Speed] 84
+WR Anthony McCardell 6-1 186 R Clemson [Target] 75
+WR Marion Sims 6-4 179 R NC State [Target] 68
+WR Lenny Knott 6-1 180 R Washington [Speed] 65
+WR David Joe 6-1 183 R Clemson [Speed] 65
+TE Lawrence Gibson 6-3 239 R Colorado State [Pass Blocking] 74
+TE Johnny Nutten 6-3 247 1 Ole Miss [Run Blocking] 65
+C Lloyd Nieves 6-5 293 R Utah [Run Blocking] 79
+OT Jason Kelly 6-6 319 3 Minnesota [Pass Blocking] 77
+OT Nick Grant 6-6 296 R LSU [Pass Blocking] 75
+OT Antuan Byrdsong 6-2 299 R Nebraska [Run Blocking] 69
+OT Lloyd Cruz 6-3 280 1 Houston [Pass Blocking] 67
+OT Kendall Shepherd 6-3 293 R UCLA [Pass Blocking] 66
+OT Don Acevedo 6-2 302 R Northwestern [Pass Blocking] 65
+OG Joe Kramer 6-5 290 R Texas Tech [Pass Blocking] 74
+OG Phillip Dickson 6-7 289 R Boise State [Run Blocking] 74
+OG Stacey Feeley 6-2 299 1 Arizona St. [Run Blocking] 60
+DT Carnell Meadows 6-5 273 R Nebraska [Pass Stop] 80
+DT Al Lindsey 6-1 296 1 WashingtonState [Pass Stop] 76
+DT Todd Lewis 6-8 320 2 Oregon [Run Stop] 64
+DT Kenan Brown 6-5 298 1 Texas [Pass Stop] 64
+DE Billy Stevenson 6-7 259 1 Utah [Run Stop] 78
+DE Stacey Wulfeck 6-5 240 1 Syracuse [Run Stop] 65
+DE Jefferson Caldwell 6-3 292 1 Baylor [Pass Stop] 64
+OLB Charlie Johnson 6-2 230 R South Carolina [Pass Zone] 78
+OLB Koren Slaughter 6-2 221 3 Clemson [Run Man-to-Man] 67
+OLB Garrison Jackson 6-1 226 1 Oklahoma St. [Pass Man-to-Man] 68
+ILB Dan Miller 6-1 229 1 Texas Tech [Pass Zone] 65
+ILB Jack Muhammad 6-2 248 2 Clemson [Pass Man-to-Man] 79
+CB Joel Prince 6-1 207 3 NCState [Zone Coverage] 86
+CB Cade Donovan 5-11 172 1 Washington State [Zone Coverage] 79
+CB John Rogers 6-1 197 1 Boston C. [Zone Coverage] 64
+CB Ben McCullum 5-10 200 1 South Carolina [Zone Coverage] 64
+FS John Gregory 5-10 167 R Cincinnati [Man Coverage] 65
+FS Robert Cash 6-1 196 1 BoiseState [Zone Coverage] 63
+SS Walter Valdez 5-11 178 R Boise State [Zone Coverage] 78
+SS Johnathan Salazar 5-11 179 R Mississippi State [Zone Coverage] 67
+K Michael Turner 5-10 187 2 Notre Dame [Power] 79
+P Dennis Carson 6-4 169 3 Michigan [Power] 69
+K Jermaine Gooch 6-3 173 1 Wake Forest [Power] 65

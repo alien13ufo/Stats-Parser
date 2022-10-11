@@ -1,0 +1,47 @@
+QB Aaron Kotar 6-6 225 2 OhioState [Scrambling] 84
+QB Dick Cook 6-2 205 R Florida State [Scrambling] 80
+QB Richard Brown 6-1 207 2 BYU [Pocket] 71
+RB Sterling Brown 6-0 174 1 Texas [Power] 87
+RB Robert Rodriguez 5-11 226 2 MississippiState [Speed] 80
+FB Harlon Collins 6-1 226 R LSU [Power] 78
+WR Mark Harrington 6-6 177 R Penn State [Speed] 81
+WR Cotton Lewis 6-1 182 R Auburn [Target] 81
+WR Aric Greene 6-0 214 2 Nebraska [Target] 77
+WR Lee Lowe 6-6 180 1 Utah [Speed] 74
+WR Frank Weiss 6-4 173 1 Boise State [Speed] 73
+WR Billy Williams 6-6 172 2 Texas [Speed] 70
+TE Joe Barrett 6-3 249 2 MississippiState [Pass Blocking] 84
+TE Jim Morgan 6-6 238 2 TexasTech [PassBlocking] 76
+OT John Smith 6-2 310 2 BostonCollege [Pass Blocking] 83
+OT Alan Holmes 6-7 301 1 Arizona [PassBlocking] 80
+OT Mark Barry 6-6 350 2 Florida [RunBlocking] 71
+OG Jerris Jordan 6-5 296 3 Georgia [Pass Blocking] 81
+OG James Redd 6-0 296 R Iowa [Run Blocking] 76
+OG Tony Jackson 6-1 295 1 Minnesota [PassBlocking] 72
+OG Ronald Collins 6-8 299 1 Minnesota [Run Blocking] 70
+C Arnold Smith 6-4 289 1 Texas [RunBlocking] 79
+C Qadry Davis 6-5 316 3 Clemson [Run Blocking] 66
+DE Curtis Lewis 6-8 283 1 Texas [PassStop] 88
+DE Keyshawn Vance 6-2 240 R Iowa [Pass Stop] 77
+DE Laurence Danielson 6-4 283 2 Wisconsin [PassStop] 75
+DT Joe Micho 6-7 300 3 NotreDame [RunStop] 82
+DT Brad Mungro 6-6 284 1 Minnesota [PassStop] 81
+DT Lance Baker 6-4 328 2 Colorado [PassStop] 73
+DT John Morgan 6-8 255 R Kansas [Pass Stop] 68
+ILB Dennis Smith 6-0 251 2 Northwestern [RunMan-to-Man] 80
+ILB Melvin Rolovich 6-2 236 3 Florida [PassZone] 75
+OLB Kenyatta Henderson 5-11 228 1 OleMiss [PassMan-to-Man] 88
+OLB Michael Clark 6-2 225 1 BYU [RunMan-to-Man] 75
+OLB Cliff Loyd 6-0 220 R Tennessee [Pass Man-to-Man] 73
+OLB Ben Lane 6-1 236 2 Northwestern [PassMan-to-Man] 70
+OLB Marc Sampson 5-11 231 2 Virginia [Pass Man-to-Man] 63
+CB George Brady 5-11 181 2 Nebraska [ManCoverage] 81
+CB Shawn Tennell 6-1 179 3 USC [ManCoverage] 79
+CB Allen Foster 6-1 172 R Missouri [Man Coverage] 75
+CB Charles Francis 6-2 186 3 Georgia [ZoneCoverage] 73
+FS Alex Collins 6-0 214 3 Auburn [Man Coverage] 87
+SS Walter Dorow 5-11 200 R Georgia [Man Coverage] 78
+SS Joe Galloway 6-0 185 R Cincinnati [Man Coverage] 68
+K Stanley Brewster 6-1 204 R Pittsburgh [Accuracy] 82
+K Cecil Jones 6-1 213 3 Georgia [Power] 75
+P Ken Toretta 6-3 204 2 WashingtonState [Accuracy] 79

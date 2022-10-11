@@ -1,0 +1,65 @@
+QB Norris Brooksheer 6-3 207 4 Oklahoma [Pocket] 89
+QB Mohammed Foster 6-0 194 R West Virginia [Scrambling] 82
+QB Harold Simmons 6-1 180 5 Notre Dame [Pocket] 80
+QB Grant McConnell 6-4 198 R Pittsburgh [Scrambling] 76
+RB Quincy Honeycutt 5-9 215 1 Samford [Power] 80
+RB Norris Horton 5-9 173 2 Ball State [Speed] 75
+RB Vernon Haggan 5-11 191 3 Utah [Speed] 78
+FB Michael Lamb 6-2 210 3 Texas [Pass Blocking] 76
+WR David Gaines 6-2 190 7 Syracuse [Target] 92
+WR Brandon Snead 6-1 205 6 Oregon [Target] 86
+WR Aaron Pagliei 6-3 185 4 Florida [Speed] 81
+WR Glenn Franckowiak 6-0 201 5 Nebraska [Target] 81
+WR Dwayne Maddox 6-2 180 R LSU [Speed] 76
+WR Peter Foster 6-1 174 4 Baylor [Speed] 74
+TE Donnie Allen 6-5 247 3 Notre Dame [Receiving] 89
+TE Paul Carter-Williams 6-6 237 4 TCU [Blocking] 78
+TE Obafemi Chamberlin 6-6 243 7 Iowa [Receiving] 75
+OT Fred Huber 6-5 285 3 Tennessee [Pass Blocking] 82
+OT Bob McMahon 6-7 297 4 Oklahoma [Run Blocking] 81
+OT Marcus Waterman 6-3 277 R Buffalo [Run Blocking] 80
+OT Joseph Rasmussen 6-6 285 4 Duke [Pass Blocking] 77
+OG Matthew Brewer 6-1 277 4 Texas [Run Blocking] 83
+OG Jim Thomas 6-5 265 3 LSU [Run Blocking] 77
+OG Ordell Green 6-1 274 4 NC State [Pass Blocking] 76
+OG Aden Rosas 6-2 339 R Virginia [Run Blocking] 75
+C Quinn Ledbetter 6-4 245 1 Illinois [Pass Blocking] 77
+C Eddie O'Hara 6-1 293 4 Virginia [Run Blocking] 73
+DE Jeff Holleyman 6-3 297 7 Notre Dame [Blitz] 83
+DE Andrew Fazande 6-4 265 6 Alabama [Contain] 91
+DE Eric Scott 6-4 300 6 Michigan State [Contain] 76
+DE William Thompson 6-0 253 2 Oregon State [Contain] 75
+DT David Medley 6-7 310 2 Colorado [2-Gap] 87
+DT Walter Scott 6-1 293 6 Ole Miss [2-Gap] 75
+DT George Sorenson 6-4 303 R Kentucky [2-Gap] 70
+ILB Kevin Harris 6-0 249 7 Iowa [Will] 90
+ILB Akeel Morris 6-5 234 1 Nevada [Mike] 85
+ILB David Mosley 6-0 236 3 Kentucky [Will] 77
+ILB Jay Cash 6-0 242 3 UCLA [Mike] 71
+OLB Morris Millen 6-0 246 6 UCLA [Blitz] 91
+OLB Trevor Reed 5-11 223 4 Alabama [Coverage] 83
+OLB Geno Bohannon 6-4 230 2 TCU [Coverage] 73
+CB Ivory Hull 6-2 173 3 Texas [Zone Coverage] 89
+CB Samuel Shaw 6-0 180 1 Nebraska [Zone Coverage] 78
+CB Jabari Branch 6-1 197 2 Georgia [Zone Coverage] 77
+CB Andrew Faulkner 6-0 176 4 Cincinnati [Zone Coverage] 73
+CB Ken Whiting 6-2 181 3 Connecticut [Zone Coverage] 72
+FS Alyn Namath 6-1 172 7 Georgia [Man Coverage] 83
+FS Jamal Barnes 5-11 222 R Missouri [Man Coverage] 77
+SS Jeremiah Joseph 5-11 204 1 New Mexico [Zone Coverage] 79
+SS Jared Calloway 6-1 196 2 Duke [Zone Coverage] 79
+K Daniel Olson 5-10 188 2 Cincinnati [Accuracy] 77
+K Will Ladd 6-1 155 R Texas [Accuracy] 76
+P Zachary Murphy 6-2 185 1 Utah State [Power] 81
+RB Rodrigo Rogers 5-11 204 1 Pittsburgh [Speed] 69
+WR Todd Sykes 6-1 182 3 West Virginia [Target] 72
+WR Darius Goode 6-5 232 1 Nevada [Target] 71
+OT Larry Crawford 6-6 320 2 Syracuse [Pass Blocking] 74
+OT Jonathan Silva 6-3 278 2 Hawaii [Pass Blocking] 72
+OG Damon Milloy 6-5 265 3 Georgia [Pass Blocking] 72
+OLB James Satterfield 6-2 251 R Alabama [Blitz] 68
+CB Robert Mann 6-0 172 1 Boston College [Zone Coverage] 70
+FS Mekhi Cringle 6-0 218 R West Virginia [Man Coverage] 71
+SS Jimmy Parr 6-2 207 2 Houston [Man Coverage] 74
+OT Wayne Gelbaugh 6-6 299 6 Oklahoma [Pass Blocking] 87
+OLB Calvin Harrell 6-0 224 2 Mississippi State [Coverage] 75

@@ -1,0 +1,53 @@
+QB Matty Swift 5-11 198 4 Texas A&M [Pocket] [0] 87 ?
+QB Elijah McManus 5-10 196 R Kentucky [Pocket] [+2/C] 80?
+RB Frederick Chacon 6-0 172 5 Air Force [Power] [+1] 78
+RB Mamadou Heard 5-9 211 4 Maryland [Power] [-1] 78
+RB Brannon Austin 5-10 195 2 FIU [Power] [0] 77
+FB John Bills 5-11 210 5 Boise State [Run Blocking] [0] 83
+WR Greg Cobb 6-3 188 6 Cincinnati [Target] [0] 89
+WR M.L. Kriewaldt 5-8 170 8 Louisville [Speed] [+2/C] 87?
+WR Jarvis Ward 5-9 189 1 Texas A&M [Speed] [0] 83
+WR William Moore 6-1 173 3 Boston College [Speed] [0] 77
+WR Mark Harrington 6-6 177 6 Penn State [Speed] [0] 77
+WR Reggie Sayers 5-11 205 5 Washington [Speed] [+2] 72
+TE Damian Mason 6-7 225 2 Butler [Receiving] [-1] 83
+TE Nate Linsley 6-1 218 R Toledo [Blocking] [0] 82
+TE Justin Burris 6-4 205 2 Missouri [Blocking] [0] 76
+OT Mario Hill 6-7 290 5 Mississippi State [Pass Blocking] [0] 89?
+OT Bryan Green 6-3 312 7 Virginia Tech [Run Blocking] [0] 83
+OT Anthony Krause 6-4 329 1 Tennessee [Run Blocking] [0] 81
+OT Benjamin Driver 6-5 266 R Oklahoma State [Pass Blocking] [+1] 77
+OG Noah Barney 6-1 336 1 Ohio State [Pass Blocking] [0] 87
+OT/OG Justin Way 6-2 294 2 Marshall [Pass Blocking] [0] 79
+OG Robert Grant 6-3 291 3 Kentucky [Run Blocking] [-1] 79
+OG Ousmane Nixon 6-2 307 2 TCU [Pass Blocking] [0] 77
+C Martin Terry 6-2 294 4 Nebraska [Run Blocking] [+1/C] 85 ?
+C Mendy Morrow 6-4 254 2 Arizona [Run Blocking] [0] 79?
+C Leonard Duckworth 6-2 295 R Navy [Pass Blocking] [+1] 77?
+DE Isaiah Hall 6-2 246 3 Bowling Green [Contain] [-2] 85
+DE Tyrone Rivers 6-4 258 R LSU [Contain] [-3] 81
+DE Russell Dixon 6-7 259 4 Georgia [Contain] [0] 78
+DE Noah Urlacher 6-6 259 R Kansas [Contain] [0] 76
+DT Andrew Pearson 6-3 321 4 Boise State [2-Gap] [-1] 84
+DT Zion Hopkins 6-6 299 3 Michigan [2-Gap] [-1] 83
+DT Anthony Whipple 6-0 324 4 Wisconsin [2-Gap] [0] 79
+ILB Tunch Richardson 5-11 217 6 Alabama [Mike] [+3/C] 93
+ILB Bradley Rainey 5-11 223 R Penn State [Will] [0/C] 83
+ILB Kareem Boykin 6-3 225 2 Western Michigan [Will] [+1] 79
+ILB Tanner Madison 6-4 242 R Georgia Tech [Mike] [0] 74
+OLB Shane Easley 6-4 236 2 Penn State [Blitz] [+1] 89
+OLB Jason Bryant 6-2 227 9 Washington State [Blitz] [0] 77
+OLB John Kearns 5-11 229 2 TCU [Blitz] [-1] 82
+OLB Salvatore McKinney 6-1 249 2 Temple [Blitz] [0] 76
+CB Kenyon Justice 6-1 177 1 Auburn [Zone Coverage] [-1] 83
+CB Prince Williams 6-1 183 3 Air Force [Zone Coverage] [0] 82
+CB Kevin Potts 6-1 183 6 LSU [Zone Coverage] [0] 80?
+CB Austin Sheppard 6-1 188 2 Penn State [Zone Coverage] [0] 78
+CB Demetrius Patterson 6-1 225 4 Texas [Zone Coverage] [0] 76
+FS Khalil Dennis 6-2 219 1 Vanderbilt [Zone Coverage] [0] 82
+FS Mark Oliver 6-1 180 R Northwestern [Zone Coverage] [0] 73
+SS Robert Shipp 5-11 204 4 Ole Miss [Zone Coverage] [0] 80
+SS Christopher Malone 6-1 178 2 TCU [Zone Coverage] [0] 82
+SS Zachary Trotter 5-10 174 2 Illinois [Zone Coverage] [0] 78?
+K Rafael Davidson 5-11 182 5 Nebraska [Accuracy] [0] 90
+P Nick Baldwin 6-0 184 2 UAB [Power] [0] 81

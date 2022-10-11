@@ -1,0 +1,55 @@
+ Los Angeles Rams (1-1) at Carolina Panthers (1-1)
+
+Charlotte, NC - 82 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:rams: Los Angeles Rams (1-1) 	14 	3 	6 	3 	- 	26
+:panthers: Carolina Panthers (1-1) 	10 	7 	7 	7 	- 	31
+Team Stats Comparison
+  	:rams: Los Angeles Rams 	:panthers: Carolina Panthers
+Injuries 	Nijrell Smith, OT - Severe Back Disc Tear 	Jermaine Bishop, WR - Moderate Concussion
+Offensive Line Rating 	7.8 	8.1
+Sacks 	3 	1
+Punting 	45.6 	44.0
+Punt Return Yards 	14 	-2
+Kick Return Yards 	45 	61
+Turnovers 	1 	1
+3rd Down Conversion 	5/13 	6/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/69 	7/68
+:rams: Los Angeles Rams
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	21/35 	290 	2 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Frederick Chacon 	15 	70 	1 	16 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin O'Neal 	6 	100 	1 	0 	0/0
+Allama Banta 	4 	84 	1 	1 	0/0
+Walt Peck 	4 	56 	0 	1 	0/0
+Andrew Williamson 	3 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Quinn Cooper 	3/0 	- 	1/0 	0/0 	0/0
+Michael Bruce 	3/1 	1.0 	0/0 	0/0 	0/0
+Anthony Beltran 	2/0 	1.0 	0/0 	0/0 	0/0
+Leigh Davey 	5/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Hunter Hendrickson 	2/3 	2/3 	41, 42 - 50
+	
+:panthers: Carolina Panthers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	23/39 	299 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	12 	60 	1 	16 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Curtis Henry 	9 	102 	2 	0 	0/0
+Chip Johnson 	4 	82 	1 	0 	0/0
+Billy Rodgers 	3 	51 	0 	0 	0/0
+Troy Wilson 	2 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Demarius Strong 	3/0 	1.0 	0/0 	0/0 	0/0
+Kendrick Droughns 	2/0 	- 	0/0 	1/0 	0/0
+Trent Haynes 	4/0 	- 	0/0 	0/1 	0/0
+Darren Manning 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	1/1 	4/4 	47 

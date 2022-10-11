@@ -1,0 +1,53 @@
+QB Erasmus McCready 6-2 225 1 Alabama [Pocket] 84
+QB Robert Aikman 5-11 177 3 Tennessee [Pocket] 80
+QB Joaquin Younger 6-5 215 R Oregon [Scrambling] 78
+RB Chad Dess 6-1 241 3 Virginia [Power] 92
+RB Russ Martin 6-0 215 3 Oklahoma [Power] 79
+RB J.J. Hammond 5-11 229 4 Oklahoma [Power] 72
+RB Christopher Rodriguez 5-11 191 1 Ball State [Power] 69
+FB Michael Banks 6-2 247 4 Michigan [Power] 71
+WR Ryan Mitchell 5-11 176 3 Ohio State [Speed] 87
+WR Glenn Franckowiak 6-0 201 2 Nebraska [Target] 83
+WR Wesly Anderson 6-0 196 3 Texas Tech [Speed] 78
+WR Jamie Keeton 6-5 191 4 Iowa State [Speed] 71
+WR Juan Armstead 5-9 191 2 Rutgers [Target] 67
+TE Paul Johnson 6-2 257 4 Florida [Run Blocking] 79
+TE Pat O'Connell 6-0 247 R Texas [Run Blocking] 73
+TE John Perez 6-4 217 1 Iowa State [Run Blocking] 66
+OT Robert Barraza 6-6 347 3 ECU [RunBlocking] 84
+OT Joseph Rasmussen 6-6 285 1 Duke [Pass Blocking] 78
+OT Wesley Delarosa 6-4 294 R Rice [Run Blocking] 73
+OT Doug Saul 6-8 320 2 North Carolina [Pass Blocking] 64
+OG Sammy Baxter 6-4 283 4 USC [Run Blocking] 80
+OG Jim Hutchinson 6-1 302 1 UCLA [Pass Blocking] 77
+OG Joe Hutchinson 6-8 257 R Texas [Run Blocking] 68
+OG Ronald Collins 6-8 299 2 Minnesota [Run Blocking] 67
+C Bill Bullard 6-3 266 R Buffalo [Run Blocking] 74
+C Wally Bowers 6-5 296 1 Washington [Run Blocking] 68
+DE Anthony Ortiz 6-7 262 1 Oklahoma State [Run Stop] 87
+DE Richard Coleman 6-4 257 R Arizona [Run Stop] 68
+DE Stephen Jones 6-8 271 2 Pittsburgh [Run Stop] 64
+DT Kendall Hill 6-6 312 3 California [Run Stop] 86
+DT Charles Polk 6-5 298 3 Clemson [RunStop] 65
+DT Antony Lowry 6-3 325 2 Maryland [Pass Stop] 63
+OLB Brian Hernandez 6-3 217 R Maryland [Run Zone] 80
+OLB David Kuppe 5-11 214 2 Missouri [Pass Man-to-Man] 76
+OLB Jay McDonald 6-0 214 1 Northwestern [Pass Man-to-Man] 66
+OLB William Paulson 5-10 221 2 Baylor [Run Zone] 61
+ILB Mike Bledsoe 6-1 231 3 Virginia Tech [Run Man-to-Man] 82
+ILB Hunter Taylor 6-2 231 1 Washington [Run Man-to-Man] 74
+ILB James Hastings 6-2 246 2 Florida [PassMan-to-Man] 70
+ILB John Boerigter 6-0 241 4 UCLA [Pass Man-to-Man] 69
+ILB James Swartz 6-2 229 2 Maryland [Pass Man-to-Man] 62
+CB Archie Velasquez 5-9 186 2 Georgia [Man Coverage] 80
+CB Moe McMillan 5-10 183 2 VirginiaTech [ManCoverage] 80
+CB Dale Denney 6-1 193 2 Minnesota [Man Coverage] 70
+CB Troy Blankenship 5-10 193 3 WashingtonState [ManCoverage] 66
+FS Chris Bengtson 6-1 193 2 DaytonaBeachCC [ManCoverage] 79
+FS Tom Rambo 5-10 184 R Ohio State [Man Coverage] 71
+SS Keyshawn Ayanbadejo 6-1 217 4 Florida State [ManCoverage] 86
+SS John Smith 5-11 203 R Baylor [Man Coverage] 73
+SS Matt Golic 6-0 189 2 Pittsburgh [Man Coverage] 64
+K Dana Currier 5-9 208 R Marshall [Power] 78
+K Vincenzo Aiola 6-1 175 2 TCU [Power] 72
+P Dwayne Brightful 5-9 183 2 Georgia Tech [Accuracy] 75

@@ -1,0 +1,55 @@
+ Arizona Cardinals (1-0) at Detroit Lions (0-1)
+
+Detroit, MI - 74 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (1-0) 	7 	7 	3 	0 	6 	23
+:fibur: Detroit Lions (0-1) 	0 	7 	3 	7 	0 	17
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:fibur: Detroit Lions
+Injuries 	Asante Willis, OLB - Severe Elbow Sprain 	Rob LeCount, QB - Moderate Wrist Fracture
+Offensive Line Rating 	8.1 	8.4
+Sacks 	2 	1
+Punting 	47.6 	42.1
+Punt Return Yards 	28 	-1
+Kick Return Yards 	45 	25
+Turnovers 	0 	1
+3rd Down Conversion 	4/13 	5/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/56 	7/72
+:cardinals: Arizona Cardinals
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	15/21 	206 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Fred Tindale 	24 	104 	2 	27T 	0/0
+Marshawn Matthison 	6 	20 	0 	10 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Banks 	6 	70 	1 	0 	0/0
+Noah Hills 	2 	56 	0 	1 	0/0
+Eli Austin 	3 	31 	0 	0 	0/0
+Ricky Chambers 	1 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Eugene Malone 	3/0 	- 	1/0 	0/0 	0/0
+Jeffrey King 	4/0 	1.0 	0/0 	0/0 	0/0
+Josiah Harden 	3/0 	1.0 	0/0 	0/0 	0/0
+Tom Reis 	7/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	1/1 	2/2 	46
+	
+:fibur: Detroit Lions
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Elijah Moffett 	14/26 	140 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	17 	63 	1 	14T 	0/0
+Calvin Jones 	7 	27 	0 	22 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rex Walsh 	4 	72 	0 	0 	0/0
+Jeremy Cook 	5 	35 	0 	1 	0/0
+James Otero 	2 	14 	1 	0 	0/0
+Anthony Fasani 	1 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Earl Jackson 	2/0 	1.0 	0/0 	0/0 	0/0
+Cameron Jones 	6/0 	- 	0/0 	0/0 	0/0
+Johnny Boston 	4/1 	- 	0/0 	0/0 	0/0
+Andre Brooks 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	1/2 	2/2 	36 - 46 

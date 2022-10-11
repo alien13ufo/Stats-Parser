@@ -1,0 +1,66 @@
+ Denver Broncos (7-5) at Los Angeles Chargers (1-11)
+
+Inglewood, CA - 66 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (7-5) 	10 	3 	3 	7 	- 	23
+:chargers: Los Angeles Chargers (1-11) 	7 	3 	3 	0 	- 	13
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:chargers: Los Angeles Chargers
+Injuries 	
+
+Doug Bosley, TE - Severe Toe Sprain
+
+Reggie Griffin, CB - Mild Concussion
+	
+
+Robert Grant, OG - Severe Foot Dislocation
+
+ 
+Offensive Line Rating 	8.3 	7.4
+Sacks 	3 	0
+Punting 	43.3 	40.1
+Punt Return Yards 	36 	11
+Kick Return Yards 	0 	24
+Turnovers 	1 	1
+3rd Down Conversion 	6/13 	4/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/25 	6/54
+:broncos: Denver Broncos
+Pro Style - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Jennings 	18/27 	240 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	18 	81 	1 	16 	0/0
+Emmett Spears 	8 	31 	0 	8 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darrell Mack 	4 	56 	1 	0 	0/0
+Ken Peelle 	3 	54 	0 	0 	0/0
+Artemio Ramirez 	3 	45 	0 	0 	0/0
+William Doherty 	3 	44 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Jonah 	4/0 	- 	1/0 	0/0 	0/0
+Joe Palmer 	5/0 	1.0 	0/0 	0/0 	0/0
+Charles Johnson 	4/0 	1.0 	0/0 	0/0 	0/0
+Emanuel Serrano 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	3/3 	2/2 	44, 28, 36
+	
+:chargers: Los Angeles Chargers
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	17/30 	188 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	17 	49 	0 	12 	0/0
+Mamadou Heard 	3 	9 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tommy Pottios 	6 	56 	1 	1 	0/0
+Gerald Morrison 	3 	45 	0 	0 	0/0
+M.L. Kriewaldt 	2 	33 	0 	0 	0/0
+Will London 	3 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jason Bryant 	6/1 	- 	0/0 	0/0 	0/0
+Keith Farr 	5/0 	- 	0/0 	0/0 	0/0
+Robert Shipp 	4/0 	- 	0/1 	0/0 	0/0
+Andrew Pearson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	2/3 	1/1 	40, 28 - 46 

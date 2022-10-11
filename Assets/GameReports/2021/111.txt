@@ -1,0 +1,57 @@
+ Atlanta Falcons (3-3) at New Orleans Saints (4-3)
+
+New Orleans, LA - 77 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:falcons: Atlanta Falcons (3-3) 	0 	7 	7 	3 	- 	17
+:saints: New Orleans Saints (4-3) 	13 	14 	0 	0 	- 	27
+Team Stats Comparison
+  	:falcons: Atlanta Falcons 	:saints: New Orleans Saints
+Injuries 	Robert Lacy, OLB - Severe Groin Strain 	Cotton Lewis, WR - Moderate Quadriceps Strain
+Offensive Line Rating 	8.2 	8.3
+Sacks 	2 	1
+Punting 	43.2 	46.3
+Punt Return Yards 	9 	30
+Kick Return Yards 	22 	19
+Turnovers 	0 	0
+3rd Down Conversion 	4/13 	5/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/75 	4/43
+:falcons: Atlanta Falcons
+Wing T - Wishbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	14/19 	130 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	19 	78 	1 	38T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Bo Woodall 	4 	56 	0 	0 	0/0
+Riddick Smith 	3 	40 	1 	0 	0/0
+Joseph Thurston 	2 	12 	0 	1 	0/0
+Jason Erwin 	2 	9 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Eric Jennings 	4/1 	1.0 	0/0 	0/0 	0/0
+Early Davis 	2/0 	1.0 	0/0 	0/0 	0/0
+Darius Jones 	7/0 	- 	0/1 	0/0 	0/0
+Marcus Grant 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	1/2 	2/2 	50 - 56
+	
+:saints: New Orleans Saints
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Devereaux 	24/35 	290 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sterling Brown 	16 	69 	1 	19 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sean Jenkins 	9 	107 	1 	0 	0/0
+Will Holly 	6 	88 	1 	0 	0/0
+Jammal Brown-Sanderson 	3 	54 	0 	0 	0/0
+Sterling Brown 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeremy Miller 	4/0 	1.0 	0/0 	0/0 	0/0
+Garrett Holliday 	7/0 	- 	0/0 	0/0 	0/0
+Ray Flores 	5/1 	- 	0/0 	0/0 	0/0
+Austin Olson 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jack Kershner 	2/2 	3/3 	44, 28 

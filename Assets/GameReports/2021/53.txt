@@ -1,0 +1,61 @@
+ Jacksonville Jaguars (1-2) at Atlanta Falcons (2-1)
+
+Atlanta, FL - 84 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jaguars: Jacksonville Jaguars (1-2) 	7 	10 	0 	14 	- 	31
+:falcons: Atlanta Falcons (2-1) 	7 	7 	14 	0 	- 	28
+Team Stats Comparison
+  	:jaguars: Jacksonville Jaguars 	:falcons: Atlanta Falcons
+Injuries 	Kevin Johnson, FS - Moderate Calf Pull 	No Injuries
+Offensive Line Rating 	8.4 	8.2
+Sacks 	3 	1
+Punting 	46.7 	42.1
+Punt Return Yards 	21 	92 (1)
+Kick Return Yards 	0 	22
+Turnovers 	0 	0
+3rd Down Conversion 	0/0 	0/0
+4th Down Conversion 	0/0 	1/1
+Penalties 	7/62 	3/33
+
+:jaguars: Jacksonville Jaguars
+
+(Spread - Option)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Barkley 	19/28 	275 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	23 	117 	1 	27 	0/0
+Owen Walton 	2 	9 	0 	10 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Derek Harrison 	7 	100 	0 	0 	1/0
+Gary Faneca 	3 	82 	0 	0 	0/0
+Raheem Robinson 	4 	60 	2 	0 	0/0
+Tyrone Turner 	3 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ron Rice 	4/1 	2.0 	0/0 	0/0 	0/0
+Ronald Barker 	5/0 	1.0 	0/0 	0/0 	0/0
+Christian Haywood 	5/0 	- 	0/0 	0/0 	0/0
+Larry Reeves 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	1/1 	4/4 	39
+	
+
+:falcons: Atlanta Falcons
+
+(Option - Spread)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	15/31 	201 	2 	0 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	21 	88 	1 	31T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason Erwin 	5 	84 	1 	0 	0/0
+Riddick Smith 	4 	56 	1 	0 	0/0
+Tyrus Wilson 	1 	23 	0 	0 	0/0
+Joseph Thurston 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Early Davis 	3/0 	1.0 	0/0 	0/0 	0/0
+Rufus Horn 	6/0 	- 	0/0 	1/0 	0/0
+Darius Jones 	5/1 	- 	0/0 	0/0 	0/0
+Robert Lacy 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	0/1 	4/4 	- 55 

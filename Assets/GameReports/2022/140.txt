@@ -1,0 +1,67 @@
+ San Francisco 49ers (1-8) at Carolina Panthers (6-3) ?
+
+Charlotte, NC - 58 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (1-8) 	0 	3 	0 	0 	- 	3
+:panthers: Carolina Panthers (6-3) 	7 	3 	10 	7 	- 	27
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:panthers: Carolina Panthers
+Injuries 	WR Daniel Marshall - Mild Concussion 	No Injuries
+Top Player Grade 	OLB Brandon Thomas (8.55) 	TE Curtis Henry (9.00)
+Worst Player Grade 	OG P.K. Fletcher (2.70) 	OG Pat Dorenbos (2.46)
+Offensive Line Rating 	8.17 	8.28
+Sacks 	0 	3
+Punting 	43.4 	46.1
+Punt Return Yards 	4 	24
+Kick Return Yards 	84 	27
+Turnovers 	2 	0
+3rd Down Conversion 	1/9 	5/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/60 	5/32
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Orly Vaccaro 	10/22 	109 	0 	1 	1/1
+Philip Rea 	1/1 	4 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	7 	20 	0 	7 	0/0
+Orly Vaccaro 	1 	7 	0 	7 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP ? 	F/L
+Jarius Shaw-Dodd 	4 	41 	0 	1 	0/0
+Miles Collins 	2 	30 	0 	1 	0/0
+Daniel Marshall 	1 	16 	0 	0 	0/0
+Joshua Freeman 	1 	12 	0 	0 	0/0
+Tom Branch 	1 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brandon Thomas 	10/0 	- 	0/0 	0/0 	0/0
+Prince McGill 	7/0 	- 	0/0 	0/0 	0/0
+Timothy Greer 	5/0 	- 	0/0 	0/0 	0/0
+Daleroy Smart 	3/0 	- 	0/0 	0/0 	0/0
+Ernie Crawford 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	1/1 	0/0 	33
+	
+:panthers: Carolina Panthers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	25/42 	280 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	20 	109 	1 	22 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Curtis Henry 	9 	109 	1 	0 	0/0
+Monte Jackson 	6 	64 	1 	0 	0/0
+Troy Wilson 	3 	45 	0 	1 	0/0
+Jermaine Bishop 	2 	43 	0 	0 	0/0
+Chip Johnson 	2 	26 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD ? 	FF/FR 	TD/SFTY
+Morris Millen 	5/2 	1.0 	0/0 	1/0 	0/0
+Kendrick Droughns 	4/1 	1.0 	0/0 	0/0 	0/0
+Jeff Brooks 	3/0 	1.0 	0/0 	0/0 	0/0
+Nate Tensi 	2/0 	- 	1/1 	0/0 	0/0
+Chris Tucker 	4/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	2/2 	3/3 	30, 26 ?

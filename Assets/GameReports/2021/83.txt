@@ -1,0 +1,57 @@
+ Atlanta Falcons (3-2) at Carolina Panthers (2-3)
+
+Charlotte, NC - 60 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:falcons: Atlanta Falcons (3-2) 	14 	3 	7 	0 	- 	24
+:panthers: Carolina Panthers (2-3) 	7 	0 	14 	7 	- 	28
+Team Stats Comparison
+  	:falcons: Atlanta Falcons 	:panthers: Carolina Panthers
+Injuries 	Jason Erwin, TE - Mild Concussion 	Demarius Strong, DE - Moderate Rotator Cuff Shoulder
+Offensive Line Rating 	8.3 	7.7
+Sacks 	4 	1
+Punting 	43.2 	44.3
+Punt Return Yards 	17 	2
+Kick Return Yards 	22 	27
+Turnovers 	2 	0
+3rd Down Conversion 	5/12 	6/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/43 	7/84
+:falcons: Atlanta Falcons
+Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	14/27 	180 	1 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	22 	116 	2 	37T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason Erwin 	5 	56 	0 	0 	0/0
+Bo Woodall 	2 	51 	1 	0 	0/0
+Riddick Smith 	3 	33 	0 	1 	0/0
+Joseph Thurston 	1 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Early Davis 	4/0 	2.0 	0/0 	0/0 	0/0
+Eric Jennings 	2/0 	1.5 	0/0 	0/0 	0/0
+Robert Lacy 	5/0 	0.5 	0/0 	0/0 	0/0
+Mario Ruff 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	1/2 	3/3 	40 - 54
+	
+:panthers: Carolina Panthers
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	25/42 	350 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	11 	36 	1 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Monte Jackson 	8 	125 	1 	0 	0/0
+Curtis Henry 	5 	108 	1 	1 	0/0
+Quentin McCullough 	3 	65 	1 	0 	0/0
+Billy Rodgers 	3 	38 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darren Manning 	7/0 	- 	1/1 	0/0 	0/0
+Kendrick Droughns 	4/1 	1.0 	0/0 	1/0 	0/0
+Joseph Bynum 	2/0 	- 	0/0 	0/1 	0/0
+Trent Haynes 	6/1 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	0/0 	4/4 	- 

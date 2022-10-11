@@ -1,0 +1,67 @@
+ Kansas City Chiefs (6-5) at Cleveland Browns (5-6) ?
+
+Cleveland, OH - 42 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chiefs: Kansas City Chiefs (6-5) 	0 	0 	14 	0 	- 	14
+:browns: Cleveland Browns (5-6) 	3 	7 	7 	6 	- 	23
+Team Stats Comparison
+  	:chiefs: Kansas City Chiefs 	:browns: Cleveland Browns
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	DE Jeffrey Chung (6.05) 	WR Tai Miller (7.85)
+Worst Player Grade 	DT Bud Howard (2.50) 	FS Martin Hernandez (3.09)
+Offensive Line Rating 	8.00 	8.25
+Sacks 	0 	3
+Punting 	42.2 	45.6
+Punt Return Yards 	4 	16
+Kick Return Yards 	89 	37
+Turnovers 	1 	0
+3rd Down Conversion 	3/13 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/48 	5/31
+:chiefs: Kansas City Chiefs
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Harris 	18/32 	160 	1 	1 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	14 	50 	1 	8 	0/0
+Justin Buchanan 	3 	10 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0 ?
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Benjamin Franklin 	5 	50 	0 	1 	0/0
+Spec Davidson 	3 	32 	1 	0 	0/0
+Kevin Branch 	4 	28 	0 	0 	0/0
+Justin Hill 	2 	20 	0 	1 	0/0
+Hines Mertens 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeffrey Chung 	3/2 	- 	0/0 	0/0 	0/0
+Dewey Tomlinson 	6/1 	- 	0/0 	0/0 	0/0
+Bud Howard 	4/0 	- 	0/0 	0/0 	0/0
+Devin Stephens 	4/0 	- 	0/0 	0/0 	0/0
+Sean Springs 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	0/1 	2/2 	- 46
+	
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	17/29 	240 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Grady Mitchell 	13 	50 	0 	7 	0/0
+Nathan Wilson 	12 	45 	0 	9 	0/0
+Ryan Clark 	4 	14 	1 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tai Miller 	5 	102 	0 	0 	0/0
+Ray Lee Marconi 	5 	64 	1 	0 	0/0
+Morgan Patton 	2 	32 	0 	0 	0/0
+Jason McClairen 	2 	22 	0 	1 	0/0
+Kevin McMullen 	1 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Antonio Oliver 	4/0 ? 	- 	1/0 	0/0 	0/0
+Ray McBride 	3/1 	1.5 	0/0 	0/0 	0/0
+Je'Rod Wimbush 	3/0 	1.0 	0/0 	1/0 	0/0
+Gabriel Beauchamp 	2/0 	0.5 	0/0 	0/0 	0/0
+C.J. Thomas 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	3/3 	2/2 	50, 23, 26 ?

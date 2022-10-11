@@ -1,0 +1,57 @@
+ Dallas Cowboys (7-4) at Carolina Panthers (7-4)
+
+Charlotte, NC - 48 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cowboys: Dallas Cowboys (7-4) 	7 	3 	14 	7 	- 	31
+:panthers: Carolina Panthers (7-4) 	7 	7 	3 	3 	- 	20
+Team Stats Comparison
+  	:cowboys: Dallas Cowboys 	:panthers: Carolina Panthers
+Injuries 	Francisco Gibson - Moderate Concussion 	Carlton Sylvester, FS - Severe Elbow Sprain
+Offensive Line Rating 	8.8 	8.3
+Sacks 	2 	0
+Punting 	45.6 	41.2
+Punt Return Yards 	26 	-3
+Kick Return Yards 	0 	24
+Turnovers 	0 	1
+3rd Down Conversion 	4/12 	3/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/45 	4/30
+:cowboys: Dallas Cowboys
+Wing T 2RB - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	13/20 	157 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	18 	82 	1 	21 	0/0
+Adrian Robinson 	10 	40 	1 	13 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kurt Hill 	4 	51 	0 	0 	0/0
+Benjamin Franklin 	2 	34 	1 	0 	0/0
+Francisco Gibson 	3 	31 	0 	0 	0/0
+Alex Gash 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Travis Chatman 	1/0 	- 	1/0 	0/0 	1/0
+Joseph Randolph 	3/2 	1.0 	0/0 	0/0 	0/0
+Adam Taylor 	6/0 	0.5 	0/0 	0/0 	0/0
+Javier Grady 	2/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	1/1 	4/4 	49
+	
+:panthers: Carolina Panthers
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	22/36 	231 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	16 	72 	1 	22 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Monte Jackson 	8 	97 	1 	1 	0/0
+Curtis Henry 	4 	56 	0 	0 	0/0
+Billy Rodgers 	3 	32 	0 	1 	0/0
+Troy Wilson 	3 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeff Brooks 	7/0 	- 	0/1 	0/0 	0/0
+Darren Manning 	4/0 	- 	0/1 	0/0 	0/0
+Mike Wohlabaugh 	4/1 	- 	0/0 	0/0 	0/0
+Jared Clay 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	2/2 	2/2 	30, 28 

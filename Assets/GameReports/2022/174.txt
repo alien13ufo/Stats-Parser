@@ -1,0 +1,67 @@
+ San Francisco 49ers (1-9) at Seattle Seahawks (5-5) ?
+
+Seattle, WA - 47 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (1-9) 	14 	7 	7 	3 	- 	31
+:seahawks: Seattle Seahawks (5-5) 	10 	7 	3 	14 	- 	34
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:seahawks: Seattle Seahawks
+Injuries 	No Injuries 	WR Tyler White - Moderate PCL Tendonitis
+Top Player Grade 	QB Todd Lester (9.04) 	RB Marcus Williams (9.36)
+Worst Player Grade 	DE Dennis Niland (2.60) 	CB Duke Burchfield (2.80)
+Offensive Line Rating 	8.31 	8.39
+Sacks 	1 	1
+Punting 	42.7 	44.9
+Punt Return Yards 	4 	2
+Kick Return Yards 	84 	56
+Turnovers 	1 	0
+3rd Down Conversion 	6/12 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/36 	5/40
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	21/29 	289 	3 	0 	0/0
+- 	-/- 	- 	- 	- ? 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	21 	125 	1 	41T 	0/0
+Todd Lester 	5 	27 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jarius Shaw-Dodd 	7 	102 	1 	0 	0/0
+Miles Collins 	2 	64 	1 	1 	0/0
+Daniel Marshall 	3 	41 	1 	0 	0/0
+Troy McCray 	4 	30 	0 	0 	0/0
+Tom Branch 	2 	26 	0 	0 	1/1
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Chris Reed 	5/1 	1.0 	0/0 	0/0 	0/0
+Brandon Thomas 	4/2 	- 	0/0 	0/0 	0/0
+Tavian Oliphant 	5/0 	- 	0/0 	0/0 	0/0
+Prince McGill 	5/0 	- 	0/0 	0/0 	0/0
+Ernie Crawford 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	1/2 	4/4 	31 - 55
+	
+:seahawks: Seattle Seahawks
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	21/32 	250 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	22 	166 	2 	53T 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Josiah McCray 	7 	107 	0 	0 	0/0
+Curtis Settles ? 	3 	50 	0 	0 	0/0
+Tony Huff 	2 	43 	0 	1 	0/0
+William Johnson 	3 	25 	1 	0 	0/0
+Marcus Williams 	2 	18 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brian Glenn 	3/1 	1.0 	0/0 	0/0 	0/0
+Zion Adakwa 	6/0 	- 	0/0 	0/0 	0/0
+Kristian Little 	5/0 	- 	0/0 	0/0 	0/0
+Malcolm Douglas-Scott 	3/0 	- 	0/0 	0/0 	0/0
+Gabriel Hightower 	3/0 	- 	0/0 	1/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	2/2 	4/4 	40, 25 ?

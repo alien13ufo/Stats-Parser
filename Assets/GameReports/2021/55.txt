@@ -1,0 +1,70 @@
+ Arizona Cardinals (2-1) at Minnesota Vikings (0-3)
+
+Minneapolis, MN - 63 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (2-1) 	6 	7 	0 	3 	- 	16
+:vikings: Minnesota Vikings (0-3) 	14 	7 	7 	7 	- 	35
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:vikings: Minnesota Vikings
+Injuries 	
+
+Ricky Chambers, WR - Moderate Ankle Sprain
+
+ 
+	
+
+Joe Smith, OG - Moderate Hamstring Bruise
+
+Jared Lee, DT - Mild Foot Dislocation
+Offensive Line Rating 	8.2 	8.4
+Sacks 	2 	0
+Punting 	48.2 	42.5
+Punt Return Yards 	17 	0
+Kick Return Yards 	0 	0
+Turnovers 	1 	0
+3rd Down Conversion 	3/15 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/25 	7/68
+
+:cardinals: Arizona Cardinals
+
+(Option - Wing T)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	12/18 	166 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Fred Tindale 	22 	84 	0 	32 	0/0
+Michael Duckworth 	3 	9 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Butch Harper 	4 	92 	1 	0 	0/0
+Noah Hills 	3 	31 	0 	0 	0/0
+Marcus Banks 	2 	15 	0 	1 	0/0
+Ricky Chambers 	1 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeffrey King 	3/1 	1.0 	0/0 	0/0 	0/0
+Josiah Harden 	2/0 	1.0 	0/0 	0/0 	0/0
+Mark Hills 	6/0 	- 	0/0 	0/0 	0/0
+Charley Rivers 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	3/3 	1/1 	20, 45, 43
+	
+
+:vikings: Minnesota Vikings
+
+(Pro Style - Spread)
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	23/36 	321 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	19 	93 	2 	25T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Luke Cobb 	6 	107 	1 	0 	0/0
+Mohamed Charles 	4 	100 	0 	0 	0/0
+Wayne Wegert 	5 	71 	1 	0 	0/0
+Eugene Jackson 	3 	24 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cleveland Merrill 	6/0 	- 	1/0 	0/0 	0/0
+Jamal Patton 	7/0 	- 	0/0 	0/0 	0/0
+Eric Jones 	5/1 	- 	0/0 	0/0 	0/0
+Paul Goodman 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ilan Youngblood 	0/0 	5/5 	- 

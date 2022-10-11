@@ -1,0 +1,67 @@
+ New Orleans Saints (4-2) at San Francisco 49ers (1-6) ?
+
+Santa Clara, CA - 65 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:saints: New Orleans Saints (4-2) 	7 	7 	3 	0 	- 	17
+:49ers: San Francisco 49ers (1-6) 	0 	3 	3 	7 	- 	13
+Team Stats Comparison
+  	:saints: New Orleans Saints 	:49ers: San Francisco 49ers
+Injuries 	OG Dee Harris - Moderate Neck Bruise 	WR Joshua Freeman - Moderate Hamstring Tendonitis
+Top Player Grade 	DT Jeremy Miller (8.72) 	CB Bashir Rodriguez (9.32)
+Worst Player Grade 	FS Koren Donahue (4.36) 	DE Dennis Niland (3.26)
+Offensive Line Rating 	8.51 	8.15
+Sacks 	2 	0
+Punting 	45.3 	45.7
+Punt Return Yards 	25 	33
+Kick Return Yards 	47 	31
+Turnovers 	2 	2
+3rd Down Conversion 	5/13 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/67 	5/39
+:saints: New Orleans Saints
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Devereaux 	23/40 	239 	2 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sterling Brown 	14 	60 	0 	9 	0/0
+DeSean Dockery 	4 	11 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+J. Brown-Sanderson 	5 	56 	1 	0 	0/0
+Sean Jenkins 	4 	54 	0 	1 	0/0
+Bruce Riley 	5 	50 	1 	0 	0/0
+Patrick Glass 	3 	34 	0 	1 	0/0
+Will Holly 	3 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+George Brady 	3/0 	- 	1/0 	0/0 	0/0
+Willard Arnold 	5/0 	- 	0/0 	1/1 	0/0
+Jeremy Miller 	4/0 	1.0 	0/0 	0/0 	0/0
+Paul Cherry 	2/0 	1.0 	0/0 	0/0 	0/0
+Garrett Holliday 	5/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jack Kershner 	1/1 	2/2 	44
+	
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Orly Vaccaro 	16/29 	196 	0 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	18 	50 	1 	9 	1/0
+Orly Vaccaro 	5 	23 	0 	11 	1/1
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jarius Shaw-Dodd ? 	5 	60 	0 	0 	0/0
+Miles Collins 	3 	42 	0 	0 	0/0
+Daniel Marshall 	2 	29 	0 	1 	0/0
+Miles Collins 	2 	25 	0 	0 	0/0
+Ben Thomas 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Bashir Rodriguez 	2/0 	- 	1/2 	0/0 	0/0
+Josh Holland 	2/0 	- 	1/0 	0/0 	0/0
+Ernie Crawford 	6/0 	- 	0/0 	0/0 	0/0
+Timothy Greer 	4/0 	- 	0/0 	0/0 	0/0
+Chris Reed 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ??
+Vincent Comer 	2/3 	1/1 	45, 41 - 50 

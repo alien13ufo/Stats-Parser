@@ -1,0 +1,55 @@
+ Cincinnati Bengals (0-0) at Cleveland Browns (0-0)
+
+Cleveland, OH - 82 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (0-0) 	7 	3 	10 	7 	0 	27
+:browns: Cleveland Browns (0-0) 	10 	0 	10 	7 	6 	33
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:browns: Cleveland Browns
+Injuries 	Brandon Lane, WR - Mild Concussion 	Nathan Wilson, RB - Severe Meniscus Rupture
+Offensive Line Rating 	7.6 	8.2
+Sacks 	2 	3
+Punting 	42.2 	44.6
+Punt Return Yards 	9 	26
+Kick Return Yards 	37 	40
+Turnovers 	1 	1
+3rd Down Conversion 	4/9 	6/12
+4th Down Conversion 	1/1 	0/0
+Penalties 	10/106 	12/128
+:bengals: Cincinnati Bengals
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	29/50 	365 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Nick Engelberger 	10 	9 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	8 	94 	0 	0 	0/0
+Brandon Lane 	5 	85 	0 	2 	0/0
+Jamir Blackburn 	5 	65 	2 	0 	0/0
+Christopher Harris 	4 	57 	1 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brett Bailey 	6/1 	1.0 	0/0 	0/0 	0/0
+Sila Lotomau 	2/0 	1.0 	0/0 	0/0 	0/0
+Germane Dixon 	5/0 	- 	0/0 	1/0 	0/0
+Nick Upshaw 	3/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	0/0 	0/0 	-
+	
+:browns: Cleveland Browns
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	19/24 	226 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	21 	105 	2 	31T 	0/0
+Ryan Clark 	6 	31 	0 	13 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tai Miller 	3 	60 	0 	1 	0/0
+Jason McClairen 	5 	57 	1 	0 	1/1
+Dean Burkhart 	3 	31 	0 	1 	0/0
+Ray Lee Marconi 	3 	15 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Marshall 	1/0 	- 	1/1 	0/0 	0/0
+Ray McBride 	5/1 	1.5 	0/0 	0/0 	0/0
+Gabriel Beauchamp 	2/0 	1.0 	0/0 	0/0 	0/0
+Thomas Stewart 	4/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	2/2 	3/3 	38, 45 

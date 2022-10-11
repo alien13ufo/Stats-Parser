@@ -1,0 +1,53 @@
+QB Joel King 6-1 220 R Houston [Pocket] 82
+QB DeSean Jenkins 6-4 195 1 Wake Forest [Scrambling] 79
+QB Anthony Newson 6-1 226 2 Washington [Pocket] 76
+QB A.J. Bowden 6-1 205 R Kentucky [Pocket] 75
+RB Ron Thomas 6-0 194 1 Iowa [Speed] 86
+RB Justin Gugliemi 5-10 181 2 Georgia State [Power] 72
+FB Tom Edwards 5-11 211 3 Florida [Run Block] 87
+FB Charles Strayhorn 6-2 209 2 Georgia [Pass Blocking] 70
+WR Greg Newman 5-9 168 5 Alabama [Target] 88
+WR Jamal Brunell 6-4 171 1 Notre Dame [Speed] 82
+WR Marcus Ratterman 6-4 190 R Hawaii [Speed] 80
+WR Brandon Lane 5-11 187 4 Mississippi State [Speed] 79
+WR Christopher Harris 6-2 177 1 USF [Target] 69
+WR Robert Tomczak 6-6 194 4 Wisconsin [Speed] 65
+TE Tony DeMarco 6-3 247 3 TCU [Receiving] 84
+TE Anthony Baumhower 6-1 237 2 Oklahoma State [Blocking] 71
+OT Blake Pile 6-5 311 3 USC [Run Blocking] 95
+OT John Smith 6-2 310 4 BostonCollege [Pass Blocking] 85
+OT Jack Hall 6-8 318 3 Utah [Run Blocking] 78
+OT Joe Spilis 6-1 296 3 Tennessee [Pass Blocking] 67
+OG Rob Lipscomb 6-2 307 5 Boston College [Pass Blocking] 89
+OG Art Wagner 6-0 297 4 Florida [Run Blocking] 85
+OG Jack Harrell 6-3 268 1 Notre Dame [Pass Blocking] 70
+C Kevin Siemon 6-3 279 3 Penn State [Run Blocking] 89
+DE Brett Bailey 6-3 261 2 Auburn [Blitz] 84
+DE Demarius Strong 6-4 254 2 Navy [Blitz] 81
+DE E.J. McQuarters 6-7 257 3 Clemson [Contain] 79
+DE Monty Moreno 6-4 261 1 LSU [Blitz] 72
+DE Damian Johnson 6-3 241 R Duke [Contain] 70
+DT Bill Kelly 6-1 282 4 NC State [2-Gap] 80
+DT David Lane 6-2 260 1 Maryland [1-Gap] 75
+DT A.B. Todd 6-6 308 4 Tennessee [2-Gap] 71
+DT Ode Bell 6-2 292 2 Colorado [1-Gap] 64
+ILB Nick Upshaw 6-2 241 5 Ohio State [Mike] 91
+ILB Daniel Barnes 5-11 205 R Florida [Will] 77
+ILB Sylvester Feeley 6-1 227 3 LSU [Will] 76
+ILB Bob Hanks 6-0 225 1 Auburn [Will] 74
+OLB Germane Dixon 6-2 253 5 Notre Dame [Blitz] 88
+OLB Mike Hulsey 6-1 233 R Oregon [Blitz] 77
+OLB Mike Matthews 6-2 209 2 Wisconsin [Coverage] 67
+OLB Lynn Nwokorie 6-2 234 2 Michigan [Coverage] 66
+CB Jacoby Seaverns 6-2 190 4 Oklahoma [Man Coverage] 95
+CB D.J. Reed 5-10 183 1 Boise State [Man Coverage] 77
+CB Richard Lewis 6-1 189 R USF [Man Coverage] 74
+CB Kemp Jasper 6-2 182 1 Arizona State [Man Coverage] 72
+FS Jim Sisemore 5-10 181 5 Notre Dame [Man Coverage] 91
+FS Kenneth Schwartz 5-10 166 R Maryland [Zone Coverage] 79
+SS Calvin Celestin 6-1 202 2 USC [Man Coverage] 82
+SS Tommy Lake 6-1 168 1 Notre Dame [Man Coverage] 66
+SS Jake Raymond 5-10 189 1 Illinois [Zone Coverage] 71
+K Justin Nielsen 5-11 203 R Texas A&M [Power] 81
+K Logan Layton 5-7 152 1 Cumberland County College [Accuracy] 81
+P Tommy Brown 6-1 171 4 Minnesota [Accuracy] 84

@@ -1,0 +1,66 @@
+ New York Giants (0-4) at Atlanta Falcons (2-2)
+
+Atlanta, GA - 79 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:giants: New York Giants (0-4) 	3 	7 	0 	0 	- 	10
+:falcons: Atlanta Falcons (2-2) 	7 	3 	7 	3 	- 	20
+Team Stats Comparison
+  	:giants: New York Giants 	:falcons: Atlanta Falcons
+Injuries 	
+
+Brian Olszewski, OG - Moderate Groin Pull
+
+ 
+	
+
+Tyrus Wilson, WR - Severe ACL Rupture
+
+Rufus Horn, ILB - Moderate Shoulder Rotator Cuff
+Offensive Line Rating 	7.6 	8.3
+Sacks 	1 	3
+Punting 	46.6 	42.3
+Punt Return Yards 	28 	8
+Kick Return Yards 	0 	0
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	3/8
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/65 	4/38
+:giants: New York Giants
+Pistol - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+David Brezina 	9/19 	75 	0 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	20 	109 	1 	26 	0/0
+David Brezina 	2 	4 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Evan Medley 	4 	32 	0 	1 	0/0
+Tom Oldham 	2 	17 	0 	0 	0/0
+Chris Gano 	1 	14 	0 	0 	0/0
+Hunter King 	2 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Will Hall 	2/0 	- 	1/0 	0/0 	0/0
+Curtis Lewis 	5/1 	1.0 	0/0 	0/0 	0/0
+Aaron Hammond 	5/0 	- 	0/0 	0/0 	0/0
+D'Qwell Moore 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Trent Michaels 	1/1 	1/1 	36
+	
+:falcons: Atlanta Falcons
+Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	18/27 	192 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	22 	95 	1 	28 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Riddick Smith 	6 	56 	0 	0 	0/0
+Jason Erwin 	4 	52 	1 	0 	0/0
+Akili Wallace 	2 	40 	0 	1 	0/0
+Joseph Thurston 	2 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darius Jones 	4/0 	- 	1/1 	0/0 	0/0
+Eric Jennings 	4/1 	2.0 	0/0 	0/0 	0/0
+Early Davis 	3/0 	1.0 	0/0 	0/0 	0/0
+Robert Lacy 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	2/2 	2/2 	38, 36 

@@ -1,0 +1,67 @@
+ Green Bay Packers (7-1) at Minnesota Vikings (2-7) ?
+
+Minneapolis, MN - 49 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:packers: Green Bay Packers (7-1) 	7 	7 	0 	14 	- 	28
+:vikings: Minnesota Vikings (2-7) 	0 	14 	3 	7 	- 	24
+Team Stats Comparison
+  	:packers: Green Bay Packers 	:vikings: Minnesota Vikings
+Injuries 	WR Tom Grant - Severe ACL Rupture 	No Injuries
+Top Player Grade 	OLB Brady Christiansen (8.53) 	QB Brian Vardell (8.09)
+Worst Player Grade 	FS James White (3.90) 	CB Tomas Weathers (3.52)
+Offensive Line Rating 	8.46 	8.20
+Sacks 	2 	1
+Punting 	44.1 	43.0
+Punt Return Yards 	10 	7
+Kick Return Yards 	50 	72
+Turnovers 	1 	1
+3rd Down Conversion 	4/12 	5/14
+4th Down Conversion 	1/1 	0/0
+Penalties 	7/74 	5/44
+:packers: Green Bay Packers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	20/30 	270 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	17 	105 	1 	25 	0/0
+Gil Novacek 	2 	-2 	0 	-1 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP ? 	F/L
+Bernard Taylor 	5 	105 	1 	0 	0/0
+Justin McCain 	5 	53 	0 	0 	0/0
+Dan Nomellini 	3 	40 	1 	1 	0/0
+Artavius Hopkins 	2 	35 	1 	0 	0/0
+Michael Allen 	2 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Bowman 	3/0 	- 	1/0 	0/0 	0/0
+Brady Christiansen 	4/0 	1.0 	0/1 	0/0 	0/0
+Kaulana Groth 	3/1 	- 	0/0 	1/0 	0/0
+Jamal Harley 	6/0 	- 	0/0 	0/0 	0/0
+Julio Barnes 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	0/1 	4/4 	- 55
+	
+:vikings: Minnesota Vikings
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	24/36 	322 	3 	1 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Evan Grant 	13 	40 	0 	9 	0/0
+Keith Dunn 	4 	20 	0 	11 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mohamed Charles 	6 	99 	1 	1 	0/0
+Eugene Jackson 	4 	83 ? 	0 	0 	0/0
+Luke Cobb 	5 	68 	1 	0 	0/0
+Jacory Kessler 	3 	43 	0 	1 	0/0
+Wayne Wegert 	3 	40 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Devin Goss 	4/1 	- 	1/0 	0/0 	0/0
+Sebastian Smallwood 	3/2 	1.0 	0/0 	0/0 	0/0
+Eric Jones 	6/0 	- 	0/0 	0/0 	0/0
+Phillip Gillis 	4/0 	- 	0/0 	0/0 ? 	0/0
+Marcus Brown 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Gilligan 	1/2 	3/3 	45 - 48 ?

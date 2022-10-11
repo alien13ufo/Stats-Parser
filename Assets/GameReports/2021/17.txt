@@ -1,0 +1,64 @@
+ Tennessee Titans (1-0) at Jacksonville Jaguars (1-0)
+
+Jacksonville, FL - 91 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (1-0) 	13 	7 	0 	7 	- 	27
+:jaguars: Jacksonville Jaguars (1-0) 	7 	7 	10 	0 	- 	24
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:jaguars: Jacksonville Jaguars
+Injuries 	
+
+Lyle Matthews, OG - Moderate Biceps Tear
+
+Chris Bell, RB - Moderate Hamstring Tendonitis
+	
+
+Taylor Eifert, WR - Severe Achilles Rupture
+
+Larry Reeves, SS - Mild Concussion
+Offensive Line Rating 	8.1 	8.4
+Sacks 	1 	4
+Punting 	43.3 	48.3
+Punt Return Yards 	16 	37
+Kick Return Yards 	0 	0
+Turnovers 	1 	1
+3rd Down Conversion 	6/12 	5/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/93 	11/106
+:titans: Tennessee Titans
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	30/50 	307 	2 	1 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chris Bell 	8 	36 	0 	9 	0/0
+John Harris 	3 	11 	1 	5T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Williams 	9 	81 	1 	1 	0/0
+Hastin Rider 	4 	60 	1 	0 	0/0
+Cody Hunter 	5 	53 	0 	1 	0/0
+Greg Newman 	4 	49 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Charles Woods 	4/2 	1.0 	0/0 	0/0 	0/0
+Joseph Whiteside 	9/1 	- 	0/0 	0/0 	0/0
+Randy Humphreys 	5/0 	- 	1/0 	0/0 	0/0
+Alex Collins 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	2/2 	3/3 	45, 48
+	
+:jaguars: Jacksonville Jaguars
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Barkley 	13/18 	159 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	24 	98 	1 	23T 	0/0
+Owen Walton 	7 	35 	1 	15 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca 	5 	60 	0 	0 	0/0
+Raheem Robinson 	3 	37 	1 	0 	0/0
+Derek Harrison 	2 	31 	0 	0 	0/0
+Taylor Eifert 	1 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jay Wade 	5/0 	- 	1/1 	0/0 	0/0
+Preston Bryant 	2/0 	2.0 	0/0 	1/0 	0/0
+Ronald Barker 	2/0 	1.0 	0/0 	0/0 	0/0
+Ron Rice 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	1/2 	3/3 	44 - 56 

@@ -1,0 +1,37 @@
+QB Brian Vardell 6-2 200 R Washington State [Pocket] 74
+QB Rod Allison 6-4 232 R Oregon [Pocket] 54
+RB Chester Henson 5-11 226 R USC [Speed] 82
+RB Fred Bergey 5-11 231 R Vanderbilt [Speed] 58
+FB Heath Christian 6-0 204 R Tennessee [Power] 52
+WR Mark Walker 5-11 190 R Florida [Speed] 72
+WR Jason Voigt 5-9 176 R Washington State [Target] 71
+WR Cory Wilson 6-4 215 R Kansas [Target] 59
+WR Carlos Frances 6-2 176 1 Virginia [Target] 40
+TE Paul Johnson 6-2 257 R Florida [Run Blocking] 67
+TE Miguel Robinson 6-1 246 R Utah [Run Blocking] 50
+OT MacKenzie Woods 6-4 313 R USC [Run Blocking] 70
+OT Marcus Spears 6-5 315 1 Florida [Pass Blocking] 40
+OT Albert Morris 6-4 304 1 Oregon [Pass Blocking] 40
+OG Steven Ross 6-5 328 R Oregon State [Run Blocking] 59
+OG David DeKalb 6-5 285 1 Virginia Tech [Pass Blocking] 40
+OG Dexter Woodley 6-6 318 R Penn State [Pass Blocking] 52
+C Norman Reed 6-4 250 1 Hawaii [Run Blocking] 40
+DE John Staley 6-4 262 R Wisconsin [Pass Stop] 53
+DE James Geraldson 6-3 254 1 Arkansas [Run Stop] 40
+DE Kyle Phillips 6-3 240 1 Colorado [Pass Stop] 40
+DT Keith Hooks 6-3 293 R Colorado [Pass Stop] 74
+DT Michael McFarland 6-8 311 R Rutgers [Pass Stop] 56
+ILB Melvin Rolovich 6-2 236 R Florida [Pass Zone] 68
+ILB Brock Darnell 6-5 238 1 USC [Run Man-to-Man] 40
+ILB Andrew McCutcheon 6-2 222 1 Michigan State [Pass Zone] 40
+OLB Jeff Mangum 6-2 256 R Missouri [Run Zone] 77
+OLB Hartee Drazenovich 6-1 240 R Georgia [Run Man-to-Man] 71
+CB James Neufeld 6-0 188 R Miami [Man Coverage] 59
+CB Pervis Branch 5-8 158 R Oregon [Man Coverage] 58
+CB William McNair 5-9 194 R Northwestern [Man Coverage] 55
+FS Terry Cole 6-2 202 R Ole Miss [Man Coverage] 64
+SS Randy Slutzker 6-1 190 R Louisville [Man Coverage] 58
+SS Frank Orange 5-10 199 1 Alabama [Man Coverage] 40
+K Gregory Tomlinson 5-9 197 R Kansas [Power] 52
+P Bobby Droughns 6-0 202 R Louisville [Accuracy] 53
+P James Williams 5-10 196 R UCLA [Accuracy] 51

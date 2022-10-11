@@ -1,0 +1,66 @@
+ Philadelphia Eagles (7-1) at Denver Broncos (5-4)
+
+Denver, CO - 56 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (7-1) 	7 	3 	6 	0 	- 	16
+:broncos: Denver Broncos (5-4) 	7 	3 	6 	7 	- 	23
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:broncos: Denver Broncos
+Injuries 	
+
+Cameron Whelahan, WR - Severe Calf Tear
+
+James Turner, OLB - Moderate Quadriceps Strain
+	
+
+No Injuries
+
+ 
+Offensive Line Rating 	8.1 	8.4
+Sacks 	0 	0
+Punting 	44.6 	45.3
+Punt Return Yards 	9 	16
+Kick Return Yards 	20 	0
+Turnovers 	1 	0
+3rd Down Conversion 	5/12 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/35 	4/25
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	19/34 	236 	0 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	15 	64 	1 	9 	0/0
+Marshawn Miller 	6 	21 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Michael Hawkins 	6 	85 	0 	0 	0/0
+Roy Davis 	4 	45 	0 	1 	0/0
+Adam Vann 	3 	41 	0 	1 	0/0
+Erik Bray 	2 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin Hartley 	6/0 	- 	0/1 	0/0 	0/0
+Rodrick Milligan 	5/0 	- 	0/0 	0/0 	0/0
+Turk Davis 	3/1 	- 	0/0 	0/0 	0/0
+Ryan Frey 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	3/3 	1/1 	40, 22, 27
+	
+:broncos: Denver Broncos
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Jennings 	20/29 	230 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	18 	86 	1 	15 	0/0
+Emmett Spears 	7 	39 	0 	18 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darrell Mack 	5 	86 	0 	0 	0/0
+Ken Peelle 	6 	50 	1 	0 	0/0
+Artemio Ramirez 	3 	44 	0 	0 	0/0
+William Doherty 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ray Truax 	3/0 	- 	0/0 	1/0 	0/0
+Michael Carroll 	3/0 	- 	0/0 	0/1 	0/0
+Cameron Jonah 	4/1 	- 	0/0 	0/0 	0/0
+Colston Watson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	3/4 	1/1 	43, 28, 36 - 54 

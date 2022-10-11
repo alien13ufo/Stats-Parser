@@ -1,0 +1,67 @@
+ Buffalo Bills (2-1) at Detroit Lions (2-1) ?
+
+Detroit, MI - 53 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (2-1) 	0 	0 	0 	0 	- 	0
+:fibur: Detroit Lions (2-1) 	10 	7 	14 	7 	- 	38
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:fibur: Detroit Lions
+Injuries 	OT Mike Woods - Severe Meniscus Rupture 	ILB Jacob Watson - Moderate Biceps Strain
+Top Player Grade 	DE Anthony Ortiz (6.16) 	RB Calvin Jones (9.02)
+Worst Player Grade 	OT Leonardo Seymour (1.98) 	ILB Jacob Watson (5.00)
+Offensive Line Rating 	7.61 	8.44
+Sacks 	1 	7
+Punting 	40.6 	45.6
+Punt Return Yards 	8 	56
+Kick Return Yards 	105 	28
+Turnovers 	2 	0
+3rd Down Conversion 	0/11 	9/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/73 	4/25
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	12/25 	106 	0 	2 	0/0
+Kamau Davis 	0/2 	0 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	6 	6 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca Sr. 	3 	27 	0 	0 	0/0
+Isaiah Cronin 	2 	22 	0 	0 	0/0
+Kevin Garvin 	2 	20 	0 	0 	0/0
+Matt Thomas 	2 	16 	0 	0 	0/0
+Drew Abbott 	2 	14 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Anthony Ortiz 	3/0 	1.0 	0/0 	0/0 	0/0
+Kevin Briggs 	6/0 	- 	0/0 	0/0 	0/0
+RIchard Suarez 	4/0 	- 	0/0 	0/0 	0/0
+Sammy Grey 	4/0 	- 	0/0 	0/0 	0/0
+Cyrus Paulsen 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	0/0 	0/0 	-
+	
+:fibur: Detroit Lions
+Pro Style - Pistol ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	24/35 	325 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	18 	118 	1 	32 	0/0
+Calvin Jones 	10 	102 	1 	61T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Cook 	8 	106 	1 	0 	0/0
+Glenn Franckowiak 	4 	74 	1 	0 	0/0
+Rex Walsh 	4 	70 	0 	0 	0/0
+Anthony Fasani 	3 ? 	39 	1 	0 	0/0
+Calvin Jones 	2 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin McQueen 	2/0 	- 	2/1 	0/0 	0/0
+Ilan Kuhn 	2/0 	3.0 	0/0 	0/0 	0/0
+Doug Carolan 	1/0 	2.0 	0/0 	0/0 	0/0
+Cameron Jones 	4/0 	1.5 	0/0 	0/0 	0/0
+Earl Jackson 	3/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Brent Hankton 	1/1 	5/5 	42 

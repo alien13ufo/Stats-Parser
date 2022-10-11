@@ -1,0 +1,69 @@
+ Green Bay Packers (0-0) at Minnesota Vikings (0-0) ?
+
+Minneapolis, MN - 73 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:packers: Green Bay Packers (0-0) 	14 	7 	7 	7 	- 	35
+:vikings: Minnesota Vikings (0-0) 	0 	0 	0 	7 	- 	7
+Team Stats Comparison
+  	:packers: Green Bay Packers 	:vikings: Minnesota Vikings
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	TE Manny Ferguson (8.93) 	SS Joe Johnson (7.25)
+Worst Player Grade 	FS James White (4.02) 	CB D'Onta Neely (1.95)
+Offensive Line Rating 	8.42 	8.39
+Sacks 	1 	0
+Punting 	45.6 	46.1
+Punt Return Yards 	14 	0
+Kick Return Yards 	22 	67
+Turnovers 	0 	2
+3rd Down Conversion 	6/10 	5/15
+4th Down Conversion 	0/0 	0/1
+Penalties 	7/44 	6/30
+:packers: Green Bay Packers
+Spread Option - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	24/36 	325 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	20 	89 	1 	13 	0/0
+Qua'sean Bell 	7 	35 	1 	15 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Manny Ferguson 	5 	89 	1 	0 	0/0
+Justin McCain 	7 	77 	0 	0 	0/0
+Dan Nomellini 	4 	71 	1 	0 	0/0
+Freddie Jackson 	3 	35 	1 	0 	0/0
+Artavius Hopkins 	2 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Marquise Reed 	5/0 	- 	1/1 	0/0 	0/0
+Sam Caron 	3/0 	1.0 	0/0 	0/0 	0/0
+Jamal Harley 	5/0 	- 	0/0 	1/0 	0/0
+Ryan Hanspard 	6/0 	- 	0/0 	0/1 	0/0
+Julio Barnes 	3/0 	- 	0/2 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+Brian Evans 	0/0 	0/0 	0/0 	0/0 	0/0 	5/5
+ADDITIONAL INFO
+OT Quinn Bouman allowed 0 pressures on QB Jason Johnson.
+	
+:vikings: Minnesota Vikings
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	23/41 	242 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Evan Grant 	8 	25 	0 	9 	1/1
+Emmett Spears 	2 	8 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jacory Kessler 	6 	100 	1 	0 	0/0
+Wayne Wegert 	6 	57 	0 	0 	0/0
+Luke Cobb 	3 	32 	0 	0 	0/0
+Mohamed Charles 	2 	26 	0 	0 	0/0
+Reginald Lattimore 	2 	24 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Joe Johnson 	8/0 	- 	0/0 	0/0 	0/0
+Cleveland Merrill 	5/1 	- 	0/0 	0/0 	0/0
+Devin Ruff 	4/1 	- 	0/0 	0/0 	0/0
+Devin Goss 	4/0 	- 	0/0 	0/0 	0/0
+Nathaniel Hollis ? 	3/1 	- 	0/0 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+Anthony Harris 	0/0 	0/0 	0/0 	0/0 	0/0 	1/1
+ADDITIONAL INFO
+TE Eugene Jackson missed 8:43 in the 2Q with a mild wrist injury. 

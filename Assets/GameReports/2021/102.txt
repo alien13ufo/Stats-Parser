@@ -1,0 +1,57 @@
+ Kansas City Chiefs (4-1) at Dallas Cowboys (3-3)
+
+Arlington, TX - 70 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chiefs: Kansas City Chiefs (4-1) 	0 	3 	0 	3 	- 	6
+:cowboys: Dallas Cowboys (3-3) 	0 	2 	3 	14 	- 	19
+Team Stats Comparison
+  	:chiefs: Kansas City Chiefs 	:cowboys: Dallas Cowboys
+Injuries 	No Injuries 	Kurt Hill, WR - Severe Shoulder Dislocation
+Offensive Line Rating 	8.4 	9.0
+Sacks 	0 	1
+Punting 	42.6 	49.2
+Punt Return Yards 	24 	46
+Kick Return Yards 	23 	34
+Turnovers 	2 	1
+3rd Down Conversion 	4/14 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/47 	4/45
+:chiefs: Kansas City Chiefs
+Wishbone - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erasmus McCready 	9/16 	92 	0 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	23 	100 	0 	26 	1/1
+Justin Buchanan 	8 	30 	0 	20 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Spec Davidson 	4 	42 	0 	0 	0/0
+C.J. Hickman 	2 	30 	0 	0 	0/0
+Richard Frazier 	1 	10 	0 	0 	0/0
+Justin Buchanan 	1 	5 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Teddy Walker 	2/0 	- 	1/0 	0/0 	0/0
+Dewey Tomlinson 	5/1 	- 	0/0 	0/0 	0/0
+Sean Springs 	5/0 	- 	0/0 	0/0 	0/0
+Carnell Meadows 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	2/2 	0/0 	38, 35
+	
+:cowboys: Dallas Cowboys
+Wing T 2RB - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	13/18 	177 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Adrian Robinson 	8 	86 	1 	41T 	0/0
+Vaughan Abraham 	20 	72 	0 	14 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Francisco Gibson 	5 	77 	0 	0 	0/0
+Benjamin Franklin 	2 	41 	1 	0 	0/0
+Vaughan Abraham 	2 	31 	0 	0 	0/0
+Kurt Hill 	1 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Romulus Jackson 	5/0 	- 	1/0 	0/0 	0/0
+Cleo Blair 	4/0 	- 	0/0 	1/0 	0/0
+Adam Taylor 	5/0 	- 	0/0 	0/1 	0/0
+Javier Grady 	2/0 	1.0 	0/0 	0/0 	0/1
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	1/1 	2/2 	42 

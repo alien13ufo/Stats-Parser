@@ -1,0 +1,52 @@
+QB Jarius Jones 6-1 205 R Iowa [Pocket] 83
+QB Sam Armour 6-4 206 2 Georgia [Pocket] 81
+RB Joseph Bowen 5-9 185 R Purdue [Power] 80
+RB Shawn Carr 6-0 177 3 Iowa [Power] 81
+FB Frankie Elwood 6-2 232 1 Colorado [Power] 68
+FB Michael Behrens 6-1 233 R Arizona [Power] 66
+WR Marcus Banks 5-11 201 1 OhioState [Target] 84
+WR Drew Jackson 6-6 177 1 Syracuse [Target] 72
+WR Ron Crouse 5-9 177 R UCLA [Speed] 68
+WR George Humphries 6-4 177 R West Virginia [Target] 67
+WR Audray Gabriel 6-2 189 3 Washington [Speed] 67
+WR Bill Pryor 5-10 181 3 Nebraska [Target] 67
+TE Wilbert Stoutmire 6-2 247 3 FloridaState [PassBlocking] 83
+TE Monroe McCormack 6-5 225 NC State [Pass Blocking] 66
+OT Greg Sewell 6-4 324 R Texas Tech [Pass Blocking] 81
+OT Stan Allen 6-4 336 3 NotreDame [PassBlocking] 77
+OT Dan McDonald 6-0 317 R Virginia Tech [Pass Blocking] 72
+OT Orlando Burris 6-0 279 R Oklahoma State [Pass Blocking] 71
+OT T.C. Bradford 6-3 283 R TCU [Pass Blocking] 70
+OT Ricky Green 6-5 306 1 Virginia [Pass Blocking] 69
+OT Simon Johnson 6-6 281 1 Cincinnati [PassBlocking] 67
+OG Mike Grant 6-2 322 1 California [PassBlocking] 75
+OG Darren McCormick 6-4 319 R Virginia [Pass Blocking] 66
+OG Pat Carthon 6-6 280 1 Vanderbilt [Pass Blocking] 63
+OG Keith Combs 6-6 298 2 Miami [PassBlocking] 65
+C Jonathan Jimenez 6-3 285 R Arizona [Run Blocking] 75
+C Josh Hood 6-7 296 1 NC St. [Pass Blocking] 68
+DT Ken Wells 6-4 316 2 OhioState [PassStop] 71
+DT Herb Gabriel 6-8 300 3 West Virginia [Pass Stop] 69
+DT Barry Harmon 6-2 279 R Alabama [Pass Stop] 67
+DT Brad Campbell 6-3 266 R Wisconsin [Run Stop] 66
+DE Richard Hicks 6-5 297 R North Carolina [Run Stop] 79
+DE Joe Lewis 6-1 295 1 Georgia [Runstop] 77
+DE James Garcia 6-7 261 1 Nebraska [Pass Stop] 67
+OLB Charley Graham 5-11 224 1 UCLA [PassMan-to-man] 76
+OLB Chris Ferguson 6-2 238 3 South Carolina [RunMan-to-Man] 67
+OLB Carlton Houser 6-2 236 R Fresno State [Pass Zone] 65
+ILB Johnny Grossman 6-4 243 2 USC [RunZone] 78
+ILB Willy Mitchell 6-2 225 1 Boston C. [Pass Man-to-Man] 69
+ILB Paul Ingram 6-1 245 R Cincinnati [Pass Zone] 68
+ILB Joseph Larsen 6-2 241 3 Rutgers [Pass Zone] 67
+CB Paul Olson 5-11 174 R BYU [Man Coverage] 73
+CB Larry Johnson 5-10 205 2 Maryland [ZoneCoverage] 71
+CB Antonio Powers 5-11 158 2 VirginiaTech [ZoneCoverage] 70
+CB Marcus Farmer 6-1 177 2 Louisville [ZoneCoverage] 64
+FS LeRoy Holmes 5-11 185 3 Miami [Zone Coverage] 70
+FS Charles Lopez 5-10 213 1 Iowa St. [Zone Coverage] 63
+SS Gregory Gilmore 6-3 201 2 OregonState [Man Coverage] 71
+SS Matt Demaree 6-2 179 1 UCLA [Man Coverage] 64
+K Darryl Lemus 5-10 181 R Northwestern [Accuracy] 77
+K Paul Compton 5-8 178 1 Boise St. [Accuracy] 68
+P Greg Bradley 5-10 196 1 Boston C. [Accuracy] 71

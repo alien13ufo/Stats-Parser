@@ -1,0 +1,55 @@
+ Kansas City Chiefs (0-0) at New York Giants (0-0)
+
+East Rutherford, NJ - 79 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chiefs: Kansas City Chiefs (0-0) 	6 	7 	14 	0 	- 	27
+:giants: New York Giants (0-0) 	0 	0 	0 	0 	- 	0
+Team Stats Comparison
+  	:chiefs: Kansas City Chiefs 	:giants: New York Giants
+Injuries 	Terrence Rodgers, RB - Mild Biceps Strain 	No Injuries
+Offensive Line Rating 	8.2 	7.8
+Sacks 	3 	0
+Punting 	43.6 	45.2
+Punt Return Yards 	11 	17
+Kick Return Yards 	0 	28
+Turnovers 	0 	3
+3rd Down Conversion 	5/10 	1/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	3/26 	6/57
+:chiefs: Kansas City Chiefs
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erasmus McCready 	4/6 	56 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	25 	118 	1 	18T 	0/0
+Justin Buchanan 	11 	47 	2 	15 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rodney Montgomery 	2 	41 	0 	0 	0/0
+Spec Davidson 	2 	15 	0 	0 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Riley 	6/0 	- 	1/1 	0/0 	0/0
+Teddy Walker 	3/0 	- 	1/0 	0/0 	0/0
+Will Baker 	1/0 	- 	1/0 	0/0 	0/0
+Luke Lyles 	2/1 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	2/2 	3/3 	41, 30
+	
+:giants: New York Giants
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mike Thomas 	20/40 	203 	0 	3 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	8 	28 	0 	11 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tom Oldham 	5 	61 	0 	2 	0/0
+Cotton Lewis 	5 	45 	0 	0 	0/0
+Chris Gano 	3 	41 	0 	1 	0/0
+Hunter King 	2 	38 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brad Mungro 	7/0 	- 	0/0 	0/0 	0/0
+Marcus Anthony 	5/1 	- 	0/0 	0/0 	0/0
+Freddy Suarez 	5/0 	- 	0/0 	0/0 	0/0
+Kenyatta Henderson 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Tyler Oliva 	0/2 	0/0 	- 44, 50 

@@ -1,0 +1,53 @@
+QB Brian Brown 6-4 228 4 Boise State [Pocket] 97
+QB Glen Spencer 6-1 170 2 Ohio State [Scrambling] 78
+QB Glenn White 6-2 176 3 Texas Tech [Pocket] 78
+RB Marcus Barry 6-0 193 3 Ohio State [Power] 91
+RB Keith Dunn 5-11 179 4 PennState [Power] 81
+RB Will Fuller 5-10 190 R Mississippi State [Speed] 80
+FB Alex Engram 6-1 252 4 TCU [Pass Blocking] 83
+WR Rodney Montgomery 6-0 185 4 LSU [Target] 92
+WR Greg Cobb 6-3 188 2 Cincinnati [Target] 84
+WR Bill Hardy 5-11 190 2 California [Target] 79
+WR Jacky Walters 5-11 179 2 Texas [Speed] 73
+WR Todd Sykes 6-1 182 1 West Virginia [Target] 71
+TE D.J. Gibson 6-5 232 1 North Carolina [Receiving] 84
+TE Kendall Brandon 6-6 240 2 Georgia Tech [Receiving] 77
+TE King Pietrosante 6-2 223 2 Washington State [Blocking] 71
+OT Marcellus Peterson 6-2 328 5 Alabama [Run Blocking] 98
+OT Tom McAfee 6-4 304 3 UCLA [Pass Blocking] 77
+OT Ricky Edwards 6-1 269 1 Auburn [Run Blocking] 82
+OT Joseph Stanford 6-6 281 1 Cincinnati [Run Blocking] 80
+OG Jace Blakley 6-2 312 4 Tennessee [Pass Blocking] 93
+OG Brandon Gregory 6-2 298 2 NC State [Run Blocking] 73
+OG Todd Hevesy 6-2 284 1 Michigan State [Pass Blocking] 82
+OG Charles Harkins 6-4 279 R Louisville [Pass Blocking] 77
+C Haskel Moore 6-8 315 4 Florida State [Pass Blocking] 84
+C Nate Gardner 6-0 284 R Texas Tech [Pass Blocking] 74
+C William Price 6-2 302 2 Boise State [Run Blocking] 66
+DE Benjamin Blankenship 6-1 290 1 Georgia [Blitz] 83
+DE Gary Redmon 6-1 289 4 Penn State [Contain] 75
+DE Andrew Phillips 6-3 250 R Florida [Contain] 76
+DE Isaiah Riggins 6-3 253 R South Carolina [Blitz] 75
+DT Josh Wilson 6-7 278 3 Texas Tech [1-Gap] 87
+DT Lindsay Powell 6-8 270 3 Penn State [1-Gap] 77
+DT Jerry Gordon 6-4 310 R Oregon State [1-Gap] 71
+ILB Kevin Harris 6-0 249 5 Iowa [Will] 93
+ILB Phillip Moore 5-11 216 2 Houston [Will] 85
+ILB Benjamin Thompson 5-10 220 R Marshall [Mike] 76
+ILB Jason Stovall 6-0 217 1 West Virginia [Mike] 74
+OLB Benjamin Robinson 6-0 240 R Boston College [Coverage] 81
+OLB Jason Bryant 6-2 227 5 Washington State [Blitz] 82
+OLB Jack Durrence 5-11 238 2 LSU [Blitz] 77
+OLB Garrison Jackson 6-1 226 3 Oklahoma St. [Coverage] 72
+CB Justin Davis 5-11 173 3 Florida [Zone Coverage] 95
+CB Laurent Christensen 5-10 192 2 Army [Man Coverage] 83
+CB Alphonso Greisen 5-10 196 2 Texas [Zone Coverage] 73
+CB Donnie Thomas 6-3 171 1 Kentucky [Zone Coverage] 70
+CB Francisco Diaz 6-1 165 2 Colorado State [Zone Coverage] 67
+FS Andrew Wright 5-9 187 1 TCU [Zone Coverage] 78
+FS Darren Rucker 6-0 212 R Pittsburgh [Zone Coverage] 74
+SS Walter Valdez 5-11 178 2 Boise State [Zone Coverage] 80
+SS Jerry Walker 6-0 181 1 Oklahoma [Zone Coverage] 78
+SS Mark Pennington 6-0 188 2 Georgia Tech [Zone Coverage] 70
+K Ben Morrison 6-1 205 5 Wisconsin [Accuracy] 95
+P A.J. Kinney 5-9 205 2 West Virginia [Accuracy] 79

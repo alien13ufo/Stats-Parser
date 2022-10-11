@@ -1,0 +1,67 @@
+ Los Angeles Chargers (2-9) at Cincinnati Bengals (7-4) ?
+
+Cincinnati, OH - 43 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (2-9) 	0 	3 	3 	7 	- 	13
+:bengals: Cincinnati Bengals (7-4) 	10 	7 	7 	3 	- 	27
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:bengals: Cincinnati Bengals
+Injuries 	TE Damian Mason - Severe Patellar Tendon Bruise 	WR Christopher Harris - Severe ACL Rupture
+Top Player Grade 	CB Kenyon Justice (8.60) 	DE Brett Bailey (8.89)
+Worst Player Grade 	WR Gerald Morrison (2.46) 	OT Wesley Delarosa (2.00)
+Offensive Line Rating 	8.07 ? 	7.98
+Sacks 	3 	4
+Punting 	42.2 	41.2
+Punt Return Yards 	29 	94 (1)
+Kick Return Yards 	60 	28
+Turnovers 	1 	0
+3rd Down Conversion 	2/11 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/68 	5/40
+:chargers: Los Angeles Chargers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	30/50 	280 	1 	0 	1/1
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	11 	45 	0 	8 	0/0
+Mamadou Heard 	2 	9 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jarvis Ward 	8 	81 	1 	1 	0/0
+Greg Cobb 	5 	52 	0 	0 	0/0
+M.L. Kriewaldt 	5 	50 	0 	0 	0/0
+Gerald Morrison 	3 	34 	0 	2 	0/0
+Scott Howard 	4 	31 	0 	0 	1/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Russell Dixon 	1/1 	1.0 	0/0 	0/0 	0/0
+Isaiah Hall 	2/0 	1.0 	0/0 	0/0 	0/0
+Jason Bryant 	2/0 	1.0 	0/0 	0/0 	0/0
+Shane Easley 	6/1 	- 	0/0 	0/0 	0/0
+Tunch Richardson 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	2/2 	1/1 	44, 40
+	
+:bengals: Cincinnati Bengals
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	23/33 	289 	1 	0 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Rasheed Kent 	20 	88 	1 	15 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	7 	100 	1 	0 	0/0
+Christopher Harris 	4 	66 	0 	1 	0/0
+Jamir Blackburn 	3 	42 	0 	0 	0/0
+Steven Maloney 	1 	40 	0 	0 	0/0
+Rasheed Kent 	2 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brett Bailey 	3/1 	2.0 	0/0 	1/0 	0/0
+Prince Matos ? 	2/0 	1.0 	0/0 	0/0 	0/0
+Timothy Key 	1/0 	1.0 	0/0 	0/0 	0/0
+Jamal McGavin 	3/0 	- 	0/0 	0/1 	0/0
+R.C. Rone 	6/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	2/2 	3/3 	52, 35 ?

@@ -1,0 +1,56 @@
+QB Erasmus McCready 6-2 225 4 Alabama [Hybrid] 87
+QB Javier Fields 6-0 195 6 Kentucky [Pocket] 87
+RB Terrence Rodgers 6-0 173 1 Mississippi State [Speed] 83
+RB Justin Buchanan 5-10 184 7 Mississippi State [Power] 79
+RB Buzz Etcheverry 5-10 182 4 UCF [Power] 77
+FB Gary Richardson 5-11 233 2 Kansas State [Run Blocking] 84
+WR Rodney Montgomery 6-0 185 6 LSU [Target] 94
+WR Hines Mertens 5-8 176 4 LSU [Speed] 83
+WR Richard Frazier 5-8 181 5 Iowa [Target] 83
+WR Harry Whiteside 6-5 169 3 Texas [Target] 81
+WR Justin Hill 6-5 192 R Abilene Christian [Target] 77
+WR Lindsey Thomas 5-11 163 1 Arizona [Speed] 76
+TE Spec Davidson 6-2 243 7 Georgia [Receiving] 90
+TE Jariel Rosario 6-0 215 2 Michigan [Receiving] 78
+TE C.J. Hickman 6-0 231 R Washington [Blocking] 76
+TE Robert Ford 6-4 232 3 Minnesota [Blocking] 74
+OT Chris Gray 6-3 283 4 Texas A&M [Pass Blocking] 86
+OT Quinn Burr 6-6 258 2 Iowa State [Pass Blocking] 87
+OT Herman Harrison 6-4 302 4 Baylor [Pass Blocking] 82
+OT Kevin Hill 6-7 313 3 West Virginia [Run Blocking] 64
+OG Henry Badanjek 6-4 289 7 Alabama [Pass Blocking] 83
+OG Boyd Buckley 6-0 274 4 Notre Dame [Pass Blocking] 82
+OG Brandon Gregory 6-2 298 4 NC State [Run Blocking] 75
+C Angelo Huddleston 6-2 294 3 Boston College [Pass Blocking] 83
+C Bill Bullard 6-3 266 3 Buffalo [Run Blocking] 78
+DE Isaiah Hall 6-2 246 1 Bowling Green [Contain] 83
+DE Luke Lyles 6-0 249 1 Vanderbilt [Blitz] 80
+DE Arturo Feliciano 6-3 237 R Texas Tech [Blitz] 68
+DE Jaylen Jordan 6-2 240 R Arizona State [Blitz] 68
+DT Carnell Meadows 6-5 273 4 Nebraska [1-Gap] 87
+DT Malik Dawson 6-3 281 3 Illinois [1-Gap] 85
+DT Bud Howard 6-2 301 3 LSU [2-Gap] 83
+ILB Jim Bendross 6-1 244 7 Stanford [Will] 86
+ILB Dewey Tomlinson 5-11 220 4 Oklahoma State [Mike] 84
+OLB Arlie LeClair 6-2 245 7 Virginia Tech [Coverage] 87
+OLB Devin Stephens 6-1 237 3 Marshall [Blitz] 82
+OLB Billy Westbrook 6-0 228 6 Washington [Coverage] 80
+OLB Nicholas Moss 6-2 227 2 West Virginia [Coverage] 79
+OLB Sean Springs 6-0 220 4 Stanford [Coverage] 80
+CB Teddy Walker 5-11 177 3 Kentucky [Man Coverage] 86
+CB Andrew Boyd 5-10 175 R Boston College [Man Coverage] 81
+CB Will Baker 5-11 190 7 Oklahoma [Man Coverage] 75
+CB Bradley Nunn 5-9 165 R Syracuse [Man Coverage] 74
+CB Fred Young 6-2 181 1 Michigan [Man Coverage] 73
+CB William Patterson 6-0 190 2 Iowa [Man Coverage] 71
+FS Rob Hamilton 5-11 188 4 UCLA [Zone Coverage] 82
+FS Samuel Porter 5-11 206 1 Boise State [Man Coverage] 77
+FS Brandon Curtis 5-11 176 3 UCF [Zone Coverage] 75
+SS Cameron Riley 6-1 197 R Texas Tech [Zone Coverage] 81
+SS Myron Loud 5-11 201 3 Iowa [Zone Coverage] 75
+K Ryan Levcik 5-9 177 5 Alabama [Power] 94
+P Patrick Wolff 6-1 187 R Oregon State [Power] 81
+PR Ben Offerdahl 5-11 189 3 Auburn [Speed] 88
+QB Jon Wilson 6-5 205 3 USC [Hybrid] 77
+OG Dennis Kaufman 6-8 281 3 Connecticut [Run Blocking] 72
+DE Ivan Castle 6-0 254 R Clemson [Blitz] 67

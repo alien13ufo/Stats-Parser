@@ -1,0 +1,57 @@
+ Minnesota Vikings (2-6) at Seattle Seahawks (3-5)
+
+Seattle, WA - 48 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:vikings: Minnesota Vikings (2-6) 	13 	7 	3 	7 	- 	30
+:seahawks: Seattle Seahawks (3-5) 	7 	7 	0 	14 	- 	28
+Team Stats Comparison
+  	:vikings: Minnesota Vikings 	:seahawks: Seattle Seahawks
+Injuries 	Bill Jenkins, TE - Mild Hamstring Bruise 	Charlie Wilson, TE - Moderate MCL Tendonitis
+Offensive Line Rating 	8.3 	8.0
+Sacks 	3 	1
+Punting 	46.6 	42.1
+Punt Return Yards 	33 	21
+Kick Return Yards 	40 	26
+Turnovers 	2 	2
+3rd Down Conversion 	6/13 	4/12
+4th Down Conversion 	1/1 	0/0
+Penalties 	8/70 	11/123
+:vikings: Minnesota Vikings
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brad Davis 	19/34 	186 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Keith Dunn 	17 	94 	2 	30T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mohamed Charles 	4 	67 	0 	0 	0/0
+Jacory Kessler 	6 	52 	1 	0 	0/0
+Wayne Wegert 	3 	23 	0 	0 	0/0
+Keith Dunn 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Paul Goodman 	5/0 	- 	1/0 	0/0 	0/0
+James Finney 	4/0 	1.5 	0/0 	1/0 	0/0
+Mike Johnson 	2/0 	1.0 	0/0 	0/0 	0/0
+Cleveland Merrill 	6/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Eric Graves 	3/4 	3/3 	40, 28, 35 - 46
+	
+:seahawks: Seattle Seahawks
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	16/22 	209 	2 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	18 	59 	1 	13 	1/0
+Booker T. Washington 	6 	42 	1 	18T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Josiah McCray 	5 	68 	1 	0 	0/0
+Curtis Settles 	2 	62 	1 	0 	0/0
+Jim Umenyiora 	2 	40 	0 	1 	0/0
+Marcus Williams 	3 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Edward Harrison 	5/0 	- 	2/1 	0/0 	0/0
+Travis Lee 	3/0 	1.0 	0/0 	0/0 	0/0
+Kenji Sagatomo 	7/1 	- 	0/0 	0/0 	0/0
+Frank Lee 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	0/1 	4/4 	- 49 

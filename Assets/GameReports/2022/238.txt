@@ -1,0 +1,67 @@
+ Seattle Seahawks (8-5-1) at San Francisco 49ers (2-12) ?
+
+Santa Clara, CA - 60 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:seahawks: Seattle Seahawks (8-5-1) 	7 	7 	7 	7 	- 	28
+:49ers: San Francisco 49ers (2-12) 	3 	6 	0 	7 	- 	16
+Team Stats Comparison
+  	:seahawks: Seattle Seahawks 	:49ers: San Francisco 49ers
+Injuries 	TE William Johnson - Severe ACL Rupture 	TE Ben Thomas - Severe Concussion
+Top Player Grade 	CB Matt Cowan (8.70) 	WR Jarius Shaw-Dodd (7.85)
+Worst Player Grade 	OLB Stuart Patterson (1.50) 	ILB Ernie Crawford (2.00)
+Offensive Line Rating 	8.44 	8.20
+Sacks 	3 	1
+Punting 	46.2 	43.6
+Punt Return Yards 	4 	8
+Kick Return Yards 	57 	82
+Turnovers 	1 	1
+3rd Down Conversion 	4/11 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/40 	3/17
+:seahawks: Seattle Seahawks
+Option - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tucker Dowden 	19/26 	205 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	21 	98 	1 	16 	0/0
+Tucker Dowden 	11 	64 	1 	18 	0/0
+Noel Minor 	4 	11 	1 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Curtis Settles 	6 	101 	0 	0 	0/0
+Roger Bailey 	4 	59 	1 	0 	0/0
+Tony Huff 	3 	15 	0 	0 	0/0
+Josiah McCray 	2 	12 	0 	1 	0/0
+Noel Minor 	2 	9 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Matt Cowan 	1/0 	- 	1/1 	0/0 	0/0
+Derrick Dawkins 	3/1 	1.0 	0/0 	0/0 	0/0
+Brick Madden 	6/0 	1.0 	0/0 	0/0 	0/0
+Kenji Sagatomo 	4/0 	1.0 	0/0 	0/0 	0/0
+Tyler Patino 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	0/1 	4/4 	- 51
+	
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	15/25 	147 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING ? 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	17 	61 	0 	15 	0/0
+Todd Lester 	5 	29 	0 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Miles Collins 	3 	61 	0 	0 	0/0
+Jarius Shaw-Dodd 	5 	32 	1 	0 	0/0
+Daniel Marshall 	2 	21 	0 	1 	0/0
+Tom Branch 	2 	16 	0 	0 	0/0
+Troy McCray 	1 ? 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Bashir Rodriguez 	3/0 	- 	1/0 	0/0 	0/0
+Daleroy Smart 	6/0 	1.0 	0/0 	0/0 	0/0
+Chris Reed 	5/1 	- 	0/0 	0/0 	0/0
+Michael McBride 	5/0 	- 	0/0 	0/0 	0/0
+Brandon Thomas 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ??
+Vincent Comer 	3/3 	1/1 	45, 27, 23 

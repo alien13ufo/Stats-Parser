@@ -1,0 +1,67 @@
+ Denver Broncos (2-4) at Carolina Panthers (5-2) ?
+
+Charlotte, NC - 69 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (2-4) 	7 	0 	3 	0 	- 	10
+:panthers: Carolina Panthers (5-2) ? 	7 	7 	7 	7 	- 	28
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:panthers: Carolina Panthers
+Injuries 	No Injuries 	OG Joshua Whitlock - Moderate Foot Sprain
+Top Player Grade 	RB J.B. Blacknall (6.83) 	RB Mike Latta (8.50)
+Worst Player Grade 	CB T.J. Hunter (2.16) 	WR Jermaine Bishop (4.53)
+Offensive Line Rating 	8.40 	8.28
+Sacks 	0 	1
+Punting 	49.5 	45.6
+Punt Return Yards 	9 	15
+Kick Return Yards 	85 	37
+Turnovers 	2 	0
+3rd Down Conversion 	5/15 	6/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/50 	4/34
+:broncos: Denver Broncos
+Pro Style - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Eric Jennings 	14/27 	140 	1 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	17 	71 	0 	11 	0/0
+Emmett Spears 	5 	25 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ken Peelle 	4 	45 	0 	0 	0/0
+Jaheim Lemons 	2 	30 	1 	1 	0/0
+Artemio Ramirez 	2 	22 	0 	0 	0/0
+Sebastian Porter 	2 	21 	0 	1 	0/0
+Darren Jones 	2 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Evan Walsh 	5/0 	- 	0/1 	0/0 	0/0
+Reece Westbrook 	5/0 	- 	0/0 	0/0 	0/0
+Michael Carroll 	5/0 	- 	0/0 	0/0 	0/0
+Cameron Jonah 	4/0 	- 	0/0 	0/0 	0/0
+Colston Watson 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	1/2 	1/1 	51 - 49
+	
+:panthers: Carolina Panthers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	20/30 	261 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	20 	112 	2 	40T 	1/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Monte Jackson 	5 	65 	1 	0 	0/0
+Curtis Henry 	3 	56 	0 	0 	0/0
+Troy Wilson 	4 	53 	1 	0 	0/0
+Jermaine Bishop 	3 	40 ? 	0 	2 	0/0
+Chip Johnson 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Nate Tensi 	2/0 	- 	1/0 	0/0 	0/0
+Russ Barker 	1/0 	- 	1/0 	0/0 	0/0
+Mike Wohlabaugh 	3/1 	1.0 	0/0 	0/0 	0/0
+Jeff Brooks 	7/0 	- 	0/0 	0/0 	0/0
+Morris Millen 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Skip Gibson 	0/1 	4/4 	- 53 ?

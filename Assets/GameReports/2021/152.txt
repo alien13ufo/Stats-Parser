@@ -1,0 +1,66 @@
+ Baltimore Ravens (4-5) at Detroit Lions (2-7)
+
+Detroit, MI - 48 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:ravens: Baltimore Ravens (4-5) 	0 	0 	3 	7 	- 	10
+:fibur: Detroit Lions (2-7) 	14 	7 	7 	7 	- 	35
+Team Stats Comparison
+  	:ravens: Baltimore Ravens 	:fibur: Detroit Lions
+Injuries 	
+
+Moussa Goode, RB - Mild Shoulder Rotator Cuff
+
+Sammy Muhammad, CB - Moderate Elbow Sprain
+	
+
+Ilan Kuhn, DE - Severe Calf Strain
+
+ 
+Offensive Line Rating 	8.1 	8.4
+Sacks 	1 	3
+Punting 	43.2 	47.3
+Punt Return Yards 	18 	33
+Kick Return Yards 	47 	16
+Turnovers 	2 	0
+3rd Down Conversion 	2/12 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/52 	4/36
+:ravens: Baltimore Ravens
+Option - Wishbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brett Fisher 	16/21 	200 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	13 	56 	0 	15 	0/0
+Davey Jones 	8 	41 	0 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Wells 	6 	74 	0 	0 	0/0
+Adrian Allen 	3 	43 	1 	0 	0/0
+Sean Waller 	2 	32 	0 	1 	1/1
+Kevin Knight 	2 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Eric Burden 	3/0 	1.0 	0/0 	0/0 	0/0
+Alexander Hardison 	6/0 	- 	0/1 	0/0 	0/0
+Adam Newman 	4/0 	- 	0/1 	0/0 	0/0
+Traveon Howard 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	1/1 	1/1 	35
+	
+:fibur: Detroit Lions
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Blake Shell 	24/39 	275 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Logan Pruitt 	7 	29 	1 	8 	0/0
+Calvin Jones 	6 	22 	1 	6T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Cook 	7 	82 	1 	0 	0/0
+Tyrone Cunningham 	6 	71 	1 	0 	0/0
+Dennis Carr 	4 	54 	1 	1 	0/0
+Anthony Fasani 	3 	39 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin McQueen 	3/0 	- 	1/1 	0/0 	0/0
+Doug Carolan 	4/1 	1.5 	0/0 	0/0 	0/0
+Earl Jackson 	2/0 	1.0 	0/0 	0/0 	0/0
+Kofi Neal 	2/0 	- 	0/0 	1/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	0/1 	5/5 	- 55 

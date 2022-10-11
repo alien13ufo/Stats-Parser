@@ -1,0 +1,35 @@
+QB Nu Battles 6-0 206 R Arizona State [Scrambling] 50
+RB Steven Curtis 6-0 186 R Kansas [Power] 75
+RB Rob Blackmon 6-0 206 R Auburn [Speed] 80
+WR Oliver OConnor 6-0 195 1 Syracuse [Speed] 40
+WR James Anderson 5-11 205 1 Michigan [Target] 40
+WR Mitch Jenkins 5-11 185 1 Florida [Target] 40
+TE Alex Parker 6-2 239 R Kansas State [Run Blocking] 56
+TE Aaron Cross 6-4 239 R Wake Forest [Run Blocking] 52
+OT Dave Unertl 6-8 314 R NC State [Run Blocking] 54
+OT Abraham Aloisi 6-4 304 1 Alabama [Pass Blocking] 40
+OG Rob Lipscomb 6-2 307 R Boston College [Pass Blocking] 78
+OG Matt Foster 6-6 326 R Colorado [Run Blocking] 48
+C Qadry Davis 6-5 316 R Clemson [Run Blocking] 52
+OG Joe Goodridge 6-6 288 R Louisville [Run Blocking] 51
+OT Kelly Bethea 6-2 236 R Iowa [Run Blocking] 70
+OT Tom Cothran 6-3 326 R Hawaii [Run Blocking] 48
+DE Rodney Galbreath 6-8 301 R South Carolina [Run Stop] 74
+DE Lloyd Crutchfield 6-5 275 R Oregon State [Run Stop] 48
+DT Rob Hoffman 6-3 311 R Oklahoma [Run Stop] 57
+DT Joe Micho 6-7 300 R Notre Dame [Run Stop] 70
+DE Jeremy Gonzales 6-6 267 R Kansas [Pass Stop] 52
+DE Darius Denard 6-3 254 1 Oregon State [Run Stop] 40
+OLB Randy Lehr 6-1 231 R USC [Run Zone] 74
+OLB Harry Knaves 6-4 250 1 Ole Miss [Pass Zone] 40
+ILB Nick Upshaw 6-2 241 R Ohio State [Run Man-to-Man] 76
+ILB Josiah Phelps 6-3 245 1 Colorado [Pass Man-to-Man] 40
+ILB Patrick Chung 6-4 234 1 Boston College [Run Man-to-Man] 40
+OLB Ray Truax 6-1 233 R Ohio State [Pass Zone] 75
+CB Robert Barnes 5-11 176 R Mississippi State [Zone Coverage] 59
+CB Dante Dantonio 5-11 167 1 Ohio State [Man Coverage] 40
+CB Grant Longley 5-10 195 R Missouri [Zone Coverage] 48
+CB Leroy Jones 5-10 169 1 Cincinnati [Zone Coverage] 40
+FS Brent White 6-2 183 R Wisconsin [Zone Coverage] 53
+SS Marcus Mili 6-2 217 R Vanderbilt [Zone Coverage] 59
+P Forest Garrett 6-0 193 R Florida [Accuracy] 79

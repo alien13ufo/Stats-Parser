@@ -1,0 +1,53 @@
+QB Taylor Rodriguez 6-1 209 2 Arizona [Pocket] 85
+QB Graham Burnett 6-3 211 R Oklahoma [Pocket] 82
+QB Luke Williams 6-4 185 1 Pittsburgh [Pocket] 77
+RB Vaughan Abraham 5-10 201 6 LSU [Speed] 97
+RB Adrian Robinson 5-11 203 2 Houston [Power] 81
+RB Will Craven 6-1 177 3 Vanderbilt [Power] 72
+FB Edgerrin Petty 6-1 219 4 Notre Dame [Run Blocking] 81
+WR Kurt Hill 5-9 196 6 Miami [Target] 86
+WR Eddie McFadden 6-4 163 3 Baylor [Speed] 84
+WR Benjamin Franklin 5-9 160 R Rutgers [Speed] 81
+WR Francisco Gibson 6-1 216 1 Washington [Target] 80
+WR Alex Gash 6-5 186 2 Texas A&M [Speed] 76
+WR Ramon Stewart 6-1 177 R USF [Target] 75
+WR Vincent Ortiz 6-1 174 R New Mexico [Speed] 72
+TE Erasmus High 6-0 217 1 Alabama [Blocking] 83
+TE Paul Carter-Williams 6-6 237 3 TCU [Blocking] 77
+TE Michael Baxter 6-5 240 R Houston [Receiving] 75
+OT Justin Campbell 6-6 291 5 Penn State [Run Blocking] 97
+OT Bert Scott 6-8 301 3 Missouri [Pass Blocking] 77
+OT Andrew Ruth 6-7 302 1 Missouri [Pass Blocking] 76
+OT Giovanni Garrison 6-5 288 1 ECU [Pass Blocking] 79
+OG Jace Brown 6-6 270 4 Florida [Pass Blocking] 98
+OG Barry Waterfield 6-7 284 4 Syracuse [Run Blocking] 86
+OG Donald Goode 6-7 271 1 Hawaii [Pass Blocking] 76
+OG Billy Watkins 6-3 310 1 Vanderbilt [RunBlocking] 73
+C Sid Henson 6-5 298 4 USC [Run Blocking] 89
+C Kenoy Wilson 6-5 293 5 Boston College [Run Blocking] 75
+DE Joseph Randolph 6-1 266 1 San Jose State [Blitz] 80
+DE Dainard Breedlove 6-2 273 2 Georgia Tech [Contain] 74
+DE Kevin Olford 6-5 275 3 Stanford [Contain] 76
+DE Kevin Mims 6-2 266 1 UCF [Blitz] 73
+DT Shawn Bowers 6-1 305 5 Boise State [2-Gap] 88
+DT Patrick Garber 6-2 303 R Buffalo [1-Gap] 72
+ILB Cleo Blair 6-1 251 5 NC State [Mike] 91
+ILB Art Mills 6-1 230 4 Michigan [Will] 83
+ILB Steve Pointer 6-0 229 4 Clemson [Will] 76
+ILB Kendrell Franklin 6-1 230 5 Vanderbilt [Mike] 74
+OLB Jeff Mangum 6-2 256 6 Missouri [Blitz] 91
+OLB Adam Taylor 6-3 227 2 Rice [Coverage] 79
+OLB Ray Lee Coia 6-2 232 5 TCU [Blitz] 72
+OLB Samuel Weiner 6-3 235 1 Penn State [Coverage] 75
+CB Travis Chatman 5-10 172 6 Washington [Zone Coverage] 95
+CB T.J. Hunter 6-0 203 2 Penn State [Zone Coverage] 83
+CB Jeremy Evans 6-0 191 R BYU [Zone Coverage] 77
+CB Andrew Faulkner 6-0 176 3 Cincinnati [Zone Coverage] 72
+CB Joseph Lind 5-11 190 1 Houston [Zone Coverage] 66
+FS Emmanuel Slade 6-1 184 R Oregon State [Zone Coverage] 78
+FS Albert White 5-10 184 5 Mississippi State [Zone Coverage] 77
+FS Henry Smith 5-11 167 2 Georgia [Zone Coverage] 73
+SS Romulus Jackson 6-0 193 3 Fresno State [Zone Coverage] 88
+SS Wesley Rosado 6-0 173 1 North Carolina [Man Coverage] 75
+K Carlos Cruz 6-2 197 2 Air Force [Accuracy] 83
+P Freddie Mughelli 6-0 183 6 Stanford [Accuracy] 92

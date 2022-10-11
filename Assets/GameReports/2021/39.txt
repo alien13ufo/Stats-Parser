@@ -1,0 +1,55 @@
+ Atlanta Falcons (2-0) at Tampa Bay Buccaneers (0-2)
+
+Tampa, FL - 87 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:falcons: Atlanta Falcons (2-0) 	7 	0 	6 	0 	- 	13
+:buccaneers: Tampa Bay Buccaneers (0-2) 	14 	14 	3 	7 	- 	38
+Team Stats Comparison
+  	:falcons: Atlanta Falcons 	:buccaneers: Tampa Bay Buccaneers
+Injuries 	No Injuries 	No Injuries
+Offensive Line Rating 	8.2 	7.9
+Sacks 	1 	2
+Punting 	40.6 	40.2
+Punt Return Yards 	36 	31
+Kick Return Yards 	23 	42
+Turnovers 	2 	0
+3rd Down Conversion 	2/14 	5/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/46 	6/67
+:falcons: Atlanta Falcons
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	15/22 	175 	0 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	21 	92 	1 	20 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyrus Wilson 	3 	60 	0 	0 	0/0
+Riddick Smith 	3 	45 	0 	0 	0/0
+Joseph Thurston 	3 	41 	0 	1 	0/0
+Jason Erwin 	4 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Rufus Horn 	6/0 	1.0 	0/0 	0/0 	0/0
+Tommy Leonard 	5/0 	- 	0/1 	0/0 	0/0
+Darius Jones 	6/0 	- 	0/0 	0/0 	0/0
+Eric Jennings 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	2/2 	1/1 	44, 22
+	
+:buccaneers: Tampa Bay Buccaneers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	23/31 	306 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	20 	92 	2 	36T 	0/0
+Taylor Heiden 	5 	38 	0 	29 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Quintavius Pearson 	6 	99 	2 	1 	0/0
+Richard Wilson 	4 	96 	1 	0 	0/0
+Anthony McCardell 	6 	42 	0 	1 	0/0
+William Moore 	3 	37 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Newhouse 	3/0 	- 	1/0 	0/0 	0/0
+Demetrius Still 	2/0 	- 	1/0 	0/0 	0/0
+Darris Hayes 	5/1 	1.0 	0/0 	0/0 	0/0
+Derrick Martin 	5/1 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	1/1 	5/5 	46 

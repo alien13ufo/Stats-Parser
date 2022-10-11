@@ -1,0 +1,49 @@
+QB Kareem Taylor 6-2 202 4 Notre Dame [Pocket] 89
+QB Mark White 6-3 199 1 Duke [Pocket] 75
+QB Bobby Kolodziej 6-2 205 R California [Pocket] 74
+RB John Harris 5-11 181 1 Arizona State [Speed] 80
+RB Bradie Sapp 5-11 185 4 Virginia Tech [Power] 79
+RB Steven Curtis 6-0 186 4 Kansas [Power] 77
+FB Gaston Sweeney 6-0 235 R Michigan State [Speed] 72
+WR Tommy Furrey 6-6 178 4 West Virginia [Speed] 84
+WR Tony Gross 6-4 188 3 Michigan [Speed] 79
+WR Otto Laing 6-3 196 3 Clemson [Speed] 69
+WR Margene Huard 6-6 169 R Arizona [Speed] 68
+WR Hugh Brown 6-6 194 4 California [Target] 65
+TE Vaughn St. Clair 6-2 233 3 Houston [PassBlocking] 80
+TE Johnny Duerson 6-5 238 R Syracuse [Run Blocking] 76
+OT Brandon Reamon 6-8 298 R Texas [Pass Blocking] 83
+OT Willard Love 6-3 336 1 Wisconsin [Pass Blocking] 81
+OT Dante Paige 6-4 306 2 West Virginia [PassBlocking] 76
+OT Don Fontenot 6-1 328 4 Nebraska [RunBlocking] 71
+OG Peter Greenwood 6-2 269 2 Georgia [PassBlocking] 77
+OG Tony Glover 6-6 267 1 Tennessee [Pass Blocking] 74
+OG Tony Jackson 6-1 295 2 Minnesota [PassBlocking] 70
+OG Mathias Banks 6-5 300 4 Michigan [RunBlocking] 66
+C Angelo Huddleston 6-2 294 R Boston College [Pass Blocking] 79
+C James Irwin 6-2 291 2 Iowa St. [Pass Blocking] 73
+DE Justin Glass 6-3 283 3 Hawaii [RunStop] 80
+DE Josh Swift 6-4 264 2 Vanderbilt [Run Stop] 75
+DE Rodney Matlock 6-5 262 3 Indiana [PassStop] 69
+DE Rex Bauer 6-4 287 2 Tennessee [Pass Stop] 61
+DT Carl Connor 6-6 285 1 Auburn [Run Stop] 76
+DT Eric Young 6-6 276 2 Purdue [Run Stop] 66
+DT Robert Mason 6-0 276 2 Boise St. [Run Stop] 63
+ILB Randy Humphreys 6-1 252 2 Purdue [PassZone] 88
+ILB Steven Irwin 5-11 214 R Iowa State [Pass Zone] 70
+ILB Rich Smith 5-11 226 1 Georgia [Pass Zone] 70
+ILB Dan Miller 6-1 229 2 Texas Tech [Pass Zone] 62
+OLB David Doherty 6-1 228 1 Kansas State [Run Zone] 85
+OLB Alton Drazenovich 6-1 217 R LSU [Pass Man-to-Man] 76
+OLB Keyon Greene 6-0 223 4 Boston College [Run Zone] 67
+CB Donald Edwards 6-1 197 3 Mississippi State [Man Coverage] 81
+CB Jack Ramsey 6-2 172 R Virginia Tech [Zone Coverage] 78
+CB Alan Ferrell 5-8 162 4 Ohio State [Zone Coverage] 74
+CB Pervis Branch 5-8 158 4 Oregon [Man Coverage] 68
+CB Ben McCullum 5-10 200 2 South Carolina [Zone Coverage] 62
+FS Mike Henderson 5-10 193 2 UCF [ManCoverage] 79
+FS Robert Cash 6-1 196 2 BoiseState [Zone Coverage] 62
+SS Tywan Tafoya 6-2 185 3 WashingtonState [ZoneCoverage] 85
+SS Clarence Peete 6-0 168 1 South Carolina [Man Coverage] 79
+K Leon Woodruff 5-8 169 1 Northwest Mississippi CC [Accuracy] 80
+P Scottie Ware 5-10 174 R Clemson [Power] 80

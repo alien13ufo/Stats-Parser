@@ -1,0 +1,67 @@
+ Cleveland Browns (3-2) at Seattle Seahawks (0-4) ?
+
+Seattle, WA - 54 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (3-2) 	3 	7 	3 	7 	- 	20
+:seahawks: Seattle Seahawks (0-4) 	3 	7 	14 	7 	- 	31
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:seahawks: Seattle Seahawks
+Injuries 	OG Henry Brown - Moderate Wrist Sprain 	No Injuries
+Top Player Grade 	WR Ray Lee Marconi (6.96) 	QB Jarius Jones (9.43)
+Worst Player Grade 	FS Martin Hernandez (3.53) 	CB Eric Houser (4.26)
+Offensive Line Rating 	7.96 	8.21
+Sacks 	1 	6
+Punting 	43.3 	47.3
+Punt Return Yards 	26 	13
+Kick Return Yards 	85 	47
+Turnovers 	1 	1
+3rd Down Conversion 	3/12 	5/12
+4th Down Conversion 	0/0 ? 	0/0
+Penalties 	6/48 	4/28
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	16/26 	164 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	11 	42 	0 	9 	1/1
+Ryan Clark 	6 	38 	1 	20 	0/0
+Grady Mitchell 	8 	32 	0 	14 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ray Lee Marconi 	5 	63 	0 	0 	0/0
+Tai Miller 	5 	41 	1 	0 ? 	0/0
+Morgan Patton 	2 	23 	0 	0 	0/0
+Dean Burkhart 	2 	20 	0 	1 	0/0
+Jason McClairen 	2 	17 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Marshall 	3/0 	- 	1/0 	0/0 	0/0
+Kareem Yancey 	2/1 	1.0 	0/0 	0/0 	0/0
+C.J. Thomas 	6/1 	- 	0/1 	0/0 	0/0
+Antonio Oliver 	4/0 	- 	0/1 	0/0 	0/0
+Caleb McNamara 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	2/2 	2/2 	40, 44
+	
+:seahawks: Seattle Seahawks
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	25/33 	342 	4 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	19 	104 	0 	43 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Josiah McCray 	8 	150 	1 	0 	0/0
+Tony Huff 	6 	84 	2 	0 	0/0
+Curtis Settles 	4 	42 	1 	0 	0/0
+Tyler White 	3 	34 	0 	1 	0/0
+Jaheim Lemons 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kenji Sagatomo 	4/1 	1.5 	0/0 	1/1 	0/0
+Zion Adakwa ? 	6/1 	1.0 	0/0 	0/0 	0/0
+Brian Glenn 	3/0 	2.0 	0/0 	0/0 	0/0
+Adam Williams 	2/0 	1.0 	0/0 	0/0 	0/0
+Kristian Little 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Chris Ritter 	1/1 	4/4 	39 

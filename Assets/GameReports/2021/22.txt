@@ -1,0 +1,55 @@
+ New York Giants (0-1) at Dallas Cowboys (0-1)
+
+Arlington, TX - 88 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:giants: New York Giants (0-1) 	0 	3 	0 	0 	- 	3
+:cowboys: Dallas Cowboys (0-1) 	21 	7 	6 	7 	- 	41
+Team Stats Comparison
+  	:giants: New York Giants 	:cowboys: Dallas Cowboys
+Injuries 	Alan Holmes, OT - Moderate Shoulder Dislocation 	Graham Burnett, QB - Severe Elbow Sprain
+Offensive Line Rating 	7.8 	8.2
+Sacks 	0 	3
+Punting 	42.5 	45.3
+Punt Return Yards 	0 	29
+Kick Return Yards 	60 	23
+Turnovers 	2 	0
+3rd Down Conversion 	2/14 	4/8
+4th Down Conversion 	0/1 	0/0
+Penalties 	5/31 	8/60
+:giants: New York Giants
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mike Thomas 	16/28 	150 	0 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	15 	62 	0 	14 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tom Oldham 	5 	65 	0 	1 	0/0
+Chris Gano 	4 	34 	0 	0 	0/0
+Cotton Lewis 	1 	20 	0 	0 	0/0
+Art Baber 	1 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+George Russell 	8/0 	- 	0/0 	0/0 	0/0
+D'Qwell Moore		8/0 	- 	0/0 	0/0 	0/0
+Kenyatta Henderson 	6/1 	- 	0/0 	0/0 	0/0
+Marcus Carver 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Tyler Oliva 	1/2 	0/0 	36 - 45
+	
+:cowboys: Dallas Cowboys
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	10/14 	177 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	22 	128 	2 	35T 	0/0
+Adrian Robinson 	7 	60 	2 	41 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kurt Hill 	5 	85 	1 	0 	0/0
+Erasmus High 	2 	45 	0 	1 	0/0
+Benjamin Franklin 	1 	25 	0 	1 	0/0
+Francisco Gibson 	1 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kendall Hill 	3/0 	2.0 	0/0 	0/0 	0/0
+Jeff Mangum 	6/1 	1.0 	0/0 	0/0 	0/0
+Travis Chatman 	0/0 	- 	1/1 	0/0 	0/0
+Joseph Randolph 	2/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	2/2 	5/5 	47, 41 

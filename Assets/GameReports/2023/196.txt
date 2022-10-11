@@ -1,0 +1,128 @@
+ Arizona Cardinals (2-9) at Los Angeles Rams (5-6) ?
+
+Inglewood, CA - 66 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (2-9) 	10 	7 	14 	3 	- 	34
+:rams: Los Angeles Rams (5-6) 	3 	7 	14 	7 	- 	31
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:rams: Los Angeles Rams
+Injuries 	TE Michael Baxter - Mild Ankle Fracture 	WR Allen Lara-Cruz III - Mild Toe Sprain
+Top Player Grade 	CB Aaron Samuelsson (9.36) 	SS Brandon Sauter (8.93)
+Worst Player Grade 	FS Oronde Jackson (2.50) 	CB Zaire Hooker (1.35)
+Offensive Line Rating 	8.15 	8.21
+Sacks 	2 	2
+Punting 	47.2 	45.3
+Punt Return Yards 	3 	5
+Kick Return Yards 	67 	72
+Turnovers 	1 	1
+3rd Down Conversion 	5/12 	6/13
+4th Down Conversion 	1/1 	0/0
+Penalties 	3/17 	8/62
+:cardinals: Arizona Cardinals
+Spread - Flexbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	26/36 	382 	4 	1 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Trevon Yeldon 	16 	70 	0 	15 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Banks 	6 	112 	1 	0 	0/0
+Tyrone Cunningham 	5 	98 	1 	0 	0/0
+Tom Oldham 	3 	67 	0 	0 	0/0
+Joseph Thurston 	5 	63 	2 	1 ? 	0/0
+Emanuelu Lesa 	3 	52 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Joel Prince 	1/0 	- 	1/0 	0/0 	0/0
+Samir Sample 	3/1 	1.0 	0/0 	1/0 	0/0
+Israel Parson 	2/0 	1.0 	0/0 	0/0 	0/0
+Shaq Turner 	5/0 	- 	0/0 	0/0 	0/0
+Aaron Samuelsson 	2/0 	- 	0/2 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP ?
+Harrison Hacker 	
+
+1/1
+
+50
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+1/1
+
+29
+	
+
+0/0
+
+ 
+	
+
+4/4
+
+ 
+ADDITIONAL INFO
+
+CB Aaron Samuelsson gave up only 2 receptions for 38 yards and managed to draw an offensive pass interference in the 3Q.
+	
+:rams: Los Angeles Rams
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	26/51 	309 	4 	1 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daveed Knox 	7 	19 	0 	6 	0/0
+Terrell Holland 	2 	4 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamal Hawkins 	9 	95 	1 	0 	0/0
+Allama Banta 	3 	74 	1 	1 	1/0
+Walt Peck 	4 	53 	0 	1 	0/0
+John O'Donnell-Beavers 	3 	32 	1 	0 	0/0
+Allen Lara-Cruz III 	2 	23 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Daniel Watkins 	4/0 	- 	1/0 	0/0 	0/0
+Leigh Davey 	4/0 	1.0 	0/0 	0/0 	0/0
+Anthony Beltran 	1/0 	1.0 	0/0 	1/0 	0/0
+Brandon Sauter 	8/0 	- 	0/0 	0/0 	0/0
+Stephen Elliott 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+Sam Walsh ? 	
+
+1/1
+
+37
+	
+
+0/0
+
+ 
+	
+
+0/1
+
+56SR
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+4/4
+
+ 
+ADDITIONAL INFO
+LAR did not have a submitted gameplan and an AI gameplan was used. 

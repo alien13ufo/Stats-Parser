@@ -1,0 +1,66 @@
+ New Orleans Saints (7-5) at New York Giants (1-11)
+
+East Rutherford, NJ - 34 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:saints: New Orleans Saints (7-5) 	17 	10 	7 	3 	- 	37
+:giants: New York Giants (1-11) 	3 	3 	6 	0 	- 	12
+Team Stats Comparison
+  	:saints: New Orleans Saints 	:giants: New York Giants
+Injuries 	
+
+No Injuries
+
+ 
+	
+
+Ibrahim Smiley, WR - Mild Shoulder Dislocation
+
+Aaron Hammond, OLB - Severe Elbow Sprain
+Offensive Line Rating 	8.5 	7.9
+Sacks 	1 	1
+Punting 	44.7 	42.5
+Punt Return Yards 	24 	4
+Kick Return Yards 	0 	59
+Turnovers 	0 	2
+3rd Down Conversion 	6/12 	3/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/44 	4/32
+:saints: New Orleans Saints
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Devereaux 	25/38 	325 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sterling Brown 	14 	77 	1 	22T 	1/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sean Jenkins 	7 	96 	1 	0 	0/0
+Cotton Lewis 	4 	53 	1 	1 	0/0
+Carlos Warren 	3 	51 	1 	0 	0/0
+Bruce Riley 	4 	47 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+George Brady 	2/0 	- 	1/0 	0/0 	0/0
+Devin Little 	1/0 	- 	1/0 	0/0 	0/0
+Austin Olson 	6/1 	1.0 	0/0 	0/0 	0/0
+Jeremy Miller 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jack Kershner 	3/3 	4/4 	50, 33, 42
+	
+:giants: New York Giants
+Pistol - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	16/24 	206 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	15 	54 	0 	8 	0/0
+Josh Shiancoe 	9 	29 	0 	11 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Chris Gano 	5 	64 	0 	0 	0/0
+Hunter King 	3 	45 	0 	0 	0/0
+Ibrahim Smiley 	2 	43 	0 	0 	0/0
+Tom Oldham 	2 	32 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kenyatta Henderson 	7/0 	1.0 	0/0 	1/0 	0/0
+Brad Mungro 	4/1 	- 	0/0 	0/0 	0/0
+George Russell 	4/0 	- 	0/1 	0/0 	0/0
+S. Mitchell-Morrison 	2/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Trent Michaels 	2/2 	0/1 	39, 35 

@@ -1,0 +1,67 @@
+ Las Vegas Raiders (11-4) at Los Angeles Chargers (3-12) ?
+
+Inglewood, CA - 71 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:raiders: Las Vegas Raiders (11-4) 	14 	17 	7 	3 	- 	41
+:chargers: Los Angeles Chargers (3-12) 	0 	3 	7 	7 	- 	17
+Team Stats Comparison
+  	:raiders: Las Vegas Raiders 	:chargers: Los Angeles Chargers
+Injuries 	WR Darryl McGlockton - Moderate Concussion 	OLB Jason Bryant - Severe Biceps Tear
+Top Player Grade 	SS David Pennington (9.69) 	TE Scott Howard (8.22)
+Worst Player Grade 	DT Marlon Bailey (1.89) 	CB Austin Sheppard (1.50)
+Offensive Line Rating 	8.23 	8.02
+Sacks 	4 	2
+Punting 	48.2 	45.5
+Punt Return Yards 	26 	2
+Kick Return Yards 	57 	116
+Turnovers 	0 	2
+3rd Down Conversion 	4/8 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/57 	5/32
+:raiders: Las Vegas Raiders
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	30/40 	368 	3 	0 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	15 	72 	1 	14 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Brian Gary 	9 	122 	1 	0 	0/0
+Lamont Crawford 	7 	106 	1 	0 ? 	0/0
+Mike Tripplett 	3 	47 	0 	0 	0/0
+Darryl McGlockton 	4 	43 	1 	0 	0/0
+Andrew Williamson 	3 	26 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+A'Shawn Ellison 	2/0 	- 	1/0 	0/0 	1/0
+David Pennington 	6/0 	1.0 	1/0 	0/0 	0/0
+Randall Jones 	4/0 	- 	0/2 	0/0 	0/0
+Mike Gradishar 	3/0 	- 	0/2 	0/0 	0/0
+Sergio Miller 	5/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	2/3 	5/5 	40, 44 - 53
+	
+:chargers: Los Angeles Chargers
+Air Raid - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	21/41 	237 	2 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	8 	25 	0 	9 	0/0
+Mamadou Heard 	2 	4 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING ? 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	5 	68 	1 	2 	0/0
+Jarvis Ward 	3 	64 	0 	0 	0/0
+Greg Cobb 	4 	50 	1 	0 	0/0
+M.L. Kriewaldt 	3 	24 	0 	1 	0/0
+Damian Mason 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Isaiah Hall ? 	2/0 	1.0 	0/0 	1/0 	0/0
+Zion Hopkins 	1/0 	1.0 	0/0 	0/0 	0/0
+Prince Williams 	6/0 	- 	0/0 	0/0 	0/0
+Christopher Malone 	6/0 	- 	0/0 	0/0 	0/0
+Stephen Elliott 	5/0 	- 	0/0 	0/0 ?? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	1/1 	2/2 	41 

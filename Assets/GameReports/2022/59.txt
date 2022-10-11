@@ -1,0 +1,67 @@
+ Los Angeles Chargers (0-3) at Denver Broncos (2-1) ?
+
+Denver, CO - 52 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (0-3) 	7 	14 	3 	0 	- 	24
+:broncos: Denver Broncos (2-1) 	0 	10 	3 	6 	- 	19
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:broncos: Denver Broncos
+Injuries 	DT Zion Hopkins - Severe Toe Sprain 	No Injuries
+Top Player Grade 	TE Scott Howard (9.46) 	DE Deyonte Davis (8.25)
+Worst Player Grade 	DT Andrew Pearson (3.50) 	OG Bret Pate (3.21)
+Offensive Line Rating 	8.16 	8.45
+Sacks 	0 	3
+Punting 	43.6 	42.0
+Punt Return Yards 	135 (1) 	23
+Kick Return Yards 	64 	56
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	3/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/75 	5/37
+:chargers: Los Angeles Chargers
+Vertical - Spread Option ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	27/50 	299 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0 ?
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	13 	56 	0 	20 	0/0
+Mamadou Heard 	5 	20 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	11 	139 	2 	0 	0/0
+Greg Cobb 	3 	55 	0 	2 	0/0
+Jarvis Ward 	3 	39 	0 	1 	0/0
+M.L. Kriewaldt 	5 	32 	0 	0 	0/0
+Gerald Morrison 	2 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tunch Richardson 	14/3 	- 	0/0 	1/1 	0/0
+Jason Bryant 	8/1 	- 	0/0 	0/0 	0/0
+Christopher Malone 	5/0 	- 	0/0 	0/0 	0/0
+Shane Easley 	3/0 	- 	0/0 	0/0 	0/0
+Kareem Boykin 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	1/1 	3/3 	43
+	
+:broncos: Denver Broncos
+Smashmouth - Wishbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Eric Jennings 	4/6 	33 	0 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	28 	108 	0 	18 	1/1
+Emmett Spears 	15 	45 	1 	7 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ken Peelle 	1 	13 	0 	0 	0/0
+Emmett Spears 	1 	9 	0 	0 	0/0
+Darren Jones 	1 	6 	0 	0 	0/0
+Doug Bosley 	1 	5 	0 	0 	0/0
+- 	- 	- 	- 	- 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Donald Garcia 	1/0 	- 	1/0 	0/0 	0/0
+Deyonte Davis 	4/1 	1.0 	0/0 	0/0 	0/0
+Michael Carroll 	2/1 	1.0 	0/0 	0/0 	0/0
+Cameron Jonah 	4/0 	1.0 	0/0 	0/0 	0/0
+Evan Walsh ? 	3/0 	- 	0/2 	0/0 ?? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	4/5 	1/1 	50, 23, 36, 31 - 48 

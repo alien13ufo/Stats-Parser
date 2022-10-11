@@ -1,0 +1,66 @@
+ Jacksonville Jaguars (5-5) at Tennessee Titans (7-3)
+
+Nashville, TN - 48 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:jaguars: Jacksonville Jaguars (5-5) 	3 	14 	14 	0 	- 	31
+:titans: Tennessee Titans (7-3) 	10 	7 	7 	10 	- 	34
+Team Stats Comparison
+  	:jaguars: Jacksonville Jaguars 	:titans: Tennessee Titans
+Injuries 	
+
+Donnie Bavaro, OLB - Mild Thumb Dislocation
+
+Larry Reeves, SS - Mild Elbow Sprain
+	
+
+Tyler Jones, DE - Severe Elbow Fracture
+
+Allen Foster, CB - Moderate Hip Bruise
+Offensive Line Rating 	8.1 	7.7
+Sacks 	4 	2
+Punting 	46.5 	45.2
+Punt Return Yards 	4 	14
+Kick Return Yards 	38 	23
+Turnovers 	2 	1
+3rd Down Conversion 	5/11 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/34 	5/29
+:jaguars: Jacksonville Jaguars
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Barkley 	22/42 	250 	3 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Owen Walton 	9 	26 	1 	10 	0/0
+Isaiah Peko 	3 	12 	0 	8 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca 	7 	90 	1 	1 	0/0
+Tyrone Turner 	5 	65 	1 	0 	0/0
+Raheem Robinson 	3 	55 	0 	1 	0/0
+Willie Davis 	3 	28 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin Johnson 	3/0 	- 	1/1 	0/0 	0/0
+Preston Bryant 	2/0 	1.0 	0/0 	0/0 	0/0
+Ron Rice 	2/0 	1.0 	0/0 	0/0 	0/0
+Shamar Manning 	1/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	1/1 	4/4 	39
+	
+:titans: Tennessee Titans
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	30/50 	326 	4 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+John Harris 	7 	25 	0 	8 	0/0
+Nikita Crowe 	5 	18 	0 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Williams 	8 	89 	1 	0 	0/0
+Cody Hunter 	6 	71 	1 	2 	0/0
+Greg Newman 	5 	56 	2 	0 	0/0
+Tommy Furrey 	3 	50 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jack Ramsey 	3/0 	- 	1/0 	0/0 	0/0
+Jordan Harris 	2/0 	- 	1/1 	0/0 	0/0
+Charles Woods 	4/0 	1.0 	0/0 	0/0 	0/0
+Derrick Thomas 	1/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	2/2 	4/4 	37, 37 

@@ -1,0 +1,74 @@
+ Los Angeles Chargers (0-1) at Buffalo Bills (1-0) ?
+Buffalo, NY - 74 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (0-1) 	0 	6 	14 	3 	- 	23
+:bills: Buffalo Bills (1-0) 	7 	14 	7 	0 	- 	28
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:bills: Buffalo Bills
+Injuries 	
+
+OLB Jason Bryant - Moderate Foot Dislocation
+
+WR M.L. Kriewaldt - Mild Concussion
+	
+
+OT Nico Renner - Moderate Hamstring Bruise
+
+ 
+Top Player Grade 	OLB Shane Easley (8.78) 	WR Gary Faneca Sr. (9.52)
+Worst Player Grade 	OT Bryan Green (4.06) 	OT Leonardo Seymour (3.29)
+Offensive Line Rating 	7.92 	8.05
+Sacks 	2 	5
+Punting 	44.3 	43.5
+Punt Return Yards 	24 	16
+Kick Return Yards 	56 	74
+Turnovers 	1 	1
+3rd Down Conversion 	5/13 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/25 	5/47
+:chargers: Los Angeles Chargers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	29/51 	333 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	8 	17 	0 	5 	0/0
+Mamadou Heard 	1 	5 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jarvis Ward 	7 	102 	0 	1 	0/0
+Greg Cobb 	4 	89 	1 	0 	0/0
+M.L. Kriewaldt 	7 	53 	0 	0 	0/0
+Mamadou Heard 	4 	50 	1 	0 	0/0
+Gerald Morrison 	3 	31 	0 	2 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Stephen Elliott 	4/0 	- 	1/0 	0/0 	0/0
+Shane Easley 	5/1 	1.0 	0/0 	1/0 	0/0
+Isaiah Hall 	2/0 	1.0 	0/0 	0/0 	0/0
+Tunch Richardson 	6/1 	- 	0/0 	0/0 	0/0
+Zion Hopkins 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	3/3 	2/2 	46, 28, 36
+	
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	24/36 	288 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Matthison 	19 	84 	1 	19 	1/0
+Richard Holt 	2 	3 	1 	2T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca 	7 	125 	2 	0 	0/0
+Isaiah Cronin 	5 	75 	0 	0 	0/0
+Kevin Garvin 	3 	33 	0 	1 	0/0
+Matt Thomas 	4 	23 	0 	0 	0/0
+Marshawn Matthison 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sean Taylor 	2/0 	- 	1/1 	0/0 	0/0
+D.J. Reed 	2/0 	- 	0/2 	0/0 	0/0
+Anthony Ortiz 	2/0 	2.0 	0/0 	0/0 	0/0
+Brian Hernandez 	4/0 	2.0 	0/0 	0/0 	0/0
+Kevin Briggs 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	0/1 	4/4 	- 47

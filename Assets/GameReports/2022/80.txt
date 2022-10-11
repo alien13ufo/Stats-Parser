@@ -1,0 +1,67 @@
+ Indianapolis Colts (2-3) at New York Giants (1-2-1) ?
+
+East Rutherford, NJ - 58 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (2-3) 	14 	13 	7 	7 	- 	41
+:giants: New York Giants (1-2-1) 	0 	0 	0 	14 	- 	14
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:giants: New York Giants
+Injuries 	C Tim Thomas - Moderate Wrist Sprain 	WR Tevin Lattimore - Mild Ankle Sprain
+Top Player Grade 	QB Aaron Shea (9.68) 	OLB Louis Peterson (8.67)
+Worst Player Grade 	SS Jonathan Norman (4.50) 	OG Marcus Slade (3.02)
+Offensive Line Rating 	8.39 	8.23
+Sacks 	1 	2
+Punting 	42.6 	48.0
+Punt Return Yards 	44 	5
+Kick Return Yards 	27 	104
+Turnovers 	0 	2
+3rd Down Conversion 	5/9 	3/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/84 	4/35
+:colts: Indianapolis Colts
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	35/54 	330 	4 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L ?
+James Otero 	9 	51 	1 	23 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Keith Setzer 	10 	121 	1 	1 	0/0
+Rashad Simon 	8 	69 	1 	0 	0/0
+Sean McDermott 	6 	53 	1 	2 	0/0
+Tyler Dotson 	4 	38 	1 	1 	0/0
+Mosi Bartos 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Chris Brown 	3/0 	- 	1/0 	0/0 	0/0
+Dwayne Carter 	2/0 	- 	1/0 	0/0 	0/0
+Jonathan Goodwin 	3/0 	1.0 	0/0 	0/0 	0/0
+Kelly Mitchell 	5/1 	- 	0/0 	0/0 	0/0
+Damion Taylor 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	0/0 	5/6 	-
+	
+:giants: New York Giants
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Will Thompson 	14/27 	155 	1 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	13 	45 	0 	11 	0/0
+Daniel Nance 	9 	44 	1 	20 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sonny Beckett 	4 	46 	0 	0 	0/0
+Evan Medley 	2 	30 	0 	0 	0/0
+Hunter King 	2 	30 	1 	0 	0/0
+Brian Engle 	2 	25 	0 	1 	0/0
+O.J. Carano 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Louis Peterson 	6/1 	1.0 ? 	0/0 	0/0 	0/0
+Brad Mungro 	4/0 	1.0 	0/0 	0/0 	0/0
+Freddy Suarez 	4/2 	- 	0/0 	0/0 	0/0
+Jonah Parker 	5/0 	- 	0/0 	0/0 	0/0
+D'Qwell Moore 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Trent Michaels 	0/1 	2/2 	- 45 ?

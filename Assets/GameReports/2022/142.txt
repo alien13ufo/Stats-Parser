@@ -1,0 +1,67 @@
+ Arizona Cardinals (2-6) at Cleveland Browns (4-4) ?
+
+Cleveland, OH - 48 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (2-6) 	0 	3 	3 	14 	- 	20
+:browns: Cleveland Browns (4-4) 	3 	7 	7 	7 	- 	24
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:browns: Cleveland Browns
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	OLB Asante Willis (7.44) 	OT Nick Grant (9.00)
+Worst Player Grade 	OG Wilson Hutchinson (3.60) 	DT Je'Rod Wimbush (4.41)
+Offensive Line Rating 	8.19 	8.30
+Sacks 	0 	1
+Punting 	47.4 	43.2
+Punt Return Yards 	17 	12
+Kick Return Yards 	70 	46
+Turnovers 	1 	1
+3rd Down Conversion 	4/12 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	10/108 	8/71
+:cardinals: Arizona Cardinals
+Pistol - Wishbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	12/18 	150 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L ?
+Trevon Yeldon 	21 	95 	1 	16 	1/1
+Paul Davenport 	5 	25 	0 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Allen 	3 	41 	0 	0 	0/0
+Noah Hills 	3 	40 	0 	0 	1/0
+Marcus Banks 	2 	24 	1 	0 	0/0
+Ricky Chambers 	2 	19 	0 	0 	0/0
+Butch Harper 	1 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Asante Willis 	5/0 	- 	1/0 	0/0 	0/0
+Tom Reis 	6/0 	- 	0/0 	0/0 	0/0
+Jeffrey King 	4/0 	- 	0/0 	0/0 	0/0
+Shaq Turner 	3/0 	- 	0/0 	0/0 	0/0
+Oronde Jackson 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	2/2 	2/2 	39, 43
+	
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	15/28 	204 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	12 	60 	1 	15 	0/0
+Grady Mitchell 	10 	36 	0 	10 	0/0
+Ryan Clark 	3 	9 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tai Miller 	5 	66 	0 	0 	0/0
+Jason McClairen 	2 	41 	1 	0 	0/0
+Ray Lee Marconi 	2 	35 	0 	1 	0/0
+Morgan Patton 	2 	32 	0 	0 	0/0
+Sean Bell 	1 	18 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ray McBride 	3/1 	1.0 	0/0 	0/0 	0/0
+Caleb McNamara ? 	3/0 	- 	0/0 	1/0 	0/0
+LaMichael Jones 	6/0 	- 	0/0 	0/1 	0/0
+Antonio Oliver 	5/0 	- 	0/0 	0/0 	0/0
+C.J. Thomas 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	1/2 	3/3 	43 - 56 ?

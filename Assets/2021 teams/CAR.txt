@@ -1,0 +1,53 @@
+QB Christian Skaggs 6-1 214 7 Florida State [Pocket] 99
+QB Sean Hamilton 6-2 207 1 Nebraska [Pocket] 82
+QB Justin Hunter 6-0 210 3 Mississippi State [Pocket] 78
+RB Mike Latta 6-0 209 4 Florida State [Speed] 90
+RB Shawn Anderson 5-8 184 4 Oregon [Power] 83
+FB Donnie Hubbert 5-11 229 4 Nebraska [Run Blocking] 89
+FB Julius Gaston 5-10 210 R LSU [Pass Blocking] 76
+WR Monte Jackson 6-6 227 2 Miami [Target] 88
+WR Jermaine Bishop 6-4 194 3 Pittsburgh [Target] 81
+WR Billy Rodgers 6-1 164 5 North Carolina [Target] 80
+WR Chip Johnson 6-3 188 3 Oregon [Target] 79
+WR Troy Wilson 6-0 150 2 Cincinnati [Speed] 79
+TE Curtis Henry 6-6 202 1 Utah State [Receiving] 86
+TE Norman Willard 6-1 230 2 Boston College [Receiving] 78
+TE Quentin McCullough 6-7 240 4 Clemson [Blocking] 78
+OT Tron Moses 6-6 285 6 Michigan State [Pass Blocking] 97
+OT Lonnie Woodruff 6-6 300 5 Florida State [Run Blocking] 84
+OT Emerson Ware 6-0 297 3 Florida [Run Blocking] 85
+OT Charles Mahan 6-5 332 4 TCU [Pass Blocking] 74
+OG Bob Ruegamer 6-3 302 7 Texas [Run Blocking] 82
+OG Joshua Whitlock 6-6 284 1 Washington State [Run Blocking] 83
+OG Pat Dorenbos 6-0 276 3 Oregon [Pass Blocking] 72
+C Joe Cherry 6-1 321 7 Oklahoma State [Pass Blocking] 80
+C Jacob Alves 6-3 302 R Akron [Pass Blocking] 74
+C Pat Johnson 6-5 284 3 Stanford [Run Blocking] 73
+DE Kendrick Droughns 6-6 294 5 Ohio State [Contain] 91
+DE Demarius Strong 6-4 254 4 Navy [Blitz] 81
+DE Brian Bynum 6-6 275 4 Kansas State [Blitz] 76
+DE Matthew Mendoza 6-4 254 2 Wisconsin [Contain] 71
+DT Mike Wohlabaugh 6-3 287 4 USC [1-Gap] 90
+DT Joseph Bynum 6-6 298 R Oregon [1-Gap] 80
+DT Doug Allotey 6-6 271 3 Florida [1-Gap] 71
+DT Wilburn Ball 6-6 290 2 Notre Dame [1-Gap] 77
+ILB Kelvin Grossman 6-0 231 5 Nebraska [Mike] 84
+ILB Jimmy Workman 6-0 226 4 USC [Mike] 76
+ILB Jared Clay 6-0 235 R Oregon [Mike] 70
+OLB Trent Haynes 6-1 228 5 Tennessee [Coverage] 90
+OLB Jeff Brooks 6-0 230 4 Florida [Coverage] 83
+OLB Alan Smith 6-2 223 3 Virginia [Coverage] 74
+OLB Leland Anderson 6-1 236 2 Miami [Coverage] 73
+CB Nate Tensi 6-0 196 6 Clemson [Man Coverage] 93
+CB Jacoby Seaverns 6-2 190 6 Oklahoma [Man Coverage] 89
+CB Ricky Rose 6-2 198 5 Kansas [Zone Coverage] 78
+CB Justin Rouse 6-0 204 1 Akron [Man Coverage] 71
+FS Jon Thomas 6-0 197 3 Texas [Man Coverage] 79
+FS Carlton Sylvester 6-0 193 2 Nebraska [Zone Coverage] 82
+FS Albert White 5-10 184 6 Mississippi State [Zone Coverage] 75
+SS Darren Manning 6-4 189 5 Tennessee [ZoneCoverage] 93
+SS Warren McNabb 6-2 198 5 GeorgiaTech [Zone Coverage] 76
+SS Dylan Mosley 5-11 202 R Arizona State [Man Coverage] 75
+K Skip Gibson 6-0 178 5 Georgia [Accuracy] 95
+P Yuri Garisov 6-3 222 3 Auburn [Accuracy] 85
+PR Glenn McCurdy 5-11 182 R UAB [Specialist] 77

@@ -1,0 +1,72 @@
+ Minnesota Vikings (3-11) at Detroit Lions (12-2) ?
+
+Detroit, MI - 30 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:vikings: Minnesota Vikings (3-11) 	7 	3 	0 	7 	- 	17
+:fibur: Detroit Lions (12-2) 	7 	6 	14 	3 	- 	30
+Team Stats Comparison
+  	:vikings: Minnesota Vikings 	:fibur: Detroit Lions
+Injuries 	
+
+No Injuries
+
+ 
+	CB Keyshawn Thompson - Moderate Quadriceps Strain
+Top Player Grade 	C John Hadley (9.74) 	RB Kenyon Randall (9.75)
+Worst Player Grade 	DT Marcus Brown (2.56) 	ILB Griffin Perrin (4.02)
+Offensive Line Rating 	8.20 	8.44
+Sacks 	0 	2
+Punting 	44.6 	48.0
+Punt Return Yards 	9 	17
+Kick Return Yards 	84 	45
+Turnovers 	0 	0
+3rd Down Conversion 	4/11 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/54 	5/26
+:vikings: Minnesota Vikings
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Blair Holcomb 	17/32 	215 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L ?
+Evan Grant 	18 	102 	0 	36 	0/0
+Isaac Wilson 	6 	53 	1 	27 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mohamed Charles 	5 	70 	0 	0 	0/0
+Luke Cobb 	5 	49 	1 	0 	0/0
+Jacory Kessler 	2 	40 	0 	1 	0/0
+Timothy Perez 	2 	25 	0 	0 	0/0
+Aaron Ayala 	1 	16 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Matt Thomas 	6/1 	- 	0/0 	1/0 	0/0
+Sebastian Smallwood 	2/0 	- 	0/0 	1/0 	0/0
+Tyler Trent 	6/0 	- 	0/0 	0/0 	0/0
+Devin Whitaker 	5/0 	- 	0/0 	0/0 	0/0
+Damani Sheppard 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Gilligan 	1/1 	2/2 	43
+	
+:fibur: Detroit Lions
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	19/27 	290 	1 	0 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	25 	180 	2 	71T 	0/0
+Calvin Jones 	6 	37 	0 	22 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Cook ? 	4 	98 	0 	0 	0/0
+Rex Walsh 	5 	62 	0 	0 	0/0
+Rashad Simon 	3 	50 	1 	0 	0/0
+Anthony Fasani 	2 	43 	0 	0 	1/0
+Emory Johnson 	2 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kieron Brooks 	7/1 	1.0 	0/0 	0/0 	0/0
+Doug Carolan 	3/0 	1.0 	0/0 	0/0 	0/0
+Kofi Neal 	6/0 	- 	0/1 	0/0 ? 	0/0
+Kevin McQueen 	5/0 	- 	0/1 	0/0 	0/0
+Cameron Jones 	4/2 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	3/3 	3/3 	57, 27, 36 ?

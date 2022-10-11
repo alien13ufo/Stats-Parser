@@ -1,0 +1,65 @@
+ Kansas City Chiefs (0-1) at Pittsburgh Steelers (1-0) ?
+Pittsburgh, PA - 73 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chiefs: Kansas City Chiefs (0-1) 	0 	3 	7 	3 	- 	13
+:steelers: Pittsburgh Steelers (1-0) 	7 	7 	3 	0 	- 	17
+Team Stats Comparison
+  	:chiefs: Kansas City Chiefs 	:steelers: Pittsburgh Steelers
+Injuries 	No Injuries 	OLB Patrick Murphy - Moderate Thumb Fracture
+Top Player Grade 	DE Luke Lyes (8.05) 	WR Samuel Jolley (7.53)
+Worst Player Grade 	WR Daniel Hobbs (4.32) 	OLB Charlie Johnson (4.08)
+Offensive Line Rating 	8.22 	8.17
+Sacks 	3 	2
+Punting 	40.7 	46.4
+Punt Return Yards 	19 	35
+Kick Return Yards 	36 	26
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/62 	5/39
+:chiefs: Kansas City Chiefs
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Harris 	22/37 	240 	1 	1 ? 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	18 	75 	0 	18 	0/0
+Justin Buchanan 	3 	10 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Justin Hill 	4 	56 	0 	0 	0/0
+Daniel Hobbs 	4 	54 	0 	2 	0/0
+Harry Whiteside 	3 	50 	1 	0 	0/0
+Spec Davidson 	4 	36 	0 	0 	0/0
+Jariel Rosario 	3 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Luke Lyles 	2/0 	1.0 	1/0 	0/0 	0/0
+Devin Stephens 	5/0 	1.0 	0/0 	0/0 	0/0
+Jeffrey Chung 	2/0 	1.0 	0/0 	0/0 	0/0
+Sean Springs 	3/0 	- 	0/2 	0/0 	0/0
+Dewey Tomlinson 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	2/2 	1/1 	45, 42
+	
+:steelers: Pittsburgh Steelers
+Vertical - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	25/45 	309 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	12 	74 	0 	26 	0/0
+Kalei Keil 	2 	6 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Samuel Jolley 	8 	105 	1 	0 	0/0
+William Anderson 	5 	75 	0 	0 	0/0
+Todd Druckenmiller 	3 	58 	1 	0 	0/0
+Jake Schmidt 	2 	22 	0 ? 	0 	0/0
+Kavika Russell 	3 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ronnie Bailey 	3/0 	- 	1/1 	0/0 	0/0
+Carlos Washington 	4/0 	1.0 	0/0 	0/0 	0/0
+Marcus Carver 	1/0 	1.0 	0/0 	0/0 	0/0
+Ron Mobley 	6/1 	- 	0/1 	0/0 	0/0
+Charlie Johnson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Lorenzo Rodgers 	1/2 	2/2 	35 - 47 ?

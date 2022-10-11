@@ -1,0 +1,66 @@
+ Atlanta Falcons (3-4) at Washington Redskins (3-4)
+
+Landover, MD - 55 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:falcons: Atlanta Falcons (3-4) 	0 	21 	7 	7 	- 	35
+:redskins: Washington Redskins (3-4) 	0 	7 	3 	0 	- 	10
+Team Stats Comparison
+  	:falcons: Atlanta Falcons 	:redskins: Washington Redskins
+Injuries 	
+
+LaMichael Harley, OG - Severe Thumb Bruise
+
+Marcus Grant, ILB - Moderate Calf Strain
+	
+
+Walter Adair, OT - Moderate Elbow Bruise
+
+Anthony Brown, OLB - Moderate Hip Strain
+Offensive Line Rating 	8.5 	8.2
+Sacks 	3 	2
+Punting 	41.1 	49.3
+Punt Return Yards 	2 	18
+Kick Return Yards 	20 	39
+Turnovers 	0 	3
+3rd Down Conversion 	5/9 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/40 	8/105
+:falcons: Atlanta Falcons
+Spread - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	19/24 	280 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	25 	142 	2 	41T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Bo Woodall 	5 	82 	1 	0 	0/0
+Riddick Smith 	6 	80 	1 	0 	0/0
+Jason Erwin 	3 	62 	0 	0 	0/0
+Joseph Thurston 	2 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darius Jones 	5/0 	- 	1/0 	0/0 	0/0
+David Wilburn 	1/0 	- 	1/0 	0/0 	0/0
+Vontae Burnett 	1/0 	- 	1/0 	0/0 	0/0
+Eric Jennings 	3/1 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	0/0 	5/5 	-
+	
+:redskins: Washington Redskins
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	20/35 	205 	1 	3 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	14 	35 	0 	11 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tony DeMarco 	7 	92 	0 	0 	0/0
+Eddie McFadden 	4 	53 	1 	1 	0/0
+Sam Hiller-Weeden 	3 	22 	0 	0 	0/0
+Ken Brown 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Fred Romanowski 	5/1 	1.0 	0/0 	0/0 	0/0
+Steven Jordan 	4/1 	1.0 	0/0 	0/0 	0/0
+Nicolas Haskell 	6/0 	- 	0/0 	0/0 	0/0
+Anthony Brown 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	1/2 	1/1 	40 - 59 

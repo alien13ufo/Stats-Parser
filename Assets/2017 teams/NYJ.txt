@@ -1,0 +1,50 @@
+QB Erik Wegert 6-4 218 1 Wisconsin [Pocket] 88
+QB Jeffrey Powers 6-0 199 R Maryland [Pocket] 68
+QB Bobby Viger 6-1 204 2 Michigan State [Pocket] 66
+RB O.J. Carano 5-11 217 2 Minnesota [Power] 94
+RB Eddie Anderson 5-10 173 R Missouri [Power] 78
+RB Trace Buchanan 6-0 187 3 UCF [Power] 69
+FB Cyril Harris 6-0 230 R Nebraska [Power] 72
+WR Jim Umenyiora 6-2 197 1 NC State [Speed] 86
+WR Charlie Paul 5-9 163 1 Maryland [Target] 84
+WR Michael Potts 6-1 196 2 Maryland [Speed] 79
+WR Rod Woodley 6-2 199 3 Stanford [Speed] 71
+WR Dennis Carr 5-11 193 R Iowa [Target] 69
+TE Charlie Wilson 6-7 247 2 GeorgiaTech [RunBlocking] 86
+TE Charlie Bryson 6-6 231 2 OklahomaState [RunBlocking] 74
+TE Robert Miller 6-3 231 1 Nebraska [Pass Blocking] 72
+OT Lyle Matthews 6-1 343 R Arizona State [Pass Blocking] 79
+OT Mike Cavanaugh 6-6 323 2 NCState [PassBlocking] 79
+OT Erik Russell 6-6 296 2 OhioState [PassBlocking] 76
+OT Don Fontenot 6-1 328 3 Nebraska [RunBlocking] 72
+OG Joe Farmer 6-1 322 2 VirginiaTech [RunBlocking] 96
+OG David Schlereth 6-4 298 1 Wisconsin [Pass Blocking] 84
+OG John Cooke 6-6 276 R California [Pass Blocking] 69
+OG Ian Meyer 6-5 289 R Georgia Tech [Pass Blocking] 68
+C T.J. Brumm 6-1 267 R Arizona State [Pass Blocking] 81
+DE Alvis Brumm 6-6 268 3 Penn State [RunStop] 97
+DE Ray McBride 6-6 275 1 Alabama [Run Stop] 84
+DE Sidney Burris 6-3 274 2 OregonState [RunStop] 75
+DE Karim Brown 6-6 270 1 Nebraska [Pass Stop] 75
+DE Andre Gaffney 6-4 269 2 TCU [PassStop] 66
+DT Bob Ballard 6-1 292 2 PennState [PassStop] 85
+DT Walter Scott 6-1 293 2 OleMiss [RunStop] 76
+DT Kris Lewis 6-3 274 R Clemson [Pass Stop] 73
+DT Travis Williams 6-5 270 1 California [Pass Stop] 69
+OLB Kwazi Robb 6-1 232 3 Minnesota [PassMan-to-Man] 88
+OLB Tommy Leonard 6-1 229 3 Nebraska [RunMan-to-Man] 79
+OLB Clarence Harris 6-1 242 2 Purdue [RunMan-to-Man] 71
+OLB Ronald Jagade 6-0 234 R Michigan State [Run Man-to-Man] 68
+ILB Rich Barker 6-0 234 2 Oklahoma [RunMan-to-Man] 78
+ILB Zion Adakwa 6-2 224 R Illinois [Run Man-to-Man] 76
+ILB De'Mond Goode 6-1 232 3 TCU [PassMan-to-Man] 70
+CB John Queen 5-11 196 3 LSU [ManCoverage] 87
+CB Marques Warner 6-1 193 1 Texas A&M [Man Coverage] 82
+CB Rufus Freeman 5-10 186 1 Pittsburgh [Man Coverage] 72
+CB Pervis Branch 5-8 158 3 Oregon [Man Coverage] 69
+FS Daniel Scott 6-1 172 R Maryland [Man Coverage] 74
+FS David Koenig 5-10 173 R Kansas State [Zone Coverage] 67
+SS Taz Tomlinson 5-10 183 1 Minnesota [Man Coverage] 76
+SS Tony Hennigan 5-10 184 3 UCF [ManCoverage] 72
+K Chris Hoag 6-2 184 R UCLA [Power] 82
+P John Maslowski 5-8 203 1 USC [Accuracy] 86

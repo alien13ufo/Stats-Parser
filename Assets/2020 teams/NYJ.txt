@@ -1,0 +1,53 @@
+QB Erik Wegert 6-4 218 4 Wisconsin [Pocket] 93
+QB James Dale 6-2 213 3 Pittsburgh [Pocket] 83
+QB Raoul Gomez 6-0 220 1 Washington State [Pocket] 70
+RB Emmanuel Fields 5-7 213 1 Western Michigan [Power] 80
+RB Marvin Washington 5-8 178 2 California [Speed] 78
+RB Sam Chapman 5-10 229 R Northern Iowa [Speed] 77
+FB Ousmane Green 5-8 245 R Eastern Michigan [Run Blocking] 75
+WR Paul Howell 6-0 191 5 Mississippi State [Target] 94
+WR Charlie Paul 5-9 163 4 Maryland [Target] 88
+WR Ken Brown 6-5 174 5 NC State [Speed] 83
+WR Eugene Sanders 6-3 214 R Texas Tech [Target] 75
+WR Rocky Kruse 6-2 169 R Hawaii [Speed] 74
+WR Dennis Carr 5-11 193 3 Iowa [Target] 73
+WR Jesse Scott 5-11 179 2 Purdue [Speed] 70
+TE Matt Stone 6-4 236 1 UCLA [Blocking] 85
+TE William Bouchard 6-3 246 R ECU [Receiving] 75
+TE Hunter Goodson 6-2 239 R Pittsburgh [Blocking] 70
+TE Raymond Rivera 6-3 253 1 Rutgers [Blocking] 70
+OT Darnerien Sohn 6-7 306 2 Miami (FL) [Pass Blocking] 90
+OT Joe McCord 6-5 309 5 Notre Dame [Run Blocking] 84
+OT Arthur Bonds 6-5 313 1 BYU [Run Blocking] 78
+OT Oliver Lewis 6-6 309 1 Arizona [Run Blocking] 76
+OG Joe Farmer 6-1 322 5 Virginia Tech [Run Blocking] 96
+OG David Schlereth 6-4 298 4 Wisconsin [Pass Blocking] 91
+OG Tavon Logan 6-4 304 2 Florida State [Run Blocking] 71
+C Aden Hastings 6-2 282 R Iowa State [Pass Blocking] 79
+C Raymond Kline 6-3 253 1 Texas [Run Blocking] 77
+DE Alvis Brumm 6-6 268 6 Penn State [Blitz] 99
+DE Jonathan Bridges 6-6 267 1 Penn State [Blitz] 81
+DE Karim Brown 6-6 270 4 Nebraska [Contain] 75
+DE Samir Dixon 5-10 253 R Stanford [Blitz] 69
+DT Bob Ballard 6-1 292 5 Penn State [2-Gap] 91
+DT Kyle Pratt 6-4 301 1 Virginia [1-Gap] 81
+DT James Arnold 6-8 291 2 Cincinnati [1-Gap] 78
+DT Chris James 6-3 285 2 North Carolina [1-Gap] 76
+ILB Zion Adakwa 6-2 224 3 Illinois [Mike] 86
+ILB Chris Tucker 6-3 230 1 Tennessee [Mike] 80
+OLB Kwazi Robb 6-1 232 6 Minnesota [Coverage] 92
+OLB Daquan Darcey 6-4 232 R TCU [Coverage] 80
+OLB Dennis Himes 6-0 228 1 Oklahoma [Coverage] 78
+OLB Matt Okoye 5-11 217 2 Florida State [Coverage] 71
+CB John Queen 5-11 196 6 LSU [Man Coverage] 90
+CB Marques Warner 6-1 193 4 Texas A&M [Man Coverage] 87
+CB Nathaniel Woodworth 5-10 174 R Miami [Man Coverage] 78
+CB Kristian Harvey 5-9 176 R Rutgers [Man Coverage] 73
+CB Rufus Freeman 5-10 186 4 Pittsburgh [Man Coverage] 73
+CB Adam Goss 6-1 222 1 Texas A&M [Man Coverage] 72
+FS Reshad Jenkins 5-11 198 2 Houston [Man Coverage] 85
+FS Jose Ortiz 6-1 204 1 Tennessee [Zone Coverage] 78
+SS Sebastian Vaughn 6-1 194 2 Penn State [Zone Coverage] 84
+SS Jesse Hutchins 6-2 182 R Air Force [Man Coverage] 78
+K Chris Hoag 6-2 184 3 UCLA [Power] 89
+P John Maslowski 5-8 203 4 USC [Accuracy] 90

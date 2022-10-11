@@ -1,0 +1,69 @@
+ Washington Redskins (2-1) at Dallas Cowboys (2-1) ?
+
+Arlington, TX - 78 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:redskins: Washington Redskins (2-1) 	0 	7 	14 	7 	- 	28
+:cowboys: Dallas Cowboys (2-1) 	0 	0 	6 	7 	- 	13
+Team Stats Comparison
+  	:redskins: Washington Redskins 	:cowboys: Dallas Cowboys
+Injuries 	No Injuries 	DE Joseph Randolph - Moderate Foot Fracture
+Top Player Grade 	WR Patrick Burke (8.78) 	FS Emmanuel Slade (8.12)
+Worst Player Grade 	OLB Anthony Brown (3.06) 	OG Donald Goode (2.06)
+Offensive Line Rating 	8.46 	8.38
+Sacks 	1 	0
+Punting 	45.3 	45.1
+Punt Return Yards 	8 	3
+Kick Return Yards 	57 	72
+Turnovers 	1 	2
+3rd Down Conversion 	5/12 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/74 	6/40
+:redskins: Washington Redskins
+Pro Style - Pistol ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	24/40 	292 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Maurice White 	18 	105 	1 	18 	0/0
+Ricardo Reed 	4 	9 	1 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Patrick Burke 	9 	120 	1 	0 	0/0
+Frank Moffett 	3 	84 	0 	1 	0/0
+Tony DeMarco 	4 	36 	0 	0 	0/0
+Ty Royal 	2 	29 	1 	1 	0/0
+Eddie McFadden 	3 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tre'Davious Dikes 	4/0 	- 	1/1 	0/0 	0/0
+Michael Barber 	3/0 	- 	1/1 	0/0 	0/0
+Derrick Martin 	5/0 	1.0 	0/0 	0/0 	0/0
+Cameron Whitney 	5/0 	- 	0/1 	0/0 	0/0
+Samir Driver 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+Neal Watson 	0/0 	0/0 	0/0 	0/0 	0/0 	4/4
+ADDITIONAL INFO ?
+-
+	
+:cowboys: Dallas Cowboys
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	28/55 	299 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kalei Keil 	5 	9 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Charles Sherrill 	6 	82 	1 	0 	0/0
+Rodney Montgomery 	7 	71 	0 	1 	0/0
+DeAndre Felder 	5 	62 	1 	1 	0/0
+Francisco Gibson 	3 	32 	0 	1 	0/0
+Gabe Barrientos 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeremy Evans 	3/0 	- 	1/0 	0/0 	0/0
+Emmanuel Slade 	8/0 	- 	0/0 	0/0 	0/0
+Noah Tubbs 	5/0 	- 	0/0 	0/0 	0/0
+Adam Taylor 	4/0 	- 	0/0 	0/0 	0/0
+Marcus Grant 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+Carlos Cruz 	0/0 	0/0 	0/0 	0/0 	0/0 	1/2
+ADDITIONAL INFO ?
+- ?

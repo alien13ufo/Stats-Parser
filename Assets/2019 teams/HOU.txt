@@ -1,0 +1,53 @@
+QB Alex Leshoure 6-1 205 R BostonCollege [Pocket] 82
+QB Tommy Jones 6-3 198 1 Michigan [Hybrid] 82
+QB Blake Shell 6-5 194 4 Virginia Tech [Pocket] 88
+RB Rickie Baird 5-11 171 3 Cincinnati [Speed] 81
+RB Sean Egloff 6-0 207 R Oklahoma [Speed] 78
+RB Buzz Etcheverry 5-10 182 2 UCF [Power] 78
+FB Broderick Snell 5-11 235 5 Texas [Pass Blocking] 80
+FB Mark Macleod 6-1 221 R EasternMichigan [RunBlocking] 76
+WR Billy Rodgers 6-1 164 3 NorthCarolina [Target] 85
+WR Vaughn Gash 6-3 183 5 Tennessee [Speed] 81
+WR Gordon Kleinsasser 6-6 200 2 Michigan [Target] 82
+WR Jeremy Scarborough 5-11 216 R Colorado State [Target] 78
+WR John Gross 6-6 185 3 Miami [Speed] 78
+WR Al Divito 6-0 186 2 Georgia [Speed] 75
+TE Isaiah Davidson 6-6 247 3 BoiseState [Blocking] 84
+TE Stanley Sherk 6-7 232 1 Virginia Tech [Blocking] 78
+OT Aaron Gugliemi 6-2 310 4 Tennessee [Pass Blocking] 88
+OT Matt Bogle 6-1 341 3 OhioState [Pass Blocking] 92
+OT Dillon Bridges 6-2 295 R Fresno State [Pass Blocking] 74
+OT Dwight Ellis 6-3 327 4 NotreDame [Pass Blocking] 74
+OG John Chance 6-7 315 4 OregonState [Run Blocking] 92
+OG Jason Osorio 6-2 275 1 Virginia Tech [Pass Blocking] 84
+OG Stan Flutie 6-1 297 1 UCLA [Pass Blocking] 76
+OG Ronald Sutton 6-7 314 R Wisconsin [Run Blocking] 68
+C Rodney Atkins 6-1 291 1 Navy [Run Blocking] 77
+C Raymond Muhammad 6-4 292 5 Virginia Tech [Run Blocking] 73
+DE Kaulana Groth 6-7 304 4 OhioState [Contain] 87
+DE Robert Fulton 6-0 266 R LSU [Contain] 81
+DE Freeman Schubert 6-6 260 1 Arizona State [Contain] 77
+DE Ronald Harris 6-3 251 R UCLA [Contain] 70
+DT Nathan Knowlton 6-6 277 2 Boise State [1-Gap] 82
+DT Joseph Blair 6-2 294 2 Utah [1-Gap] 78
+DT Lynn Burford 6-7 300 4 USC [2-Gap] 74
+DT James Hawkins 6-5 267 R Kansas [1-Gap] 70
+ILB Blair Williams 6-2 247 4 Colorado [Mike] 89
+ILB Barty Tillman 6-2 222 1 Clemson [Will] 75
+ILB Robert Andrews 5-11 215 R Michigan [Mike] 69
+OLB Chester Williams 6-2 219 3 Auburn [Coverage] 83
+OLB Richard Jones 5-11 236 R Washington State [Coverage] 80
+OLB Jeff Brooks 6-0 230 2 Florida [Coverage] 79
+OLB Jerry Sanford 6-1 252 1 San Jose State [Coverage] 72
+CB Wayne Hape 5-10 184 4 USC [Man Coverage] 81
+CB Antonio Hotchkiss 5-9 187 2 Ohio State [Man Coverage] 74
+CB Brent Johnson 5-11 181 1 Utah [Zone Coverage] 77
+CB Dashon Hodge-Stevens 5-11 212 R Virginia Tech [Man Coverage] 76
+CB Leveon Brooks 6-2 189 R Arizona [Man Coverage] 70
+FS Reynaldo Harris 5-9 174 3 Miami [Man Coverage] 88
+FS Michael Bryan 5-10 177 R Oklahoma [Zone Coverage] 77
+FS Michael Ross 6-0 205 R LSU [Man Coverage] 70
+SS Tyler Trent 5-10 210 1 Alabama [Man Coverage] 80
+SS Joel Murphy 5-11 201 3 Arizona [Zone Coverage] 74
+K Ronald Daniel 5-8 184 2 Baylor [Power] 80
+P Joe Wood 5-9 192 3 Michigan [Power] 93

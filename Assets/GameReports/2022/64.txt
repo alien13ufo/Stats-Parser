@@ -1,0 +1,67 @@
+ Washington Redskins (3-1) at Dallas Cowboys (2-2) ?
+
+Arlington, TX - 79 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:redskins: Washington Redskins (3-1) 	0 	14 	0 	10 	0 	24
+:cowboys: Dallas Cowboys (2-2) 	7 	7 	7 	3 	3 	27
+Team Stats Comparison
+  	:redskins: Washington Redskins 	:cowboys: Dallas Cowboys
+Injuries 	WR Patrick Burke - Moderate Concussion 	No Injuries
+Top Player Grade 	DE Steven Jordan (7.42) 	QB Graham Burnett (8.21)
+Worst Player Grade 	OLB Nathaniel Jeffries (1.95) 	OLB Adam Taylor (4.53)
+Offensive Line Rating 	8.53 	8.48
+Sacks 	1 	1
+Punting 	45.3 	43.5
+Punt Return Yards 	26 	14
+Kick Return Yards 	55 	74
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	6/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	10/86 	7/57
+:redskins: Washington Redskins ?
+Pro Style - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	22/39 	227 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	11 	40 	1 	8 	0/0
+Johnny Taylor 	7 	30 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	5 	56 	0 	0 	0/0
+Tony DeMarco 	4 	53 	1 	0 	0/0
+Ty Royal 	4 	41 	0 	0 	0/0
+Eddie McFadden 	3 	23 	1 	0 	0/0
+Johnny Taylor 	3 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Steven Jordan 	5/1 	1.0 	0/0 	0/0 	0/0
+Nicolas Haskell 	7/1 	- 	0/0 	0/0 	0/0
+Anthony Brown 	4/1 	- 	0/0 	1/0 	0/0
+Fred Romanowski 	5/0 	- 	0/0 	0/1 	0/0
+Mike Hill	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	1/2 	3/3 	33 - 45
+	
+:cowboys: Dallas Cowboys
+Pro Style - Spread
+PASSING ? 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	24/36 	317 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Adrian Robinson 	22 	118 	1 	38T 	1/1
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC ? 	YDS 	TD 	DRP 	F/L
+Rodney Montgomery 	8 	100 	1 	0 	0/0
+Francisco Gibson 	3 	94 	1 	0 	0/0
+Austin Medina 	4 	42 	0 	1 	0/0
+Adrian Robinson 	3 ? 	25 	0 	0 	0/0
+Alex Gash 	2 ?? 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Travis Chatman 	2/0 	- 	1/1 	0/0 	0/0
+Javier Grady 	3/0 ? 	0.5 	0/0 	0/0 	0/0
+Jeff Mangum 	3/0 	0.5 	0/0 	0/0 	0/0
+Antoine Mayfield 	6/0 	- 	0/1 	0/0 	0/0
+Emmanuel Slade 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Carlos Cruz 	2/2 	3/3 	45, 43 

@@ -1,0 +1,53 @@
+QB Joaquin Younger 6-5 215 1 Oregon [Hybrid] 81
+QB Sean Hadnot 6-5 217 3 Alabama [Hybrid] 80
+QB David Kaplan 6-1 189 R San Jose State [Pocket] 75
+QB Aaron Kotar 6-6 225 4 Ohio State [Scrambling] 82
+RB Chad Dess 6-1 241 4 Virginia [Power] 90
+RB Will Hammond 5-8 201 R Tulsa [Power] 75
+RB Donald Dingle 6-0 207 1 Clemson [Power] 71
+RB Christopher Rodriguez 5-11 191 2 Ball State [Power] 71
+FB Michael Banks 6-2 247 5 Michigan [Run Blocking] 73
+WR Ryan Mitchell 5-11 176 4 Ohio State [Speed] 89
+WR Glenn Franckowiak 6-0 201 3 Nebraska [Target] 85
+WR Isaiah Cronin 6-1 174 R Ohio State [Speed] 78
+WR Douglas Chadwick 5-10 182 2 Indiana [Target] 73
+WR Frank Weiss 6-4 173 3 Boise State [Speed] 71
+WR Richard Dodge 6-3 186 R Bowling Green [Speed] 66
+TE Paul Johnson 6-2 257 5 Florida [Blocking] 78
+TE Pat O'Connell 6-0 247 1 Texas [Blocking] 74
+OT Mike Woods 6-2 317 R Michigan State [Pass Blocking] 83
+OT Robert Barraza 6-6 347 4 ECU [RunBlocking] 85
+OT Joseph Rasmussen 6-6 285 2 Duke [Pass Blocking] 79
+OT Wesley Delarosa 6-4 294 1 Rice [Run Blocking] 75
+OG Sammy Baxter 6-4 283 5 USC [Run Blocking] 83
+OG Jim Hutchinson 6-1 302 2 UCLA [Pass Blocking] 79
+OG Joe Hutchinson 6-8 257 1 Texas [Run Blocking] 69
+OG Ronald Collins 6-8 299 3 Minnesota [Run Blocking] 69
+C Bill Bullard 6-3 266 1 Buffalo [Run Blocking] 75
+C Wally Bowers 6-5 296 2 Washington [Run Blocking] 69
+DE Anthony Ortiz 6-7 262 2 Oklahoma State [Blitz] 89
+DE Rodney Galbreath 6-8 301 5 South Carolina [Blitz] 93
+DE Richard Coleman 6-4 257 1 Arizona [Contain] 69
+DE Stephen Jones 6-8 271 3 Pittsburgh [Contain] 66
+DT Kendall Hill 6-6 312 4 California [2-Gap] 90
+DT Anthony Whipple 6-0 324 R Wisconsin [2-Gap] 76
+DT Lance Baker 6-4 328 4 Colorado [2-Gap] 70
+DT Antony Lowry 6-3 325 3 Maryland [2-Gap] 64
+ILB Mike Bledsoe 6-1 231 4 Virginia Tech [Will] 84
+ILB Hunter Taylor 6-2 231 2 Washington [Mike] 76
+ILB Richard Suarez 6-4 219 R Boston College [Mike] 76
+ILB James Hastings 6-2 246 3 Florida [Will] 71
+OLB Brian Hernandez 6-3 217 1 Maryland [Blitz] 83
+OLB David Kuppe 5-11 214 3 Missouri [Coverage] 77
+OLB Jay McDonald 6-0 214 2 Northwestern [Coverage] 68
+OLB Lawrence Coleman 6-0 241 R Missouri [Coverage] 66
+CB Archie Velasquez 5-9 186 3 Georgia [Man Coverage] 79
+CB Clarence Simmons 6-3 203 4 VirginiaTech [Man Coverage] 74
+CB Dale Denney 6-1 193 3 Minnesota [Man Coverage] 71
+CB Troy Blankenship 5-10 193 4 WashingtonState [Man Coverage] 68
+FS Chris Bengtson 6-1 193 3 DaytonaBeachCC [Man Coverage] 80
+FS Tom Rambo 5-10 184 1 Ohio State [Man Coverage] 72
+SS Keyshawn Ayanbadejo 6-1 217 5 Florida State [Man Coverage] 85
+SS John Smith 5-11 203 1 Baylor [Man Coverage] 74
+K Dana Currier 5-9 208 1 Marshall [Power] 79
+P Patrick Schofield 6-2 192 R Cincinnati [Power] 79

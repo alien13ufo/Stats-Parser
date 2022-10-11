@@ -1,0 +1,67 @@
+ Tennessee Titans (6-2) at Dallas Cowboys (5-3) ?
+
+Arlington, TX - 75 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (6-2) 	0 	6 	10 	0 	- 	16
+:cowboys: Dallas Cowboys (5-3) 	7 	10 	3 	3 	- 	23
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:cowboys: Dallas Cowboys
+Injuries 	ILB Randy Humphreys - Severe Toe Bruise 	No Injuries
+Top Player Grade 	OT Brandon Reamon (9.36) 	QB Luke Williams (8.90)
+Worst Player Grade 	DE John Peterson (2.46) 	ILB Antoine Mayfield (2.40)
+Offensive Line Rating 	8.21 	8.48
+Sacks 	0 	1
+Punting 	45.1 	46.5
+Punt Return Yards 	12 	10
+Kick Return Yards 	85 	57
+Turnovers 	1 	0
+3rd Down Conversion 	6/13 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/67 	6/42
+:titans: Tennessee Titans
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	21/39 	223 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	13 	76 	0 	15 	0/0
+Nikita Crowe 	3 	19 	0 	7 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cody Hunter 	6 	80 	1 	1 	0/0
+Hastin Rider 	3 	45 	0 	0 ? 	0/0
+Kevin Williams 	5 	40 	0 	1 	0/0
+Greg Newman 	3 	25 	0 	1 	0/0
+Derek Blalock 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tyrese Thompson 	5/2 	- 	0/0 	1/0 	0/0
+Jordan Harris 	2/0 	- 	0/2 	0/0 	0/0
+David Doherty 	5/0 	- 	0/0 	0/0 	0/0
+Joseph Whiteside 	4/1 	- 	0/0 	0/0 	0/0
+Tyler Jones 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	3/4 	1/1 	40, 27, 43 - 50
+	
+:cowboys: Dallas Cowboys
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Luke Williams 	19/29 	240 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Adrian Robinson 	19 	107 	0 	13 	1/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rodney Montgomery 	6 	80 	0 	0 	0/0
+Francisco Gibson 	3 	65 	0 	1 	0/0
+Austin Medina 	4 	31 	2 	0 	0/0
+Francisco Gibson 	2 	30 	0 	0 	0/0
+Alex Gash 	1 	17 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Travis Chatman 	3/0 	- 	1/2 	0/0 	0/0
+Kendall Hill 	4/1 	1.0 	0/0 	0/0 	0/0
+Jeff Mangum 	6/0 	- 	0/1 	0/0 	0/0
+Cleo Blair 	4/0 	- ? 	0/0 	0/0 	0/0
+Adam Taylor 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	3/3 	2/2 	46, 43, 29 ?

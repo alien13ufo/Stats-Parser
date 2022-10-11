@@ -1,0 +1,64 @@
+ Buffalo Bills (1-0) at Miami Dolphins (1-0)
+
+Miami Gardens, FL - 92 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (1-0) 	7 	0 	3 	0 	- 	10
+:dolphins: Miami Dolphins (1-0) 	14 	7 	7 	0 	- 	28
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:dolphins: Miami Dolphins
+Injuries 	
+
+Mike Bledsoe, ILB - Severe Patellar Tendon Bruise
+
+ 
+	
+
+Benjamin Robinson, OLB - Severe ACL Rupture
+
+Michael Williams, SS - Severe Shoulder Strain
+Offensive Line Rating 	8.5 	8.5
+Sacks 	2 	1
+Punting 	43.4 	47.2
+Punt Return Yards 	28 	0
+Kick Return Yards 	40 	52
+Turnovers 	2 	0
+3rd Down Conversion 	4/15 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/85 	11/92
+:bills: Buffalo Bills
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Kamau Davis 	17/31 	190 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	20 	80 	0 	18 	0/0
+John Adams 	2 	8 	0 	4 	1/1
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Matt Thomas 	7 	77 	1 	0 	1/0
+Tyron Chambers 	3 	48 	0 	1 	0/0
+Isaiah Cronin 	2 	28 	0 	0 	0/0
+Kevin Garvin 	1 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Anthony Ortiz 	6/1 	1.0 	0/0 	0/0 	0/0
+Jamir Sample 	4/1 	1.0 	0/0 	0/0 	0/0
+Chester Williams 	6/0 	- 	0/0 	0/0 	0/0
+Anthony Whipple 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Darryl Lemus 	1/1 	1/1 	36
+	
+:dolphins: Miami Dolphins
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Brown 	23/29 	309 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Barry 	22 	106 	1 	27 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Greg Cobb 	7 	120 	2 	0 	0/0
+J.C. Weldon 	5 	102 	1 	0 	0/0
+D.J. Gibson 	5 	53 	0 	0 	0/0
+Marion Reeder 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Laurent Christensen 	3/0 	- 	1/1 	0/0 	0/0
+Dexter Flowers 	4/1 	- 	0/0 	0/0 	0/0
+Phillip Moore 	8/1 	- 	0/0 	0/0 	0/0
+Jack Durrence 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ben Morrison 	0/0 	4/4 	- 

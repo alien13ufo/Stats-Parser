@@ -1,0 +1,67 @@
+ New York Giants (1-7-1) at Chicago Bears (2-7) ?
+
+Chicago, IL - 40 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:giants: New York Giants (1-7-1) 	0 	3 	7 	7 	- 	17
+:bears: Chicago Bears (2-7) 	14 	7 	7 	7 	- 	35
+Team Stats Comparison
+  	:giants: New York Giants 	:bears: Chicago Bears
+Injuries 	WR Tom Oldham - Severe Elbow Fracture 	WR Elijah Talley - Mild Concussion
+Top Player Grade 	TE Hunter King (7.95) 	QB Mohammed Foster (9.41)
+Worst Player Grade 	OT Roderick White (2.34) 	CB Jabari Branch (3.50)
+Offensive Line Rating 	8.00 	7.86
+Sacks 	3 	3
+Punting 	45.0 	43.6
+Punt Return Yards 	0 	11
+Kick Return Yards 	85 	46
+Turnovers 	1 	0
+3rd Down Conversion 	4/10 	5/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/65 	5/30
+:giants: New York Giants
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Will Thompson 	20/36 	250 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG ? 	F/L
+O.J. Carano 	17 	66 	0 	11 	1/0
+Elvis Williams 	3 	9 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Hunter King 	7 	105 	0 	0 	0/0
+Sonny Beckett 	4 	75 	1 	1 	0/0
+Tevin Lattimore 	3 	31 	0 	0 	0/0
+Curtis Jeffreys 	2 	18 	1 	0 	0/0
+Elvis Williams 	2 	14 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Curtis Lewis 	3/0 	1.5 	0/0 	0/0 	0/0
+Khairi Bryant 	3/0 	1.5 	0/0 	0/0 	0/0
+Julius Conrad 	7/0 	- 	0/0 	0/0 	0/0
+D'Qwell Moore 	4/0 	- 	0/0 	0/0 	0/0
+Aaron Hammond 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Wells 	1/3 	2/2 	40 - 48, 38
+	
+:bears: Chicago Bears
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mohammed Foster 	18/24 	294 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	15 	107 	2 	13 	0/0
+Norris Horton 	13 	50 	0 	18 	0/0
+Mohammed Foster 	4 	28 	0 	14 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Gaines 	5 	88 	1 	0 	0/0
+Charlie Paul 	3 	71 	0 	0 	0/0
+Donnie Allen 	2 	40 	1 	0 	0/0
+Peter Foster 	3 	36 	0 	0 	0/0
+Vaughan Abraham 	2 	34 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeff Holleyman 	3/2 	2.0 	0/0 	0/0 	0/0
+Andrew Fazande 	3/0 	1.0 	0/0 	0/0 	0/0
+Andrew Faulkner 	1/0 	- 	1/0 	0/0 	0/0
+Kevin Harris 	3/0 ? 	- 	0/0 	1/0 	0/0
+Akeel Morris 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Anthony Harris 	0/1 	5/5 	- 60 ?

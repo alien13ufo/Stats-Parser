@@ -1,0 +1,67 @@
+ Houston Texans (3-1) at New England Patriots (0-4) ?
+
+Foxborough, MA - 49 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (3-1) 	14 	0 	7 	7 	- 	28
+:patriots: New England Patriots (0-4) 	7 	7 	7 	3 	- 	24
+Team Stats Comparison
+  	:texans: Houston Texans 	:patriots: New England Patriots
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	WR Marvin White (7.95) 	WR Geno Harris (7.25)
+Worst Player Grade 	DE Miles Slater (3.35) 	WR Tommy Pottios (3.45)
+Offensive Line Rating 	8.34 	8.39
+Sacks 	1 	1
+Punting 	43.6 	44.1
+Punt Return Yards 	19 	24
+Kick Return Yards 	66 	53
+Turnovers 	1 	1
+3rd Down Conversion 	5/12 	4/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/76 	6/45
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT ? 	F/L
+Alex Leshoure 	19/34 	197 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Arturo Pacheco 	16 	64 	1 	23T 	0/0
+Justin Barksdale 	4 	21 	1 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marvin White 	6 	70 	1 	0 	0/0
+Jeremy Scarborough 	3 	44 	0 	0 	0/0
+Arturo Beckham 	3 	40 	1 	1 	0/0
+Kendall Brandon 	2 	26 	0 	0 	0/0
+Spencer Saul 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brent Johnson 	3/0 	- 	1/0 	0/0 	0/0
+Ahmed London 	3/0 	1.0 	0/0 	0/0 	0/0
+Dillon Grant 	6/0 	- 	0/0 	0/0 	0/0
+Blair Williams 	4/0 	- 	0/0 	0/0 	0/0
+Bob Ballard 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ilan Youngblood 	0/1 	4/4 	- 48
+	
+:patriots: New England Patriots
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	24/39 	260 	3 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Michael Duckworth 	12 	46 	0 	12 	0/0
+John Harris 	7 	24 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Geno Harris ? 	6 	85 	1 	0 	0/0
+Jamel Beckham 	4 	81 	1 	0 	0/0
+Gary Jones 	5 	32 	1 	0 	0/0
+Carlos Perez 	3 	27 	0 	1 	0/0
+Tommy Pottios 	2 	25 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dave Stokley 	2/0 	- 	1/1 	0/0 	0/0
+Phillip Davenport 	4/0 	1.0 	0/0 	0/0 	0/0
+Norris Nolan 	6/0 	- 	0/1 	0/0 	0/0
+Steve Windsor 	4/0 	- 	0/0 	0/0 	0/0 ?
+Robert Pendleton 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	1/1 	3/3 	43 

@@ -1,0 +1,67 @@
+ Dallas Cowboys (7-6) at New York Giants (2-10-1) ?
+
+East Rutherford, NJ - 32 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cowboys: Dallas Cowboys (7-6) 	7 	14 	7 	0 	- 	28
+:giants: New York Giants (2-10-1) 	0 	3 	3 	0 	- 	6
+Team Stats Comparison
+  	:cowboys: Dallas Cowboys 	:giants: New York Giants
+Injuries 	WR Austin Medina - Mild Concussion 	TE Hunter King - Severe ACL Rupture
+Top Player Grade 	QB Graham Burnett (8.99) 	WR Evan Medley (6.85)
+Worst Player Grade 	CB Jeremy Evans (3.50) 	OT Kenneth Porter (0.92)
+Offensive Line Rating 	8.31 	7.96
+Sacks 	3 	0
+Punting 	45.6 	43.2
+Punt Return Yards 	102 (1) 	6
+Kick Return Yards 	46 	82
+Turnovers 	0 	2
+3rd Down Conversion 	3/9 	3/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/45 	3/19
+:cowboys: Dallas Cowboys
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	23/35 	350 	3 	0 	0/0
+- 	-/- 	- 	- 	- ?? 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Adrian Robinson 	21 	84 	1 	16 	1/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rodney Montgomery 	8 	108 	1 	0 	0/0
+Francisco Gibson 	3 	100 	0 	1 	0/0
+Austin Medina 	4 	73 	1 	1 	0/0
+Alex Gash 	3 	42 	1 	0 	0/0
+Gabe Barrientos 	2 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Travis Chatman 	1/0 	- 	1/1 	0/0 	0/0
+Dashon Hodge-Stevens 	1/0 	- 	1/0 	0/0 	0/0
+Javier Grady 	3/1 	1.0 	0/0 	0/0 	0/0
+Joseph Randolph 	4/0 	1.0 	0/0 	0/0 	0/0
+Adam Taylor 	4/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	0/1 	4/4 	- 50
+	
+:giants: New York Giants
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Cody Albright 	15/33 	160 	0 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	9 	10 	0 	3 	0/0
+Elvis Williams 	2 	-2 	0 	-2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Evan Medley 	5 	56 	0 	0 	0/0
+Sonny Beckett 	3 	32 	0 	2 	0/0
+Tevin Lattimore 	2 	21 	0 	1 	0/0
+Hunter King 	1 	16 	0 	1 	0/0
+Brian Engle 	1 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Isaiah Polsfoot ? 	2/0 	- 	0/0 	1/0 	0/0
+Curtis Lewis 	3/2 	- 	0/0 	0/0 	0/0
+Louis Peterson 	7/0 	- 	0/0 	0/0 	0/0
+Julius Conrad 	4/0 	- 	0/0 	0/0 	0/0
+Aaron Hammond 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ??
+Luke Bowers 	2/2 	0/0 	29, 31 ?

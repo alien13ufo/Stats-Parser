@@ -1,0 +1,53 @@
+QB Allan Taylor 6-0 202 5 Virginia Tech [Scrambling] 96
+QB Ken Eller 6-4 200 2 UCLA [Pocket] 79
+QB Jimmy Starks 6-1 210 3 OleMiss [Pocket] 78
+RB Troy White 5-11 200 1 Louisville [Speed] 81
+RB Bryan Davis 5-8 195 5 TexasA&M [Power] 81
+RB Ed Latta 5-9 188 4 LSU [Power] 79
+FB Dylan Stewart 5-8 227 R Kansas State [Run Blocking] 79
+FB Mike Carr 6-0 198 2 SMU [Run Blocking] 70
+WR Michael Hawkins 5-9 196 2 Florida [Speed] 85
+WR Christopher Johnson 6-1 173 3 VirginiaTech [Speed] 80
+WR Cameron Whelahan 6-4 211 1 Arkansas [Target] 78
+WR Scott Vaughn 6-1 176 3 NorthCarolina [Speed] 71
+WR Tommy Simonton 6-0 200 R Arizona [Speed] 68
+TE Scott Brown 6-1 250 3 Stanford [Blocking] 80
+TE Damani Spillman 6-0 230 1 Ball State [Receiving] 79
+TE Vince Shea 6-5 221 3 MichiganState [Blocking] 66
+OT Eric Peebles 6-3 350 4 LSU [Run Blocking] 89
+OT Toby Madden 6-4 267 R Vanderbilt [PassBlocking] 81
+OT Ki'Jana Parrish 6-4 312 4 Auburn [Pass Blocking] 81
+OT Troy Peters 6-8 308 1 Iowa [Pass Blocking] 69
+OG Jack Green 6-6 277 1 Cincinnati [Run Blocking] 83
+OG Robert Fontenot 6-5 278 R LSU [RunBlocking] 76
+OG Mike Rachal 6-8 326 3 OhioState [Pass Blocking] 72
+OG Dwight Anderson 6-5 313 3 FloridaState [Run Blocking] 70
+OG Robert Garrett 6-5 317 1 Baylor [Run Blocking] 67
+C Joseph Colbert 6-1 241 2 ValleyCC [Pass Blocking] 81
+C Kevin Powell 6-6 282 3 OhioState [Run Blocking] 66
+DE Ryan Frey 6-6 277 1 Miami [Blitz] 86
+DE Lawrence Marshall 6-5 251 R Oregon [Blitz] 75
+DE David Drake 6-2 271 2 Wisconsin [Contain] 76
+DE Marcus Carver 6-7 286 2 Florida [Blitz] 73
+DE Cody Fuller 6-6 266 3 Arizona [Contain] 70
+DT Reggie Hedberg 6-8 258 2 Tennessee [1-Gap] 80
+DT Turk Davis 6-3 268 2 Georgia [1-Gap] 78
+DT Barry Harmon 6-2 279 2 Alabama [1-Gap] 69
+DT Todd Gray 6-5 287 R WashingtonState [1-Gap] 67
+ILB Rodrick Milligan 6-2 254 5 Michigan [Mike] 93
+ILB Julius Velasquez 6-4 230 1 Houston [Will] 70
+OLB Terry Hill 6-0 221 3 NotreDame [Coverage] 82
+OLB Kenny Salata 5-11 236 4 Nebraska [Coverage] 75
+OLB Donald Collier 6-1 205 1 Washington State [Coverage] 75
+OLB Sam Gonzalez 6-1 216 3 UCF [Coverage] 72
+CB DeAndre Hawkins 6-2 180 3 OhioState [ManCoverage] 87
+CB Joshua Sloan 5-11 208 5 Baylor [Man Coverage] 81
+CB Tim Kassell 5-11 191 3 UCLA [Man Coverage] 80
+CB Arthur Nelson 5-11 195 R Hawaii [ManCoverage] 70
+CB Jermaine Johnson 5-10 177 5 Georgia Tech [Man Coverage] 70
+FS Kevin Hartley 6-0 157 1 Ole Miss [Zone Coverage] 78
+FS Rob O'Neal 6-1 192 4 Ohio State [Zone Coverage] 76
+SS Joe Johnson 6-0 206 2 Houston [Zone Coverage] 83
+SS R.J. Dix 6-1 189 1 Virginia [Zone Coverage] 67
+K Mark Kirschbaum 5-9 199 1 Purdue [Power] 77
+P Gene Pollard 5-11 182 1 Wisconsin [Accuracy 80

@@ -1,0 +1,67 @@
+ Houston Texans (4-3) at Cleveland Browns (3-3) ?
+
+Cleveland, OH - 60 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:texans: Houston Texans (4-3) 	7 	7 	3 	7 	- 	24
+:browns: Cleveland Browns (3-3) 	0 	14 	6 	7 	- 	27
+Team Stats Comparison
+  	:texans: Houston Texans 	:browns: Cleveland Browns
+Injuries 	QB Alex Leshoure - Severe Ankle Dislocation 	No Injuries
+Top Player Grade 	WR Arturo Beckham (6.84) 	WR Ray Lee Marconi (7.44)
+Worst Player Grade 	RB Arturo Pacheco (2.18) 	CB Kadeem Martin (2.90)
+Offensive Line Rating 	8.19 	8.23
+Sacks 	0 	2
+Punting 	44.7 	42.1
+Punt Return Yards 	15 	27
+Kick Return Yards 	88 	53
+Turnovers 	2 	1
+3rd Down Conversion 	5/12 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/56 	4/36
+:texans: Houston Texans
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	18/36 	170 	2 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Arturo Pacheco 	14 	29 	1 	6 	0/0
+Justin Barksdale 	3 	25 	0 	21 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L ?
+Arturo Beckham 	5 	71 	1 	0 	0/0
+Marvin White 	3 	31 	0 	0 	0/0
+Jeremy Scarborough 	3 	30 	1 	0 	0/0
+Spencer Saul 	2 	24 	0 	1 	0/0
+Oscar Marroquin 	3 	11 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Andre Gasaway 	2/0 	- 	1/0 	0/0 	0/0
+Richard Jones 	6/0 	- 	0/0 	0/0 	0/0
+Dick McCready 	5/0 	- 	0/0 	0/0 	0/0
+Reynaldo Harris 	3/0 	- 	0/1 	0/0 	0/0
+Tywan Tafoya 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	1/2 	3/3 	44 - 54
+	
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	16/26 	209 	2 	1 	0/0
+Sean Bell 	1/1 	17 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	13 	51 	0 	16 	0/0
+Grady Mitchell 	11 	48 	1 	11 	0/0
+Ryan Clark 	2 	11 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ray Lee Marconi 	5 	56 	0 	0 	0/0
+Tai Miller 	2 	54 	1 	0 	0/0
+Morgan Patton 	2 	50 	1 	0 	0/0
+Kevin McMullen 	2 	23 	0 	0 	0/0
+Jason McClairen 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Antonio Oliver 	5/0 	- 	1/0 	0/0 	0/0
+C.J. Thomas 	5/0 	- 	1/0 	0/0 ? 	0/0
+Maximillian Baker 	2/0 	1.0 	0/0 	0/0 	0/0
+Je'Rod Wimbush 	1/0 	1.0 	0/0 	0/0 	0/0
+LaMichael Jones 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	2/3 	3/3 	50, 42 - 52 

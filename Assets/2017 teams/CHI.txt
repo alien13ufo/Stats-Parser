@@ -1,0 +1,40 @@
+QB Norris Brooksheer 6-3 207 R Oklahoma [Pocket] 82
+QB Charles Quinn 6-2 197 2 Utah [Pocket] 78
+RB Quincy Turner 6-1 200 2 UCLA [Speed] 85
+RB Moshae Jackson 5-9 175 R Boise State [Speed] 70
+FB Tom Johnston 6-2 241 2 Stanford [Speed] 66
+FB Thomas Bell 5-10 228 1 Texas Tech [Power] 60
+WR Brandon Snead 6-1 205 2 Oregon [Target] 82
+WR Peter Foster 6-1 174 R Baylor [Speed] 74
+WR Bob Armour 5-9 165 R Oklahoma [Target] 67
+WR Dennis Hahn 6-0 187 R Northwestern [Target] 66
+TE Obafemi Chamberlin 6-6 243 3 Iowa [RunBlocking] 80
+TE Robert Kerr 6-6 216 R Mississippi State [Run Blocking] 66
+OT Bob McMahon 6-7 297 R Oklahoma [Run Blocking] 79
+OT James Johnson 6-7 345 2 Kansas [RunBlocking] 76
+OT Tim Archuleta 6-6 323 2 Florida [PassBlocking] 67
+OG Matthew Brewer 6-1 277 R Texas [Run Blocking] 75
+OG Ordell Green 6-1 274 R NC State [Pass Blocking] 70
+C George Doll 6-3 295 2 Texas Tech [Pass Blocking] 77
+C Ty Gold 6-4 285 2 Syracuse [PassBlocking] 64
+DE Chuck Smith 6-6 268 3 Oklahoma St. [Pass Stop] 77
+DE Jesus Brooks 6-8 259 R Maryland [Run Stop] 68
+DE Gary Rounds 6-2 285 3 Mississippi State [Run Stop] 63
+DT Terry Dewalt 6-2 312 3 Minnesota [Run Stop] 76
+DT Charlie Autry 6-2 317 3 Virginia [PassStop] 75
+DT Floyd Vazquez 6-7 283 3 Mississippi State [Pass Stop] 61
+ILB William Wallace 6-1 224 2 BoiseState [PassZone] 68
+ILB Art Mills 6-1 230 1 Michigan [Pass Zone] 83
+ILB John Zimmerman 6-0 239 3 Cincinnati [Pass Zone] 63
+OLB Morris Millen 6-0 246 2 UCLA [RunZone] 85
+?OLB Trevor Reed 5-11 223 R Alabama [Pass Zone] 70
+OLB Craig Stratton 6-1 229 R Texas [Pass Zone] 67
+CB Butch McCullough 6-0 187 R Penn State [Man Coverage] 73
+CB Kevin Hasselbeck 5-9 182 3 Wake Forest [Man Coverage] 64
+CB Mark Broussard 6-0 195 3 ECU [ZoneCoverage] 62
+FS Juan Hutchinson 5-9 170 2 Utah [Man Coverage] 78
+FS Roy Brown 5-8 160 1 Washington St. [Zone Coverage] 62
+SS Robert Medina 5-11 210 2 Kansas [Zone Coverage] 78
+SS Billy Lowe 5-9 172 1 Miami [Man Coverage] 63
+K Ken Hodel 6-4 202 3 Oklahoma [Power] 70
+P Daniel Brown 6-0 204 1 Texas A&M [Accuracy] 69

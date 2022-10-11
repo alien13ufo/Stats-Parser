@@ -1,0 +1,57 @@
+ Cincinnati Bengals (2-9) at Buffalo Bills (3-8)
+
+Buffalo, NY - 38 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (2-9) 	7 	7 	7 	7 	- 	28
+:bills: Buffalo Bills (3-8) 	10 	0 	3 	3 	- 	16
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:bills: Buffalo Bills
+Injuries 	No Injuries 	Anthony Ortiz, DE - Mild Hamstring Pull
+Offensive Line Rating 	7.6 	8.1
+Sacks 	2 	3
+Punting 	42.2 	45.3
+Punt Return Yards 	8 	14
+Kick Return Yards 	28 	22
+Turnovers 	0 	2
+3rd Down Conversion 	4/12 	5/14
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/54 	9/83
+:bengals: Cincinnati Bengals
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	20/32 	209 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	19 	107 	1 	28 	0/0
+Tom Edwards 	2 	0 	1 	1T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	7 	100 	1 	0 	0/0
+Jamir Blackburn 	4 	35 	1 	0 	0/0
+Brandon Lane 	3 	30 	0 	0 	0/0
+Christopher Harris 	2 	26 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kenneth Schwartz 	2/0 	- 	1/0 	0/0 	0/0
+Sila Lotomau 	5/2 	1.0 	0/0 	0/0 	0/0
+Brett Bailey 	2/0 	1.0 	0/0 	0/0 	0/0
+Nick Upshaw 	6/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	0/1 	4/4 	- 58
+	
+:bills: Buffalo Bills
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Kamau Davis 	19/37 	221 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+C.J. Sheffield 	12 	28 	0 	5 	1/1
+Mamadou Wynn 	1 	18 	0 	18 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Garvin 	5 	67 	0 	1 	0/0
+Isaiah Cronin 	5 	62 	1 	0 	0/0
+Tyron Chambers 	3 	44 	0 	0 	0/0
+Matt Thomas 	2 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Rodney Galbreath 	2/1 	1.5 	0/0 	0/0 	0/0
+Anthony Ortiz 	4/0 	1.0 	0/0 	0/0 	0/0
+Brian Hernandez 	3/0 	0.5 	0/0 	0/0 	0/0
+Chester Williams 	6/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Darryl Lemus 	3/3 	1/1 	30, 28, 24 

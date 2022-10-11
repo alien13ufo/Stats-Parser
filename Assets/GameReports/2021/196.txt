@@ -1,0 +1,67 @@
+ Baltimore Ravens (6-6) at Cleveland Browns (5-7)
+
+Cleveland, OH - 32 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:ravens: Baltimore Ravens (6-6) 	3 	0 	3 	15 	0 	21
+:browns: Cleveland Browns (5-7) 	7 	7 	7 	0 	3 	24
+Team Stats Comparison
+  	:ravens: Baltimore Ravens 	:browns: Cleveland Browns
+Injuries 	
+
+Brett Fisher, QB - Severe Ankle Fracture
+
+Traveon Howard, FS - Severe Toe Dislocation
+	
+
+Tai Miller, WR - Mild Achilles Tendonitis
+
+Caleb McNamara, OLB - Moderate Hamstring Pull
+Offensive Line Rating 	7.9 	8.1
+Sacks 	1 	1
+Punting 	43.3 	43.3
+Punt Return Yards 	19 	25
+Kick Return Yards 	33 	19
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	5/12
+4th Down Conversion 	1/1 	0/1
+Penalties 	5/35 	8/57
+:ravens: Baltimore Ravens
+Wishbone - Flexbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alexander Williams 	16/23 	195 	1 	0 	0/0
+Brett Fisher 	4/8 	62 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Davey Jones 	19 	71 	1 	12 	0/0
+Alexander Williams 	3 	15 	0 	8 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Knight 	6 	85 	0 	1 	0/0
+David Wells 	6 	56 	0 	0 	0/0
+Adrian Allen 	3 	44 	0 	0 	0/0
+Joseph Dickerson 	2 	35 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sammy Muhammad 	2/0 	- 	1/0 	0/0 	0/0
+Matthew Davis 	4/0 	0.5 	0/0 	0/0 	0/0
+Eric Burden 	4/0 	0.5 	0/0 	0/0 	0/0
+Tyrone Jones 	6/1 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	2/2 	1/1 	40, 38
+	
+:browns: Cleveland Browns
+Spread Option - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark  	18/28  	226  	2  	1  	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	20 	84 	1 	10 	0/0
+Grady Mitchell 	5 	37 	1 	25T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Dean Burkhart 	4 	56 	0 	1 	0/0
+Ray Lee Marconi 	3 	51 	1 	0 	0/0
+Kevin McMullen 	3 	45 	1 	0 	0/0
+Tai Miller 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Marshall 	3/0 	- 	1/0 	0/0 	0/0
+Gabriel Beauchamp 	3/1 	1.0 	0/0 	0/0 	0/0
+Thomas Stewart 	7/1 	- 	0/0 	0/0 	0/0
+Hugo Miller 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	1/2 	3/3 	43 - 53 

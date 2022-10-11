@@ -1,0 +1,65 @@
+ Cleveland Browns (3-0) at Pittsburgh Steelers (3-0) ?
+Pittsburgh, PA - 58 F :rainy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (3-0) 	7 	3 	0 	3 	- 	13
+:steelers: Pittsburgh Steelers (3-0) 	6 	3 	6 	7 	- 	22
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:steelers: Pittsburgh Steelers
+Injuries 	DE Gabriel Beauchamp - Severe Quadriceps Pull 	RB Chester Henson - Mild Groin Tear
+Top Player Grade 	DE Ray McBride (7.95) 	DE Carlos Washington (9.46)
+Worst Player Grade 	RB Grady Mitchell (3.31) 	RB Chester Henson (3.50)
+Offensive Line Rating 	8.15 	8.19
+Sacks 	3 	2
+Punting 	45.3 	43.1
+Punt Return Yards 	26 	16
+Kick Return Yards 	46 	53
+Turnovers 	2 	1
+3rd Down Conversion 	3/13 	3/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/70 	9/75
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	14/27 	171 	0 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	16 	61 	1 	8 	0/0
+Ryan Clark 	6 	20 	0 	7 	0/0
+Grady Mitchell 	4 	2 	0 	3 	1/1
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tai Miller 	3 	55 	0 	0 	0/0
+Ray Lee Marconi 	2 	39 	0 	0 	0/0
+Morgan Patton 	3 	30 	0 	0 	0/0
+Jason McClairen 	2 	25 	0 	0 	0/0
+Dean Burkhart 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kadeem Martin 	2/0 	- 	1/0 	0/0 	0/0
+Ray McBride 	3/2 	2.0 	0/0 	0/0 	0/0
+Je'Rod Wimbush 	2/0 	1.0 	0/0 	0/0 	0/0
+Antonio Oliver 	6/0 	- 	0/1 	0/0 	0/0
+Martin Hernandez 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	2/2 	1/1 	39, 36
+	
+:steelers: Pittsburgh Steelers
+Vertical - Spread Option ?
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	19/37 	206 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kalei Keil 	11 	35 	1 	7 	0/0
+Chester Henson 	6 	10 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Samuel Jolley 	5 	76 	1 	0 	0/0
+Jake Schmidt 	3 	56 	0 	0 	0/0
+Eric Watson 	4 ? 	34 	0 	0 	0/0
+Ja'Wuan Howard 	2 	14 	1 	0 	0/0
+William Anderson 	3 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ronnie Bailey 	3/0 	- 	1/0 	0/0 	0/0
+Carlos Washington 	4/1 	1.0 	0/0 	0/0 	0/0
+Quentin Smith 	3/1 	1.0 	0/0 	0/0 	0/0
+Ron Mobley 	6/0 	- 	0/0 	0/0 	0/0
+Dane Wilson 	3/0 	- 	0/2 ? 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Lorenzo Rodgers 	1/1 	1/2 	39 ?

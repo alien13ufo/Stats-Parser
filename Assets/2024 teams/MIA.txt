@@ -1,0 +1,55 @@
+QB Brian Brown 6-4 228 9 Boise State [Pocket] [+1/C] 99?
+QB Steven Gore 5-11 235 2 UCLA [Pocket] [+1] 81
+RB Marcus Barry 6-0 193 8 Ohio State [Power] [-1] 88
+RB Ricardo Reed 5-9 201 5 Connecticut [Power] [0] 80
+?RB Gabe C?iamo 6-0 174 1 Toledo [Speed] [-2] [+] 80
+FB Malik Isaac 5-10 209 R BYU [Run Bloc?k?ing] [-2] 81
+WR J.C. Weldon 6-2 183 3 West Virg?inia [Target] [0] 92
+WR Malcolm Davis 6-6 216 3 Kansas [Target] [0] 82
+WR Jermaine Jennings 5-11 194 1 Appalachian State [Speed] [+1] [+] 83
+WR Sonny Beckett 6-6 188 7 Miami [Speed] [0] [#] 83
+WR Sila Aveau 6-3 195 R USF [Speed] [-1] [#] 79
+WR Elias Langston 6-0 227 2 West Virginia [Target] [+1/C] 73
+WR Ramon? Stewart 6-?1 177 4 USF [Target] [0] 7?6
+TE D.J. Gibson 6-5 232 6 North Carolina [Receiving] [+2/C] [+] 89
+TE Cayden Reese 6-3? 207 3 Air Force [Receiving] [0] 80
+TE Denario Jackson 6-1 219 6 Pittsburgh [Receiving] [+1] 76
+OT Marcellus Peterson 6-2 328 10 Alabama [Run Blocking] [0/C] 92
+OT Ricky Edwards 6-1 269 6 Auburn [Run Blocking] [0] 86
+OT Ben Goode 6-6 312 3 Kansas [Pass Blocking] [0/C] 83
+OT Elijah Durham 6-2 289 R Utah [Pass Blockin?g] [+1] 77
+OT Joseph Stanford 6-6 281 6 Cincinnati [Run Blocking] [0] 81
+O?G Jace Blakley 6-2 312 9 Tennessee [Pass Blocking] [+1] 90? ?
+OG Raphael ?Read 6-7 256 R Illinois [Pass Blocking] [-1] 81
+OG Brendan McCurdy 6-5 316 4 Georgia St?ate [Run Blocking] [0/C] 7?6
+OG Edwar?d Meyer 6-2 259 1 Oklahoma State [Run Blocking] [0] 79
+?C Aaron ?Petersen 6-?4 255 3 Virginia Tech [Run Blocking] [0] 8?3
+C Anthony Akers 6-1 277 R LSU [Pass Blocking] [0] [#] 76
+DE Benjamin Blankenship 6-1 290 6 Georgia [Blitz] [-1] 88
+DE Dexter Flowers 6-1 265 4 Southern Miss [Blitz] [0] [#] 90
+DE Jacob Kirk 6-3 242 4 South Dakota [Blitz] [0] 77?
+DE Ti?m?othy Heller 6-1 253 3 Indiana [Blitz] [-1] 73
+DT Dominique Black 6-2 287 R Washington [1-Gap] [+1] 81
+DT Nigel McKinney 6-4 296 4 Georgia [1-Gap] [-1] 79
+DT Kaden Oglesby 6-3 291 2 Boise State [1-Gap] [0] 78
+DT Russel Brandt 6-1 257 3 Northern Illinois [1-Gap] [+1] 78
+ILB Phillip Moore 5-11 216 7 Houston [Will] [0/C] 89
+ILB Benjamin Thompson 5-10 220 5 Marshall [Mike] [0/C] 81
+????ILB Nathan Wilks 6-1 231 1 West Virginia [Mike] [+3] 70
+OLB Morris Millen 6-0 246 9 UCLA [Blitz] [+3/C] 86
+OLB Benjamin Robinson 6-0 240 5 Boston College [Coverage] [0] 84
+OLB Jeremy Green 6-2 243 2 Oklahoma [Coverage] [+2] 80
+OLB Tyler Burden 5-11 228 4 Houston [Coverage] [0] 75
+CB Justin Davis 5-11 173 8 Florida [Zone Coverage] [+1/C] 95
+CB Laurent Christensen 5-10 192 7 Army [Man Coverage] [-1] 88
+CB Eric Houser 5-9 171 5 San Jose State [Man Coverage] [0] 80
+CB Jeremy Starks 5-10 187 4 Missouri [Man Coverage] [+1] 80
+CB Cory Betts 6-1 183 4 Army [Man Coverage] [-2] 77
+CB ?Lamont Carson 5-11 198 1 West Virginia [Man Coverage]? ?[?+?1] 72
+FS Adam Carroll 6-2 20?9 R Maryland [Zone Coverage] [0] [+] 80?
+FS Alejandro Bowen 6-3 202 5 Houston [Zone Coverage] [+2] 79
+SS Antonio Jackson 6-1 202 1 Bowling Green [Zone Coverage] [+1] 83
+SS Christopher Malone 6-1 178 3 TCU [Zone Coverage] [0] 81
+SS Andrew Reaves 5-11 177 1 Oklahoma? [Zone Coverage] [+1/C]? 7?2
+K? Ben Morrison 6-?1 205 10 Wisc?onsin [Acc?uracy] [0/?C]? 94 ??
+?P Graham Chandler 6-0 156 2 UTSA? [Accuracy] [0] 83

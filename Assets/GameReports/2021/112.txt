@@ -1,0 +1,66 @@
+ New England Patriots (4-3) at Kansas City Chiefs (4-2)
+
+Kansas City, MO - 62 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:patriots: New England Patriots (4-3) 	7 	10 	6 	0 	- 	23
+:chiefs: Kansas City Chiefs (4-2) 	3 	3 	17 	10 	- 	33
+Team Stats Comparison
+  	:patriots: New England Patriots 	:chiefs: Kansas City Chiefs
+Injuries 	
+
+Carlos Perez, WR - Severe Biceps Pull
+
+ 
+	
+
+Dewey Tomlinson, ILB - Moderate Groin Pull
+
+Andrew Boyd, CB - Severe Shoulder Dislocation
+Offensive Line Rating 	8.4 	8.1
+Sacks 	2 	2
+Punting 	44.3 	43.2
+Punt Return Yards 	3 	16
+Kick Return Yards 	24 	20
+Turnovers 	3 	2
+3rd Down Conversion 	6/12 	4/11
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/64 	4/27
+:patriots: New England Patriots
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	21/32 	240 	2 	2 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ike Nimmo 	18 	67 	0 	16 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Jones 	5 	89 	1 	0 	0/0
+Geno Harris 	6 	65 	0 	1 	0/0
+Jamel Beckham 	4 	56 	1 	1 	0/0
+George Lewis 	3 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dave Stokley 	2/0 	- 	1/1 	0/0 	0/0
+Mark Logan 	4/1 	1.0 	0/0 	1/0 	0/0
+Willard Arnold 	6/0 	1.0 	0/0 	0/0 	0/0
+Randy Lehr 	4/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	3/3 	2/2 	48, 20, 38
+	
+:chiefs: Kansas City Chiefs
+Wishbone - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erasmus McCready 	9/15 	100 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	28 	150 	2 	50T 	1/1
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Harry Whiteside 	2 	25 	0 	0 	0/0
+Justin Hill 	1 	24 	1 	0 	0/0
+Spec Davidson 	2 	21 	0 	0 	0/0
+Richard Frazier 	1 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Teddy Walker 	2/0 	- 	1/1 	0/0 	0/0
+Andrew Boyd 	1/0 	- 	1/0 	0/0 	0/0
+Jeffrey Chung 	4/1 	1.0 	0/0 	0/0 	0/0
+Carnell Meadows 	4/1 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	4/4 	3/3 	33, 39, 28, 42 

@@ -1,0 +1,57 @@
+ Arizona Cardinals (2-3) at San Francisco 49ers (2-3)
+
+Santa Clara, CA - 59 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (2-3) 	7 	14 	14 	3 	- 	38
+:49ers: San Francisco 49ers (2-3) 	0 	3 	6 	14 	- 	23
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:49ers: San Francisco 49ers
+Injuries 	Butch Harper, WR - Mild Concussion 	No Injuries
+Offensive Line Rating 	8.3 	7.7
+Sacks 	4 	1
+Punting 	45.4 	43.2
+Punt Return Yards 	11 	11
+Kick Return Yards 	0 	25
+Turnovers 	0 	3
+3rd Down Conversion 	6/11 	5/14
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/68 	4/26
+:cardinals: Arizona Cardinals
+Option - Wing T
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	14/19 	206 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Fred Tindale 	26 	146 	3 	26 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ricky Chambers 	3 	85 	0 	0 	0/0
+Emanuelu Lesa 	4 	50 	0 	0 	0/0
+Fred Tindale 	2 	34 	0 	0 	0/0
+Noah Hills 	2 	22 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Asante Willis 	8/0 	- 	1/2 	0/0 	1/0
+Ian Garner 	1/0 	- 	1/1 	0/0 	0/0
+D. Crump-Jackson 	2/0 	- 	1/0 	0/0 	0/0
+Josiah Harden 	2/0 	2.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	1/1 	5/5 	44
+	
+:49ers: San Francisco 49ers
+Air Raid - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	29/55 	309 	3 	3 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	6 	26 	0 	17 	0/0
+Todd Lester 	1 	10 	0 	10 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+John Gross 	8 	89 	1 	1 	0/0
+Steve Warner 	4 	82 	1 	2 	0/0
+Miles Collins 	5 	53 	0 	1 	0/0
+Troy McCray 	4 	48 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dennis Niland 	3/0 	1.0 	0/0 	0/0 	0/0
+Daleroy Smart 	7/0 	- 	0/0 	0/0 	0/0
+Brandon Thomas 	6/0 	- 	0/0 	0/0 	0/0
+Mike Smith 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	1/1 	2/3 	37 

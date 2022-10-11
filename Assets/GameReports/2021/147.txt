@@ -1,0 +1,57 @@
+ Detroit Lions (2-6) at Atlanta Falcons (4-4)
+
+Atlanta, GA - 59 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:fibur: Detroit Lions (2-6) 	10 	7 	3 	3 	- 	23
+:falcons: Atlanta Falcons (4-4) 	6 	21 	0 	7 	- 	34
+Team Stats Comparison
+  	:fibur: Detroit Lions 	:falcons: Atlanta Falcons
+Injuries 	Richard Ryan, OLB - Moderate Thumb Sprain 	Riddick Smith, WR - Moderate Ankle Dislocation
+Offensive Line Rating 	8.5 	8.3
+Sacks 	1 	1
+Punting 	44.5 	44.3
+Punt Return Yards 	28 	35
+Kick Return Yards 	21 	28
+Turnovers 	1 	0
+3rd Down Conversion 	6/12 	5/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/27 	3/17
+:fibur: Detroit Lions
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Blake Shell 	21/37 	226 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Logan Pruitt 	14 	56 	1 	10 	0/0
+Calvin Jones 	5 	29 	0 	21 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony Fasani 	5 	70 	0 	0 	0/0
+Tyrone Cunningham 	6 	46 	0 	0 	0/0
+Dennis Carr 	3 	43 	0 	0 	0/0
+Jeremy Cook 	2 	39 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Doug Carolan 	2/1 	1.0 	0/0 	0/0 	0/0
+Willard McCready 	7/0 	- 	0/1 	0/0 	0/0
+Andre Brooks 	5/0 	- 	0/0 	0/0 	0/0
+Earl Jackson 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	3/3 	2/2 	46, 28, 51
+	
+:falcons: Atlanta Falcons
+Spread - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	20/25 	289 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	23 	106 	2 	23T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Bo Woodall 	6 	89 	1 	0 	0/0
+Jason Erwin 	3 	81 	1 	0 	0/0
+Joseph Thurston 	4 	64 	0 	0 	0/0
+Akili Wallace 	3 	42 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darius Jones 	4/0 	- 	1/1 	0/0 	0/0
+Early Davis 	4/0 	1.0 	0/0 	0/0 	0/0
+Mario Ruff 	5/0 	- 	0/0 	0/0 	0/0
+Tommy Leonard 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	2/2 	4/4 	40, 31 

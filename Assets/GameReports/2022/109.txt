@@ -1,0 +1,67 @@
+ Cincinnati Bengals (4-3) at Baltimore Ravens (3-3) ?
+
+Baltimore, MD - 61 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (4-3) 	0 	6 	10 	3 	- 	19
+:ravens: Baltimore Ravens (3-3) 	0 	0 	0 	0 	- 	0
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:ravens: Baltimore Ravens
+Injuries 	DE Brett Bailey - Moderate Toe Bruise 	WR Ryan Mitchell - Mild Concussion
+Top Player Grade 	SS R.C. Rone (9.56) 	OLB Kenyatta Henderson (6.98)
+Worst Player Grade 	OG Jonah Akins (2.87) 	QB Mikeal Black (1.46)
+Offensive Line Rating 	8.22 	8.00
+Sacks 	1 	3
+Punting 	43.7 	47.6
+Punt Return Yards 	36 	5
+Kick Return Yards 	0 	47
+Turnovers 	1 	4
+3rd Down Conversion 	4/13 	4/15
+4th Down Conversion 	0/0 	0/1
+Penalties 	4/20 	10/95
+:bengals: Cincinnati Bengals
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	23/40 	206 	0 	1 	0/0
+Tommy Jones 	1/2 	8 	0 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	11 	40 	0 	9 	0/0
+Tom Edwards 	1 	2 	1 	2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamir Blackburn 	5 	53 	0 	1 	0/0
+Adrian Jankowski 	3 	43 	0 	0 	0/0
+Christopher Harris 	3 	37 	0 	1 	0/0
+Steven Maloney 	4 	28 	0 	1 	0/0
+Charlie Wilson 	3 	24 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+R.C. Rone 	3/0 	- 	2/0 	0/0 	0/0
+Aaron Stiles 	2/0 	- 	1/0 	0/0 	0/0
+Brett Bailey 	3/0 	1.0 	0/0 	0/0 	0/0
+Nick Upshaw 	6/1 	- 	0/0 	0/0 	0/0
+Prince Matos 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	4/4 	1/1 	45, 28, 36, 49
+	
+:ravens: Baltimore Ravens
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mikeal Black 	9/20 	64 	0 	3 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	11 	36 	0 	6 	1/1
+Gabriel Shields 	4 	16 	0 	7 	0/0
+Booker T. Washington 	8 	15 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darrell Mack 	2 ? 	17 	0 	1 	0/0
+Ryan Mitchell 	2 	15 	0 	0 	0/0
+David Wells 	2 	12 	0 	0 	0/0
+Danny Patrick 	1 	9 	0 	0 	0/0
+Joseph Dickerson 	1 	7 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Troy Marshall 	2/0 	- 	1/1 	0/0 	0/0
+Kenyatta Henderson 	5/0 	1.0 	0/0 	0/0 	0/0
+Lucas Benton 	3/0 	1.0 	0/0 	0/0 	0/0
+Micheal Black 	2/0 	1.0 	0/0 	0/0 	0/0
+Alexander Hardison 	6/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Dennis Scott 	0/1 	0/0 	- 53 

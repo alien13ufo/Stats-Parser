@@ -1,0 +1,65 @@
+ Detroit Lions (0-1) at Carolina Panthers (0-1)
+Charlotte, NC - 83 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:fibur: Detroit Lions (0-1) 	17 	7 	7 	3 	- 	34
+:panthers: Carolina Panthers (0-1) ? 	7 	7 	3 	7 	- 	24
+Team Stats Comparison
+  	:fibur: Detroit Lions 	:panthers: Carolina Panthers
+Injuries 	ILB Griffin Perrin - Mild Foot Fracture 	OG Vincent Peck - Severe Achilles Tendonitis
+Top Player Grade 	CB Keyshawn Thompson (9.13) 	DE Kendrick Droughns (7.95)
+Worst Player Grade 	OT Nathan Iversion (4.50) 	OT Emerson Ware (4.33)
+Offensive Line Rating 	8.27 	8.24
+Sacks 	3 	1
+Punting 	44.6 	42.6
+Punt Return Yards 	29 	14
+Kick Return Yards 	46 	67
+Turnovers 	0 	2
+3rd Down Conversion 	5/11 	3/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/50 	3/27
+:fibur: Detroit Lions
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	22/33 	219 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	20 	111 	2 	27T 	0/0
+Calvin Jones 	8 	37 	1 	16 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Emory Johnson 	5 	56 	0 	0 	0/0
+Rex Walsh 	5 	53 	1 	0 	0/0
+Jeremy Cook 	3 	45 	0 	1 	0/0
+Calvin Jones 	3 	32 	0 	0 	0/0
+Glenn Franckowiak 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Keyshawn Thompson 	3/0 	- 	2/1 	0/0 	0/0
+Doug Carolan 	3/0 	2.0 	0/0 	0/0 	0/0
+Ilan Kuhn 	2/0 	1.0 	0/0 	0/0 	0/0
+Cameron Jones 	5/1 	- 	0/1 	0/0 	0/0
+Kieron Brooks 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	2/2 	4/4 	39, 37
+	
+:panthers: Carolina Panthers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Christian Skaggs 	20/35 	288 	2 	2 	0/0
+- ? 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Mike Latta 	11 	40 	1 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Monte Jackson 	7 	105 	0 	0 	0/0
+Curtis Henry 	6 	102 ? 	1 	0 	0/0
+Jermaine Bishop 	2 	26 	0 	1 	0/0
+Troy Wilson 	1 	22 	1 	0 	0/0
+Chip Johnson 	1 	17 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kendrick Droughns 	5/2 	1.0 	0/0 	0/0 	0/0
+Mike Wohlabaugh 	3/3 	- 	0/0 	0/0 	0/0
+Kelvin Grossman 	6/0 	- 	0/0 	0/0 	0/0
+Carlton Sylvester 	5/0 	- 	0/0 ? 	0/0 	0/0
+Leland Anderson 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Skip Gibson 	1/1 	3/3 	29 

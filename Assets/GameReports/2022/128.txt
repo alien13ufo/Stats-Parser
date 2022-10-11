@@ -1,0 +1,67 @@
+ Denver Broncos (2-5) at Kansas City Chiefs (4-4) ?
+
+Kansas City, MO - 58 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (2-5) 	0 	7 	7 	17 	- 	31
+:chiefs: Kansas City Chiefs (4-4) 	3 	3 	7 	7 	- 	20
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:chiefs: Kansas City Chiefs
+Injuries 	No Injuries 	OT Quinn Burr - Severe Thumb Fracture
+Top Player Grade 	OT Gary Tomlinson (9.92) 	TE Spec Davidson (7.86)
+Worst Player Grade 	CB T.J. Hunter (1.44) 	ILB Dewey Tomlins (2.43)
+Offensive Line Rating 	8.49 	8.19
+Sacks 	4 	1
+Punting 	44.5 	45.5
+Punt Return Yards 	12 	4
+Kick Return Yards 	46 	75
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	5/15
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/65 	4/36
+:broncos: Denver Broncos
+Pro Style - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Eric Jennings 	14/24 	160 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	23 	176 	2 	44T 	0/0
+Emmett Spears 	5 	31 	0 ? 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ken Peelle 	3 	45 	0 	1 	0/0
+Sebastian Porter 	2 	40 	0 	0 	0/0
+Artemio Ramirez 	1 	31 	1 	0 	0/0
+Darren Jones 	2 	15 	0 	0 	0/0
+Emmett Spears 	3 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Lynn Perry 	2/0 	- 	1/2 	0/0 	1/0
+Charles Johnson 	3/0 	2.0 	0/0 	0/0 	0/0
+Deyonte Davis 	3/0 	1.0 	0/0 	1/0 	0/0
+Michael Carroll 	2/1 	1.0 	0/0 	0/0 	0/0
+Evan Walsh 	7/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	1/1 	4/4 	39
+	
+:chiefs: Kansas City Chiefs
+Spread - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Harris 	22/42 	237 	2 	1 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	11 	37 	0 	9 	0/0
+Justin Buchanan 	3 	11 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Spec Davidson 	7 	84 	1 	0 	0/0
+Hines Mertens 	3 	42 	0 	1 	0/0
+Justin Hill 	2 	32 	1 	1 	0/0
+Kevin Branch 	3 	30 	0 	1 	0/0
+Daniel Hobbs 	2 	27 	0 	0 	0/0
+DEFENSE ? 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeffrey Chung 	3/0 	- 	1/0 	0/0 	0/0
+Luke Lyles 	2/1 	1.0 	0/0 	0/0 	0/0
+Cameron Riley 	6/0 	- 	0/0 	0/0 	0/0
+Devin Stephens 	5/0 	- 	0/0 	0/0 	0/0
+Teddy Walker 	4/0 	- 	0/0 ? 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Ryan Levcik 	2/2 	2/2 	44, 32 

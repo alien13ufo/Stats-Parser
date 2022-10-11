@@ -1,0 +1,53 @@
+QB Aaron Shea 6-2 204 5 Missouri [Pocket] [+2/C] 99
+QB? James D?ale 6-2 213 6 Pittsburgh [Pocket] [0] ?83 ???
+QB Kevin Fulford 6-5 226 2 Davidson [Pocket] [-1] 74
+RB James Otero 5-8 191 8 Kansas [Power] [0] 84
+RB Kevin Muse 5-8 193 3 SMU [Power] [0] 79
+RB Shane Strong 5-6 204 1 Arizona [Power] [0/C] 77
+RB Nathan Coleman 5-10 200 1 Missouri [Power] [0] 73
+FB Cory Hendricks 6-1 239 5 Oklahoma [Pass Blocking] [0] 84
+FB Kamari Traylor 6-0 247 R San Jose State [Run Blocking] [0/C] 81
+WR Mosi Bartos 5-8 161 7 Boston College [Speed] [-1] 93
+WR Quintavius Pearson 6-0 196 5 Louisville [Target] [-3] 82
+WR Quinn Walters 6-4 216 R Kentucky [Speed] [-3] 79
+WR James Richardson 6-0 156 3 Mississippi State [Speed] [0] 78
+WR Keith Setzer 6-2 213 5 Boise State [Speed] [0] 78
+TE Tyler Dotson 6-5 210 3 Notre Dame [Receiving] [0] 82
+TE Cayden Reese 6-3 207 2 Air Force [Receiving] [0] 79
+OT Phillip Edwards 6-7 294 4 Georgia [Run Blocking] [0/C] 87
+OT Kenyon Hendricks 6-7 285 7 USC [Pass Blocking] [+1/C] 86
+OT? Cra?ig Foster 6-2 318 8 Arizona [Pass Blocking] [+1?] 83?
+OT Ned Eller 6-7 323 1 Nebraska [Run Blocking] [0] 75
+OG Ian Hendrickson 6-5 319 3 Arizona [Run Blocking] [0] 85
+OG Jimmie Shelton 6-6 304 7 Cincinnati [Run Blocking] [+1/C] 93
+OG Prince Calloway 6-5 333 2 West Virginia [Pass Blocking] [+1] 78
+OG? Joe Hutchinson 6-8 257 5? Texas [Run Blocking] [0] 75
+C Tim Thomas 6-3 288 5 Florida [Pass Blocking] [+1] 80
+C Sailo Sofara 6-1 281 3 BYU [Run Blocking] [0] 76
+DE Jonathan Goodwin 6-2 246 4 Utah [Contain] [+1] 92
+DE Anthony Miller 6-3 253 3 Tennessee [Blitz] [0] 90
+DE Dwayne Briggs 6-1 251 R Toledo [Contain] [+2/C] 76
+DE Charles Lewis 6-5 266 7 Mississippi St?ate [Contain] [0] 74
+DT Hudson Adam 6-0 310 2 West Virginia [2-Gap] [-1] 86
+DT Taua Maui'a 6-1 302 1 Auburn [2-Gap] [0] 78
+DT Darius Green 6-6 328 2 Connecticut [2-Gap] 77
+DT David Hendrickson 6-6 314 2 Illinois [2-Gap] [0] 71
+OLB Ruben Cahill 6-3 220 1 Notre Dame [Coverage] [-1] 79
+OLB Lukas Forman 6-3 233 4 Connecticut [Coverage] [-1] 87
+OLB Bryan Jones 6-3 225 4 Ole Miss [Coverage] [0] 79
+OLB Phillip McNally 5-11 231 R Iowa [Blitz] [+2/C] 73
+ILB Kelly Mitchell 6-3 217 5 Michigan State [Will] [+2/C] 90
+ILB Lance Nattiel 6-0 239 5 Texas [Mike] [0] 84
+ILB Damion Taylor 6-4 233 2 James Madison [Mike] [+1] 77
+ILB Erik Whitten 6-1 229 2 Washington State [Will] [0] 72 ??
+CB Dominique Dawkins 6-2 199 R Georgia [Man Coverage] [0] 83
+C?B Samir Ware 5-11 200 4 Clemson [Man Coverage] [-3] 8?2?
+CB Malachi Douglas 6-1 184 2 Clemson [Zone Coverage] [0] 81
+CB Jabari Thorpe 5-10 162 2 USC [Zone Coverage] [-1] 77
+FS Sean Burton 6-0 202 8 Oklahoma [Zone Coverage] [0/C] 90
+FS Dwayne Carter 5-10 176 3 The Citadel [Zone Coverage] [0] 80
+FS Ashton Britt 6-1 190 4 Georgia Tech [Zone Coverage] [0] 79
+SS Brody Gibbons 5-11 188 R Utah [Zone Coverage] [+2] 80
+SS Jonathan Norman 6-2 203 2 Virginia Tech [Zone Coverage] [0] 80
+K Chris Connell 5-9 160 1 Portland State [Power] [-1] 79
+P Andrew Lindsay 6-0 183 3 North Carolina [Accuracy] [+1/C] 81

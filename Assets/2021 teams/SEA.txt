@@ -1,0 +1,60 @@
+QB Jarius Jones 6-1 205 4 Iowa [Pocket] 89
+QB Philip Rea 6-3 235 2 Michigan [Pocket] 81
+QB Sean Sitton 6-4 196 1 Arkansas [Pocket] 77
+RB Marcus Williams 5-10 219 1 Nebraska [Speed] 82
+RB Booker T. Washington 6-1 208 6 Oklahoma State [Speed] 82
+FB Jose Rosenthal 5-11 208 3 North Carolina [Pass Blocking] 85
+WR Jim Umenyiora 6-2 197 5 NC State [Speed] 86
+WR Curtis Settles 6-0 207 3 Penn State [Speed] 83
+WR Josiah McCray 6-1 199 R Clemson [Target] 80
+WR Alex Kauffman 6-4 232 1 Arkansas [Target] 72
+TE Tony Huff 6-4 225 4 Georgia [Receiving] 87
+TE Charlie Wilson 6-7 247 6 Georgia Tech [Blocking] 83
+TE Kristian Jackson 6-1 202 R BYU [Receiving] 71
+OT John Eaton 6-5 284 2 Penn State [Run Blocking] 88
+OT James Poindexter 6-6 296 2 Nebraska [Run Blocking] 81
+OT David Bowles 6-3 296 4 Mississippi State [Pass Blocking] 78
+OT Eugene Scott 6-4 285 R USF [Run Blocking] 76
+OG John Tripucka 6-3 308 4 Clemson [Pass Blocking] 87
+OG Trey Durrence 6-2 300 5 Alabama [PassBlocking] 80
+OG Leon Slack 6-5 263 R Wisconsin [Pass Blocking] 79
+OG Sawyer Dougherty 6-4 298 2 Oklahoma State [Pass Blocking] 76
+OG Nelson Portillo 6-5 295 1 Rutgers [Pass Blocking] 74
+C Nate Gardner 6-0 284 2 Texas Tech [Pass Blocking] 78
+C Kevin Thompson 6-3 283 1 California [Run Blocking] 76
+DE Brian Glenn 6-6 291 6 LSU [Blitz] 92
+DE Dennis Abdullah 6-5 281 7 Ole Miss [Blitz] 77
+DE Travis Lee 6-8 260 3 Alabama [Contain] 75
+DE Kareem Yancey 6-1 249 1 Nebraska [Blitz] 75
+DT Christian Okonkwo 6-5 297 1 Oregon [2-Gap] 84
+DT Reggie Howard 6-6 306 6 Washington [2-Gap] 81
+DT Rhad Ryland 6-5 325 R Murray State [2-Gap] 74
+ILB Malcolm Douglas-Scott 6-0 239 5 Angelina College [Will] 97
+ILB Zion Adakwa 6-2 224 4 Illinois [Mike] 89
+ILB Frank Lee 6-1 227 7 Florida State [Will] 80
+ILB Brick Madden 6-3 239 1 Oregon [Mike] 80
+OLB Kristian Little 6-0 237 2 Alabama [Blitz] 83
+OLB Kyries Brown 6-0 227 5 Wisconsin [Coverage] 81
+OLB Kenji Sagatomo 6-1 234 1 New Hampshire [Blitz] 79
+OLB Melvin Bedell 6-1 221 5 Texas [Coverage] 74
+CB Matt Cowan 6-2 172 5 Wisconsin [ZoneCoverage] 98
+CB John Queen 5-11 196 7 LSU [Man Coverage] 88
+CB Duke Burchfield 5-11 163 3 North Carolina [Zone Coverage] 77
+CB Eric Houser 5-9 171 2 San Jose State [Man Coverage] 77
+CB Jamie Mixon 6-1 187 5 Rutgers [Man Coverage] 75
+FS Edward Harrison 5-10 168 4 Northwestern [Man Coverage] 80
+FS Haven Wiley 5-10 181 3 LSU [Man Coverage] 78
+SS Antonio Oliver 6-0 196 2 Houston [Man Coverage] 83
+SS Gabriel Hightower 6-0 174 R North Carolina [Zone Coverage] 78
+K Chris Ritter 6-2 208 2 Stanford [Accuracy] 84
+P Gary Levels 6-1 198 3 Michigan State [Power] 86
+KR Neville Simpson 5-10 172 R James Madison [Specialist] 79
+PR Vaughn Gash 6-3 183 7 Tennessee [Speed] 82
+QB Chester Brenner 6-1 190 R Oklahoma State [Pocket] 71
+RB Dave Pagac 6-0 170 3 Texas Tech [Speed] 72
+OT Joel Perry 6-2 267 R LSU [Pass Blocking] 70
+OG Ricky Witman 6-4 280 3 Boston College [Pass Blocking] 74
+ILB Luis Watkins 6-0 237 2 Wisconsin [Will] 76
+CB Jeffrey Colbert 5-11 160 R Texas Tech [Zone Coverage] 70
+SS Joshua Rucker 5-11 182 R Baylor [Man Coverage] 70
+FS Onome Smith 6-1 191 3 California [Man Coverage] 82

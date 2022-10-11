@@ -1,0 +1,57 @@
+ Los Angeles Chargers (0-7) at Las Vegas Raiders (5-2)
+
+Las Vegas, NV - 78 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (0-7) 	0 	0 	0 	16 	- 	16
+:raiders: Las Vegas Raiders (5-2) 	7 	14 	10 	14 	- 	45
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:raiders: Las Vegas Raiders
+Injuries 	Jason Bryant, OLB - Mild Concussion 	Malcolm Davis, WR - Severe Calf Tear
+Offensive Line Rating 	7.5 	8.7
+Sacks 	0 	3
+Punting 	43.3 	47.0
+Punt Return Yards 	0 	33
+Kick Return Yards 	64 	0
+Turnovers 	1 	0
+3rd Down Conversion 	3/13 	4/7
+4th Down Conversion 	1/3 	0/0
+Penalties 	5/58 	7/60
+:chargers: Los Angeles Chargers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	16/35 	170 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	9 	35 	1 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gerald Morrison 	6 	63 	1 	0 	0/0
+M.L. Kriewaldt 	4 	42 	0 	0 	0/0
+Tommy Pottios 	2 	32 	0 	1 	0/0
+Bill Hardy 	2 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Shane Easley 	9/0 	- 	0/1 	0/0 	0/0
+Keith Farr 	6/0 	- 	0/1 	0/0 	0/0
+Robert Shipp 	4/0 	- 	0/1 	0/0 	0/0
+Tunch Richardson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	0/0 	0/0 	-
+	
+:raiders: Las Vegas Raiders
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	30/40 	440 	5 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	20 	116 	1 	35 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+MIke Tripplett 	10 	170 	2 	0 	0/0
+Lamont Crawford 	8 	114 	1 	0 	0/0
+Willie Hodge 	4 	56 	0 	0 	0/0
+Brandon Burks 	5 	52 	2 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+David Pennington 	6/0 	- 	1/0 	0/0 	0/0
+Shah Vereen 	2/0 	1.0 	0/0 	0/0 	0/0
+Jamal Norwood 	2/0 	1.0 	0/0 	0/0 	0/0
+Timothy Smith 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	1/1 	6/6 	46 

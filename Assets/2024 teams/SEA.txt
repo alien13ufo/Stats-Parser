@@ -1,0 +1,55 @@
+QB Kyler Tackett 6-2 221 1 Texas [Hybrid] [0/C] 80?
+QB Tucker Dowden 6-3 211 2 Missouri [Scrambling] [0/C] 84
+QB Nick Ellison 6-5 225 R California [Scrambling] [0/C] 71
+RB Emmanuel Fields 5-7 213 5 Western Michigan [Power] [0] 79
+RB Jordan Godson 5-7 187 1 Boston College [Speed] [0] 80
+RB Marcus Williams 5-10 219 4 Nebraska [Speed] [-3] 90
+FB Kayden Dozier 5-10 228 4 Georgia [Run Blocking] [0] 83
+WR Alex Kauffman 6-4 232 4 Arkansas [Target] [0] 75?
+WR Curtis Settles 6-0 207 6 Penn State [Speed] [0] 81
+WR Josiah McCray 6-1 199 3 Clemson [Target] [0] [+] 84
+WR Paul Howell 6-0 191 9 Mississippi State [Target] [0] 90
+WR Roger Bailey 5-10 159 5 Oregon State [Speed] [-1] 76
+WR Samuel Gulla 6-3 189 1 USC [Target] [-2] [#] 81
+TE Matt Stone 6-4 236 5 UCLA [Blocking] [+1] 84
+TE Brody Faulk 6-1 197 R Syracuse [Receiving] [+1] 78
+TE Scott Howard 6-6 236 9 Northwestern [Receiving] [+1] 92
+OT Alex Vasili 6-5 310 1 Penn State [Pass Blocking] [+1] 84
+OT Eugene Scott 6-4 285 3 USF [Run Blocking] [0] 81
+OT John Eaton 6-5 284 5 Penn State [Run Blocking] [0] 89
+OG Ousmane Nixon 6-2 307 3 TCU [Pass Blocking] [0] 78
+OG John Tripucka 6-3 308 7 Clemson [Pass Blocking] [+1/C] 84
+OG Miles Herman 6-3 259 1 Kentucky [Run Blocking] [0] 78
+C Miguel Prieto 6-4 259 R Michigan [Pass Blocking] [0] 81
+C Nate Gardner 6-0 284 5 Texas Tech [Pass Blocking] [+3] 80
+DE Brian Glenn 6-6 291 9 LSU [Blitz] [0] 88
+DE Derrick Dawkins 6-0 241 2 Purdue [Contain] [0/C] 78
+DE Travis Napier 6-2 261 1 Colorado [Contain] [0] 79
+DE Joey Green 6-1 260 6 Boston College [Contain] [0] 76
+DT Jeffrey King 6-3 312 5 Boston College [2-Gap] [0] 81
+DT Collin McCartney 6-7 281 1 Ohio State [2-Gap] [+1/C] 78
+DT Rhad Ryland 6-5 325 3 Murray State [2-Gap] [0] 77
+ILB Adrian Connor 6-0 242 2 Oklahoma State [Will] [0] 74
+ILB Malcolm Douglas-Scott 6-0 239 8 Angelina College [Will] [0] 91
+ILB Patrick Everett 6-2 229 R Miami(FL) [Will] [0/C] 80
+ILB Nicholas Quinn 6-3 240 1 Nebraska [Mike] [+2] 77
+ILB Richard Suarez 6-4 219 5 Boston College [Mike] [0] 80
+ILB Zion Adakwa 6-2 224 7 Illinois [Mike] [+3/C] 92
+OLB Kenji Sagatomo 6-1 234 4 New Hampshire [Blitz] [+1/C] 83
+OLB Tavarius Hicks 5-11 233 1 UCLA [Blitz] [+1] 79 ?
+OLB T.J. Harriman 6-3 227 4 Marist [Coverage] [0] 76
+CB Matt Cowan 6-2 172 8 Wisconsin [Zone Coverage] [0] 90
+CB Blaine Lewis-Thompson 5-11 193 1 California [Man Coverage] [+2] 82
+CB David Tolliver 5-10 165 2 Iowa State [Man Coverage] [+2] 74
+CB Patrick Chaney 5-9 199 3 Purdue [Man Coverage] [+1] 76
+CB Devon Drummond 5-11 181 5 Kansas [Man Coverage] [0] 82
+CB Tavarreus Watson 5-9 183 R Illinois [Man Coverage] [-2] 76
+FS Reshad Oliver 5-11 204 5 Navy [Zone Coverage] [-2] 79
+FS Tyler Patino 5-10 212 2 Illinois [Zone Coverage] [0] [+] 83
+FS Moussa Alford 5-11 206 R Temple [Zone Coverage] [-2] 75
+SS Gabriel Hightower 6-0 174 3 North Carolina [Zone Coverage] [0] [+] 83
+SS Kevin Faulkner 6-1 199 2 Marshall [Zone Coverage] [0] [#] 80
+SS Arthur Flores 5-10 166 6 California [Zone Coverage] [0] 80
+K Chris Ritter 6-2 208 5 Stanford [Accuracy] [0] 87?
+P Zachary Murphy 6-2 185 4 Utah State [Power] [0] 84
+KR Neville Simpson 5-10 172 3 James Madison [Specialist] [-1] 87

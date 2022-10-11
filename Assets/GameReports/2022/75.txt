@@ -1,0 +1,67 @@
+ Las Vegas Raiders (3-1) at Kansas City Chiefs (2-2) ?
+
+Kansas City, MO - 58 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:raiders: Las Vegas Raiders (3-1) 	14 	0 	3 	7 	3 	27
+:chiefs: Kansas City Chiefs (2-2) 	10 	3 	3 	8 	0 	24
+Team Stats Comparison
+  	:raiders: Las Vegas Raiders 	:chiefs: Kansas City Chiefs
+Injuries 	No Injuries ? 	TE Spec Davidson - Severe Toe Sprain
+Top Player Grade 	- 	-
+Worst Player Grade 	- 	-
+Offensive Line Rating 	8.31 	8.32
+Sacks 	2 	1
+Punting 	45.6 	43.2
+Punt Return Yards 	20 	26
+Kick Return Yards 	56 	64
+Turnovers 	1 	1
+3rd Down Conversion 	4/11 	5/13
+4th Down Conversion 	0/0 	1/1
+Penalties 	9/76 	6/52
+:raiders: Las Vegas Raiders
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	21/31 	232 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	14 	53 	0 	8 	0/0
+Quincy Turner 	10 	44 	1 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darryl McGlockton 	5 	66 	1 	0 	0/0
+Mike Tripplett 	4 	44 	0 	0 	0/0
+Lamont Crawford 	3 	40 	1 	1 	0/0
+Brian Gary 	3 	36 	0 	0 	0/0
+Brian Becker 	3 	32 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Adam Young 	2/0 	- 	1/0 	0/0 	0/0
+Marlon Bailey 	4/0 	1.0 	0/0 	0/0 	0/0
+Sergio Miller 	3/0 	1.0 	0/0 	0/0 	0/0
+Bobby Oakley 	5/2 	- 	0/0 	0/0 	0/0
+Alex Martin 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	2/3 	3/3 	42, 27 - 46
+	
+:chiefs: Kansas City Chiefs
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Harris 	22/36 	210 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	16 	82 	1 	19 	0/0
+Justin Buchanan 	3 	10 	0 	7 	0/0
+- 	- ? 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Hines Mertens 	5 	54 	0 	0 	0/0
+Justin Hill 	5 	47 	1 	1 	0/0
+Daniel Hobbs 	4 	44 	0 	0 	0/0
+Spec Davidson 	3 	26 	0 	1 	0/0
+Benjamin Franklin 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Teddy Walker 	3/0 	- 	1/1 	0/0 	0/0
+Devin Stephens 	4/0 	0.5 	0/0 	0/0 ? 	0/0
+Sean Springs 	3/0 	0.5 	0/0 	0/0 	0/0
+Cameron Riley 	6/1 	- 	0/0 	0/0 	0/0
+Rob Hamilton 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Ryan Levcik 	3/3 	1/1 	28, 24, 45 

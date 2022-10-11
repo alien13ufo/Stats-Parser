@@ -1,0 +1,66 @@
+ New England Patriots (4-4) at New York Jets (5-2)
+
+East Rutherford, NJ - 52 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:patriots: New England Patriots (4-4) 	7 	10 	7 	3 	- 	27
+:jets: New York Jets (5-2) 	7 	7 	10 	6 	- 	30
+Team Stats Comparison
+  	:patriots: New England Patriots 	:jets: New York Jets
+Injuries 	
+
+Peter Williams, OLB - Moderate Hamstring Tendonitis
+
+ 
+	
+
+Joe Farmer, OG - Mild Calf Pull
+
+Marques Warner, CB - Severe Foot Dislocation
+Offensive Line Rating 	8.3 	8.0
+Sacks 	3 	2
+Punting 	46.5 	43.2
+Punt Return Yards 	40 	6
+Kick Return Yards 	21 	26
+Turnovers 	1 	2
+3rd Down Conversion 	5/12 	3/8
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/60 	4/38
+:patriots: New England Patriots
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	22/36 	302 	2 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ike Nimmo 	14 	39 	1 	11 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Geno Harris 	8 	89 	1 	0 	0/0
+Jamel Beckham 	5 	85 	0 	1 	0/0
+Gary Jones 	3 	70 	1 	0 	0/0
+Ike Nimmo 	2 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Norris Nolan 	4/0 	- 	1/0 	0/0 	0/0
+Mark Logan 	5/1 	1.0 	0/0 	1/0 	0/0
+Joey Davis 	2/0 	1.0 	0/0 	0/0 	0/0
+Willard Arnold 	5/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	2/2 	3/3 	49, 38
+	
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	23/35 	300 	2 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	18 	85 	1 	30T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Paul Howell 	9 	145 	1 	0 	0/0
+Israel Hawker 	4 	64 	0 	0 	0/0
+Matt Stone 	3 	53 	1 	0 	0/0
+Sam Chapman 	3 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jonathan Bridges 	3/0 	1.5 	0/0 	0/0 	0/0
+Chris Tucker 	5/0 	0.5 	0/0 	1/0 	0/0
+Bob Ballard 	4/0 	- 	0/0 	0/1 	0/0
+Sebastian Vaughn 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	3/3 	3/3 	44, 51, 32 

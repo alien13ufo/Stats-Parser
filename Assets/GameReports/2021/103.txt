@@ -1,0 +1,57 @@
+ Tampa Bay Buccaneers (3-3) at New Orleans Saints (4-2)
+
+New Orleans, LA - 76 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (3-3) 	7 	14 	0 	7 	3 	31
+:saints: New Orleans Saints (4-2) 	7 	14 	7 	0 	0 	28
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:saints: New Orleans Saints
+Injuries 	Quintavius Pearson, WR - Moderate Achilles Bruise 	No Injuries
+Offensive Line Rating 	8.0 	8.4
+Sacks 	2 	3
+Punting 	41.8 	45.0
+Punt Return Yards 	10 	89 (1)
+Kick Return Yards 	23 	20
+Turnovers 	1 	1
+3rd Down Conversion 	6/13 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/55 	4/35
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	23/31 	285 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	21 	106 	1 	26 	0/0
+Jeremiah Newton 	8 	45 	1 	40T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony McCardell 	8 	99 	1 	0 	0/0
+Richard Wilson 	4 	70 	1 	0 	0/0
+William Moore 	3 	42 	0 	1 	0/0
+Jerry Cipa 	3 	40 	0 	0 	1/1
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin Nguyen 	4/0 	- 	1/0 	0/0 	0/0
+Frank Williams 	5/0 	1.0 	0/0 	0/0 	0/0
+Micah Singletary 	4/1 	1.0 	0/0 	0/0 	0/0
+Derrick Martin 	7/1 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	1/1 	4/4 	39
+	
+:saints: New Orleans Saints
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Devereaux 	24/39 	300 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sterling Brown 	15 	36 	0 	11 	0/0
+Zahir Watts 	3 	15 	1 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sean Jenkins 	9 	122 	1 	0 	0/0
+Jamaal Brown-Sanderson 	8 	108 	1 	0 	0/0
+Cotton Lewis 	2 	35 	0 	0 	0/0
+Jacky Walters 	2 	17 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Austin Olson 	6/1 	2.0 	0/0 	0/0 	0/0
+Adam Scott 	2/0 	1.0 	0/0 	0/0 	0/0
+Garrett Holliday 	6/0 	- 	0/0 	1/0 	0/0
+Ray Flores 	5/0 	- 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jack Kershner 	0/1 	4/4 	- 45 

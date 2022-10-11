@@ -1,0 +1,52 @@
+QB Tommy Jones 6-3 198 R Michigan [Pocket] 82
+QB Harold Simmons 6-1 180 2 NotreDame [Pocket] 86
+QB Sam Light 5-11 194 1 Texas [Pocket] 73
+RB Rickie Baird 5-11 171 2 Cincinnati [Speed] 81
+RB Bryan Browning 5-8 185 R Kentucky [Speed] 72
+RB Buzz Etcheverry 5-10 182 1 UCF [Power] 80
+RB Charles Givens 6-0 235 1 Baylor [Speed] 67
+FB Broderick Snell 5-11 235 4 Texas [Speed] 79
+FB Mathew Willis 6-2 227 1 Colorado [Power] 71
+WR Billy Rodgers 6-1 164 2 NorthCarolina [Target] 86
+WR Gordon Kleinsasser 6-6 200 1 Michigan [Target] 81
+WR Vaughn Gash 6-3 183 4 Tennessee [Speed] 83
+WR Al Divito 6-0 186 1 Georgia [Speed] 75
+TE Isaiah Davidson 6-6 247 2 BoiseState [Run Blocking] 83
+TE Stanley Sherk 6-7 232 R Virginia Tech [Run Blocking] 79
+TE King Pietrosante 6-2 223 1 Washington State [Run Blocking] 70
+TE Jack Stewart 6-4 227 4 Michigan State [Run Blocking] 68
+OT Aaron Gugliemi 6-2 310 3 Tennessee [PassBlocking] 89
+OT Matt Bogle 6-1 341 2 OhioState [PassBlocking] 91
+OT Torrie Warfield 6-8 312 3 California [PassBlocking] 77
+OT Dwight Ellis 6-3 327 3 NotreDame [PassBlocking] 76
+OG John Chance 6-7 315 3 OregonState [RunBlocking] 93
+OG Jason Osorio 6-2 275 R Virginia Tech [Pass Blocking] 82
+OG Stan Flutie 6-1 297 R UCLA [Pass Blocking] 75
+C Rodney Atkins 6-1 291 R Navy [Run Blocking] 76
+C Raymond Muhammad 6-4 292 4 Virginia Tech [Run Blocking] 75
+C James Roberson 6-2 264 1 Rutgers [Run Blocking] 68
+DE Kaulana Groth 6-7 304 3 OhioState [PassStop] 85
+DE Freeman Schubert 6-6 260 R Arizona State [Pass Stop] 76
+DE Joe Washington 6-1 268 4 Missouri [PassStop] 78
+DT Nathan Knowlton 6-6 277 1 Boise State [Pass Stop] 81
+DT Joseph Blair 6-2 294 1 Utah [Pass Stop] 76
+DT Lynn Burford 6-7 300 3 USC [RunStop] 72
+ILB Blair Williams 6-2 247 3 Colorado [PassMan-to-Man] 89
+ILB Jackie Eaton 6-0 234 3 Virginia Tech [Pass Zone] 84
+ILB Barty Tillman 6-2 222 R Clemson [Run Zone] 74
+ILB Bryan Jones 6-2 234 4 NotreDame [PassMan-to-Man] 66
+OLB Chester Williams 6-2 219 2 Auburn [RunMan-to-Man] 84
+OLB Jeff Brooks 6-0 230 1 Florida [Pass Man-to-Man] 77
+OLB Jerry Sanford 6-1 252 R San Jose State [Run Man-to-Man] 71
+OLB Jason Baber 6-2 217 1 Virginia Tech [Pass Zone] 65
+CB Wayne Hape 5-10 184 3 USC [ManCoverage] 83
+CB Antonio Hotchkiss 5-9 187 1 Ohio State [Man Coverage] 75
+CB Brent Johnson 5-11 181 R Utah [Zone Coverage] 75
+CB Robert Mayfield 6-0 182 4 Rutgers [Zone Coverage] 64
+FS Reynaldo Harris 5-9 174 2 Miami [ManCoverage] 86
+FS Gary Bryant 5-11 207 4 WestVirginia [ZoneCoverage] 75
+SS Tyler Trent 5-10 210 R Alabama [Man Coverage] 77
+SS Joel Murphy 5-11 201 2 Arizona [ZoneCoverage] 73
+SS George Neal 5-8 171 2 Kansas [Zone Coverage] 64
+K Ronald Daniel 5-8 184 1 Baylor [Power] 82
+P Joe Wood 5-9 192 2 Michigan [Power] 90

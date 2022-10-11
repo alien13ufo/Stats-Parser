@@ -1,0 +1,57 @@
+ Seattle Seahawks (2-2) at Green Bay Packers (4-0)
+
+Green Bay, WI - 55 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:seahawks: Seattle Seahawks (2-2) 	0 	3 	0 	0 	- 	3
+:packers: Green Bay Packers (4-0) 	7 	3 	3 	10 	- 	23
+Team Stats Comparison
+  	:seahawks: Seattle Seahawks 	:packers: Green Bay Packers
+Injuries 	Kristian Jackson, TE - Mild Concussion 	No Injuries
+Offensive Line Rating 	7.6 	8.3
+Sacks 	1 	3
+Punting 	42.2 	45.2
+Punt Return Yards 	18 	24
+Kick Return Yards 	20 	24
+Turnovers 	2 	0
+3rd Down Conversion 	2/13 	6/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/46 	6/63
+:seahawks: Seattle Seahawks
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	18/30 	206 	0 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Booker T. Washington 	13 	40 	0 	15 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Josiah McCray 	5 	56 	0 	0 	0/0
+Curtis Settles 	3 	52 	0 	0 	0/0
+Jim Umenyiora 	3 	45 	0 	1 	0/0
+Booker T. Washington 	3 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brian Glenn 	3/0 	1.0 	0/0 	0/0 	0/0
+Zion Adakwa 	7/0 	- 	0/0 	0/0 	0/0
+Malcolm Douglas-Scott 	5/0 	- 	0/0 	0/0 	0/0
+Antonio Oliver 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	1/1 	0/0 	38
+	
+:packers: Green Bay Packers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	22/33 	266 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	18 	81 	0 	25 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Bernard Taylor 	5 	82 	1 	0 	0/0
+Justin McCain 	7 	64 	1 	0 	0/0
+Dan Nomellini 	3 	45 	0 	0 	0/0
+Tom Grant 	3 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Bowman 	2/0 	- 	1/0 	0/0 	0/0
+Barron Anthony 	4/1 	1.5 	0/0 	1/0 	0/0
+Kaulana Groth 	3/0 	1.5 	0/0 	0/1 	0/0
+Richard Wilson 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	3/3 	2/2 	44, 23, 34 

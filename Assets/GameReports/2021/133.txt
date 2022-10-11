@@ -1,0 +1,66 @@
+ Kansas City Chiefs (5-3) at Los Angeles Chargers (0-8)
+
+Inglewood, CA - 70 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chiefs: Kansas City Chiefs (5-3) 	7 	3 	14 	7 	- 	31
+:chargers: Los Angeles Chargers (0-8) 	6 	7 	7 	7 	- 	27
+Team Stats Comparison
+  	:chiefs: Kansas City Chiefs 	:chargers: Los Angeles Chargers
+Injuries 	
+
+Boyd Buckley, OG - Severe Hamstring Rupture
+
+ 
+	
+
+Jason Bryant, OLB - Mild Concussion
+
+Kevin Potts, CB - Moderate Calf Strain
+Offensive Line Rating 	7.9 	7.6
+Sacks 	0 	0
+Punting 	42.5 	39.5
+Punt Return Yards 	27 	8
+Kick Return Yards 	23 	43
+Turnovers 	0 	0
+3rd Down Conversion 	6/13 	5/13
+4th Down Conversion 	0/0 	1/1
+Penalties 	5/56 	8/67
+:chiefs: Kansas City Chiefs
+Wishbone - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erasmus McCready 	12/19 	120 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	23 	104 	2 	22 	0/0
+Justin Buchanan 	6 	38 	1 	31T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Spec Davidson 	4 	50 	1 	0 	0/0
+Harry Whiteside 	2 	32 	0 	0 	0/0
+Justin Hill 	2 	21 	0 	0 	0/0
+Richard Frazier 	2 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Arlie LeClair 	7/0 	- 	0/0 	0/0 	0/0
+Carnell Meadows 	5/1 	- 	0/0 	0/0 	0/0
+Cameron Riley 	4/0 	- 	0/1 	0/0 	0/0
+Rob Hamilton 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	1/1 	4/4 	39
+	
+:chargers: Los Angeles Chargers
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	17/29 	222 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	22 	106 	1 	40T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+M.L. Kriewaldt 	5 	76 	1 	0 	0/0
+Gerald Morrison 	5 	56 	1 	0 	0/0
+Scott Howard 	2 	52 	0 	1 	0/0
+Tommy Pottios 	2 	33 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Shane Easley 	8/1 	- 	0/0 	0/0 	0/0
+Keith Farr 	4/0 	- 	0/1 	0/0 	0/0
+Kareem Boykin 	4/1 	- 	0/0 	0/0 	0/0
+Andrew Pearson 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	2/2 	3/3 	38, 34 

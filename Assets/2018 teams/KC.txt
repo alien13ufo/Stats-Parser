@@ -1,0 +1,52 @@
+QB Thomas Wheeler 6-1 208 3 FloridaState [Pocket] 90
+QB Sean Hadnot 6-5 217 2 Alabama [Pocket] 79
+QB David Brezina 6-2 189 R Iowa [Scrambling] 79
+QB Benny Wilson 6-0 192 R Wisconsin [Pocket] 69
+RB Ben Offerdahl 5-11 189 R Auburn [Speed] 79
+RB Michael Shoemaker 6-0 187 1 Northwestern [Power] 78
+RB Justin Buchanan 5-10 184 4 Mississippi State [Power] 80
+RB Rickie Edwards 6-1 176 2 SMU [Power] 75
+FB Randy Hudson 6-4 213 R Virginia Tech [Speed] 72
+WR Hines Mertens 5-8 176 1 LSU [Speed] 83
+WR Cap Christian 6-3 176 2 Georgia Tech [Target] 82
+WR Harry Whiteside 6-5 169 R Texas [Target] 79
+WR Henry Hamilton 6-4 200 1 Minnesota [Target] 68
+WR David Workman 6-3 201 1 Maryland [Speed] 67
+WR Lenny Knott 6-1 180 1 Washington [Speed] 63
+TE Nate Blue 6-2 239 2 Notre Dame [Pass Blocking] 77
+TE Robert Ford 6-4 232 R Minnesota [Pass Blocking] 70
+TE Thomas Woodson 6-3 232 1 Ohio State [Pass Blocking] 64
+OT Chris Gray 6-3 283 1 Texas A&M [Pass Blocking] 80
+OT Herman Harrison 6-4 302 1 Baylor [PassBlocking] 78
+OT Kevin Hill 6-7 313 R West Virginia [Run Blocking] 75
+OT James Bashir 6-3 275 R Colorado [Pass Blocking] 70
+OT Bob Adams 6-4 331 2 West Virginia [Pass Blocking] 67
+OG Henry Badanjek 6-4 289 4 Alabama [PassBlocking] 85
+OG Boyd Buckley 6-0 274 1 Notre Dame [Pass Blocking] 77
+OG Dennis Kaufman 6-8 281 R Connecticut [Run Blocking] 69
+OG Charles Brown 6-0 287 1 Northwestern [Run Blocking] 68
+OG Michael Bellamy 6-1 299 1 Rutgers [Run Blocking] 64
+C Rob Johnston 6-2 292 3 FloridaState [RunBlocking] 77
+C William Price 6-2 302 1 Boise State [Run Blocking] 64
+DT Malik Dawson 6-3 281 R Illinois [Pass Stop] 81
+DT Carter Jackson 6-6 273 1 Boise State [Run Stop] 77
+DT Ed Miller 6-5 304 1 NC State [Pass Stop] 66
+DT Chris Simmons 6-3 268 1 Oregon State [Pass Stop] 65
+DE Terry Patton 6-3 275 3 Oklahoma [PassStop] 77
+DE Jason Johnson 6-3 264 1 Penn State [Run Stop] 71
+DE Dennis Thomas 6-3 274 1 Arizona State [Run Stop] 63
+ILB Dewey Tomlinson 5-11 220 1 Oklahoma State [Pass Man-to-Man] 81
+ILB Melvin Rolovich 6-2 236 4 Florida [PassZone] 76
+ILB Johnny Boston 6-1 232 1 Minnesota [Pass Zone] 71
+OLB Devin Stephens 6-1 237 R Marshall [Run Zone] 79
+OLB Billy Westbrook 6-0 228 3 Washington [PassZone] 79
+OLB Sean Springs 6-0 220 1 Stanford [Run Zone] 71
+CB Teddy Walker 5-11 177 R Kentucky [Man Coverage] 82
+CB George Brady 5-11 181 3 Nebraska [ManCoverage] 81
+CB Will Baker 5-11 190 4 Oklahoma [ManCoverage] 74
+FS Rob Hamilton 5-11 188 1 UCLA [Zone Coverage] 79
+FS Dustin Williams 5-11 169 R Georgia Tech [Man Coverage] 68
+SS Raymond Ponce 6-1 196 3 Kansas State [Zone Coverage] 78
+SS Myron Loud 5-11 201 R Iowa [Zone Coverage] 74
+K Daryl Holmes 5-9 192 2 MichiganState [Power] 85
+P Cliff Randall 6-0 208 1 Penn State [Accuracy] 79

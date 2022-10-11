@@ -1,0 +1,66 @@
+ Philadelphia Eagles (5-1) at Detroit Lions (2-4)
+
+Detroit, MI - 45 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (5-1) 	7 	7 	0 	3 	- 	17
+:fibur: Detroit Lions (2-4) 	0 	3 	6 	6 	- 	15
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:fibur: Detroit Lions
+Injuries 	
+
+Jack Green, OG - Severe Foot Dislocation
+
+ 
+	
+
+Rex Walsh, WR - Moderate Achilles Bruise
+
+Griffin Perrin, ILB - Severe Biceps Strain
+Offensive Line Rating 	8.0 	8.1
+Sacks 	3 	2
+Punting 	45.3 	43.6
+Punt Return Yards 	15 	24
+Kick Return Yards 	23 	28
+Turnovers 	1 	1
+3rd Down Conversion 	6/14 	4/16
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/60 	4/30
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	16/26 	150 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	22 	85 	1 	25 	0/0
+Marshawn Miller 	9 	24 	0 	19 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cameron Whelahan 	5 	65 	0 	0 	0/0
+Michael Hawkins 	3 	40 	1 	0 	0/0
+Roy Davis 	2 	23 	0 	1 	0/0
+Adam Vann 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin Hartley 	3/0 	- 	1/0 	0/0 	0/0
+Ryan Frey 	4/1 	1.0 	0/0 	0/0 	0/0
+Ulysses Smith 	3/0 	1.0 	0/0 	0/0 	0/0
+Reggie Hedberg 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	0/0 	0/0 	-
+	
+:fibur: Detroit Lions
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Blake Shell 	20/35 	207 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Calvin Jones 	18 	50 	0 	13 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jeremy Cook 	7 	76 	0 	0 	0/0
+Tyrone Cunningham 	5 	56 	1 	0 	0/0
+Adrian Allen 	3 	34 	0 	0 	0/0
+Rex Walsh 	2 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Willard McCready 	5/0 	- 	1/1 	0/0 	0/0
+Ricky Mayo 	3/1 	1.0 	0/0 	0/0 	0/0
+Cameron Jones 	5/0 	1.0 	0/0 	0/0 	0/0
+Kofi Neal 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	3/3 	0/0 	55, 25, 23 

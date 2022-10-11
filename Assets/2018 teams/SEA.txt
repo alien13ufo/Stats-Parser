@@ -1,0 +1,53 @@
+QB Alexander Williams 6-0 187 4 Texas A&M [Scrambling] 91
+QB DeAndre Jackson 6-1 199 1 Kansas [Scrambling] 75
+QB Adam Stave 6-4 220 R Army [Pocket] 71
+RB Fred Tindale 5-11 204 2 Florida [Speed] 89
+RB Michael Duckworth 5-7 179 2 Michigan St. [Speed] 83
+RB Kenneth Farr 5-8 183 1 Kentucky [Power] 76
+FB Jose Rosenthal 5-11 208 R North Carolina [Speed] 81
+FB Darren Michael 6-1 243 2 Penn St. [Power] 73
+WR Ken Peelle 6-6 214 4 Florida State [Target] 86
+WR Patrick Burke 6-4 165 1 Auburn [Target] 82
+WR Tommy Pottios 6-6 183 R Georgia Tech [Speed] 81
+WR Ken Brown 6-5 174 3 NCState [Speed] 80
+WR Kirk Pierce 6-1 171 3 Georgia Tech [Target] 74
+WR Dean Porter 5-11 188 3 SMU [Speed] 71
+TE Tony Huff 6-4 225 1 Georgia [Run Blocking] 83
+TE Jeffrey Jackson 6-3 230 R Kent State [Run Blocking] 72
+TE Denario Jackson 6-1 219 R Pittsburgh [Pass Blocking] 70
+OT Walter Adair 6-1 310 2 Army [RunBlocking] 86
+OT Joe McCord 6-5 309 3 Notre Dame [Run Blocking] 81
+OT Nick Auld 6-6 302 1 Connecticut [Pass Blocking] 75
+OT David Bowles 6-3 296 1 Mississippi State [Pass Blocking] 75
+OG Trey Durrence 6-2 300 2 Alabama [PassBlocking] 80
+OG John Tripucka 6-3 308 1 Clemson [Pass Blocking] 81
+OG Ricky Witman 6-4 280 R Boston College [Pass Blocking] 72
+OG Frank Carter 6-0 304 2 Washington [Run Blocking] 68
+C Davern Lemmerman 6-4 272 1 Wisconsin [Run Blocking] 74
+C Darryl McGee 6-3 274 R Oklahoma State [Run Blocking] 67
+DE Brian Glenn 6-6 291 3 LSU [Pass Stop] 83
+DE Steven Jordan 6-7 279 3 IowaState [RunStop] 82
+DE Travis Lee 6-8 260 R Alabama [Run Stop] 74
+DE Robert Crews 6-4 270 1 Boise State [Run Stop] 66
+DT Reggie Howard 6-6 306 3 Washington [RunStop] 79
+DT Craig Boyd 6-8 277 1 Ole Miss [Pass Stop] 75
+DT Steve Phillips 6-2 285 1 Iowa [Pass Stop] 72
+ILB Malcolm Douglas-Scott 6-0 239 2 AngelinaCollege [PassMan-to-Man] 92
+ILB Tom Lavergne 6-0 226 R Florida [Pass Man-to-Man] 78
+ILB Tom Ames 6-1 225 3 Syracuse [RunMan-to-Man] 77
+ILB James Bates 6-1 217 2 UCLA [Run Man-to-Man] 73
+OLB Craig Davis 6-1 221 2 Syracuse [Run Man-to-Man] 80
+OLB Kyries Brown 6-0 227 2 Wisconsin [PassMan-to-Man] 78
+OLB Melvin Bedell 6-1 221 2 Texas [PassZone] 75
+OLB Eddie Johnson 6-0 227 2 Georgia Tech [Pass Zone] 72
+CB Matt Cowan 6-2 172 2 Wisconsin [ZoneCoverage] 92
+CB Corey Quinn 6-0 191 1 Oregon [Zone Coverage] 84
+CB Duke Burchfield 5-11 163 R North Carolina [Zone Coverage] 72
+CB Billy Odom 6-0 190 2 Texas Tech [Zone Coverage] 67
+FS Onome Smith 6-1 191 R California [Man Coverage] 77
+FS Kevin Collins 5-11 196 3 Alabama [ZoneCoverage] 74
+SS Jeff Hudson 6-0 183 4 Clemson [ZoneCoverage] 79
+SS Anthony Foster 6-3 206 1 Purdue [Man Coverage] 75
+SS Patrick Carr 5-10 201 R Navy [Zone Coverage] 70
+K Patrick O'Neil 6-1 201 2 Virginia [Accuracy] 72
+P Gary Levels 6-1 198 R Michigan State [Power] 80

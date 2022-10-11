@@ -1,0 +1,67 @@
+ San Francisco 49ers (0-3) at Los Angeles Rams (0-3) ?
+
+Inglewood, CA - 63 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (0-3) 	7 	14 	0 	7 	- 	28
+:rams: Los Angeles Rams (0-3) 	0 	14 	6 	3 	- 	23
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:rams: Los Angeles Rams
+Injuries 	No Injuries 	OT Nijrell Smith - Severe Achilles Tendonitis
+Top Player Grade 	QB Orly Vaccaro (8.72) 	K Sam Walsh (8.31)
+Worst Player Grade 	OLB Harold Kennedy (3.80) 	OT Conor Crane (2.68)
+Offensive Line Rating 	8.26 	8.24
+Sacks 	3 	1
+Punting 	43.2 	45.1
+Punt Return Yards 	37 	15
+Kick Return Yards 	55 	64
+Turnovers 	0 	0
+3rd Down Conversion 	5/11 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/77 	10/96
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Orly Vaccaro 	17/27 	299 	3 	0 ? 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	21 	116 	1 	16 	0/0
+Orly Vaccaro 	4 	29 	0 	16 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jarius Shaw-Dodd 	6 	105 	1 	0 	0/0
+Kevin Branch 	3 	101 	2 	0 	0/0
+Miles Collins 	2 	42 	0 	0 	0/0
+Troy McCray 	2 	19 	0 	0 	0/0
+Daniel Marshall 	2 	16 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Parker Holmes 	3/0 	1.5 	0/0 	0/0 	0/0
+Dennis Niland 	2/0 	1.5 	0/0 	0/0 	0/0
+Brandon Thomas 	6/0 	- 	0/0 	1/0 	0/0
+Prince McGill 	2/0 	- 	0/2 	0/0 	0/0
+Keith Wells 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	0/1 	4/4 	- 50
+	
+:rams: Los Angeles Rams
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	18/35 	245 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daveed Knox ? 	12 	47 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamal Hawkins 	6 	80 	1 	1 	1/0
+Allama Banta 	2 	65 	1 	0 	0/0
+Walt Peck 	3 ? 	42 	0 	1 	0/0
+Derrick Schwartz 	3 	23 	0 	2 	0/0
+Kevin O'Neal 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Michael Bruce 	3/1 	1.0 	0/0 	0/0 	0/0
+Daniel Watkins 	7/2 	- 	0/0 	0/0 	0/0
+Samuel Prince 	4/0 	- 	0/0 ? 	0/0 	0/0
+Leigh Davey 	4/0 	- 	0/0 	0/0 	0/0
+Jeff Cox 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Walsh 	3/3 	2/2 	47, 50, 42 ?

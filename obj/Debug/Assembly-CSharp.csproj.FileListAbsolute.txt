@@ -1,0 +1,1 @@
+F:\Stats parser\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

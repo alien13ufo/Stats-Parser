@@ -1,0 +1,57 @@
+ Cleveland Browns (1-5) at Pittsburgh Steelers (2-4)
+
+Pittsburgh, PA - 58 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (1-5) 	3 	0 	7 	0 	- 	10
+:steelers: Pittsburgh Steelers (2-4) 	7 	14 	7 	0 	- 	28
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:steelers: Pittsburgh Steelers
+Injuries 	No Injuries 	Samuel Jolley, WR - Severe ACL Rupture
+Offensive Line Rating 	7.7 	7.8
+Sacks 	1 	1
+Punting 	44.3 	45.2
+Punt Return Yards 	11 	8
+Kick Return Yards 	23 	33
+Turnovers 	1 	0
+3rd Down Conversion 	4/12 	3/9
+4th Down Conversion 	0/0 	00
+Penalties 	6/58 	5/40
+:browns: Cleveland Browns
+Spread Option - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob Zeko 	14/27 	150 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	18 	77 	0 	25 	0/0
+Rob Zeko 	4 	25 	0 	13 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ray Lee Marconi 	6 	65 	0 	0 	0/0
+Tai Miller 	3 	41 	1 	0 	0/0
+Dean Burkhart 	2 	22 	0 	0 	0/0
+Kevin McMullen 	2 	17 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Gabriel Beauchamp 	3/1 	1.0 	0/0 	0/0 	0/0
+Caleb McNamara 	7/0 	- 	0/0 	0/0 	0/0
+C.J. Thomas 	5/1 	- 	0/0 	0/0 	0/0
+Andrew Wade 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	1/1 	1/1 	45
+	
+:steelers: Pittsburgh Steelers
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob Corp 	17/23 	260 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kalei Keil 	6 	68 	1 	25T 	0/0
+Chester Henson 	19 	40 	1 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Austin Medina 	5 	80 	1 	0 	0/0
+Eric Watson 	2 	60 	0 	0 	0/0
+Jake Schmidt 	3 	45 	1 	1 	0/0
+Chan Pease 	3 	41 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ronnie Bailey 	2/0 	- 	1/0 	0/0 	0/0
+Quentin Smith 	8/2 	1.0 	0/0 	0/0 	0/0
+Ron Mobley 	6/0 	- 	0/0 	0/0 	0/0
+Ray Taylor 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Michael Turner 	0/1 	4/4 	- 50 

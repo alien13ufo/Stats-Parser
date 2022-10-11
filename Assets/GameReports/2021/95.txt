@@ -1,0 +1,66 @@
+ Chicago Bears (4-1) at Cincinnati Bengals (1-4)
+
+Cincinnati, OH - 55 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (4-1) 	3 	7 	0 	14 	- 	24
+:bengals: Cincinnati Bengals (1-4) 	3 	14 	7 	10 	- 	34
+Team Stats Comparison
+  	:bears: Chicago Bears 	:bengals: Cincinnati Bengals
+Injuries 	
+
+Brandon Snead, WR - Severe MCL Bruise
+
+Jeremiah Joseph, SS - Severe Hamstring Rupture
+	
+
+Art Wagner, OG - Mild Hamstring Bruise
+
+Jonah Akins, OG - Mild Hamstring Bruise
+Offensive Line Rating 	7.7 	7.4
+Sacks 	2 	4
+Punting 	42.3 	44.2
+Punt Return Yards 	16 	30
+Kick Return Yards 	26 	20
+Turnovers 	2 	0
+3rd Down Conversion 	6/13 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/50 	4/38
+:bears: Chicago Bears
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Norris Brooksheer 	21/31 	240 	2 	1 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Quincy Honeycutt 	18 	66 	1 	14 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Donnie Allen 	6 	98 	1 	0 	0/0
+Aaron Pagliei 	7 	65 	1 	0 	0/0
+Brandon Snead 	4 	43 	0 	1 	0/0
+Dwayne Maddox 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeff Holleyman 	3/0 	1.0 	0/0 	0/0 	0/0
+Andrew Fazande 	3/0 	1.0 	0/0 	0/0 	0/0
+Kevin Harris 	7/0 	- 	0/1 	0/0 	0/0
+Morris Millen 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Daniel Olson 	1/1 	3/3 	40
+	
+:bengals: Cincinnati Bengals
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	14/20 	196 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	24 	135 	2 	28 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	5 	66 	1 	0 	0/0
+Jamir Blackburn 	2 	52 	1 	0 	0/0
+Brandon Lane 	3 	25 	0 	0 	0/0
+Christopher Harris 	1 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+R.C. Rone 	6/0 	- 	1/1 	0/0 	0/0
+Brett Bailey 	6/1 	1.5 	0/0 	0/0 	0/0
+Sila Lotomau 	5/1 	1.0 	0/0 	1/0 	0/0
+E.J. McQuarters 	4/0 	1.0 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	2/2 	4/4 	44, 27 

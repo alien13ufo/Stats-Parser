@@ -1,0 +1,67 @@
+ Tampa Bay Buccaneers (7-7) at Atlanta Falcons (9-4-1) ?
+
+Atlanta, GA - 65 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:buccaneers: Tampa Bay Buccaneers (7-7) 	0 	3 	7 	0 	- 	10
+:falcons: Atlanta Falcons (9-4-1) 	7 	3 	7 	7 	- 	24
+Team Stats Comparison
+  	:buccaneers: Tampa Bay Buccaneers 	:falcons: Atlanta Falcons
+Injuries 	CB Cameron Newhouse - Severe Biceps Strain 	No Injuries
+Top Player Grade 	ILB Andre Brooks (7.67) 	RB Akili Wallace (9.64)
+Worst Player Grade 	OT Demonte Green (1.96) 	SS Myron Loud (3.00)
+Offensive Line Rating 	8.18 	8.36
+Sacks 	0 	2
+Punting 	40.7 	47.5
+Punt Return Yards 	3 	17
+Kick Return Yards 	85 	43
+Turnovers 	1 	0
+3rd Down Conversion 	2/11 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/40 	6/37
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	15/21 	180 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	16 	67 	0 	20 	0/0
+Taylor Heiden 	3 	-10 	0 	-2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Richard Wilson 	3 	60 	0 	1 	0/0
+Quintavius Pearson 	3 	41 	0 	0 	0/0
+Jeremiah Newton 	2 	23 	1 	0 	0/0
+Randall Johnson 	2 	20 	0 	0 	0/0
+DeNorris Jackson 	3 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin Jackson 	7/0 	- 	0/0 	0/0 	0/0
+Andre Brooks 	7/0 	- 	0/0 	0/0 	0/0
+Thomas Barry 	5/0 	- 	0/0 	0/0 	0/0
+Aaron Blakely 	4/0 	- 	0/0 	0/0 	0/0
+Demetrius Still 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	1/2 	1/1 	20 - 57
+	
+:falcons: Atlanta Falcons
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	17/27 	228 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace ? 	17 	126 	2 	27T 	0/0
+Bradley Cooley 	11 	39 	0 	16 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason Erwin 	7 	104 	0 	0 	0/0
+Riddick Smith 	4 	62 	1 	0 	0/0
+Bo Woodall 	2 	32 	0 	0 	0/0
+Tyrus Wilson ? 	1 	12 	0 	0 	0/0
+Rentavious Rogers 	1 	9 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darren Ruffin 	3/0 	- 	1/0 	0/0 	0/0
+Eric Jennings 	3/2 	1.0 	0/0 	0/0 	0/0
+Tommy Leonard 	3/1 	1.0 	0/0 	0/0 	0/0
+Marcus Grant 	7/0 	- 	0/0 	0/0 	0/0
+Darius Jones 	6/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP ? 	KICK DISTANCES ??
+Gino Chiaverini 	1/1 	3/3 	40 

@@ -1,0 +1,55 @@
+QB Erik Wegert 6-4 218 8 Wisconsin [Pocket] [+1/C] 94?
+QB Sean Sitton 6-4 196 4 Arkansas [Pocket] [0] 81
+QB Robert Lynch 5-11 230 R Minnesota [Pocket] [0] 80
+RB Robert Green 5-7 213 R Virginia [Speed] [-1] 79
+RB Marvin Washington 5-8 178 6 California [Speed] [+3] [+] 78
+RB Franklin Riggins 5-6 195 1 Nebraska [Power] [+1] 77
+FB Calvin McClellan 6-1 233 R UCLA [Pass Blocking] [-1] 81
+WR Adam Coles 6-0 198 3 Pittsburgh [Speed] [0] [++] 83
+WR Dominic Dixon 6-2 212 R Penn State [Target] [0] 81
+WR Israel Hawker 6-2 197 4 Yale [Speed] [0/C] 80
+WR?? ??Anthony? McCardell????? 6-1 186 7 Clemson [Target] [0] 80? ?
+WR Sebastian Porter 6-1 208 2 UTSA [Target] [0] [#] 79
+WR Kelvin A?ndrade 5-10 197 R Auburn [Speed] [-1/C] [+]? 75?
+WR Xavien Lockhart 6-1 209 R Memphis [Target] [-1] 72
+TE Jonas Schumacher 6-5 209 R Ohio State [Receiving] [0] 80
+TE Dillon Abbrederis 6-1 191 3 Colorado State [Blocking] [0/C] [++] 78
+TE William Bouchard 6-3 246 ?4 ECU [Receiving] ?[0] 78
+TE Justin Burris 6-4 205 3 Missouri [Blocking] [0] 77
+OT Darnerien Sohn 6-7 306 6 Miami (FL) [Pass Blocking] [+2/C] 97
+OT Brendan Lowe 6-2 260 1 LSU [Pass Blocking] [0/C] 84
+OT Arthur Bonds 6-5 313 5 BYU [Run Blocking] [0] 80
+OT Saul Noriega 6-6 273 R Southern Miss [Run Blocking] [0] 78
+OG David Schlereth 6-4 298 8 Wisconsin [Pass Blocking] [0] 91
+OG Thomas Ewing 6-2 282 5 Utah [Run Blocking] [+1] 82
+OG Mark Lattimore 6-1 291 2 Southern Miss [Pass Blocking] [+1] 80
+OG Keith Holbrook 6-3 285 R Toledo [Pass Blocking] [0/C] 80
+C Kyle Curtis 6-3 279 1 Boston College [Run Blocking] [0/C] 79
+DE Alvis Brumm 6-6 268 10 Penn State [Blitz] [+1] 89
+DE Joseph Randolph 6-1 266 5 San Jose State [Blitz] [-1] 80
+DE Zach Dockery 6-1 257 1 Colorado State [Blitz] [0] 78
+DE Javier Davenport 6-2 258 3 Illinois [Blitz] [-1] [#] 79
+DE Samir Dixon 5-10 253 4 Stanford [Blitz] [0] 79
+DT Kyle Pratt 6-4 301 5 Virginia [1-Gap] [0] 88
+DT Kahau Aveau 6-0 281 1 SMU [1-Gap] [+1] 80
+DT Luca Bragg 6-4 276 2 Iowa [1-Gap] [+3/C] 78
+DT Zion Salcedo 6-3 291 1 Navy [1-Gap] [-1] 74
+ILB Omar Trotter 6-1 234 3 Clemson [Mike] [0] 80
+ILB Brandon Delgado 5-11 219 R NDSU [Mike] [+1/C] 76 ?
+OLB Kristian Little 6-0 237 5 Alabama [Blitz] [0] 84
+OLB Matt Okoye 5-11 217 6 Florida State [Coverage] [+1] 75
+OLB Cameron Faulk 6-2 233 1 Virginia [Coverage] [0] 77
+CB Khalil Harrell 5-9 168 1 Florida State [Man Coverage] [-2] 85
+CB Samir Ware 5-11 200 5 Clemson [Man Coverage] [-3] 83
+CB Nathaniel Woodworth 5-10 174 4 Miami [Man Coverage] [0] 81
+CB Jeremy Watson 5-10 180 R Alabama [Man Coverage] [-2] 80
+CB Jonathan McAfee 5-9 200 2 Nebraska [Man Coverage] [0/C] 75?
+CB Miles Keys 6-0 194 1 Auburn [Man Coverage] [0] 73
+FS Reshad Jenkins 5-11 198 6 Houston [Man Coverage] [+1/C] 99
+FS Gabriel Allen 6-1 190 1 Purdue [Zone Coverage] 80
+FS Janoris Callahan 5-11 223 R Western Kentucky [Man Coverage] [-3] 75
+SS Sebastian Vaughn 6-1 194 6 Penn State [Zone Coverage] [0] 83
+SS Xavier Burroughs 5-10 185 2 Alabama [Zone Coverage] [0] 82
+K Chris Hoag 6-2 184 7 UCLA [Power] [-1] 92
+P John Maslowski 5-8 203 8 USC [Accuracy] [0] 97
+KR Hayden Walls 5-10 176 2 Boise State [Specialist] [0] 79

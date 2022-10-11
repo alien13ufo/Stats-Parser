@@ -1,0 +1,57 @@
+ Las Vegas Raiders (8-4) at Philadelphia Eagles (9-3)
+
+Philadelphia, PA - 35 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:raiders: Las Vegas Raiders (8-4) 	7 	0 	14 	7 	0 	28
+:eagles: Philadelphia Eagles (9-3) 	3 	7 	10 	8 	3 	31
+Team Stats Comparison
+  	:raiders: Las Vegas Raiders 	:eagles: Philadelphia Eagles
+Injuries 	Jaylen Harris, CB - Moderate Hip Strain 	Damani Spillman, TE - Moderate Back Disc Tear
+Offensive Line Rating 	8.1 	8.1
+Sacks 	1 	2
+Punting 	44.5 	43.7
+Punt Return Yards 	15 	8
+Kick Return Yards 	34 	21
+Turnovers 	1 	1
+3rd Down Conversion 	5/15 	4/14
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/48 	3/28
+:raiders: Las Vegas Raiders
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	23/36 	277 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	14 	51 	1 	11 	0/0
+John Bills 	1 	3 	1 	3T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Mike Tripplett 	7 	88 	1 	0 	0/0
+Brian Gary 	4 	81 	0 	1 	0/0
+Lamont Crawford 	3 	54 	0 	0 	0/0
+Willie Hodge 	4 	30 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+A'Shawn Ellison 	2/0 	- 	1/0 	0/0 	0/0
+Gregg Martin 	4/0 	1.0 	0/0 	0/0 	0/0
+Alex Martin 	6/1 	- 	0/0 	0/0 	0/0
+David Pennington 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	0/1 	4/4 	- 51
+	
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	20/27 	240 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy White 	17 	72 	0 	15 	0/0
+Marshawn Miller 	8 	41 	0 	14 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Michael Hawkins 	5 	77 	1 	0 	0/0
+Roy Davis 	3 	64 	1 	1 	0/0
+Christopher Johnson 	4 	44 	0 	0 	0/0
+Adam Vann 	4 	40 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Adam Harris 	2/0 	- 	1/0 	0/0 	0/0
+Ryan Frey 	4/1 	1.0 	0/0 	0/0 	0/0
+Turk Davis 	2/0 	1.0 	0/0 	0/0 	0/0
+Leonard Tice 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	3/3 	2/2 	45, 38, 51 

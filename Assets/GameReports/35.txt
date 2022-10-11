@@ -1,0 +1,130 @@
+ Cleveland Browns (1-1) at Baltimore Ravens (2-0) ?
+
+Baltimore, MD - 78 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (1-1) 	0 	3 	0 	0 	- 	3
+:ravens: Baltimore Ravens (2-0) 	7 	7 	14 	6 	- 	34
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:ravens: Baltimore Ravens
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	ILB Mark Craig (7.55) 	OLB Kenyatta Henderson (9.02)
+Worst Player Grade 	OT James Poindexter (0.56) 	DE Matthew Davis (0.68)
+Offensive Line Rating 	8.08 	8.19
+Sacks 	1 	4
+Punting 	42.5 	47.4
+Punt Return Yards 	0 	15
+Kick Return Yards 	64 	24
+Turnovers 	2 	0
+3rd Down Conversion 	2/12 	5/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/34 	9/61
+:browns: Cleveland Browns
+Spread - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Zach Lombardi 	18/35 	190 	0 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sean Bell 	17 	66 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP ?? 	F/L
+Jason McClairen 	6 	67 	0 	0 	0/0
+Darrell Mack 	3 	42 	0 	1 	0/0
+Jarius Shaw-Dodd 	3 	22 	0 	0 	0/0
+Ricky Chambers 	2 	21 	0 	1 	0/0
+Joseph Thurston 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Gabriel Beauchamp 	2/1 	1.0 	0/0 	0/0 	0/0
+Mark Craig 	8/1 	- 	0/0 	0/0 	0/0
+Jabari Fletcher 	5/0 	- 	0/0 	0/0 	0/0
+LaMichael Jones 	4/1 	- 	0/0 	0/0 	0/0
+Adriel Sierra 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+A.K. McGowan 	
+
+0/1
+
+44WR
+	
+
+1/1
+
+29
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+ADDITIONAL INFO
+
+OT James Poindexter gave up 3 sacks.
+
+ 
+	
+:ravens: Baltimore Ravens
+Spread - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Marcus Black 	19/25 	289 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Moussa Goode 	23 	111 	1 	20 	1/0
+Marcus Black 	3 	24 	1 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Wells 	6 	108 	0 	0 	0/0
+Danny Patrick 	3 	56 	1 	0 	0/0
+Zahir Wall 	4 	52 	0 	0 	0/0
+Patrick Lambert 	2 	23 	1 	0 	0/0
+Gabe Barrientos 	2 	22 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Donte Terry 	2/0 	- 	1/0 	0/0 	1/0
+Abdoul Childs 	1/0 	- 	1/0 	0/0 	0/0
+Kenyatta Henderson ? 	5/2 	2.0 	0/0 	0/0 	0/0
+Tyrone Jones 	4/0 	1.0 	0/0 	0/0 	0/0
+Samuel Sands 	7/0 	- 	0/0 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+Dennis Scott 	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+0/1
+
+48WL
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+4/5
+
+ 
+ADDITIONAL INFO
+DE Matthew Davis managed 0 pressures and 0 tackles while playing every snap. ?

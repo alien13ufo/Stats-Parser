@@ -1,0 +1,57 @@
+ Arizona Cardinals (4-8) at New York Jets (8-4)
+
+East Rutherford, NJ - 33 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (4-8) 	3 	0 	7 	0 	- 	10
+:jets: New York Jets (8-4) 	14 	10 	7 	7 	- 	38
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:jets: New York Jets
+Injuries 	Fred Tindale, RB - Severe Achilles Rupture 	Joe Farmer, OG - Mild Thumb Sprain
+Offensive Line Rating 	7.5 	8.0
+Sacks 	0 	3
+Punting 	42.6 	48.2
+Punt Return Yards 	37 	5
+Kick Return Yards 	27 	0
+Turnovers 	2 	0
+3rd Down Conversion 	4/16 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/36 	6/45
+:cardinals: Arizona Cardinals
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	16/32 	168 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Fred Tindale 	9 	45 	0 	17 	0/0
+Marshawn Matthison 	8 	30 	0 	13 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Banks 	5 	65 	0 	0 	0/0
+Noah Hills 	4 	41 	1 	0 	0/0
+Ricky Chambers 	2 	23 	0 	0 	0/0
+Cameron Lindsey 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Asante Willis 	5/0 	- 	0/1 	0/0 	0/0
+Jeffrey King 	5/1 	- 	0/0 	0/0 	0/0
+Rob Evans 	4/0 	- 	0/0 	0/0 	0/0
+D. Crump-Jackson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	1/1 	1/1 	56
+	
+:jets: New York Jets
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erik Wegert 	24/36 	305 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sam Chapman 	14 	67 	1 	16T 	0/0
+Marvin Washington 	3 	20 	1 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adam Coles 	8 	106 	1 	0 	0/0
+Israel Hawker 	6 	77 	1 	1 	0/0
+Matt Stone 	3 	62 	1 	0 	0/0
+Marcus Ratterman 	3 	38 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Reshad Jenkins 	4/0 	- 	1/0 	0/0 	0/0
+Kwazi Robb 	3/0 	- 	1/0 	0/0 	0/0
+Alvis Brumm 	3/1 	1.0 	0/0 	0/0 	0/0
+Bob Ballard 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Hoag 	1/2 	5/5 	45 - 55 

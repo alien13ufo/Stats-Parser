@@ -1,0 +1,67 @@
+ Chicago Bears (3-12) at Minnesota Vikings (3-12) ?
+
+Minneapolis, MN - 20 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (3-12) 	7 	14 	7 	7 	- 	35
+:vikings: Minnesota Vikings (3-12) 	7 	3 	7 	7 	- 	24
+Team Stats Comparison
+  	:bears: Chicago Bears 	:vikings: Minnesota Vikings
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	QB Mohammed Foster (9.53) 	C John Hadley (9.74)
+Worst Player Grade 	OT Marcus Waterman (2.20) 	DE Jamal Patton (2.25)
+Offensive Line Rating 	8.00 	8.16
+Sacks 	0 	1
+Punting 	45.6 	41.0
+Punt Return Yards 	44 	12
+Kick Return Yards 	68 	112
+Turnovers 	0 	0
+3rd Down Conversion 	5/9 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/60 	3/15
+:bears: Chicago Bears
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mohammed Foster 	18/23 	321 	3 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	14 	109 	0 	28 	1/0
+Mohammed Foster 	6 	75 	1 	39T 	0/0
+Quincy Honeycutt 	10 	52 	1 	22 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Gaines 	7 	172 	1 	0 	0/0
+Charlie Paul 	3 	75 	1 	0 	0/0
+Donnie Allen 	2 	23 	0 	0 	0/0
+Vaughan Abraham 	2 	19 	1 	0 	0/0
+Peter Foster 	2 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Geno Bohannon 	6/2 	- 	0/0 	0/0 	0/0
+David Medley 	6/1 	- 	0/0 	0/0 	0/0
+Andrew Fazande 	5/1 	- 	0/0 	0/0 	0/0
+Kevin Harris 	4/0 	- 	0/0 	0/0 	0/0
+Akeel Morris 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Anthony Harris 	0/1 	5/5 	- 55
+	
+:vikings: Minnesota Vikings
+Wing T - Smash Mouth
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Blair Holcomb 	8/9 	82 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Evan Grant 	27 	112 	1 	10 	2/0
+Isaac Wilson 	6 	45 	1 	29T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jacory Kessler ? 	2 	42 	1 	0 	0/0
+Mohamed Charles 	3 	20 	0 	0 	0/0
+Luke Cobb 	2 	12 	0 	0 	0/0
+Timothy Perez 	1 	8 	0 	0 	0/0
+- 	- 	- 	- 	- 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Matt Thomas 	4/0 	- 	0/0 	1/0 	0/0
+Marcus Brown 	1/0 	1.0 	0/0 	0/0 	0/0
+Devin Goss 	5/2 	- 	0/0 	0/0 	0/0
+Sebastian Smallwood 	6/0 	- 	0/0 	0/0 	0/0
+Phillip Gillis 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Gilligan 	1/2 	3/3 	47 - 56 ??

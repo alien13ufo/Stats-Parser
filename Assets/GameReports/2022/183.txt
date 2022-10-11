@@ -1,0 +1,67 @@
+ New York Giants (1-9-1) at Detroit Lions (9-2) ?
+
+Detroit, MI - 37 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:giants: New York Giants (1-9-1) 	0 	3 	3 	3 	- 	9
+:fibur: Detroit Lions (9-2) 	3 	7 	7 	3 	- 	20
+Team Stats Comparison
+  	:giants: New York Giants 	:fibur: Detroit Lions
+Injuries 	No Injuries 	RB Calvin Jones - Mild Toe Bruise
+Top Player Grade 	OLB Louis Peterson (7.36) 	SS Willard McCready (8.01)
+Worst Player Grade 	OT Roderick White (1.96) 	ILB Griffin Perrin (2.71)
+Offensive Line Rating 	8.28 	8.27
+Sacks 	1 	2
+Punting 	48.3 	47.1
+Punt Return Yards 	17 	32
+Kick Return Yards 	67 	41
+Turnovers 	1 	0
+3rd Down Conversion 	3/12 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/42 	3/17
+:giants: New York Giants
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Lawyer Johnson 	21/39 	205 	0 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG ? 	F/L
+O.J. Carano 	12 	50 	0 	8 	0/0
+Elvis Williams 	2 	-3 	0 	-1 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tevin Lattimore 	5 	57 	0 	1 	0/0
+Curtis Jeffreys 	5 	51 	0 	0 	0/0
+Sonny Beckett 	5 	32 	0 	1 	0/0
+Hunter King 	2 	28 	0 	0 	0/0
+Elvis Williams 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Louis Peterson 	4/0 	0.5 	0/0 	0/0 	0/0
+Curtis Lewis 	2/0 	0.5 	0/0 	0/0 	0/0
+D'Qwell Moore 	2/0 	- 	0/2 	0/0 	0/0
+Julius Conrad 	5/0 	- 	0/0 	0/0 	0/0
+Brad Mungro 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Wells 	3/4 	0/0 	45, 22, 39 - 46
+	
+:fibur: Detroit Lions
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	25/38 	231 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	19 	109 	1 	23 	0/0
+Calvin Jones ? 	5 	9 	0 	3 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rex Walsh 	8 	103 	0 	0 	0/0
+Rashad Simon 	5 	69 	0 	0 	0/0
+Jeremy Cook 	3 	32 	0 	0 	0/0
+Glenn Franckowiak 	2 	15 	0 	0 	0/0
+Frederick Bartlett 	2 	9 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Doug Carolan 	4/1 	1.0 	0/0 	0/0 	0/0
+Ilan Kuhn 	2/0 	1.0 	0/0 	0/0 	0/0
+Willard McCready 	9/0 	- 	0/0 	0/0 ? 	0/0
+Cameron Jones 	4/0 	- 	0/0 	0/0 	0/0
+Richard Ryan 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Brent Hankton 	2/2 	2/2 	20, 22 

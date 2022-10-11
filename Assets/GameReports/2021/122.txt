@@ -1,0 +1,66 @@
+ Cincinnati Bengals (2-5) at Green Bay Packers (7-0)
+
+Green Bay, WI - 45 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (2-5) 	0 	3 	0 	14 	- 	17
+:packers: Green Bay Packers (7-0) 	7 	21 	0 	7 	- 	35
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:packers: Green Bay Packers
+Injuries 	
+
+Bob Hanks, ILB - Moderate Shoulder Dislocation
+
+ 
+	
+
+Kaulana Groth, DE - Mild Thumb Dislocation
+
+Donovan Faulk, FS - Mild Hamstring Tendonitis
+Offensive Line Rating 	7.5 	8.1
+Sacks 	0 	2
+Punting 	44.5 	46.2
+Punt Return Yards 	20 	18
+Kick Return Yards 	34 	24
+Turnovers 	2 	0
+3rd Down Conversion 	5/13 	4/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/45 	3/27
+:bengals: Cincinnati Bengals
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	16/29 	250 	2 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	20 	92 	0 	26 	1/1
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamir Blackburn 	5 	88 	0 	0 	0/0
+Adrian Jankowski 	5 	50 	1 	0 	0/0
+Brandon Lane 	2 	48 	0 	0 	0/0
+Christopher Harris 	1 	40 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Daniel Barnes 	8/1 	- 	0/0 	0/0 	0/0
+Tom Rambo 	5/0 	- 	0/0 	0/0 	0/0
+R.C. Rone 	4/0 	- 	0/1 	0/0 	0/0
+Germane Dixon 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	1/1 	2/2 	43
+	
+:packers: Green Bay Packers
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson 	21/35 	282 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durant 	16 	60 	1 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Dan Nomellini 	8 	108 	2 	0 	0/0
+Tom Grant 	4 	74 	1 	0 	0/0
+Bernard Taylor 	2 	45 	0 	0 	0/0
+Justin McCain 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Barron Anthony 	5/0 	- 	0/0 	0/1 	1/0
+Kaulana Groth 	2/0 	1.0 	0/0 	1/0 	0/0
+W.M. Mitchell 	4/0 	1.0 	0/0 	0/0 	0/0
+Julio Barnes 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brian Evans 	0/1 	5/5 	- 52 

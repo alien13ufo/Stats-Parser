@@ -1,0 +1,67 @@
+ New York Giants (1-3-1) at Washington Redskins (4-2)
+
+Landover, MD - 54 F :cloudy: ?
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:giants: New York Giants (1-3-1) 	0 	0 	3 	7 	- 	10
+:redskins: Washington Redskins (4-2) 	13 	13 	3 	3 	- 	32
+Team Stats Comparison
+  	:giants: New York Giants 	:redskins: Washington Redskins
+Injuries 	WR Kurt Hill - Severe MCL Rupture 	OLB Anthony Brown - Mild Biceps Pull
+Top Player Grade 	DE Khairi Bryant (7.81) 	C Matt Cole (9.70)
+Worst Player Grade 	OT Roderick White (3.41) 	OLB Craig Davis (4.41)
+Offensive Line Rating 	8.06 	8.60
+Sacks 	1 	3
+Punting 	45.4 	42.5
+Punt Return Yards 	6 	19
+Kick Return Yards 	93 	26
+Turnovers 	2 	0
+3rd Down Conversion 	3/14 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/106 	7/64
+:giants: New York Giants
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Will Thompson 	14/23 	147 	0 	1 	0/0
+Lawyer Johnson 	2/5 	24 	0 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	12 	56 	0 	12 	1/0
+Daniel Nance 	10 	40 	1 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Hunter King 	4 	45 	0 	0 	0/0
+Brian Engle 	3 	36 	0 	0 	0/0
+Sonny Beckett 	2 	31 	0 	1 	0/0
+Daniel Nance 	2 	23 	0 	0 	0/0
+Evan Medley 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Khairi Bryant 	4/2 	1.0 	0/0 	0/0 	0/0
+Aaron Hammond 	4/2 	- 	0/0 	0/0 	0/0
+Louis Peterson 	6/0 	- 	0/0 	0/0 	0/0
+Curtis Lewis 	3/1 	- 	0/0 	0/0 	0/0
+Brad Mungro 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Wells 	1/2 	1/1 	33 - 44
+	
+:redskins: Washington Redskins
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	19/32 	230 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	20 	98 	1 	26 	0/0
+Johnny Taylor 	5 	27 	0 	19 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	6 	102 	0 	0 	0/0
+Patrick Burke 	4 	53 	1 	0 	0/0
+Ty Royal ? 	2 	33 	0 	0 	0/0
+Tony DeMarco 	2 	23 	0 	0 	0/0
+Eddie McFadden 	2 	19 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tre'Davious Dikes 	2/0 	- 	1/0 	0/0 	0/0
+Miles Gray 	1/0 	- 	1/0 	0/0 	0/0
+Steven Jordan 	5/1 	2.0 	0/0 	0/0 	0/0
+Mike Hill 	2/0 	1.0 	0/0 	0/0 	0/0
+Nicolas Haskell 	4/0 	- 	0/0 	1/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Thomas McMahan 	4/4 	2/3 	46, 23, 29, 30 

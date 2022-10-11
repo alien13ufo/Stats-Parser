@@ -1,0 +1,67 @@
+ Seattle Seahawks (0-3) at Atlanta Falcons (2-1-1) ?
+
+Atlanta, GA - 60 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:seahawks: Seattle Seahawks (0-3) 	0 	7 	3 	3 	0 	13
+:falcons: Atlanta Falcons (2-1-1) 	3 	7 	0 	3 	6 	19
+Team Stats Comparison
+  	:seahawks: Seattle Seahawks 	:falcons: Atlanta Falcons
+Injuries 	DT Christian Okonkwo - Severe ACL Bruise 	No Injuries
+Top Player Grade 	ILB Zion Adakwa (8.75) 	RB Akili Wallace (9.04)
+Worst Player Grade 	OG Leon Slack (2.85) 	SS Mario Ruff (4.06)
+Offensive Line Rating 	8.23 	8.42
+Sacks 	2 	2
+Punting 	45.3 	42.6
+Punt Return Yards 	16 	32
+Kick Return Yards 	66 	43
+Turnovers 	1 	1
+3rd Down Conversion 	4/13 	5/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/68 	5/42
+:seahawks: Seattle Seahawks
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	19/35 	207 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L ?
+Marcus Williams 	17 	50 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tony Huff 	4 	54 	0 	0 	0/0
+Tyler White 	3 	43 	0 	1 	0/0
+Josiah McCray 	3 	40 	0 	1 	0/0
+Curtis Settles 	3 	28 	0 	0 	0/0
+William Johnson 	3 	21 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+John Queen 	3/0 	- 	1/0 	0/0 	0/0
+Zion Adakwa 	7/1 	1.0 	0/0 	0/0 	0/0
+Brian Glenn 	4/0 	1.0 	0/0 	0/0 	0/0
+Malcolm Douglas-Scott 	5/1 	- 	0/0 	0/0 	0/0
+Kenji Sagatomo 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	2/3 	1/1 	45, 32 - 49
+	
+:falcons: Atlanta Falcons
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	17/27 	237 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	23 	119 	1 	25T 	0/0
+Bradley Cooley 	8 	36 	0 	17 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason Erwin 	5 ? 	76 	1 	0 	0/0
+Riddick Smith 	3 	41 	0 	0 	0/0
+Bo Woodall 	2 	33 	0 	1 	0/0
+Vontae Powell 	3 	30 	0 	0 	0/0
+Joseph Thurston 	2 	28 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darius Jones 	4/0 	- 	1/1 	0/0 	0/0
+Robert Lacy 	5/1 	1.5 	0/0 	0/0 	0/0
+Early Davis 	3/0 	0.5 	0/0 	0/0 	0/0
+Mario Ruff 	5/1 	- 	0/0 	0/0 	0/0
+Marcus Grant 	4/0 	- 	0/0 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Gino Chiaverini 	2/3 	1/1 	44, 28 - 50 

@@ -1,0 +1,53 @@
+QB Matt Jones 6-3 208 1 Purdue [Pocket] [0] 86?
+QB Kamau Davis 6-2 218 8 Indiana [Pocket] [+2/C] 86
+QB David Kaplan 6-1 189 4 San Jose State [Pocket] [+1] 81
+RB Ron Thomas 6-0 194 5 Iowa [Speed] [-3] 87
+RB Marshawn Matthison 6-0 234 4 NC State [Speed] [-3] 81
+RB Noel Mason 5-9 194 R Arizona State [Speed] [-1] 71
+FB Richard Holt 5-8 230 3 Miami [Run Blocking] [0] 84
+WR Gary Faneca Sr. 6-5 189 9 Oregon [Speed] [+2/C] 91
+WR Jarius Shaw-Dodd 5-11 213 5 Virginia Tech [Speed] [-1/C] 88
+WR Isaiah Cronin 6-1 174 4 Ohio State [Speed] [-2] 84
+WR? Ray Lee Marconi 6-?5 180 9 Syracuse [Speed] [0] ?80
+WR Drew Abbott 5-10 ?197? 2 Alabama [Speed] [0] 77
+TE Matt Thomas 6-3 219 5 Hawaii [Receiving] [0/C] 86
+TE Anthony Fasani 6-6 222 7 Nebraska [Receiving] [0] 83 
+TE David Grier 6-3 230 R Wyoming [Blocking] [+1] 81
+OT Mike Woods 6-2 317 4 Michigan State [Pass Blocking] [-1] 90
+OT Robert Haynes 6-6 301 6 Michigan State [Run Blocking] [-1] 90
+OT Fred Huber 6-5 285 5 Tennessee [Pass Blocking] [0] 82
+OT Leonardo Seymour 6-7 302 1 Ohio State [Pass Blocking] [+1] 78
+OG Bret Pate 6-3 310 7 Texas [Pass Blocking] [0] 84
+OG Rob Lipscomb 6-2 307 9 Boston College [Pass Blocking] [+1/C] 83
+OG Martin Parker 6-7 268 1 Florida [Run Blocking] [0] 78
+OG Sam Brennan 6-1 309 R Kentucky [Run Blocking] [0] 78
+C Xavier Cuellar 6-3 249 1 Florida [Run Blocking] [+2/C] 86?
+C John Hinton 6-2 298 7 Michigan State [Pass Blocking] [0] 79
+DE Anthony Ortiz 6-7 262 6 Oklahoma State [Blitz] [0] 93
+DE Rodney Galbreath 6-8 301 9 South Carolina [Blitz] [-2] 85
+DE Alex Whitney 5-10 243 1 Baylor [Blitz] [0] 75
+DE Gabe Werner 5-11 255 4 Arizona State [Contain] [0] 73
+DT David Lee 6-3 278 8 Mississippi State [1-Gap] [0]? 81 
+DT Montae Kelly 6-2 299 5 Michigan [1-Gap] [0] 78
+DT Carter Sutton 6-6 324 2 Ohio State [2-Gap] [0] 77
+DT De'Shawn Beckwith 6-3 285 R Toledo [1-Gap] [-1] 75
+ILB Brick Madden 6-3 239 3 Oregon [Mike] [0] 82
+ILB Mike Bledsoe 6-1 231 8 Virginia Tech [Will] [+1] 81
+ILB Hunter Taylor 6-2 231 6 Washington [Mike] [+1/C] 77
+OLB Brian Hernandez 6-3 217 5 Maryland [Blitz] [-2] 88 ?
+?OLB  Aaron Hammond 6-1 223 4 Purdue [Coverage] [0] 90
+OLB Zaire Finney 6-3 240 2 UCF [Coverage]  [0] 73
+CB D.J. Reed 5-10 183 5 Boise State [Man Coverage] [0] 82?
+CB Kyle Cunningham 6-4 183 1 Baylor [Zone Coverage] [0] 81
+CB Sean Taylor 5-9 193 2 Western Michigan [Man Coverage] [-1] 80
+CB Patrick Chaney 5-9 199 2 Purdue [Man Coverage] [+1] 75
+CB William Patterson 6-0 190 4 Iowa [Man Coverage] [-1] 73 ?
+FS Sammy Grey 5-10 214 3 Washington State [Man Coverage] [+1/C] 86
+FS Rodney Olson 5-10 165 4 Texas [Man Coverage] [0] 78
+SS Mark Kendrick 6-0 180 R Oregon [Zone Coverage] [0] 81
+SS Kevin Briggs 5-10 217 4 Air Force [Man Coverage] [0] 8?0
+SS Josh Griggs 6-4 228 2 Abilene Christian [Man Coverage?] [-1] 77
+K Daryl Holmes 5-9 192 7 Michigan State [Power] [0] 82 ?
+P Patrick Schofield 6-2 192 4 Cincinnati [Power] [0] 85
+KR Richard Dodge 6-3 186 4 Bowling Green [Speed] [-1] 84
+LS Alec Parks 6-3 204 1 Penn State [Traditional] [+2/C] 69

@@ -1,0 +1,67 @@
+ New England Patriots (1-8) at Detroit Lions (6-2) ?
+
+Detroit, MI - 44 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:patriots: New England Patriots (1-8) 	0 	3 	6 	6 	- 	15
+:fibur: Detroit Lions (6-2) 	3 	14 	7 	10 	- 	34
+Team Stats Comparison
+  	:patriots: New England Patriots 	:fibur: Detroit Lions
+Injuries 	No Injuries 	WR Tyrone Cunningham - Severe Achilles Rupture
+Top Player Grade 	ILB Mark Craig (7.75) 	CB Keyshawn Thompson (8.90)
+Worst Player Grade 	SS Jayden Salter (1.80) 	OG Ruben Winstead (3.86)
+Offensive Line Rating 	8.31 	8.40
+Sacks 	0 	1
+Punting 	44.1 	46.4
+Punt Return Yards 	2 	14
+Kick Return Yards 	76 	34
+Turnovers 	1 	0
+3rd Down Conversion 	3/13 	3/10
+4th Down Conversion 	0/0 ? 	0/0
+Penalties 	9/70 	4/31
+:patriots: New England Patriots
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	20/40 	219 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Shawn Cole 	10 	35 	0 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Carlos Perez 	5 	85 	0 	0 	0/0
+Jamel Beckham 	4 	49 	1 	2 	0/0
+Geno Harris 	4 	34 	0 	1 	0/0
+Tommy Pottios 	2 	23 	0 	0 	0/0
+George Lewis 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Mark Craig 	8/1 	- 	0/0 	0/0 	0/0
+James Carson 	4/0 	- 	0/1 	0/0 	0/0
+Phillip Davenport 	4/1 	- 	0/0 	0/0 	0/0
+Brett Wilson 	4/0 	- 	0/0 	0/0 	0/0
+Rich Moore 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	3/3 	0/1 	33, 28, 36
+	
+:fibur: Detroit Lions
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rob LeCount 	19/28 	233 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Kenyon Randall 	17 	71 	0 	13 	0/0
+Calvin Jones 	6 	40 	2 	20 	0/0
+- ? 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rashad Simon 	6 	80 	0 	0 	0/0
+Jeremy Cook 	3 	53 	1 	0 	0/0
+Emory Johnson 	2 	47 	0 	1 	0/0
+Tyrone Cunningham 	3 	23 	1 	0 	0/0
+Rex Walsh 	2 	19 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kevin McQueen 	2/0 	- 	1/1 	0/0 	0/0
+Keyshawn Thompson 	2/0 	- 	0/2 	0/0 ? 	0/0
+Doug Carolan 	3/2 	1.0 	0/0 	0/0 	0/0
+Richard Ryan 	5/1 	- 	0/0 	0/0 	0/0
+Cameron Jones 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brent Hankton 	2/2 	4/4 	30, 23 ?

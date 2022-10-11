@@ -1,0 +1,55 @@
+ Tennessee Titans (0-0) at Tampa Bay Buccaneers (0-0)
+
+Tampa, FL - 88 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:titans: Tennessee Titans (0-0) 	17 	14 	14 	0 	- 	45
+:buccaneers: Tampa Bay Buccaneers (0-0) 	3 	10 	7 	14 	- 	34
+Team Stats Comparison
+  	:titans: Tennessee Titans 	:buccaneers: Tampa Bay Buccaneers
+Injuries 	Ian Braden, OG - Moderate Ankle Sprain 	No Injuries
+Offensive Line Rating 	7.9 	7.9
+Sacks 	4 	3
+Punting 	45.2 	42.1
+Punt Return Yards 	58 	11
+Kick Return Yards 	31 	42
+Turnovers 	0 	0
+3rd Down Conversion 	6/10 	7/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/56 	3/27
+:titans: Tennessee Titans
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Thomas Wheeler 	23/28 	408 	5 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chris Bell 	20 	82 	1 	9 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Cody Hunter 	6 	128 	2 	0 	0/0
+Kevin Williams 	7 	104 	1 	0 	0/0
+Chris Bell 	4 	71 	1 	0 	0/0
+Greg Newman 	2 	48 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Charles Woods 	2/0 	1.5 	0/0 	0/0 	0/0
+Joseph Whiteside 	3/2 	1.0 	0/0 	0/0 	0/0
+David Doherty 	5/0 	1.0 	0/0 	0/0 	0/0
+Randy Humphreys 	7/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Woodruff 	1/1 	6/6 	42
+	
+:buccaneers: Tampa Bay Buccaneers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	23/30 	329 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	17 	75 	1 	15 	0/0
+Taylor Heiden 	2 	11 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Richard Wilson 	5 	86 	1 	0 	0/0
+Jerry Cipa 	6 	78 	0 	1 	0/0
+Quintavius Pearson 	2 	61 	1 	0 	0/0
+Anthony McCardell 	3 	46 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Frank Williams 	6/1 	2.0 	0/0 	0/0 	0/0
+Darris Hayes 	3/0 	1.0 	0/0 	0/0 	0/0
+Jack Muhammad 	8/0 	- 	0/0 	0/0 	0/0
+Aaron Blakely 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	2/2 	4/4 	48, 44 

@@ -1,0 +1,67 @@
+ Los Angeles Chargers (3-11) at Kansas City Chiefs (6-8) ?
+
+Kansas City, MO - 49 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (3-11) 	7 	0 	7 	14 	- 	28
+:chiefs: Kansas City Chiefs (6-8) 	3 	21 	7 	14 	- 	45
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:chiefs: Kansas City Chiefs
+Injuries 	No Injuries 	WR Hines Mertens - Mild Concussion
+Top Player Grade 	OLB Shane Easley (8.35) 	OT Chris Gray (8.99)
+Worst Player Grade 	CB Austin Sheppard (0.80) 	ILB Dewey Tomlinson (3.64)
+Offensive Line Rating 	8.05 	8.22
+Sacks 	0 	3
+Punting 	42.6 	45.0
+Punt Return Yards 	0 	9
+Kick Return Yards 	117 	74
+Turnovers 	1 	0
+3rd Down Conversion 	5/10 	4/7
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/44 	2/17
+:chargers: Los Angeles Chargers
+Air Raid - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	29/53 	329 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	10 	56 	2 	12 	0/0
+Mamadou Heard 	2 	4 	0 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	8 	111 	1 	0 	0/0
+M.L. Kriewaldt 	5 	82 	0 	0 	0/0
+Greg Cobb 	6 	53 	0 	0 	0/0
+Jarvis Ward 	4 	35 	1 	0 	0/0
+Gerald Morrison 	3 	32 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Shane Easley 	6/1 	- 	0/0 	1/0 	0/0
+Tunch Richardson 	6/0 	- 	0/0 	0/0 	0/0
+Kenyon Justice 	5/0 	- 	0/1 	0/0 	0/0
+Christopher Malone 	4/0 	- 	0/0 	0/0 	0/0
+Stephen Elliott 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	0/1 	4/4 	- 55
+	
+:chiefs: Kansas City Chiefs
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Harris 	26/36 	343 	3 	0 	0/0
+- ? 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	23 	115 	2 	28 	1/0
+Justin Buchanan 	8 	36 	1 	15 	0/0
+- 	- ? 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Benjamin Franklin 	7 	120 	1 	1 	0/0
+Spec Davidson 	6 	85 	1 	0 	0/0
+Kevin Branch 	4 	64 	1 	1 	0/0
+Jariel Rosario 	3 	40 	0 	0 	0/0
+Daniel Hobbs 	3 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeffrey Chung 	3/1 	1.5 	0/0 	0/0 	0/0
+Luke Lyles 	5/0 	1.0 	0/0 	0/0 	0/0
+Carnell Meadows 	2/0 	0.5 	0/0 	0/0 	0/0
+Marques Warner 	5/0 	- 	0/1 	0/0 	0/0
+Cameron Riley 	5/0 	- 	0/0 	0/0 	0/0 ?
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Ryan Levcik 	1/1 	6/6 	45 

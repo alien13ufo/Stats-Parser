@@ -1,0 +1,67 @@
+ Cincinnati Bengals (6-4) at Arizona Cardinals (2-8) ?
+
+Glendale, AZ - 79 F :sunny: ?
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (6-4) 	0 	3 	10 	3 	- 	16
+:cardinals: Arizona Cardinals (2-8) 	0 	0 	3 	0 	- 	3
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:cardinals: Arizona Cardinals
+Injuries 	OT Demetrius Jett - Severe Thumb Bruise 	No Injuries
+Top Player Grade 	SS R.C. Rone (8.42) 	DE Josiah Harden (8.90)
+Worst Player Grade 	OT Leonard Shockley (1.80) 	DE Charles Fowler (2.46)
+Offensive Line Rating 	8.06 	8.13
+Sacks 	0 	3
+Punting 	41.5 	50.1
+Punt Return Yards 	-1 	19
+Kick Return Yards 	36 	74
+Turnovers 	0 	1
+3rd Down Conversion 	3/13 	1/9
+4th Down Conversion 	0/0 	0/1
+Penalties 	5/25 	6/50
+:bengals: Cincinnati Bengals
+Pro Style - Air Raid
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	24/39 	219 	1 	0 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Rasheed Kent 	7 	16 	0 	7 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	9 	77 	1 	0 	0/0
+Christopher Harris 	3 	43 	0 	1 	0/0
+Steven Maloney 	3 	40 	0 	0 	0/0
+Jamir Blackburn 	2 	22 	0 	1 	0/0
+Brandon Lane 	2 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Edward Harrison 	6/0 	- 	0/0 	0/0 	0/0
+R.C. Rone 	6/0 	- 	0/0 	0/0 	0/0
+Nick Upshaw 	4/0 	- 	0/0 	0/0 	0/0
+Charley Graham 	3/0 	- 	0/0 	0/0 	0/0
+Prince Matos 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	3/4 	1/1 	45, 27, 36 - 53
+	
+:cardinals: Arizona Cardinals
+Wing T - Smashmouth
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	5/8 	51 	0 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Trevon Yeldon 	20 	80 	0 	15 	1/1
+Paul Davenport 	2 	9 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Banks 	1 	19 	0 	0 	0/0
+Adrian Allen 	2 	13 	0 	0 	0/0
+Ricky Chambers 	1 	12 	0 	0 	0/0
+Noah Hills 	1 	7 	0 	0 	0/0
+- 	- 	- 	- 	- 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Josiah Harden ? 	2/0 	2.0 	0/0 	1/0 	0/0
+William Thomas 	3/0 	1.0 	0/0 	0/0 	0/0
+Shaq Turner 	5/0 	- 	0/1 	0/0 	0/0
+Oronde Jackson 	6/0 	- 	0/0 	0/0 	0/0
+Aaron Samuelsson 	4/0 	- ? 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	1/2 	0/0 	30 - 52 ??

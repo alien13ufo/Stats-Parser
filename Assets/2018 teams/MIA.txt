@@ -1,0 +1,45 @@
+QB Brian Brown 6-4 228 3 Boise State [Pocket] 99
+QB Glen Spencer 6-1 170 1 Ohio State [Scrambling] 80
+QB Glenn White 6-2 176 2 Texas Tech [Pocket] 77
+RB Marcus Barry 6-0 193 2 Ohio State [Power] 89
+RB Keith Dunn 5-11 179 3 PennState [Power] 80
+FB Alex Engram 6-1 252 3 TCU [Speed] 81
+WR Rodney Montgomery 6-0 185 3 LSU [Target] 93
+WR Greg Cobb 6-3 188 1 Cincinnati [Target] 81
+WR Bill Hardy 5-11 190 1 California [Target] 78
+WR Jacky Walters 6-1 179 1 Texas [Speed] 72
+WR Todd Sykes 6-1 182 R West Virginia [Target] 70
+TE D.J. Gibson 6-5 232 R North Carolina [Pass Blocking] 82
+TE Kendall Brandon 6-6 240 1 Georgia Tech [Pass Blocking] 74
+OT Marcellus Peterson 6-2 328 4 Alabama [Run Blocking] 99
+OT Tom McAfee 6-4 304 2 UCLA [Pass Blocking] 75
+OT Ricky Edwards 6-1 269 R Auburn [Run Blocking] 81
+OT Joseph Stanford 6-6 281 R Cincinnati [Run Blocking] 78
+OG Jace Blakley 6-2 312 3 Tennessee [Pass Blocking] 92
+OG Brandon Gregory 6-2 298 1 NC State [Run Blocking] 72
+OG Todd Hevesy 6-2 284 R Michigan State [Pass Blocking] 81
+OG Martin Castillo 6-1 282 2 Arizona [Pass Blocking] 62
+C Haskel Moore 6-8 315 3 Florida State [Pass Blocking] 82
+DE Benjamin Blankenship 6-1 290 R Georgia [Pass Stop] 82
+DE David Drake 6-2 271 1 Wisconsin [Run Stop] 74
+DE Devone Willis 6-8 273 4 Auburn [Run Stop] 66
+DT Josh Wilson 6-7 278 2 Texas Tech [Run Stop] 87
+DT Lindsay Powell 6-8 270 2 Penn State [Run Stop] 76
+ILB Kevin Harris 6-0 249 4 Iowa [Pass Man-to-Man] 94
+ILB Phillip Moore 5-11 216 1 Houston [Pass Man-to-Man] 83
+ILB Jason Stovall 6-0 217 R West Virginia [Run Man-to-Man] 73
+OLB Jason Bryant 6-2 227 4 Washington State [Run Man-to-Man] 84
+OLB Jeromy Potter 6-2 232 3 ECU [Run Man-to-Man] 68
+OLB Jack Durrence 5-11 238 1 LSU [Run Man-to-Man] 76
+OLB Stephen Hutchins 6-1 239 4 Pittsburgh [PassZone] 60
+CB Justin Davis 5-11 173 2 Florida [Zone Coverage] 92
+CB Laurent Christensen 5-10 192 1 Army [Man Coverage] 81
+CB Alphonso Greisen 5-10 196 1 Texas [Zone Coverage] 72
+CB Francisco Diaz 6-1 165 1 Colorado State [Zone Coverage] 66
+CB Jarvis Banks 6-1 176 3 Iowa [ZoneCoverage] 63
+FS Reggie Beasley 5-10 207 3 Washington [Man Coverage] 86
+FS Andrew Wright 5-9 187 R TCU [Zone Coverage] 76
+SS Dane Wilson 6-1 178 3 LSU [Zone Coverage] 95
+SS Mark Pennington 6-0 188 1 Georgia Tech [Zone Coverage] 69
+K Ben Morrison 6-1 205 4 Wisconsin [Accuracy] 96
+P A.J. Kinney 5-9 205 1 West Virginia [Accuracy] 77

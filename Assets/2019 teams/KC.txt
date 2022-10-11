@@ -1,0 +1,53 @@
+QB Thomas Wheeler 6-1 208 4 FloridaState [Pocket] 91
+QB Erasmus McCready 6-2 225 2 Alabama [Hybrid] 85
+QB David Brezina 6-2 189 1 Iowa [Scrambling] 80
+QB Benny Wilson 6-0 192 1 Wisconsin [Pocket] 70
+RB Justin Buchanan 5-10 184 5 Mississippi State [Power] 82
+RB Ben Offerdahl 5-11 189 1 Auburn [Speed] 77
+RB Rickie Edwards 6-1 176 3 SMU [Power] 74
+FB Gary Richardson 5-11 233 R Kansas State [Run Blocking] 82
+FB Randy Hudson 6-4 213 1 Virginia Tech [Pass Blocking] 73
+WR Hines Mertens 5-8 176 2 LSU [Speed] 84
+WR Richard Frazier 5-8 181 3 Iowa [Target] 84
+WR Harry Whiteside 6-5 169 1 Texas [Target] 80
+WR Henry Hamilton 6-4 200 2 Minnesota [Target] 69
+WR Charles Garcia 6-0 166 R Miami [Speed] 69
+TE Nate Blue 6-2 239 3 Notre Dame [Blocking] 77
+TE Jariel Rosario 6-0 215 R Michigan [Receiving] 76
+TE Robert Ford 6-4 232 1 Minnesota [Blocking] 71
+OT Chris Gray 6-3 283 2 Texas A&M [Pass Blocking] 82
+OT Quinn Burr 6-6 258 R Iowa State [Pass Blocking] 82
+OT Herman Harrison 6-4 302 2 Baylor [PassBlocking] 79
+OT Kevin Hill 6-7 313 1 West Virginia [Run Blocking] 77
+OT James Bashir 6-3 275 1 Colorado [Pass Blocking] 71
+OT Bob Adams 6-4 331 3 West Virginia [Pass Blocking] 66
+OG Henry Badanjek 6-4 289 5 Alabama [PassBlocking] 86
+OG Boyd Buckley 6-0 274 2 Notre Dame [Pass Blocking] 79
+OG Dennis Kaufman 6-8 281 1 Connecticut [Run Blocking] 70
+OG Charles Brown 6-0 287 2 Northwestern [Run Blocking] 68
+C Angelo Huddleston 6-2 294 1 Boston College [Pass Blocking] 81
+C Robert Cross 6-5 270 R Florida State [PassBlocking] 68
+DT Malik Dawson 6-3 281 1 Illinois [1-Gap] 84
+DT Bud Howard 6-2 301 1 LSU [2-Gap] 80
+DT Jim Hostetler 6-0 279 5 Texas [1-Gap] 78
+DE Blair Kopay 6-3 275 5 Iowa [Contain] 85
+DE Terry Patton 6-3 275 4 Oklahoma [Contain] 78
+DE Jason Johnson 6-3 264 2 Penn State [Contain] 73
+DE Clifton Chong 6-6 254 R Wisconsin [Blitz] 69
+ILB Dewey Tomlinson 5-11 220 2 Oklahoma State [Mike] 83
+ILB Melvin Rolovich 6-2 236 5 Florida [Will] 78
+ILB Johnny Boston 6-1 232 2 Minnesota [Will] 73
+OLB Devin Stephens 6-1 237 1 Marshall [Blitz] 80
+OLB Billy Westbrook 6-0 228 4 Washington [Coverage] 78
+OLB Nicholas Moss 6-2 227 R West Virginia [Coverage] 76
+OLB Sean Springs 6-0 220 2 Stanford [Coverage] 73
+CB Teddy Walker 5-11 177 1 Kentucky [Man Coverage] 83
+CB George Brady 5-11 181 4 Nebraska [ManCoverage] 82
+CB Will Baker 5-11 190 5 Oklahoma [Man Coverage] 76
+CB Gene Swain 6-0 210 R Ole Miss [Man Coverage] 66
+FS Rob Hamilton 5-11 188 2 UCLA [Zone Coverage] 81
+FS Dustin Williams 5-11 169 1 Georgia Tech [Man Coverage] 68
+SS Raymond Ponce 6-1 196 4 Kansas State [Zone Coverage] 78
+SS Brian Miles 5-10 165 R Washington [Man Coverage] 72
+K Daryl Holmes 5-9 192 3 Michigan State [Power] 84
+P Cliff Randall 6-0 208 2 Penn State [Accuracy] 81

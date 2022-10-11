@@ -1,0 +1,57 @@
+ Indianapolis Colts (1-4) at Tampa Bay Buccaneers (3-2)
+
+Tampa, FL - 85 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:colts: Indianapolis Colts (1-4) 	14 	7 	14 	0 	- 	35
+:buccaneers: Tampa Bay Buccaneers (3-2) 	10 	7 	10 	0 	- 	27
+Team Stats Comparison
+  	:colts: Indianapolis Colts 	:buccaneers: Tampa Bay Buccaneers
+Injuries 	Tim Thomas, C - Mild Hip Strain 	Thomas Barry, OLB - Severe Back Disc Fracture
+Offensive Line Rating 	8.1 	8.1
+Sacks 	4 	4
+Punting 	43.5 	41.2
+Punt Return Yards 	83 (1) 	29
+Kick Return Yards 	23 	21
+Turnovers 	1 	2
+3rd Down Conversion 	5/10 	3/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/85 	3/31
+:colts: Indianapolis Colts
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Shea 	24/38 	358 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	15 	62 	0 	12 	0/0
+Elijah Harden 	3 	15 	1 	9T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ryan Mitchell 	5 	130 	1 	0 	0/0
+Mosi Bartos 	7 	94 	0 	1 	0/0
+Keith Setzer 	4 	60 	1 	0 	0/0
+Joe Wallace 	5 	56 	1 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Aaron Samuelsson 	4/0 	- 	1/1 	0/0 	0/0
+Samir Ware 	1/0 	- 	1/0 	0/0 	0/0
+Anthony Miller 	3/0 	1.0 	0/0 	1/0 	0/0
+Hudson Adam 	2/0 	2.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Leon Augustine 	0/1 	5/5 	- 50
+	
+:buccaneers: Tampa Bay Buccaneers
+Spread Option - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Heiden 	23/34 	299 	3 	2 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+DeNorris Jackson 	20 	77 	0 	18 	0/0
+Taylor Heiden 	2 	8 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Anthony McCardell 	7 	105 	0 	1 	0/0
+Quintavius Pearson 	7 	94 	1 	0 	0/0
+Richard Wilson 	3 	35 	1 	0 	0/0
+William Moore 	3 	30 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Aaron Blakely 	3/0 	- 	1/0 	0/0 	0/0
+Darris Hayes 	4/0 	2.0 	0/0 	0/0 	0/0
+Derrick Martin 	6/1 	1.5 	0/0 	0/0 	0/0
+Julien Daly 	4/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jarret Veals 	2/2 	3/3 	43, 41 

@@ -1,0 +1,38 @@
+QB Will Thompson 6-3 191 3 USC [Pocket] 85
+QB Larry Haynes 6-4 209 2 Florida [Pocket] 74
+RB Shawn Cole 5-9 188 2 Washington [Power] 88
+RB Clayton Gorman 5-9 192 R Cincinnati [Power] 73
+FB Doug Reger 5-11 210 R Iowa [Speed] 67
+WR Richard Frazier 5-8 181 1 Iowa [Target] 83
+WR Todd Druckenmiller 5-9 186 R Alabama [Speed] 77
+WR Brandon Burks 6-5 178 2 Nebraska [Speed] 69
+WR Jonathon Robinson 6-2 164 R Kansas [Target] 67
+WR Mike Wiggins 5-9 179 3 NC State [Speed] 61
+TE Scott Howard 6-6 236 2 Northwestern [RunBlocking] 89
+TE Rick Philcox 6-2 221 R Miami [Pass Blocking] 76
+OT Barret Jennings 6-8 310 1 Alabama [Pass Blocking] 69
+OT Chris DeMarco 6-7 319 3 Georgia [RunBlocking] 76
+OT Charlie Ellis 6-4 309 R Washington State [Pass Blocking] 79
+OG Larry Williams 6-5 308 3 Baylor [Pass Blocking] 75
+OG Charles Thompson 6-5 296 1 Rutgers [PassBlocking] 81
+C Don Teteak 6-0 293 R Washington [Pass Blocking] 78
+DE Dhani Panfil 6-2 284 2 Washington [RunStop] 76
+DE Rodney Galbreath 6-8 301 3 South Carolina [Run Stop] 89
+DT Charles Randolph 6-7 284 3 Pittsburgh [Run Stop] 63
+DT William Robertson 6-3 291 1 Rutgers [RunStop] 79
+ILB Tunch Richardson 5-11 217 R Alabama [Run Man-to-Man] 83
+ILB Timmy Flanigan 5-8 233 1 Florida St. [Pass Zone] 72
+OLB Charley Rivers 6-2 254 3 LSU [PassZone] 80
+OLB John Woodley 6-2 223 1 Boston C. [Pass Zone] 70
+OLB Todd Lord 6-0 240 1 Purdue [Pass Zone] 70
+CB Kevin Potts 6-1 183 R LSU [Zone Coverage] 76
+CB Sedrick Madison 6-2 183 3 Tennessee [ZoneCoverage] 76
+CB Ricky Rose 6-2 198 1 Kansas [Zone Coverage] 73
+CB Dainard Biggs 6-2 184 3 Alabama [Zone Coverage] 68
+FS Stephen Elliott 6-3 197 3 Cincinnati [ZoneCoverage] 91
+FS Tim Silver 5-10 182 R Arizona [Man Coverage] 67
+SS Tavian Oliphant 6-2 202 1 Alabama [ManCoverage] 87
+SS Willie Bratkowski 6-2 190 R Colorado [Zone Coverage] 68
+SS Randy Slutzker 6-1 190 3 Louisville [Man Coverage] 57
+K Kent Evans 5-9 192 2 OleMiss [Power] 80
+P Eric Norris 5-11 163 R Arizona [Accuracy] 73

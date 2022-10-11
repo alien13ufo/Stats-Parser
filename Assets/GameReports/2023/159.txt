@@ -1,0 +1,125 @@
+ Seattle Seahawks (3-6) at Arizona Cardinals (0-9) ?
+Glendale, AZ - 78 F :cloudy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:seahawks Seattle Seahawks (3-6) 	6 	14 	3 	6 	- 	29
+:cardinals: Arizona Cardinals (0-9) 	7 	14 	7 	3 	- 	31
+Team Stats Comparison
+  	:seahawks Seattle Seahawks 	:cardinals: Arizona Cardinals
+Injuries 	RB Marcus Williams - Moderate Shoulder Dislocation 	No Injuries
+Top Player Grade 	QB Tucker Dowden (8.11) 	WR Marcus Banks (9.70)
+Worst Player Grade 	SS Gabriel Hightower (1.44) 	DE Omar McManus (1.04)
+Offensive Line Rating 	8.15 	8.15
+Sacks 	3 	3
+Punting 	42.6 	43.2
+Punt Return Yards 	2 	6
+Kick Return Yards 	40 	34
+Turnovers 	1 	1
+3rd Down Conversion 	5/11 	6/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/75 	3/15
+:seahawks Seattle Seahawks
+Spread Option - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tucker Dowden 	17/24 	227 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Emmanuel Fields 	23 	102 	1 	13 	0/0
+Tucker Dowden 	5 	27 	1 	15 	0/0
+Marcus Williams 	3 	9 	0 	4 	1/1
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	4 	56 	1 	0 	0/0
+Emmanuel Fields 	4 	53 	0 	1 	0/0
+Samuel Gulla 	2 	50 	0 	0 	0/0
+Jordan Godson 	3 	24 	1 	0 	0/0
+Josiah McCray 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tavarius Hicks 	3/0 	- 	1/0 	0/0 	0/0
+Brian Glenn 	2/1 	1.5 	0/0 	1/0 	0/0
+Travis Napier 	3/1 	1.5 	0/0 	0/0 	0/0
+Blaine Lewis-Thompson 	6/0 	- 	0/0 	0/0 	0/0
+Tyler Patino 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+Chris Ritter 	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+1/1
+
+26
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+2/3
+
+ 
+ADDITIONAL INFO
+SEA attempted a 2PT at 4Q 00:54 but failed on an incomplete pass from QB Tucker Dowden to WR Josiah McCray.
+	
+:cardinals: Arizona Cardinals
+Spread - Flexbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	23/29 	350 	4 	1 	1/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Trevon Yeldon 	20 	105 	0 	16 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marcus Banks 	9 	168 	2 	0 	0/0
+Emanuelu Lesa 	3 	55 	0 	0 	0/0
+Michael Baxter 	4 	52 	1 	0 	0/0
+Tyrone Cunningham 	2 	40 	1 	0 	0/0
+Tom Oldham 	2 	24 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Samir Sample 	3/1 	1.0 	0/0 	0/0 	0/0
+Josiah Harden 	2/1 	1.0 	0/0 	0/0 	0/0
+Israel Parson 	1/0 	1.0 	0/0 	0/0 	0/0
+Akeel Morris 	7/0 	- 	0/0 	0/0 	0/0
+William Thomas ? 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	1Q 	2Q 	3Q 	4Q 	OT 	XP
+Harrison Hacker 	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+0/0
+
+ 
+	
+
+1/1
+
+24
+	
+
+0/0
+
+ 
+	
+
+4/4
+
+ 
+ADDITIONAL INFO
+WR Marcus Banks drew two defensive pass interference calls and broke two tackles during the game. 

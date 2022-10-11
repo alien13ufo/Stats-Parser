@@ -1,0 +1,55 @@
+ Atlanta Falcons (0-0) at San Francisco 49ers (0-0)
+
+Santa Clara, CA - 83 F :rainy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:falcons: Atlanta Falcons (0-0) 	10 	7 	7 	0 	- 	24
+:49ers: San Francisco 49ers (0-0) 	10 	0 	3 	0 	- 	13
+Team Stats Comparison
+  	:falcons: Atlanta Falcons 	:49ers: San Francisco 49ers
+Injuries 	Bo Woodall, WR - Mild Groin Tear 	No Injuries
+Offensive Line Rating 	8.4 	7.9
+Sacks 	5 	1
+Punting 	44.6 	42.9
+Punt Return Yards 	35 	10
+Kick Return Yards 	22 	27
+Turnovers 	0 	2
+3rd Down Conversion 	6/12 	5/14
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/76 	5/36
+:falcons: Atlanta Falcons
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	16/25 	218 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	23 	116 	1 	22 	0/0
+A.J. Jefferson 	1 	1 	1 	1T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Riddick Smith 	5 	57 	1 	0 	0/0
+Bo Woodall 	2 	48 	0 	0 	0/0
+Tyrus Wilson 	3 	43 	0 	0 	0/0
+Joseph Thurston 	2 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darius Jones 	3/0 	- 	1/1 	0/0 	0/0
+Early Davis 	3/1 	2.0 	0/0 	0/0 	0/0
+Robert Lacy 	6/0 	1.0 	0/0 	1/0 	0/0
+Tommy Leonard 	4/1 	1.0 	0/0 	0/1 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	1/1 	3/3 	48
+	
+:49ers: San Francisco 49ers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	20/33 	250 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	16 	60 	0 	14 	0/0
+Todd Lester 	3 	20 	0 	13 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kevin Branch 	7 	90 	0 	1 	1/1
+Ben Thomas 	3 	64 	0 	1 	0/0
+Jarius Shaw-Dodd 	4 	48 	1 	0 	0/0
+Miles Collins 	3 	30 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dennis Niland 	3/1 	1.0 	0/0 	0/0 	0/0
+Harold Kennedy 	6/0 	- 	0/0 	0/0 	0/0
+Daleroy Smart 	6/0 	- 	0/0 	0/0 	0/0
+Prince McGill 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Paul McGowan 	2/3 	1/1 	40, 40 - 47 

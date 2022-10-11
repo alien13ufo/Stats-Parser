@@ -1,0 +1,67 @@
+ Cleveland Browns (7-6) at Cincinnati Bengals (8-5) ?
+
+Cincinnati, OH - 40 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:browns: Cleveland Browns (7-6) 	7 	7 	3 	0 	- 	17
+:bengals: Cincinnati Bengals (8-5) 	3 	14 	3 	3 	- 	23
+Team Stats Comparison
+  	:browns: Cleveland Browns 	:bengals: Cincinnati Bengals
+Injuries 	TE Jason McClairen - Moderate Concussion 	No Injuries
+Top Player Grade 	- 	SS R.C. Rone (9.45)
+Worst Player Grade 	- 	-
+Offensive Line Rating 	8.03 	8.15
+Sacks 	3 	2
+Punting 	42.4 	42.1
+Punt Return Yards 	9 	17
+Kick Return Yards 	84 	47
+Turnovers 	1 	1
+3rd Down Conversion 	2/9 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/49 	4/28
+:browns: Cleveland Browns
+Spread Option - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Ryan Clark 	15/28 	166 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0 ?
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Grady Mitchell 	11 	53 	1 	12 	1/0
+Ryan Clark 	8 	40 	0 	15 	0/0
+Nathan Wilson 	10 	32 	0 	9 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tai Miller 	5 	61 	0 	1 	0/0
+Ray Lee Marconi 	2 	26 	1 	0 	0/0
+Morgan Patton 	3 	21 	0 	0 	0/0
+Nathan Wilson 	2 	20 	0 	0 	0/0
+Dean Burkhart 	1 	12 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Marshall 	2/0 	- 	1/1 	0/0 	0/0
+Gabriel Beauchamp 	4/0 	1.5 	0/0 	0/0 	0/0
+Ray McBride 	2/0 	1.5 	0/0 	0/0 	0/0
+C.J. Thomas 	8/1 	- 	0/0 	0/0 	0/0
+Martin Hernandez 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+A.K. McGowan 	1/1 	2/2 	39
+	
+:bengals: Cincinnati Bengals
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	23/37 	244 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+C.J. Sheffield 	15 	45 	0 	12 	0/0
+- ? 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	6 	91 	1 	0 	0/0
+Jamir Blackburn 	4 	65 	0 	1 	0/0
+Cap Christian 	5 	41 	1 	1 	0/0
+Steven Maloney 	3 	20 	0 	0 	0/0
+Brandon Lane 	3 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+R.C. Rone 	6/0 	- 	1/1 	1/0 	0/0
+Nick Upshaw 	7/1 	- 	0/0 	0/0 	0/0
+Sila Lotomau 	4/0 	1.0 	0/0 	0/0 	0/0 ?
+Timothey Key 	4/0 	0.5 	0/0 	0/0 	0/0
+Kamari Cheatham 	3/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	3/3 	2/2 	50, 23, 29 ?

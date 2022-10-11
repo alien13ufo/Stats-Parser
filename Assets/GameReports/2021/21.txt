@@ -1,0 +1,55 @@
+ Los Angeles Chargers (0-1) at Houston Texans (0-1)
+
+Houston, TX - 85 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (0-1) 	10 	0 	7 	3 	- 	20
+:texans: Houston Texans (0-1) 	2 	7 	14 	14 	- 	37
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:texans: Houston Texans
+Injuries 	No Injuries 	Jermaine Lockett, RB - Severe Hip Strain
+Offensive Line Rating 	7.7 	8.4
+Sacks 	0 	5
+Punting 	41.5 	45.6
+Punt Return Yards 	7 	45
+Kick Return Yards 	66 	23
+Turnovers 	1 	0
+3rd Down Conversion 	6/13 	5/10
+4th Down Conversion 	1/2 	0/0
+Penalties 	8/70 	3/47
+:chargers: Los Angeles Chargers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	22/35 	201 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	9 	31 	0 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	9 	93 	1 	0 	0/0
+Gerald Morrison 	4 	50 	0 	0 	0/0
+Tommy Pottios 	2 	34 	1 	0 	0/0
+M.L. Kriewaldt 	3 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Kareem Boykin 	5/0 	- 	0/0 	1/0 	0/0
+Eric Sochia 	6/0 	- 	0/1 	0/0 	0/0
+Tunch Richardson 	6/0 	- 	0/0 	0/0 	0/0
+Bryan Jones 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	2/2 	2/2 	29, 28
+	
+:texans: Houston Texans
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Alex Leshoure 	23/37 	309 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Arturo Pacheco 	20 	102 	1 	23 	0/0
+Jermaine Lockett 	1 	6 	0 	6 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Marvin White 	7 	125 	1 	0 	0/0
+Kendall Brandon 	5 	102 	1 	0 	1/0
+Jeremy Scarborough 	3 	40 	1 	0 	0/0
+Isaiah Davidson 	3 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Reynaldo Harris 	4/0 	- 	1/1 	0/0 	1/0
+Freeman Schubert 	2/0 	1.0 	0/0 	0/0 	0/1
+Robert Fulton 	4/1 	2.0 	0/0 	0/0 	0/0
+Ahmed London 	4/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Riley McNeil 	0/0 	5/5 	- 

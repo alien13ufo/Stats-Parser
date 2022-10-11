@@ -1,0 +1,67 @@
+ Denver Broncos (3-5) at Atlanta Falcons (5-2-1) ?
+
+Atlanta, GA - 65 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:broncos: Denver Broncos (3-5) 	0 	7 	3 	7 	- 	17
+:falcons: Atlanta Falcons (5-2-1) 	7 	10 	3 	3 	- 	23
+Team Stats Comparison
+  	:broncos: Denver Broncos 	:falcons: Atlanta Falcons
+Injuries 	FS Kevin Hartley - Severe ACL Rupture 	WR Tyrus Wilson - Mild Concussion
+Top Player Grade 	ILB Cameron Jonah (9.33) 	RB Bradley Cooley (8.25)
+Worst Player Grade 	WR Jaheim Lemons (1.09) 	OT Kelly Meier (3.98)
+Offensive Line Rating 	8.50 	8.35
+Sacks 	1 	1
+Punting 	44.3 	42.1
+Punt Return Yards 	11 	8
+Kick Return Yards 	75 	46
+Turnovers 	1 	1
+3rd Down Conversion 	4/12 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	8/60 	5/41
+:broncos: Denver Broncos
+Pro Style - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L ?
+Eric Jennings 	14/27 	134 	0 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	18 	60 	1 	12 	0/0
+Emmett Spears 	4 	11 	0 	5 	0/0
+Eric Jennings 	1 	3 	1 	3T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Artemio Ramirez 	4 	43 	0 	1 	0/0
+Darren Jones 	2 	26 	0 	0 	0/0
+Ken Peelle 	2 	23 	0 	0 	0/0
+Jaheim Lemons 	2 	20 	0 	2 	0/0
+Emmett Spears 	2 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cameron Jonah 	6/0 	1.0 	1/0 	0/0 	0/0
+Joe Palmer 	3/2 	- 	0/0 	0/0 	0/0
+Charles Johnson 	4/0 	- 	0/0 	0/0 	0/0
+Reggie Griffin 	3/0 	- 	0/0 	0/0 	0/0
+Evan Walsh 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	1/2 	2/2 	50 - 49
+	
+:falcons: Atlanta Falcons
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	13/23 	135 	0 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Bradley Cooley 	13 	108 	1 	36T 	0/0
+Zion Norris 	11 	40 	1 	15 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING ? 	REC 	YDS 	TD 	DRP 	F/L
+Riddick Smith 	5 	62 	0 	0 	0/0
+Tyrus Wilson 	2 	23 	0 	0 	0/0
+Bo Woodall 	1 	15 	0 	0 	0/0
+Jason Erwin 	1 	12 	0 	0 	0/0
+Rentavious Rogers 	2 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Darius Jones 	4/0 	- 	1/1 	0/0 	0/0
+Robert Lacy 	5/1 ? 	1.0 	0/0 	0/0 	0/0
+Mario Ruff 	4/1 	- 	0/0 	0/0 	0/0
+John Griffin 	4/1 	- 	0/0 	0/0 	0/0
+Marcus Grant 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Gino Chiaverini 	3/3 	2/2 	29, 25, 36 

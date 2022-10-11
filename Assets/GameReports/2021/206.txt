@@ -1,0 +1,57 @@
+ Atlanta Falcons (7-5) at Dallas Cowboys (8-4)
+
+Arlington, TX - 52 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:falcons: Atlanta Falcons (7-5) 	0 	3 	0 	3 	- 	6
+:cowboys: Dallas Cowboys (8-4) 	14 	7 	7 	3 	- 	31
+Team Stats Comparison
+  	:falcons: Atlanta Falcons 	:cowboys: Dallas Cowboys
+Injuries 	Chris Lee, C - Moderate Elbow Dislocation 	Francisco Gibson, WR - Severe ACL Rupture
+Offensive Line Rating 	8.2 	8.7
+Sacks 	1 	0
+Punting 	41.6 	45.6
+Punt Return Yards 	25 	4
+Kick Return Yards 	20 	0
+Turnovers 	2 	0
+3rd Down Conversion 	3/14 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/25 	1/12
+:falcons: Atlanta Falcons
+Spread - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	22/35 	209 	0 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	14 	54 	0 	20 	1/1
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Riddick Smith 	7 	86 	0 	0 	0/0
+Bo Woodall 	4 	43 	0 	0 	0/0
+Vontae Powell 	3 	33 	0 	0 	0/0
+Jason Erwin 	4 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Earl Davis 	4/0 	1.0 	0/0 	0/0 	0/0
+Marcus Grant 	7/0 	- 	0/0 	0/0 	0/0
+Tommy Leonard 	4/0 	- 	0/0 	0/0 	0/0
+Shawn Gunderson 	3/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	2/2 	0/0 	33, 29
+	
+:cowboys: Dallas Cowboys
+Wing T 2RB - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Graham Burnett 	14/23 	188 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	19 	115 	1 	17 	0/0
+Adrian Robinson 	9 	64 	1 	28T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Kurt Hill 	5 	67 	0 	0 	0/0
+Benjamin Franklin 	3 	44 	1 	0 	0/0
+Alex Gash 	2 	43 	1 	0 	0/0
+Michael Baxter 	2 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Travis Chatman 	2/0 	- 	1/1 	0/0 	1/0
+Jeff Mangum 	5/0 	- 	0/0 	1/0 	0/0
+Cleo Blair 	4/0 	- 	0/0 	0/1 	0/0
+Romulus Jackson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Carlos Cruz 	1/2 	4/4 	40 - 50 

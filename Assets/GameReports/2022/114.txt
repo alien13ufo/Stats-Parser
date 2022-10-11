@@ -1,0 +1,67 @@
+ Los Angeles Chargers (2-5) at Las Vegas Raiders (4-3) ?
+
+Las Vegas, NV - 75 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (2-5) 	7 	0 	0 	7 	- 	14
+:raiders: Las Vegas Raiders (4-3) 	14 	3 	7 	3 	- 	27
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:raiders: Las Vegas Raiders
+Injuries 	OG Noah Barney - Moderate Wrist Bruise 	No Injuries
+Top Player Grade 	WR M.L. Kriewaldt (8.40) 	WR Mike Tripplett (8.86)
+Worst Player Grade 	DT Andrew Pearson (2.56) 	CB Adam Young (2.06)
+Offensive Line Rating 	8.19 	8.26
+Sacks 	3 	3
+Punting 	43.5 	46.3
+Punt Return Yards 	7 	24
+Kick Return Yards 	85 	29
+Turnovers 	2 	2
+3rd Down Conversion 	4/13 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/25 	6/63
+:chargers: Los Angeles Chargers
+Vertical - Spread Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	23/44 	306 	2 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	17 	68 	0 	22 	0/0
+Mamadou Heard 	2 	15 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+M.L. Kriewaldt 	8 	106 	1 	0 	0/0
+Scott Howard 	5 	72 	0 	0 	0/0
+Jarvis Ward 	3 	45 	0 	1 	0/0
+Greg Cobb 	2 	34 	1 	1 	0/0
+Mamadou Heard 	2 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Prince Williams 	5/0 	- 	1/0 	0/0 	0/0
+Kevin Potts 	2/0 	- 	1/0 	0/0 	0/0
+Tunch Richardson 	7/0 	1.0 	0/0 	0/0 	0/0
+Shane Easley 	5/1 	1.0 	0/0 	0/0 	0/0
+Isaiah Hall 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	0/1 	2/2 	- 50
+	
+:raiders: Las Vegas Raiders
+West Coast - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	37/62 	401 	3 	2 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	5 	20 	0 	6 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING ? 	REC 	YDS 	TD 	DRP 	F/L
+Mike Tripplett 	11 	130 	1 	0 	0/0
+Darryl McGlockton 	7 	80 	1 	0 	0/0
+Brian Gary 	5 	64 	0 	1 	0/0
+Lamont Crawford 	4 	61 	1 	0 	0/0
+Malcolm Davis 	5 	50 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Khary Miller 	3/0 	- 	1/0 	0/0 	0/0
+David Pennington 	3/0 	- 	1/0 	0/0 	0/0
+Alex Martin 	6/1 	1.0 	0/0 	0/0 	0/0
+Jamal Norwood 	3/1 	1.0 	0/0 	0/0 	0/0
+Shah Vereen 	2/1 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	2/3 	3/3 	45, 29 - 48 

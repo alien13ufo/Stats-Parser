@@ -1,0 +1,65 @@
+ Seattle Seahawks (0-2) at Washington Redskins (1-1) ?
+Landover, MD - 70 F :cloudy: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:seahawks: Seattle Seahawks (0-2) 	0 	0 	3 	7 	- 	10
+:redskins: Washington Redskins (1-1) 	3 	7 	7 	0 	- 	17
+Team Stats Comparison
+  	:seahawks: Seattle Seahawks 	:redskins: Washington Redskins
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	OLB Kristian Little (6.63) 	RB Ricardo Reed (8.16)
+Worst Player Grade 	OT James Poindexter (4.00) 	OLB Anthony Brown (5.31)
+Offensive Line Rating 	8.34 	8.60
+Sacks 	0 	1
+Punting 	49.4 	46.6
+Punt Return Yards 	24 	12
+Kick Return Yards 	53 	36
+Turnovers 	1 	1
+3rd Down Conversion 	3/13 	3/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/50 	9/82
+:seahawks: Seattle Seahawks
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	22/33 	240 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	16 	51 	0 	16 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- ? 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyler White 	5 	49 	0 	0 	0/0
+Josiah McCray 	4 	48 	1 	0 	0/0
+Curtis Settles 	3 	42 	0 	0 	0/0
+Tony Huff 	3 	40 	0 	1 	0/0
+Roger Bailey 	3 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brian Glenn 	3/0 	- 	1/0 	0/0 	0/0
+Kristian Little 	5/1 	- 	0/0 	0/0 	0/0
+John Queen 	3/0 	- 	0/1 	0/0 	0/0
+Zion Adakwa 	3/0 	- 	0/0 	0/0 	0/0
+Malcom Douglas-Scott 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	1/2 	1/1 	38 - 55
+	
+:redskins: Washington Redskins
+Pro Style - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	24/32 	290 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	20 	104 	0 	29 	0/0
+Johnny Taylor 	4 	27 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tony DeMarco 	9 	108 	0 	1 	0/0
+Sam Hiller-Weeden 	2 	72 	2 	0 	0/0
+Patrick Burke 	3 	44 	0 	1 	0/0
+Ty Royal 	4 	34 	0 	0 	0/0
+Eddie McFadden 	3 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tre'Davious Dikes 	2/0 	- 	1/1 	0/0 	0/0
+Steven Jordan 	4/0 	0.5 ? 	0/0 	0/0 	0/0
+Mike Hill 	2/0 	0.5 	0/0 	0/0 	0/0
+Anthony Brown 	5/0 	- 	0/0 	0/0 	0/0
+Nathaniel Jeffries 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	1/2 	2/2 	40 - 56 ??

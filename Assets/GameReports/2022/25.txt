@@ -1,0 +1,65 @@
+ Cincinnati Bengals (1-0) at Jacksonville Jaguars (1-0) ?
+Jacksonville, FL - 92 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (1-0) 	7 	3 	3 	0 	- 	13
+:jaguars: Jacksonville Jaguars (1-0) 	13 	0 	7 	3 	- 	23
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:jaguars: Jacksonville Jaguars
+Injuries 	No Injuries 	FS Kevin Johnson - Mild Achilles Tendonitis
+Top Player Grade 	DT Sila Lotomau (7.64) 	K Alejandro Aguirre (9.09)
+Worst Player Grade 	CB Aaron Stiles (4.29) 	CB Gary Chamberlain (4.64)
+Offensive Line Rating 	8.23 	8.26
+Sacks 	2 	1
+Punting 	44.5 	50.2
+Punt Return Yards 	8 	35
+Kick Return Yards 	65 	27
+Turnovers 	2 	1
+3rd Down Conversion 	4/12 	5/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	6/59 	4/28
+:bengals: Cincinnati Bengals
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	22/40 	230 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	9 	32 	0 	6 	1/1
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Jankowski 	4 	56 	0 	0 	0/0
+Jamir Blackburn 	5 	55 	0 	1 	0/0
+Christopher Harris 	3 	40 	1 	1 	0/0
+Steven Maloney 	3 	37 	0 	0 	0/0
+Ron Thomas 	3 	35 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Blake Turner 	3/0 	- 	1/1 	0/0 	0/0
+Sila Lotomau 	2/0 	1.0 	0/0 	0/0 	0/0
+Brett Bailey 	1/0 	1.0 	0/0 	0/0 	0/0
+Daniel Barnes 	6/0 	- 	0/0 	0/0 	0/0
+Germane Dixon 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	2/2 	1/1 	39, 35
+	
+:jaguars: Jacksonville Jaguars
+Pro Style - Vertical
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Taylor Rodriguez 	26/49 	309 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING ? 	ATT 	YDS 	TD 	LNG 	F/L
+Asante Sowell 	12 	69 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Raheem Robinson 	9 	126 	1 	0 	0/0
+Derek Harrison 	4 	72 	1 	0 	0/0
+Taylor Eifert 	3 	43 	0 	1 	0/0
+Marcus Holmes 	3 	26 	0 	0 	0/0
+Tyrone Turner 	2 	23 	0 ? 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jay Wade 	2/0 	- 	1/1 	0/0 	0/0
+Damien Norman 	5/0 	- 	0/0 	1/1 	0/0
+Ron Rice 	2/0 	0.5 	0/0 	0/0 	0/0
+Shamar Ware 	2/0 	0.5 	0/0 	0/0 	0/0
+Donnie Bavaro 	4/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Alejandro Aguirre 	3/3 	2/2 	55, 28, 49 ?

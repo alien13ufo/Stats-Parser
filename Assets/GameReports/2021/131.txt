@@ -1,0 +1,57 @@
+ New York Giants (1-6) at Denver Broncos (4-4)
+
+Denver, CO - 58 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:giants: New York Giants (1-6) 	7 	7 	14 	0 	- 	28
+:broncos: Denver Broncos (4-4) 	7 	6 	10 	6 	- 	29
+Team Stats Comparison
+  	:giants: New York Giants 	:broncos: Denver Broncos
+Injuries 	No Injuries 	Kerwin McGeoghan, OG - Severe Elbow Bruise
+Offensive Line Rating 	8.0 	8.2
+Sacks 	2 	1
+Punting 	43.3 	46.2
+Punt Return Yards 	14 	32
+Kick Return Yards 	20 	0
+Turnovers 	1 	0
+3rd Down Conversion 	5/13 	3/10
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/30 	6/58
+:giants: New York Giants
+Pistol - Flexbone 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	15/23 	190 	1 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	16 	90 	2 	21 	0/0
+Josh Shiancoe 	7 	27 	1 	16T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Patrick Lambert 	6 	75 	1 	0 	0/0
+Tom Oldham 	4 	41 	0 	0 	0/0
+O.J. Carano 	2 	33 	0 	0 	0/0
+Ibrahim Smiley 	1 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Curtis Lewis 	4/0 	1.5 	0/0 	0/0 	0/0
+Kenyatta Henderson 	5/0 	0.5 	0/0 	0/0 	0/0
+Aaron Hammond 	6/1 	- 	0/0 	0/0 	0/0
+George Russell 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Trent Michaels 	0/2 	4/4 	- 48, 50
+	
+:broncos: Denver Broncos
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Jennings 	19/25 	222 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+J.B. Blacknall 	21 	108 	2 	19 	0/0
+Emmett Spears 	5 	38 	0 	23 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ken Peelle 	6 	80 	0 	0 	0/0
+Artemio Ramirez 	4 	60 	1 	0 	0/0
+Darrell Mack 	2 	42 	0 	1 	0/0
+William Doherty 	3 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Deyonte Davis 	3/1 	1.0 	0/0 	1/0 	0/0
+Emanuel Serrano 	2/0 	- 	0/0 	0/1 	0/0
+Cameron Jonah 	8/1 	- 	0/1 	0/0 	0/0
+Ray Truax 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Sarahi 	3/3 	2/2 	47, 28, 36 

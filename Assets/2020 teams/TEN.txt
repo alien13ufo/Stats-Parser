@@ -1,0 +1,53 @@
+QB Alexander Williams 6-0 187 6 Texas A&M [Scrambling] 90
+QB Julius McIntosh 6-0 232 R Washington [Hybrid] 80
+QB Bobby Kolodziej 6-2 205 2 California [Pocket] 76
+QB J.J. Robinson 6-1 209 R Temple [Hybrid] 76
+RB Chris Bell 6-3 198 1 Navy [Speed] 83
+RB John Harris 5-11 181 3 Arizona State [Speed] 82
+RB Shawn Carr 6-0 177 6 Iowa [Power] 78
+FB Ibrahim High 5-9 208 1 Air Force [Run Blocking] 80
+FB Cyril Harris 6-0 230 3 Nebraska [Run Blocking] 77
+WR Tommy Furrey 6-6 178 6 West Virginia [Speed] 85
+WR Cap Christian 6-3 176 4 Georgia Tech [Target] 82
+WR Kevin Williams 6-0 165 4 Boston College [Speed] 79
+WR Cody Hunter 6-3 190 R Tennessee-Martin [Target] 76
+WR Margene Huard 6-6 169 2 Arizona [Speed] 71
+TE Charlie Wilson 6-7 247 5 Georgia Tech [Blocking] 84
+TE Vaughn St. Clair 6-2 233 5 Houston [Blocking] 80
+TE Johnny Duerson 6-5 238 2 Syracuse [Blocking] 78
+TE Kavika Russell 6-1 223 2 Oklahoma [Receiving] 74
+OT Brandon Reamon 6-8 298 2 Texas [Pass Blocking] 88
+OT Willard Love 6-3 336 3 Wisconsin [Pass Blocking] 82
+OT Lyle Matthews 6-1 343 3 Arizona State [Pass Blocking] 81
+OT Dante Paige 6-4 306 4 West Virginia [Pass Blocking] 76
+OG James Redd 6-0 296 3 Iowa [Run Blocking] 79
+OG Ian Braden 6-2 335 R Western Michigan [Run Blocking] 77
+OG Darrell Kincaid 6-5 271 R Nebraska [Pass Blocking] 73
+C Rob Johnston 6-2 292 5 Florida State [Run Blocking] 79
+C James Irwin 6-2 291 4 Iowa State [Pass Blocking] 75
+DE Tyler Jones 6-1 257 R Mississippi State [Contain] 83
+DE Charles Woods 6-5 273 1 Notre Dame [Contain] 82
+DE Justin Glass 6-3 283 5 Hawaii [Blitz] 80
+DE Josh Swift 6-4 264 4 Vanderbilt [Contain] 76
+DT Joseph Whiteside 6-2 327 R USC [2-Gap] 79
+DT Carl Connor 6-6 285 3 Auburn [2-Gap] 79
+DT Walter Murillo 6-1 309 R Nebraska [2-Gap] 71
+ILB Randy Humphreys 6-1 252 4 Purdue [Will] 90
+ILB Jackie Eaton 6-0 234 5 Virginia Tech [Will] 88
+ILB Philip Sargent 6-2 240 R Nebraska [Will] 73
+ILB Steven Irwin 5-11 214 2 Iowa State [Will] 73
+OLB David Doherty 6-1 228 3 Kansas State [Coverage] 90
+OLB Alton Drazenovich 6-1 217 2 LSU [Coverage] 80
+OLB Jeffrey Aranda 5-11 221 1 Oklahoma [Coverage] 79
+OLB Eddie Johnson 6-0 227 4 Georgia Tech [Coverage] 73
+CB Jack Ramsey 6-2 172 2 Virginia Tech [Zone Coverage] 81
+CB Jordan Harris 5-10 185 R North Dakota State [Zone Coverage] 80
+CB Allen Foster 6-1 172 3 Missouri [Man Coverage] 77
+CB Alan Ferrell 5-8 162 6 Ohio State [Zone Coverage] 73
+FS Alex Collins 6-0 214 6 Auburn [Man Coverage] 87
+FS Mike Henderson 5-10 193 4 UCF [Man Coverage] 81
+FS Luis Henry 5-11 194 1 Arizona [Man Coverage] 74
+SS Tywan Tafoya 6-2 185 5 Washington State [Zone Coverage] 88
+SS Clarence Peete 6-0 168 3 South Carolina [Man Coverage] 79
+K Leon Woodruff 5-8 169 3 Northwest Mississippi CC [Accuracy] 83
+P Scottie Ware 5-10 174 2 Clemson [Power] 85

@@ -1,0 +1,53 @@
+QB Darrell Murphy 6-2 215 9 Wisconsin [Pocket] [+2/C] 96?
+QB Kevin Marshall 6-4 230 3 South Dakota [Hybrid] [0] 79
+QB Ahmed Jarvis 5-11 223 1 Wisconsin [Pocket] [0] 78
+?RB Daveed Knox 5-11 202 1 Illinois [Speed] [-2] 80
+RB Terrell Holland 5-8 211 2 SMU [Speed] [0] 80
+RB Lloyd Samuels 5-10 199 R Oregon State [Speed] [+1] 71
+?FB Kyle Wagner 6-0 212 2 Minnesota [Run Blocking] [0] 81
+WR Walt Peck 6-5 203 9 Penn State [Speed] [+1/C] 88
+WR Allama Banta 6-0 185 7 Boston College [Target] [+1] 89
+WR Allen Lara-Cruz III 6-1 212 R Minnesota [Target] [0] 77
+WR Tyrone McGee 6-3 205 4 Nebraska [Target] [-1] 7?5
+?WR John O'Donnell-Beavers 6-4 204 1 Stanford [Target] [0] 68
+TE Jamal Hawkins 6-4 247 8 Arizona State [Receiving] [0] 84?
+TE Jonathan Greer 6-2 217 2 Virginia [Blocking] [0] 81
+?TE Avery Pressley 6-2 229 1 Florida [Blocking] [-1] 72
+OT Nijrell Smith 6-4 346 7 Miami [Pass Blocking] [0/C] 88
+OT Shawaun Holsey 6-2 297 2 Virginia [Run Blocking] [0/C] 85
+OT Conor Crane 6-6 303 3 Mississippi State [Pass Blocking] [0] 80
+OT Izzy Garvey 6-7 283 R Pittsburgh [Run Blocking] [0] 78
+OG Julio Dunn 6-4 292 3 Nebraska [Pass Blocking] [-1] 82
+OG Charlie Cooper 6-7 282 R Auburn [Pass Blocking] [0] 81
+OG Albert Palacios 6-2 315 R Miami (FL) [Pass Blocking] [0] 76
+?OG Mendy Pace 6-2 287 1 ECU [Run Blocking] [-1] 71
+C LaMarcus Smith 6-3 298 8 Ole Miss [Run Blocking] [+2/C] 89
+C Malachi Vera 6-1 242 4 Colorado [Pass Blocking] [-1] 76
+DE Michael Bruce 6-8 252 4 Texas Tech [Blitz] [+3] 89
+DE Jared Self 6-2 256 3 Michigan [Blitz] [0] 84
+DE Blake Tipton 6-0 264 R UCLA [Blitz] [+1/C] 79
+DT Anthony Beltran 6-5 299 5 Penn State [2-Gap] [-2] 89
+DT Cameron Street 6-2 317 2 LSU [2-Gap] [0] 79
+DT David Thompson 6-6 298 3 Stanford [2-Gap] [0/C] 77
+DT Brady Whittaker 6-0 305 R Ohio [2-Gap] [-1] 76
+ILB Daniel Watkins 6-0 231 4 Louisville [Mike] [+1/C] 89
+ILB Markus Golden 6-5 240 1 Ole Miss [Mike] [0] 84
+ILB Calvin Tucker 6-4 236 R Alabama [Mike] [0/C] 80
+ILB Kieran Linn 6-0 235 R Northern Illinois [Will] [0] 76
+ILB James Burroughs 6-3 234 2 Minnesota [Mike] [0] 70?
+OLB Leigh Davey 6-1 232 6 Minnesota [Coverage] [0] 87
+OLB Jeffrey Aranda 5-11 221 4 Oklahoma [Coverage] [0] 85
+OLB Elliot Underwood 5-11 251 R Wisconsin [Blitz] [0/C] 75
+CB Thomas Patterson 5-11 184 4 Mississippi State [Man Coverage] [0] 82
+CB Lynn Perry 6-3 187 6 LSU [Man Coverage] [+2/C] 80
+CB Jeremy Starks 5-10 187 3 Missouri [Man Coverage] [+1] 79
+CB Zaire Hooker 5-11 166 R Western Michigan [Man Coverage] [-1] 78
+CB Christopher Anthony 5-10 171 2 Temple [Man Coverage] [-1] 75
+FS Stephen Elliott 6-3 197 9 Cincinnati [Zone Coverage] [0] 83
+CB J.J. Fowler 6-1 202 R Old Dominion [Zone Coverage] [0] 80
+FS Samuel Prince 6-0 191 3 Texas A&M [Man Coverage] [0] 78
+SS Brandon Sauter 6-2 200 6 Michigan State [Zone Coverage] [-2] 94
+SS Ethan Crockett 6-2 176 3 Alabama [Zone Coverage] [+1] 79
+?K Sam Walsh 6-4 203 1 California [Power] [0] 85
+P Mark Coleman 6-1 196 5 USC [Power] [0] 87
+LS Juju Gunn 6-1 244 R TCU [Traditional] [0] 78 

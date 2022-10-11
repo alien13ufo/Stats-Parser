@@ -1,0 +1,65 @@
+ Minnesota Vikings (1-1) at Atlanta Falcons (1-1) ?
+Atlanta, GA - 84 F :sunny: 	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:vikings: Minnesota Vikings (1-1) 	7 	3 	7 	0 	- 	17
+:falcons: Atlanta Falcons (1-1) 	6 	7 	7 	3 	- 	23
+Team Stats Comparison
+  	:vikings: Minnesota Vikings 	:falcons: Atlanta Falcons
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	WR Jacory Kessler (8.25) 	K Gino Chiaverini (9.41)
+Worst Player Grade 	RB Evan Grant (4.31) 	SS Mario Ruff (4.64)
+Offensive Line Rating 	8.19 	8.40
+Sacks 	0 	2
+Punting 	41.6 	43.6
+Punt Return Yards 	16 	27
+Kick Return Yards 	66 	41
+Turnovers 	0 	0
+3rd Down Conversion 	4/11 	5/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/64 	4/33
+:vikings: Minnesota Vikings
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Brian Vardell 	22/40 	208 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Evan Grant 	15 	41 	0 	9 	0/0
+Keith Dunn 	4 	23 	0 	10 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jacory Kessler 	7 	56 	1 	0 	0/0
+Mohamed Charles 	4 	45 	0 	1 	0/0
+Luke Cobb 	3 	40 	1 	0 	0/0
+Wayne Wegert 	2 	22 	0 	0 	0/0 ?
+Aaron Ayala 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Cleveland Merrill 	8/1 	- 	0/0 	0/0 	0/0
+Devon Drummond 	4/0 	- 	0/0 	0/0 	1/0
+Devin Goss 	3/0 	- 	0/0 	0/0 	0/0
+Sebastian Smallwood 	3/0 	- 	0/0 	0/0 	0/0
+Jared Lee 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Gilligan 	1/2 	2/2 	40 - 50
+	
+:falcons: Atlanta Falcons
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Donald Culver 	17/32 	204 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	19 	108 	1 	40T 	0/0
+Bradley Cooley 	7 	37 	0 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Darius Mitchell 	5 	56 	0 	0 	0/0
+Bo Woodall 	3 	42 	1 	0 	1/0
+Riddick Smith 	2 	30 	0 	0 	0/0
+Joseph Thurston 	3 	27 	0 	0 	0/0
+Vontae Powell 	2 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Early Davis 	3/0 	1.0 	0/0 	0/0 	0/0
+Eric Jennings 	2/0 	1.0 	0/0 	0/0 	0/0
+Marcus Grant 	4/1 	- ? 	0/0 	0/0 	0/0
+Tommy Leonard 	5/0 	- 	0/1 	0/0 	0/0
+Darius Jones 	3/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	3/3 	2/2 	57, 52, 26 

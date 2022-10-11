@@ -1,0 +1,39 @@
+QB Kamau Davis 6-2 218 2 Indiana [Pocket] 86
+QB Jimmy Starks 6-1 210 1 Ole Miss [Pocket] 74
+RB Vaughan Abraham 5-10 201 3 LSU [Speed] 94
+RB Keith Dunn 5-11 179 2 PennState [Power] 79
+FB Edgerrin Petty 6-1 219 1 Notre Dame [Power] 74
+WR Kurt Hill 5-9 196 3 Miami [Target] 86
+WR M.L. Kriewaldt 5-8 170 2 Louisville [Speed] 82
+WR Joe Coleman 5-10 172 1 Missouri [Target] 74
+WR Otto Laing 6-3 196 2 Clemson [Speed] 71
+TE A.J. Carter 6-6 226 2 BostonCollege [PassBlocking] 76
+TE Paul Carter-Williams 6-6 237 R TCU [Pass Blocking] 74
+OT Justin Campbell 6-6 291 2 Penn State [Run Blocking] 96
+OT Wayne Gelbaugh 6-6 299 2 Oklahoma [Pass Blocking] 87
+OT Bert Scott 6-8 301 R Missouri [Pass Blocking] 74
+OG Jace Brown 6-6 270 1 Florida [Pass Blocking] 92
+OG Barry Waterfield 6-7 284 1 Syracuse [Run Blocking] 81
+OG Kenny Banta 6-1 296 R Arkansas [Run Blocking] 67
+C Sid Henson 6-5 298 1 USC [Run Blocking] 84
+C Billy Williams 6-7 289 R Oregon [Pass Blocking] 65
+DE Kevin Olford 6-5 275 R Stanford [Pass Stop] 75
+DE Gregory Archer 6-3 277 2 BoiseState [RunStop] 73
+DE Jarius Davis 6-3 261 R Oklahoma [Run Stop] 69
+DT Shawn Bowers 6-1 305 2 Boise State [Run Stop] 85
+DT Dalton McWatters 6-3 269 R Florida State [Pass Stop] 74
+ILB Cleo Blair 6-1 251 2 NC State [Run Zone] 85
+ILB Kelvin Grossman 6-0 231 1 Nebraska [Run Zone] 84
+ILB Kendrell Franklin 6-1 230 2 Vanderbilt [RunZone] 70
+OLB Jeff Mangum 6-2 256 3 Missouri [Run Zone] 88
+OLB Ray Truax 6-1 233 3 Ohio State [Pass Zone] 86
+OLB Ray Lee Coia 6-2 232 2 TCU [Run Zone] 70
+CB Travis Chatman 5-10 172 3 Washington [Zone Coverage] 86
+CB Ronyell Buchanon 6-1 171 R Florida State [Zone Coverage] 73
+CB Andrew Faulkner 6-0 176 R Cincinnati [Zone Coverage] 69
+CB Oliver Yarbrough 6-1 171 2 KansasState [ZoneCoverage] 69
+FS Albert White 5-10 184 2 Mississippi State [Zone Coverage] 79
+SS Romulus Jackson 6-0 193 R Fresno State [Zone Coverage] 81
+SS Lou Proehl 6-1 171 2 Texas [ZoneCoverage] 69
+K Lew Roberg 6-0 177 1 North Carolina [Power] 73
+P Freddie Mughelli 6-0 183 3 Stanford [Accuracy] 82

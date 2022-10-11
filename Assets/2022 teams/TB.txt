@@ -1,0 +1,52 @@
+QB Taylor Heiden 6-3 197 6 Arkansas [Hybrid] [+1/C] 92?
+QB Devin Conroy 5-10 218 2 Colorado State [Pocket] [0] 81
+QB Dylan Bishop 6-4 188 2 Syracuse [Scrambling] [0] 72
+RB DeNorris Jackson 6-0 235 1 UCF [Power] [-1] 84
+RB Jeremiah Newton 6-0 174 2 Iowa [Speed] [0] 78
+RB Aaron Street 5-8 210 R Cincinnati [Power] [0] 70
+FB Maurice Ervin 5-8 207 1 Virginia Tech [Pass Blocking] [0] 80
+WR Richard Wilson 6-5 173 7 Purdue [Speed] [0] 89
+WR Cotton Lewis 6-1 182 5 Auburn [Target] [0] 87?
+WR Anthony McCardell 6-1 186 5 Clemson [Target] [0] 84
+WR Quintavius Pearson 6-0 196 4 Louisville [Target] [-3] 83
+WR James Richardson 6-0 156 2 Mississippi State [Speed] [0] 78
+WR William Moore 6-1 173 2 Boston College [Speed] [0] 77
+WR Randall Johnson 6-1 180 1 Southern Miss [Target] [+1] 76
+TE Jerry Cipa 6-0 236 5 USC [Blocking] [0] 83
+TE Marius Greenwood 6-2 228 3 South Carolina [Blocking] [+1] 80
+OT Gene Miller 6-6 297 7 Ohio State [Pass Blocking] [-3/C] 88
+OT John Young 6-3 275 4 Ohio State [Run Blocking] [+1/C] 86
+OT Demonte Green 6-3 326 R Illinois [Pass Blocking] 78
+OT Bryce Whitaker 6-6 289 3 Michigan [Run Blocking] [0] 78
+OT James Jones 6-6 285 5 Iowa [Pass Blocking] [+1] 79
+OG Zak Cole 6-0 301 6 Alabama [Run Blocking] [0] 87
+OG Jack Brown 6-1 299 6 Florida [Pass Blocking] [0] 85
+OG Ethan Champion 6-7 259 1 USC [Pass Blocking] [+1] 79
+OG Jason Peterson 6-7 291 3 Michigan State [Run Blocking] [-1] 74?
+C John Spears 6-1 265 5 Kentucky [Run Blocking] [0/C] 79
+C Sam Holmes 6-2 280 3 North Carolina [Pass Blocking] [0] 78
+DE Darris Hayes 6-6 289 5 Ole Miss [Blitz] [0] 85
+DE Gustavo Adcock 6-3 271 3 LSU [Contain] [0] 80
+DE Jacob Kirk 6-3 242 2 South Dakota [Blitz] [0] 77
+DE Ruben Walker 6-7 273 R NDSU [Blitz] 72
+DT Frank Williams 6-8 293 7 Alabama [1-Gap] [+1/C] 94
+DT Jeremi Alexander 6-6 264 4 Texas [1-Gap] [0] 80
+DT Forest Williams 6-2 273 4 Oklahoma [1-Gap] [0] 81
+DT Omar Adcock 6-5 311 R Fresno State [1-Gap] 80
+DT Bobby Griggs 6-5 299 2 Boise State [1-Gap] [0] 76
+ILB Andre Brooks 6-1 256 8 Wisconsin [Mike] [+1/C] 90
+ILB Christopher Clayton 6-0 240 1 Penn State [Mike] [-2] 81
+ILB Julien Daly 6-1 234 2 Kansas State [Mike] [0] 77
+OLB Derrick Martin 6-0 241 7 UCLA [Blitz] [+1] 93
+OLB Thomas Barry 6-1 225 5 Arizona State [Coverage] [0] 88
+OLB Micah Singletary 6-2 229 1 Tennessee [Blitz] [+1/C] 77
+CB Cameron Newhouse 5-11 177 7 Oklahoma State [Man Coverage] [0/C] 91
+CB Demetrius Still 6-0 162 3 LSU [Zone Coverage] [0] 81
+CB Franklin Crawford Jr. 5-11 174 R Northern Iowa [Zone Coverage] 75
+CB Manch Matthews 6-3 198 5 Purdue [Zone Coverage] [0] 73
+FS Aaron Blakely 6-1 182 2 Wisconsin [Man Coverage] [+1] 83
+FS Micquel Carter 6-2 216 1 Marist [Zone Coverage] [0] 76
+SS Kevin Jackson 6-2 187 5 Virginia [Zone Coverage] [0] 73
+SS Dwayne Tatum 6-1 189 1 Stanford [Zone Coverage] [-1] 74
+K Jarret Veals 5-10 178 7 Miami [Power] [0] 97
+P Cliff Randall 6-0 208 5 Penn State [Accuracy] [+2] 82

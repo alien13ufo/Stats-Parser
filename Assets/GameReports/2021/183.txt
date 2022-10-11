@@ -1,0 +1,66 @@
+ Philadelphia Eagles (8-3) at Atlanta Falcons (7-4)
+
+Atlanta, GA - 48 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:eagles: Philadelphia Eagles (8-3) 	7 	21 	3 	7 	- 	31
+:falcons: Atlanta Falcons (7-4) 	0 	14 	14 	0 	- 	28
+Team Stats Comparison
+  	:eagles: Philadelphia Eagles 	:falcons: Atlanta Falcons
+Injuries 	
+
+Jack Green, OG - Severe Thumb Sprain
+
+Kevin Hartley, FS - Moderate Elbow Fracture
+	
+
+LaMichael Harley, OG - Severe Wrist Bruise
+
+Eric Jennings, DE - Mild Back Disc Fracture
+Offensive Line Rating 	7.8 	7.9
+Sacks 	4 	3
+Punting 	46.4 	42.1
+Punt Return Yards 	51 	21
+Kick Return Yards 	25 	21
+Turnovers 	0 	0
+3rd Down Conversion 	6/12 	5/13
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/32 	6/50
+:eagles: Philadelphia Eagles
+Spread - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan Taylor 	15/25 	263 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marshawn Miller 	14 	71 	1 	19 	0/0
+Troy White 	10 	66 	1 	31T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Michael Hawkins 	5 	100 	1 	0 	0/0
+Troy White 	3 	73 	1 	0 	0/0
+Christopher Johnson 	2 	41 	0 	1 	0/0
+Adam Vann 	2 	32 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Ryan Frey 	6/2 	3.0 	0/0 	0/0 	0/0
+Ulysses Smith 	2/0 	1.0 	0/0 	0/0 	0/0
+Rodrick Milligan 	7/2 	- 	0/0 	0/0 	0/0
+Terry Hill 	3/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Mark Kirschbaum 	1/1 	4/4 	40
+	
+:falcons: Atlanta Falcons
+Spread - Option
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+A.J. Jefferson 	16/24 	222 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Akili Wallace 	21 	125 	1 	37 	0/0
+A.J. Jefferson 	1 	1 	1 	1T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jason Erwin 	6 	96 	1 	0 	0/0
+Bo Woodall 	3 	51 	1 	0 	0/0
+Riddick Smith 	2 	35 	0 	0 	0/0
+Vontae Powell 	2 	20 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Early Davis 	3/2 	1.0 	0/0 	0/0 	0/0
+Shawn Gunderson 	4/0 	1.0 	0/0 	0/0 	0/0
+Tommy Leonard 	5/0 	1.0 	0/0 	0/0 	0/0
+Darius Jones 	6/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Gino Chiaverini 	0/1 	4/4 	- 47 

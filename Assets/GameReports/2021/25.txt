@@ -1,0 +1,55 @@
+ Las Vegas Raiders (1-0) at Kansas City Chiefs (1-0)
+
+Kansas City, MO - 85 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:raiders: Las Vegas Raiders (1-0) 	7 	14 	7 	7 	0 	35
+:chiefs: Kansas City Chiefs (1-0) 	7 	14 	0 	14 	3 	38
+Team Stats Comparison
+  	:raiders: Las Vegas Raiders 	:chiefs: Kansas City Chiefs
+Injuries 	Alexander Baumgartner, OLB - Severe Biceps Pull 	Harry Whiteside, WR - Mild Elbow Fracture
+Offensive Line Rating 	8.3 	8.2
+Sacks 	0 	2
+Punting 	42.4 	43.3
+Punt Return Yards 	3 	20
+Kick Return Yards 	53 	43
+Turnovers 	1 	0
+3rd Down Conversion 	5/9 	7/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	9/86 	6/52
+:raiders: Las Vegas Raiders
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Nick Hall 	23/34 	309 	3 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Major Morris 	20 	92 	1 	14 	0/0
+Quincy Turner 	4 	16 	1 	8T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Brian Gary 	5 	99 	2 	0 	0/0
+Mike Tripplett 	6 	74 	0 	0 	0/0
+Malcolm Davis 	3 	71 	1 	1 	0/0
+Brian Becker 	4 	42 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+David Pennington 	8/0 	- 	0/0 	0/0 	0/0
+Alex Martin 	5/1 	- 	0/0 	0/0 	0/0
+Randall Jones 	5/0 	- 	0/0 	0/0 	0/0
+Gregg Martin 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Matt Fisk 	0/0 	5/5 	-
+	
+:chiefs: Kansas City Chiefs
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Erasmus McCready 	5/7 	71 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrence Rodgers 	24 	127 	2 	44T 	0/0
+Justin Buchanan 	8 	41 	2 	18 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Rodney Montgomery 	2 	40 	1 	0 	0/0
+Hines Mertens 	1 	20 	0 	0 	0/0
+Richard Frazier 	1 	6 	0 	0 	0/0
+Spec Davidson 	1 	5 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Teddy Walker 	2/0 	- 	1/0 	0/0 	0/0
+Luke Lyles 	4/1 	1.0 	0/0 	0/0 	0/0
+Arlie LeClair 	7/1 	- 	0/0 	0/0 	0/0
+Sean Springs 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Ryan Levcik 	1/1 	5/5 	46 

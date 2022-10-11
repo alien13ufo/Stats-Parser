@@ -1,0 +1,37 @@
+QB Greg Bierria 6-3 186 3 Auburn [Pocket] 86
+QB Horace Johnson 5-11 199 R Texas A&M [Pocket] 65
+RB Tony Peaks 5-10 239 3 Florida State [Power] 89
+RB Bobby Givan 5-11 188 2 Alabama [Speed] 85
+RB Craig Grimsley 6-1 216 R Louisville [Power] 66
+FB Joseph Lopez 5-11 213 2 AirForce [Power] 65
+WR Mosi Bartos 5-8 161 1 BostonCollege [Speed] 89
+WR Rashad Simon 6-4 187 1 BoiseState [Target] 85
+WR Matt Kreutz 6-3 199 2 PennState [Speed] 74
+WR Derek Nelson 6-6 197 3 Navy [Target] 61
+TE Jason Lee 6-1 232 3 Boston College [Run Blocking] 81
+TE Kevin Knight 6-8 234 3 Texas [Run Blocking] 75
+OT Richard Carter 6-7 309 2 Rutgers [Pass Blocking] 85
+OT Leslie Hoover 6-1 339 2 Michigan [Run Blocking] 76
+OT Kevin Barker 6-8 314 1 GeorgiaTech [PassBlocking] 73
+OT Donald Williams 73 292 1 Oregon St. [Pass Blocking] 63
+OT Antoine Tracey 6-4 304 1 Minnesota [Pass Blocking] 63
+OG Jimmie Shelton 6-6 304 1 Cincinnati [RunBlocking] 86
+OG Mathias Banks 6-5 300 3 Michigan [RunBlocking] 66
+OG James Anderson 6-6 290 2 Arizona [PassBlocking] 61
+DE Grover Walker 6-4 259 1 Kentucky [PassStop] 75
+DE Charley Long 6-1 238 1 Hiwassee College [Pass Stop] 72
+DT Quentin Smith 6-8 294 3 Ohio State [Pass Stop] 92
+DT Keith Hooks 6-3 293 3 Colorado [Pass Stop] 83
+OLB Keyuo Clark 6-1 242 2 Florida State [Pass Zone] 81
+OLB Rob Walls 6-1 227 R Georgia [Run Man-to-Man] 72
+OLB Stephen Hutchins 6-1 239 3 Pittsburgh [PassZone] 62
+ILB Doug Odoms 6-1 235 2 Washington [Run Zone] 80
+ILB Rick Avellini 6-1 223 R Auburn [Pass Zone] 71
+ILB Stephen Garza 6-0 234 3 Oregon State [Pass Zone] 61
+CB Kenny Allen 5-8 182 2 Utah [Man Coverage] 73
+CB Jeremy Bell 5-10 170 R Kansas [Man Coverage] 71
+FS Sean Burton 6-0 202 2 Oklahoma [Zone Coverage] 91
+FS Joseph Harris 6-1 169 2 Mississippi State [ManCoverage] 62
+SS Chris Brown 5-11 176 R Alabama [Zone Coverage] 78
+P Jerome Morris 6-4 161 R Maryland [Accuracy] 67
+K Eric Anderson 5-8 193 R Michigan [Accuracy] 66

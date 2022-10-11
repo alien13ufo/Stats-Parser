@@ -1,0 +1,67 @@
+ Los Angeles Rams (2-8) at Pittsburgh Steelers (7-3) ?
+
+Pittsburgh, PA - 45 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:rams: Los Angeles Rams (2-8) 	7 	14 	7 	3 	- 	31
+:steelers: Pittsburgh Steelers (7-3) 	0 	7 	10 	7 	- 	24
+Team Stats Comparison
+  	:rams: Los Angeles Rams 	:steelers: Pittsburgh Steelers
+Injuries 	DE Jared Self - Mild Achilles Bruise 	No Injuries
+Top Player Grade 	QB Darrell Murphy (9.31) 	DE Carlos Washington (8.96)
+Worst Player Grade 	FS Samuel Prince (3.40) 	CB Ronnie Bailey (2.97)
+Offensive Line Rating 	7.97 	8.06
+Sacks 	3 	3
+Punting 	43.6 ? 	42.1
+Punt Return Yards 	12 	6
+Kick Return Yards 	57 	72
+Turnovers 	0 	1
+3rd Down Conversion 	4/11 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/75 	4/30
+:rams: Los Angeles Rams
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	20/27 	227 	2 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrell Holland 	13 	101 	2 	14 	0/0
+Daveed Knox 	8 	26 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Walt Peck 	6 	99 	1 	0 	0/0
+Jamal Hawkins 	3 	53 	0 	0 	0/0
+Derrick Schwartz 	2 	26 	1 	0 	0/0
+Allama Banta 	2 	24 	0 	0 	0/0
+Steve Alexander 	2 	19 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Thomas Patterson 	2/0 	- 	1/0 	0/0 	0/0
+Michael Bruce 	3/1 	1.0 	0/0 	0/0 	0/0
+Anthony Beltran 	2/0 	1.0 	0/0 	0/0 	0/0
+Cliff Marconi 	1/0 	1.0 	0/0 	0/0 	0/0
+Daniel Watkins 	7/0 	- 	0/0 	1/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Sam Walsh 	1/1 	4/4 	46
+	
+:steelers: Pittsburgh Steelers
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Rory Weston 	20/39 	190 	2 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	10 	40 	1 	8 	1/0
+Jermaine Lockett 	1 	2 	0 	2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Ja'Wuan Howard 	4 	52 	1 	0 	0/0
+Samuel Jolley 	3 	41 	0 	1 	0/0
+Eric Watson 	3 	30 	1 	0 	0/0
+William Anderson 	4 	27 	0 	0 	0/0
+Malaefou Lewis ? 	3 	25 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Carlos Washington 	3/1 	1.0 	0/0 	0/0 	0/0
+Patrick Murphy 	4/0 	1.0 	0/0 	0/0 	0/0
+Quentin Smith 	2/0 	1.0 	0/0 	0/0 	0/0
+Ron Mobley 	6/1 	- 	0/1 ? 	0/0 	0/0
+Dane Wilson 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Lorenzo Rodgers 	1/1 	3/3 	39 ?

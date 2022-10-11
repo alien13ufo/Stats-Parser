@@ -1,0 +1,57 @@
+ San Francisco 49ers (3-9) at Los Angeles Rams (10-2)
+
+Inglewood, CA - 69 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:49ers: San Francisco 49ers (3-9) 	0 	0 	7 	7 	- 	14
+:rams: Los Angeles Rams (10-2) 	14 	14 	3 	7 	- 	38
+Team Stats Comparison
+  	:49ers: San Francisco 49ers 	:rams: Los Angeles Rams
+Injuries 	No Injuries 	Kevin O'Neal, WR - Severe Concussion
+Offensive Line Rating 	7.8 	8.2
+Sacks 	2 	3
+Punting 	43.6 	45.3
+Punt Return Yards 	9 	12
+Kick Return Yards 	46 	20
+Turnovers 	1 	1
+3rd Down Conversion 	3/13 	4/9
+4th Down Conversion 	0/0 	0/0
+Penalties 	4/31 	8/62
+:49ers: San Francisco 49ers
+Spread Option - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Todd Lester 	19/29 	204 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Troy McCray 	15 	61 	0 	12 	0/0
+Todd Lester 	3 	6 	0 	5 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Miles Collins 	6 	86 	1 	0 	0/0
+Steve Warner 	3 	34 	1 	0 	0/0
+Ben Thomas 	3 	31 	0 	1 	0/0
+Hugh Warren 	3 	29 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Chris Reed 	6/1 	1.5 	0/0 	1/0 	0/0
+Bill Young 	2/0 	0.5 	0/0 	0/1 	0/0
+Daleroy Smart 	8/1 	- 	0/0 	0/0 	0/0
+Mike Smith 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Vincent Comer 	0/1 	2/2 	- 56
+	
+:rams: Los Angeles Rams
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	21/33 	280 	3 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	19 	96 	1 	18 	0/0
+Trainer Joyce 	2 	42 	1 	37T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Allama Banta 	8 	97 	1 	0 	0/0
+Norman Spencer 	4 	67 	1 	0 	0/0
+Derrick Schwartz 	3 	61 	0 	1 	0/0
+Andrew Williamson 	2 	41 	1 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Thomas Patterson 	2/0 	- 	1/1 	0/0 	0/0
+Jared Self 	3/2 	1.0 	0/0 	0/0 	0/0
+Anthony Beltran 	5/0 	1.0 	0/0 	0/0 	0/0
+Leigh Davey 	2/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Stanley Brewster 	1/2 	5/5 	42 - 48 

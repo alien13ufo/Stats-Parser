@@ -1,0 +1,53 @@
+QB A.J. Jefferson 6-3 194 3 North Carolina [Pocket] 87
+QB Greg Shipp 6-1 185 1 Iowa [Hybrid] 80
+QB Blake Shell 6-5 194 5 Virginia Tech [Pocket] 87
+RB Akili Wallace 5-10 180 4 Florida State [Speed] 96
+RB Bradley Cooley 5-11 198 2 TCU [Speed] 78
+RB Dave Pagac 6-0 170 2 Texas Tech [Speed] 73
+FB Richard Myers 6-2 242 6 Pittsburgh [Run Blocking] 83
+WR Riddick Smith 6-0 185 6 Texas A&M [Target] 88
+WR Bo Woodall 6-1 202 2 North Carolina [Target] 84
+WR E.J. Steed 6-2 217 2 Arkansas [Speed] 72
+WR Joe Wallace 5-11 193 5 Baylor [Speed] 78
+WR Vontae Powell 5-11 199 1 Navy [Target] 77
+WR Tyrus Wilson 6-2 190 R Michigan [Speed] 79
+TE Oscar Fisk 6-8 245 2 Washington [Receiving] 81
+TE Darius Mitchell 6-1 216 1 Nebraska [Blocking] 77
+TE Jason Erwin 6-6 242 R Arizona State [Receiving] 75
+OT Julian Sykes 6-6 307 4 Boston College [Pass Blocking] 90
+OT Kelly Meier 6-8 307 3 Alabama [Run Blocking] 86
+OT Arthur Roberson 6-6 310 2 Marshall [Pass Blocking] 78
+OT Johnathan Bell 6-7 279 3 Washington State [Pass Blocking] 72
+OG Tom McKelvey 6-6 312 5 UCLA [Pass Blocking] 90
+OG Larry Hadley 6-4 317 5 Baylor [Run Blocking] 86
+OG Walter Zuniga 6-4 296 R Minnesota [Pass Blocking] 74
+C Chris Lee 6-2 292 1 San Diego State [Run Blocking] 78
+DE Rickie Bradley 6-3 253 4 Western Nebraska CC [Contain] 77
+DE Early Davis 6-3 259 1 Georgia [Blitz] 85
+DE John Jones 6-8 268 1 West Virginia [Blitz] 66
+DE Eric Jennings 6-3 259 R Oregon [Blitz] 81
+DT Cris LeBaron 6-7 282 3 Virginia [1-Gap] 77
+DT Morris Alexander 6-4 290 4 Nebraska [1-Gap] 70
+DT LaDavid Cantrell 6-2 294 1 Virginia [1-Gap] 70
+DT Shawn Gunderson 6-6 266 R Marshall [1-Gap] 75
+DT Roy Norman 6-4 279 1 Miami [1-Gap] 74
+ILB Kay Anderson 6-1 231 5 Georgia Tech [Mike] 80
+ILB Marcus Grant 6-2 239 2 Notre Dame [Will] 81
+ILB Rufus Horn 6-1 218 2 Washington [Will] 82
+ILB Michael Hutson 5-11 223 R Oregon [Mike] 68
+OLB Stephen Campbell 5-11 234 2 Syracuse [Coverage] 68
+OLB Robert Lacy 6-3 240 1 Stanford [Blitz] 82
+OLB Tommy Leonard 6-1 229 6 Nebraska [Blitz] 82
+OLB Mark Stapleton 6-5 238 R Air Force [Coverage] 67
+CB David Wilburn 5-10 195 6 Stanford [Man Coverage] 95
+CB Victor Ruby 6-1 193 2 Maryland [Man Coverage] 67
+CB Darren Ruffin 5-10 165 1 Army [Man Coverage] 77
+CB Eric Irwin 6-1 177 1 Louisville [ManCoverage] 68
+CB Vontae Burnett 5-10 192 R Northern Iowa [Man Coverage] 75
+FS Darius Jones 6-1 205 2 Washington [Zone Coverage] 90
+FS David Koenig 5-10 173 3 Kansas State [Zone Coverage] 66
+FS Rodney Olson 5-10 165 1 Texas [Man Coverage] 74
+SS R.C. Rone 6-1 204 6 Oklahoma State [Zone Coverage] 95
+SS Mario Ruff 6-1 185 R Cincinnati [Zone Coverage] 78
+K Gino Chiaverini 6-3 206 3 Texas [Accuracy] 90
+P Elvin Johnson 5-10 192 4 Wisconsin [Power] 85

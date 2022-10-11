@@ -1,0 +1,35 @@
+QB Kareem Taylor 6-2 202 3 Notre Dame [Pocket] 89
+QB Mark White 6-3 199 R Duke [Pocket] 74
+RB John Harris 5-11 181 R Arizona State [Speed] 79
+RB Steven Curtis 6-0 186 3 Kansas [Power] 79
+FB Billy Davis 6-2 218 1 NC St. [Power] 68
+WR Tommy Furrey 6-6 178 3 West Virginia [Speed] 82
+WR Scott Vaughn 6-1 176 1 North Carolina [Speed] 68
+WR Tony Gross 6-4 188 2 Michigan [Speed] 77
+WR David Odle 6-1 181 R Michigan [Target] 66
+TE Vaughn St. Clair 6-2 233 2 Houston [PassBlocking] 78
+TE Monsanto Williams 6-2 251 3 Miami [Pass Blocking] 63
+OT Jim Otto 6-8 322 3 Colorado [Run Blocking] 86
+OT Willard Love 6-3 336 R Wisconsin [Pass Blocking] 79
+OT Corey Lewis 6-3 317 2 Wisconsin [RunBlocking] 67
+OG Peter Greenwood 6-2 269 1 Georgia [PassBlocking] 75
+OG Tony Glover 6-6 267 R Tennessee [Pass Blocking] 73
+C James Irwin 6-2 291 1 Iowa St. [Pass Blocking] 71
+DE Justin Glass 6-3 283 2 Hawaii [RunStop] 78
+DE Rex Bauer 6-4 287 1 Tennessee [Pass Stop] 63
+DE Josh Swift 6-4 264 1 Vanderbilt [Run Stop] 72
+DT Carl Connor 6-6 285 R Auburn [Run Stop] 74
+ILB Randy Humphreys 6-1 252 1 Purdue [PassZone] 84
+ILB Rich Smith 5-11 226 R Georgia [Pass Zone] 69
+OLB David Doherty 6-1 228 R Kansas State [Run Zone] 82
+OLB Keyon Greene 6-0 223 3 Boston College [Run Zone] 65
+CB Donald Edwards 6-1 197 2 Mississippi State [Man Coverage] 79
+CB Corey Evans 6-2 181 1 Oklahoma St. [Zone Coverage] 65
+CB Alan Ferrell 5-8 162 3 Ohio State [Zone Coverage] 72
+CB Robert Barnes 5-11 176 3 Mississippi State [Zone Coverage] 62
+FS Mike Henderson 5-10 193 1 UCF [ManCoverage] 76
+FS Pat Dingle 5-10 176 2 Oklahoma [Man Coverage] 63
+SS Clarence Peete 6-0 168 R South Carolina [Man Coverage] 78
+SS Scott Hall 5-10 209 2 Kentucky [ZoneCoverage] 65
+K Leon Woodruff 5-8 169 R Northwest Mississippi CC [Accuracy] 79
+P Michael Hale 5-11 188 2 Kentucky [Accuracy] 66

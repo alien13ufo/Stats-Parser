@@ -1,0 +1,53 @@
+QB Kareem Taylor 6-2 202 5 Notre Dame [Pocket] 89
+QB Bobby Kolodziej 6-2 205 1 California [Pocket] 76
+QB Richard Ramos 6-0 184 5 OregonState [Pocket] 74
+RB Chris Bell 6-3 198 R Navy [Speed] 82
+RB John Harris 5-11 181 2 Arizona State [Speed] 81
+RB Shawn Carr 6-0 177 5 Iowa [Power] 80
+FB Ibrahim High 5-9 208 R Air Force [Run Blocking] 79
+FB Gaston Sweeney 6-0 235 1 Michigan State [Pass Blocking] 73
+WR Tommy Furrey 6-6 178 5 West Virginia [Speed] 87
+WR Art Baber 5-9 201 4 Auburn [Speed] 85
+WR Cap Christian 6-3 176 3 Georgia Tech [Target] 84
+WR Tony Gross 6-4 188 4 Michigan [Speed] 78
+WR Otto Laing 6-3 196 4 Clemson [Speed] 67
+WR Margene Huard 6-6 169 1 Arizona [Speed] 69
+WR Adrian Tuiasosopo 6-1 189 4 Miami [Target] 65
+TE Vaughn St. Clair 6-2 233 4 Houston [Blocking] 81
+TE Johnny Duerson 6-5 238 1 Syracuse [Blocking] 77
+TE Kavika Russell 6-1 223 1 Oklahoma [Receiving] 73
+OT Brandon Reamon 6-8 298 1 Texas [Pass Blocking] 86
+OT Willard Love 6-3 336 2 Wisconsin [Pass Blocking] 81
+OT Lyle Matthews 6-1 343 2 Arizona State [Pass Blocking] 81
+OT Dante Paige 6-4 306 3 West Virginia [PassBlocking] 77
+OG Peter Greenwood 6-2 269 3 Georgia [PassBlocking] 77
+OG Tony Glover 6-6 267 2 Tennessee [Pass Blocking] 76
+OG Tony Jackson 6-1 295 3 Minnesota [PassBlocking] 71
+C Rob Johnston 6-2 292 4 Florida State [RunBlocking] 79
+C James Irwin 6-2 291 3 Iowa State [Pass Blocking] 74
+DE Charles Woods 6-5 273 R Notre Dame [Contain] 81
+DE Justin Glass 6-3 283 4 Hawaii [Blitz] 81
+DE Josh Swift 6-4 264 3 Vanderbilt [Contain] 75
+DE Rodney Matlock 6-5 262 4 Indiana [Contain] 69
+DT David Lee 6-3 278 4 Mississippi State [1-Gap] 87
+DT Carl Connor 6-6 285 2 Auburn [2-Gap] 78
+DT Eric Young 6-6 276 3 Purdue [1-Gap] 68
+ILB Randy Humphreys 6-1 252 3 Purdue [Will] 89
+ILB Steven Irwin 5-11 214 1 Iowa State [Will] 72
+ILB Rich Smith 5-11 226 2 Georgia [Will] 72
+OLB David Doherty 6-1 228 2 Kansas State [Coverage] 88
+OLB Alton Drazenovich 6-1 217 1 LSU [Coverage] 78
+OLB Jeffrey Aranda 5-11 221 R Oklahoma [Coverage] 77
+OLB Tony Cochran 5-11 237 4 Mississippi State [Coverage] 68
+OLB Keyon Greene 6-0 223 5 Boston College [Blitz] 68
+CB Donald Edwards 6-1 197 4 Mississippi State [Man Coverage] 83
+CB Jack Ramsey 6-2 172 1 Virginia Tech [Zone Coverage] 79
+CB Alan Ferrell 5-8 162 5 Ohio State [Zone Coverage] 75
+CB Pervis Branch 5-8 158 5 Oregon [Man Coverage] 69
+FS Mike Henderson 5-10 193 3 UCF [ManCoverage] 81
+FS Luis Henry 5-11 194 R Arizona [Man Coverage] 73
+FS Warren Johnson 5-10 177 5 Penn State [Zone Coverage] 71
+SS Tywan Tafoya 6-2 185 4 WashingtonState [ZoneCoverage] 87
+SS Clarence Peete 6-0 168 2 South Carolina [Man Coverage] 79
+K Leon Woodruff 5-8 169 2 Northwest Mississippi CC [Accuracy] 82
+P Scottie Ware 5-10 174 1 Clemson [Power] 83

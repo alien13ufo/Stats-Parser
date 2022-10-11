@@ -1,0 +1,34 @@
+QB Steve Reid 6-0 197 R Washington [Pocket] 56
+QB Anthony McCready 6-3 205 1 Tennessee [Pocket] 40
+RB Vaughan Abraham 5-10 201 R LSU [Speed] 80
+RB Chris Jeffreys 5-11 220 1 Florida [Power] 40
+FB Donte McAuliff 6-2 235 1 Maryland [Power] 40
+TE Kevin Knight 6-8 234 R Texas [Run Blocking] 66
+TE Sean Ryan 6-4 204 1 UCLA [Pass Blocking] 40
+WR Kurt Hill 5-9 196 R Miami [Target] 79
+WR James Lysander 5-11 169 1 Missouri [Speed] 40
+WR Benjamin Barron 6-4 184 1 Florida State [Target] 40
+WR Tavon King 6-4 189 1 Miami [Target] 40
+OT Adam Grossman 6-4 295 1 Kentucky [Run Blocking] 40
+OT Eric Carriker 6-4 285 1 Oregon [Run Blocking] 40
+OT Frank Campbell 6-6 295 1 BYU [Pass Blocking] 40
+OG Damian Upshaw 6-6 334 1 Wisconsin [Run Blocking] 40
+OG Gibril Taft 6-5 305 1 Minnesota [Run Blocking] 40
+OG Warren Anderson 6-7 329 1 Boston College [Pass Blocking] 40
+C Qandry Phillips 6-3 265 1 Ole Miss [Run Blocking] 40
+DE Mitchell Jenkins 6-3 245 1 LSU [Run Stop] 40
+DE Phillip Godfrey 6-4 274 1 LSU [Pass Stop] 40
+DE Sheldon Warren 6-4 250 1 Arizona State [Run Stop] 40
+DT Pietro Dowling 6-7 305 1 Kansas [Run Stop] 40
+DT Marius Reed 6-6 324 1 Penn State [Pass Stop] 40
+OLB Artie Leclair 6-2 245 R Virginia Tech [Pass Man-to-Man] 78
+OLB Jason Bryant 6-2 227 R Washington State [Run Man-to-Man] 75
+OLB Keyshawn Richards 6-4 244 1 UCLA [Run Zone] 40
+ILB John Boerigter 6-0 241 R UCLA [Pass Man-to-Man] 58
+ILB Dan Crawford 6-3 256 1 ECU [Pass Man-to-Man] 40
+CB Travis Chatman 5-10 172 R Washington [Zone Coverage] 75
+CB Michael Huss 5-11 185 1 Florida [Man Coverage] 40
+CB Dontrell Jefferson 5-10 175 1 Colorado [Zone Coverage] 40
+FS Denarius Moore 6-0 205 1 Boise State [Man Coverage] 40
+SS Andrew Brown 6-1 212 1 Virginia [Man Coverage] 40
+P Freddie Mughelli 6-0 183 R Stanford [Accuracy] 74

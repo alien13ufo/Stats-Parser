@@ -1,0 +1,55 @@
+ Washington Redskins (0-0) at New Orleans Saints (0-0)
+
+New Orleans, LA - 90 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:redskins: Washington Redskins (0-0) 	10 	7 	3 	3 	- 	23
+:saints: New Orleans Saints (0-0) 	7 	7 	14 	0 	- 	28
+Team Stats Comparison
+  	:redskins: Washington Redskins 	:saints: New Orleans Saints
+Injuries 	Anthony Brown, OLB - Severe Hamstring Bruise 	Patrick Lambert, WR - Severe Calf Tear
+Offensive Line Rating 	8.3 	8.3
+Sacks 	2 	2
+Punting 	43.5 	42.9
+Punt Return Yards 	22 	11
+Kick Return Yards 	40 	28
+Turnovers 	1 	0
+3rd Down Conversion 	5/11 	4/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/32 	9/83
+:redskins: Washington Redskins
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Tanner Bowman 	19/30 	221 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ricardo Reed 	17 	52 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sam Hiller-Weeden 	5 	80 	1 	0 	0/0
+Tony DeMarco 	3 	43 	1 	0 	0/0
+Ken Brown 	3 	32 	0 	0 	0/0
+Eddie McFadden 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Steven Jordan 	4/0 	1.0 	0/0 	0/0 	0/0
+Mike Hill 	1/0 	1.0 	0/0 	0/0 	0/0
+Cameron Whitney 	8/0 	- 	0/1 	0/0 	0/0
+Nicolas Haskell 	5/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Thomas McMahan 	3/4 	2/2 	38, 31, 38 - 46
+	
+:saints: New Orleans Saints
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Aaron Devereaux 	23/33 	295 	3 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Sterling Brown 	14 	58 	1 	19T 	0/0
+Zahir Watts 	3 	4 	0 	3 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Sean Jenkins 	8 	102 	2 	1 	0/0
+Will Holly 	4 	51 	0 	1 	0/0
+Jamaal Brown-Sanderson 	3 	43 	1 	0 	0/0
+Patrick Lambert 	2 	40 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+George Brady 	2/0 	- 	1/1 	0/0 	0/0
+Austin Olson 	5/1 	1.0 	0/0 	0/0 	0/0
+Jeremy Miller 	3/0 	1.0 	0/0 	0/0 	0/0
+Garrett Holliday 	7/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Jack Kershner 	0/1 	4/4 	- 53 

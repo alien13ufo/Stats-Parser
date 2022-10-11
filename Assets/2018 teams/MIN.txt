@@ -1,0 +1,45 @@
+QB Doug Kirby 5-11 199 R LSU [Pocket] 79
+QB Brian Vardell 6-2 200 4 Washington State [Pocket] 97
+RB Rasheed Kent 6-1 205 2 Minnesota [Power] 80
+RB Chester Henson 5-11 226 4 USC [Speed] 99
+FB Anthony Thomas 5-11 222 3 Texas [Speed] 83
+WR Sonny Beckett 6-6 188 1 Miami [Speed] 82
+WR Eric Minter 6-4 187 3 Tennessee [Target] 77
+WR Sid Wilson 6-1 205 1 Stanford [Target] 70
+WR Robert Hunt 6-4 192 2 MichiganState [Speed] 64
+TE Eugene Jackson 6-5 253 R Ohio State [Run Blocking] 82
+TE Larry Turner 6-3 235 3 PennState [RunBlocking] 77
+TE Bill Jenkins 6-5 242 3 Virginia Tech [Run Blocking] 86
+OT Rodney Todd 6-5 312 2 Georgia [PassBlocking] 76
+OT MacKenzie Woods 6-4 313 4 USC [Run Blocking] 90
+OG Gregory Cooke 6-5 291 R Kansas [Pass Blocking] 71
+OG Joe Smith 6-2 300 3 Arizona State [Pass Blocking] 83
+OG Ernest Welch 6-8 313 1 Arizona [Pass Blocking] 66
+C Tim Beban 6-1 301 1 LSU [Pass Blocking] 75
+OG Tony Baxter 6-7 317 2 USC [RunBlocking] 77
+OG Gregory Cooke 6-5 291 R Kansas [Pass Blocking] 71
+OT Bryan Green 6-3 312 2 VirginiaTech [RunBlocking] 85
+DE Ernie Bouggess 6-2 272 1 West Virginia [Run Stop] 71
+DE Dennis Niland 6-4 284 2 USC [PassStop] 87
+DT Jared Lee 6-5 313 3 Florida State [RunStop] 83
+DT Frank Jones 6-5 295 1 Iowa [Run Stop] 74
+DT Toussaint Tasker 6-5 294 1 UCLA [Run Stop] 69
+DE Brant Thomas 6-2 270 3 Georgia [Run Stop] 86
+OLB Mike Johnson 6-0 240 1 Houston [Pass Man-to-Man] 77
+OLB Arlie LeClair 6-2 245 4 Virginia Tech [Pass Man-to-Man] 90
+ILB Eric Jones 6-1 238 2 LSU [PassMan-to-Man] 85
+ILB Stephen McKenzie 6-1 234 1 Wisconsin [Pass Man-to-Man] 71
+ILB Cleveland Merrill 6-1 236 3 Ole Miss [Pass Man-to-Man] 94
+OLB Paul Goodman 6-2 240 R PennState [Run Man-to-Man] 82
+OLB Dominic Cooper 5-11 224 1 UCLA [Pass Man-to-Man] 70
+CB Jonathan Blankenship 6-1 190 R Tulane [Zone Coverage] 76
+CB Jim Dupre 6-2 182 1 Nebraska [Zone Coverage] 76
+CB Jim Brewer 6-2 195 1 Michigan [Zone Coverage] 76
+CB Rashaan Viger 5-11 177 3 USC [ZoneCoverage] 74
+CB Richard Hoge 5-9 190 1 Auburn [Zone Coverage] 62
+FS Clyde St. Pierre 6-0 175 R SDSU [Zone Coverage] 74
+FS Terry Cole 6-2 202 4 Ole Miss [Man Coverage] 74
+FS Colston Watson 5-10 191 1 Clemson [Man Coverage] 71
+SS Darren Manning 6-4 189 2 Tennessee [ZoneCoverage] 87
+K Ryan Levcik 5-9 177 2 Alabama [Power] 89
+P Bud McCullough 5-9 182 R Georgia [Accuracy] 78

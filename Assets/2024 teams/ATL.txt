@@ -1,0 +1,55 @@
+QB Donald Culver 6-1 192 2 Utah [Pocket] [+2/C] 83 ?
+QB Felix Luck 6-1 234 R UC Davis [Pocket] [+2/C] 78
+QB Lucas Beckwith 6-0 216 R Harvard [Scrambling] [0/C] 75
+RB Akili Wallace 5-10 180 8 Florida State [Speed] [-1] 91
+RB Bradley Cooley 5-11 198 6 TCU [Speed] [0] 80
+RB Bernard Shook 5-8 182 2 USC [Speed] [0] 79
+RB Zion Norris 5-9 185 3 South Dakota State [Power] [0] 78
+FB Angelo Paul 5-8 206 3 Arizona State [Run Blocking] [0] 84
+WR Riddick Smith 6-0 185 10 Texas A&M [Target] [+2/C] 82
+WR Bo Woodall 6-1 202 6 North Carolina [Target] [-1] 85
+WR Stevie Henderson 5-10 180 1 NDSU [Speed] [+1] 81
+WR Rentavious Rogers 6-6 210 2 Butler [Target] [+1/C] 77
+WR Brian D'An?gelo 6-4 171 R UCLA [Speed]  [-1] 76
+WR Dwayne Maddox 6-2 180 3 LSU [Speed] [0] 77
+WR Dylan Barner 6-5 211 1 UCF [Target] [-2] 70
+TE Jason Erwin 6-6 242 4 Arizona State [Receiving] [+3] 90
+TE Mason Parks 6-1 232 2 Nevada [Receiving] [+1] 72
+OT Julian Sykes 6-6 307 8 Boston College [Pass Blocking] [-1/C] 90
+OT Kelly Meier 6-8 307 7 Alabama [Run Blocking] [0] 87
+OT/OG Jackson Gibson 6-4 240 3 Auburn [Run Blocking] [+1] [#] 88 ?
+OT Aneterea Sapolu 6-7 280 R Pittsburgh [Pass Blocking] [0] 79
+OT Israel Stewart 6-5 264 1 Duke [Pass Blocking] [+2] 78
+OG LaMichael Harley 6-2 297 3 Michigan [Pass Blocking] [+2] 90
+OG Ben Verba 6-0 283 6 Texas A&M [Pass Blocking] [+2] 76
+OG Dennis Gonzalez 6-4 322 R USC [Run Blocking] [+1] 76
+OG Andrew Burch 6-4 291 R South Carolina [Pass Blocking] [+1] 74
+C Chris Lee 6-2 292 5 San Diego State [Run Blocking] [-1] 83
+C Conor Hall 6-3 242 R USC [Pass Blocking] [0/C] 77
+DE Early Davis 6-3 259 5 Georgia [Blitz] [0] 92
+DE Eric Jennings 6-3 259 4 Oregon [Blitz] [-1] 84
+DE Marcus Terrell 6-2 245 2 Illinois [Blitz] [-1/C] 78
+DE Sean Boone 6-3 262 R South Alabama [Blitz] [0] 76
+DT Zion G?aines 6-1 297 R Texas [2-Gap] [0] [#] 81
+DT Oluwatoke Abiodun 6-5 289 1 USC [1-Gap] [+1] 80
+DT Joshua Thurman 6-2 317 2 Michigan [1-Gap] [0] 79
+DT Ashton Roland 6-6 300 1 UAB [1-Gap] [0] 76
+ILB Devin Frazier 6-1 257 1 Akron [Mike] [+3/C] 84
+ILB Norris Williams 6-2 210 3 Butler [Mike] [0] 79
+ILB Michael Hutson 5-11 223 4 Oregon [Mike] [0] 75
+OLB Tommy Leonard 6-1 229 10 Nebraska [Blitz] [+1/C] 79
+OLB Robert Lacy 6-3 240 5 Stanford [Blitz] [0] 87
+OLB Kaz Hadley 5-11 242 1 Missouri [Blitz] [+3/C] 81
+OLB Trevor Orlando 6-3 235 2 Oklahoma State [Coverage] [0] 78
+OLB Robert Hayes 6-1 233 R James Madison [Blitz] [+1/C] 70
+CB David Wilburn 5-10 195 10 Stanford [Man Coverage] [0/C] 85
+CB Vontae Burnett 5-10 192 4 Northern Iowa [Man Coverage] [+1] 82?
+CB Bradley Spurlock 5-10 188 2 Kansas [Man Coverage] [+1] 81
+CB Dennis Beach 6-1 192 R Auburn [Man Coverage] [-1] [#] 76
+CB Sean Freeman 6-1 167 2 Michigan State [Zone Coverage] [+3] 73
+FS Darius Jones 6-1 205 6 Washington [Zone Coverage] [0] 93
+FS David Porter 5-9 178 4 Louisiana Tech [Zone Coverage] [?0] 7?7
+SS Jesse Hutchins 6-2 18?2 4 Air Force [Man Cove?rage] [-2] 8??1 ?
+SS Jayden Nash 6-2 189 1 Alabama [Zone Coverage] [0] 77
+K Gino Chiaverini 6-3 206 7 Texas [Accuracy] [0] 92
+P Samuel Foster 5-11 168 3 Marist [Accuracy] [+1] 84

@@ -1,0 +1,49 @@
+QB Aaron Devereaux 6-6 204 2 LSU [Pocket] 89
+QB Mike Thomas 6-3 230 1 USC [Pocket] 78
+RB Kevin Richards 5-11 182 4 Miami (FL) [Speed] 90
+RB Paul Gibbs 5-9 189 1 Kansas [Speed] 75
+RB Drew Pierce 5-8 193 3 Texas Tech [Speed] 72
+FB John Gastineau 5-11 230 2 Auburn [Power] 80
+WR Greg Newman 5-9 168 4 Alabama [Target] 89
+WR Sean Jenkins 6-6 182 1 North Texas [Speed] 86
+WR Steve Alexander 6-6 184 2 Florida [Target] 80
+WR Paul Godfrey 6-1 180 3 Clemson [Speed] 75
+WR John Rowe 5-9 184 R Arizona [Target] 67
+WR Jerome Smith 5-11 220 R Air Force [Target] 66
+TE Spec Davidson 6-2 243 4 Georgia [Pass Blocking] 88
+TE George Cox 6-6 243 2 Louisville [Pass Blocking] 72
+TE Frank Edwards 6-7 248 R Missouri [Pass Blocking] 68
+OT Roderick White 6-8 304 3 Miami [PassBlocking] 92
+OT Wesley Dawkins 6-2 282 1 Michigan [Pass Blocking] 84
+OT Travis Clatterbuck 6-1 299 R LSU [Run Blocking] 79
+OT Randy Phelps 6-5 320 4 Utah [Pass Blocking] 74
+OG Virgil Madison 6-6 293 2 NCState [PassBlocking] 85
+OG Dee Harris 6-1 292 1 Ohio State [Pass Blocking] 77
+OG Sebastian Jones 6-8 291 2 Auburn [Run Blocking] 71
+OG Bobby Stallworth 6-5 277 1 LSU [Run Blocking] 69
+C Ryan Poole 6-1 303 3 Texas [RunBlocking] 87
+DE Cliff Marconi 6-2 267 1 Florida State [Pass Stop] 79
+DE Demarius Strong 6-4 254 1 Navy [Pass Stop] 80
+DE Brian Roberts 6-8 284 3 IowaState [RunStop] 60
+DT Jeremy Miller 6-1 304 2 TexasTech [RunStop] 90
+DT David Lee 6-3 278 3 MississippiState [RunStop] 86
+DT Montae Kelly 6-2 299 R Michigan [Pass Stop] 76
+DT Felix Welch 6-6 304 R Oklahoma State [Run Stop] 69
+DT Sean Simpson 6-4 305 R Ohio State [Pass Stop] 65
+ILB Rabih Delaney 6-1 237 3 Auburn [PassMan-to-Man] 89
+ILB Gregory Kellogg 6-3 235 R Ohio State [Run Man-to-Man] 73
+OLB Ray Flores 6-1 234 4 BYU [Run Man-to-Man] 86
+OLB Austin Olson 5-11 234 R Notre Dame [Run Man-to-Man] 82
+OLB Rolando Brown 6-1 223 3 OregonState [RunMan-to-Man] 73
+OLB Deuce Harris 5-11 223 4 Michigan [PassMan-to-Man] 72
+CB Bob Brewer 6-1 179 4 Oklahoma State [Man Coverage] 80
+CB Clarence Simmons 6-3 203 3 VirginiaTech [ManCoverage] 75
+CB Adam Harris 6-1 183 2 AirForce [ManCoverage] 76
+CB Leonard Bemiller 6-1 179 R Washington State [Man Coverage] 66
+FS Mike Jimenez 6-0 199 1 NC State [Zone Coverage] 77
+SS Willie Wood 6-1 198 3 Texas [ManCoverage] 80
+SS Frederick Higgins 5-11 187 R Penn State [Man Coverage] 75
+SS Glynn Massey 5-10 160 2 Wisconsin [Zone Coverage] 68
+K Skip Gibson 6-0 178 2 Georgia [Accuracy] 90
+P John Todd 6-4 170 R Alabama [Power] 73
+P Willie Hicks 5-8 185 4 Tennessee [Power] 72

@@ -1,0 +1,67 @@
+ Chicago Bears (3-11) at Green Bay Packers (12-2) ?
+
+Green Bay, WI - 24 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bears: Chicago Bears (3-11) 	7 	3 	2 	0 	- 	12
+:packers: Green Bay Packers (12-2) 	7 	3 	0 	6 	- 	16
+Team Stats Comparison
+  	:bears: Chicago Bears 	:packers: Green Bay Packers
+Injuries 	TE Donnie Allen - Moderate Concussion 	No Injuries
+Top Player Grade 	DE Andrew Fazande (7.96) 	ILB Jamal Harley (8.88)
+Worst Player Grade 	C Quinn Ledbetter (1.85) 	OG John Young (3.50)
+Offensive Line Rating 	7.93 	8.19
+Sacks 	4 	4
+Punting 	42.5 	48.0
+Punt Return Yards 	24 	15
+Kick Return Yards 	46 	41
+Turnovers 	0 	0
+3rd Down Conversion 	3/14 	5/15
+4th Down Conversion 	0/1 	0/0
+Penalties 	4/36 	8/71
+:bears: Chicago Bears
+Spread Option - Option 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Mohammed Foster 	15/31 	150 	0 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Vaughan Abraham 	14 	70 	0 	18 	0/0
+Mohammed Foster 	9 	46 	0 	22 	0/0
+Quincy Honeycutt 	11 	45 	1 	12 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+David Gaines 	6 	61 	0 	0 	0/0
+Peter Foster 	3 	40 	0 	0 	0/0
+Charlie Paul 	2 	18 	0 	1 	0/0
+Donnie Allen 	1 	10 	0 	0 	0/0
+Elijah Talley 	2 	10 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Geno Bohannon 	6/0 	1.0 	0/0 	1/0 	0/0
+Andrew Fazande 	4/1 	1.0 	0/0 	0/0 	0/1
+Jeff Holleyman 	3/0 	1.0 	0/0 	0/0 	0/0
+David Medley 	2/0 	1.0 	0/0 	0/0 	0/0
+Ivory Hull 	2/0 	- 	0/3 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Anthony Harris 	1/3 	1/1 	40 - 38, 52
+	
+:packers: Green Bay Packers
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jason Johnson ? 	22/37 	209 	1 	0 	1/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Jaz Durat 	19 	57 	0 	20 	0/0
+Gil Novacek 	3 	0 	0 	4 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Bernard Taylor ? 	7 	88 	0 	0 	0/0
+Dan Nomellini 	5 	42 	0 	0 	0/0
+Justin McCain 	3 	30 	1 	0 	0/0
+Michael Allen 	3 	20 	0 	2 	0/0
+Manny Ferguson 	2 	17 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jamal Harley 	9/1 	1.5 	0/0 	0/0 	0/0
+Barron Anthony 	4/0 	1.0 	0/0 	0/0 	0/0
+Brady Christiansen 	4/0 	1.0 	0/0 	0/0 	0/0
+Julio Barnes 	3/0 	0.5 	0/1 	0/0 	0/0
+Cameron Bowman 	2/0 	- 	0/1 	0/0 ? 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Brian Evans 	3/4 	1/1 	50, 26, 23 - 45 

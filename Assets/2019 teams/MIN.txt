@@ -1,0 +1,53 @@
+QB Brian Vardell 6-2 200 5 Washington State [Pocket] 96
+QB Doug Kirby 5-11 199 1 LSU [Pocket] 80
+QB Douglas Graham 6-3 185 R Miami(OH) [Pocket] 69
+RB Chester Henson 5-11 226 5 USC [Speed] 96
+RB Josh Taylor 5-10 178 R USF [Power] 78
+RB Caleb Sherwin 6-0 192 R Missouri [Speed]  70
+FB Anthony Thomas 5-11 222 4 Texas [Pass Blocking] 84
+FB Kai Bender 6-0 248 R ECU [RunBlocking] 75
+WR Sonny Beckett 6-6 188 2 Miami [Speed] 83
+WR Mohamed Charles 6-4 192 R Minnesota [Target] 79
+WR Eric Minter 6-4 187 4 Tennessee [Target] 76
+WR Ray Harrison 6-1 197 R Purdue [Target] 75
+WR Sid Wilson 6-1 205 2 Stanford [Target] 69
+TE Eugene Jackson 6-5 253 1 Ohio State [Receiving] 84
+TE Larry Turner 6-3 235 4 PennState [Blocking] 75
+TE Patrick Stehl 6-5 245 R Illinois [Receiving] 69
+OT Rodney Todd 6-5 312 3 Georgia [PassBlocking] 77
+OT Bryan Green 6-3 312 3 VirginiaTech [RunBlocking] 87
+OT MacKenzie Woods 6-4 313 5 USC [Run Blocking] 91
+OG Gregory Cooke 6-5 291 1 Kansas [Pass Blocking] 73
+OG Joe Smith 6-2 300 4 Arizona State [Pass Blocking] 84
+OG Ernest Welch 6-8 313 2 Arizona [Pass Blocking] 67
+OG Tony Baxter 6-7 317 3 USC [RunBlocking] 78
+C John Hadley 6-3 285 R Michigan [Pass Blocking] 82
+C Tim Beban 6-1 301 2 LSU [Pass Blocking] 77
+DE Dennis Niland 6-4 284 3 USC [Contain] 87
+DE James Finney 6-3 293 R Ball State [Contain] 75
+DE Ernie Bouggess 6-2 272 2 West Virginia [Contain] 72
+DE Robert Anderson 6-8 275 R Arizona [Contain] 70
+DT Jared Lee 6-5 313 4 Florida State [2-Gap] 83
+DT Frank Jones 6-5 295 2 Iowa [2-Gap] 76
+DT Julian Young 6-7 276 R Minnesota [2-Gap] 68
+DT Tyrone Crawley 6-4 296 R Kentucky [2-Gap] 67
+ILB Cleveland Merrill 6-1 236 4 Ole Miss [Will] 95
+ILB Eric Jones 6-1 238 3 LSU [Will] 87
+ILB Paul Floyd 6-3 232 R NC State [Will] 75
+ILB Stephen McKenzie 6-1 234 2 Wisconsin [Will] 72
+OLB Arlie LeClair 6-2 245 5 Virginia Tech [Coverage] 92
+OLB Paul Goodman 6-2 240 1 Penn State [Blitz] 84
+OLB Mike Johnson 6-0 240 2 Houston [Coverage] 79
+OLB Dominic Cooper 5-11 224 2 UCLA [Coverage] 71
+CB Devon Drummond 5-11 181 R Kansas [Man Coverage] 80
+CB Jonathan Blankenship 6-1 190 1 Tulane [Zone Coverage] 76
+CB Jim Dupre 6-2 182 2 Nebraska [Zone Coverage] 75
+CB Rashaan Viger 5-11 177 4 USC [ZoneCoverage] 72
+CB Richard Hoge 5-9 190 2 Auburn [Zone Coverage] 62
+FS Ashton Britt 6-1 190 R Georgia Tech [Zone Coverage] 76
+FS Clyde St. Pierre 6-0 175 1 SDSU [Zone Coverage] 75
+FS Colston Watson 5-10 191 2 Clemson [Man Coverage] 73
+SS Darren Manning 6-4 189 3 Tennessee [ZoneCoverage] 88
+SS Kevin Briggs 5-10 217 R Air Force [Man Coverage] 76
+K Ryan Levcik 5-9 177 3 Alabama [Power] 91
+P Bud McCullough 5-9 182 1 Georgia [Accuracy] 79

@@ -1,0 +1,57 @@
+ Los Angeles Chargers (0-6) at New York Giants (0-6)
+
+East Rutherford, NJ - 52 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:chargers: Los Angeles Chargers (0-6) 	0 	7 	3 	3 	- 	13
+:giants: New York Giants (0-6) 	3 	6 	3 	7 	- 	19
+Team Stats Comparison
+  	:chargers: Los Angeles Chargers 	:giants: New York Giants
+Injuries 	Andrew Wright, FS - Severe ACL Rupture 	No Injuries
+Offensive Line Rating 	7.6 	8.0
+Sacks 	2 	5
+Punting 	41.8 	45.6
+Punt Return Yards 	24 	11
+Kick Return Yards 	45 	22
+Turnovers 	2 	2
+3rd Down Conversion 	6/16 	3/13
+4th Down Conversion 	1/2 	0/1
+Penalties 	3/15 	5/48
+:chargers: Los Angeles Chargers
+Pro Style - Vertical Offense
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matty Swift 	19/39 	204 	1 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Brannon Austin 	9 	23 	0 	10 	0/0
+Mamadou Heard 	3 	7 	0 	4 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Scott Howard 	6 	92 	1 	0 	0/0
+Tommy Pottios 	4 	55 	0 	1 	0/0
+M.L. Kriewaldt 	3 	32 	0 	0 	0/0
+Gerald Morrison 	3 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Shane Easley 	8/1 	- 	1/0 	0/0 	0/0
+Kevin Potts 	1/0 	- 	1/1 	0/0 	0/0
+Joey Green 	3/0 	1.0 	0/0 	0/0 	0/0
+Jason Bryant 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Rafael Davidson 	2/3 	1/1 	45, 40 - 59
+	
+:giants: New York Giants
+Pistol - Flexbone
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+David Brezina 	10/21 	75 	0 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+O.J. Carano 	22 	100 	1 	19 	0/0
+David Brezina 	2 	8 	0 	5 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tom Oldham 	2 	22 	0 	0 	0/0
+Ibrahim Smiley 	3 	20 	0 	1 	0/0
+Patrick Lambert 	2 	16 	0 	0 	0/0
+Eugene Sanders 	1 	9 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+D'Qwell Moore 	6/0 	- 	1/0 	0/0 	0/0
+Hunter Lawrence 	1/0 	- 	1/0 	0/0 	0/0
+Kenyatta Henderson 	5/1 	2.0 	0/0 	0/0 	0/0
+Curtis Lewis 	4/0 	1.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Trent Michaels 	4/4 	1/1 	28, 45, 40, 28 

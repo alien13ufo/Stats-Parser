@@ -1,0 +1,55 @@
+ Buffalo Bills (0-0) at Pittsburgh Steelers (0-0)
+
+Pittsburgh, PA  - 79 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (0-0) 	3 	3 	3 	7 	- 	16
+:steelers: Pittsburgh Steelers (0-0) 	0 	0 	7 	0 	- 	7
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:steelers: Pittsburgh Steelers
+Injuries 	Brian Hernandez, OLB - Moderate Biceps Tear 	No Injuries
+Offensive Line Rating 	8.0 	7.8
+Sacks 	7 	2
+Punting 	41.2 	46.7
+Punt Return Yards 	11 	6
+Kick Return Yards 	22 	0
+Turnovers 	0 	3
+3rd Down Conversion 	5/14 	2/11
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/96 	4/38
+:bills: Buffalo Bills
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Kamau Davis 	20/30 	233 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	18 	68 	0 	11 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Isaiah Cronin 	5 	96 	1 	0 	0/0
+Matt Thomas 	6 	68 	0 	0 	1/0
+Kevin Garvin 	4 	41 	0 	0 	0/0
+Tyron Chambers 	2 	19 	0 	1 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Sammy Grey 	3/0 	- 	2/1 	0/0 	0/0
+Patrick Chaney 	1/0 	- 	1/0 	0/0 	0/0
+Anthony Ortiz 	5/0 	4.0 	0/0 	0/0 	0/0
+Rodney Galbreath 	3/1 	1.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Darryl Lemus 	3/3 	1/1 	29, 25, 37
+	
+:steelers: Pittsburgh Steelers
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Allan O'Hennesy 	13/29 	132 	0 	3 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	19 	83 	1 	9T 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jake Schmidt 	5 	67 	0 	0 	0/0
+Charlie Paul 	5 	51 	0 	0 	0/0
+Eric Watson 	1 	6 	0 	1 	0/0
+Chester Henson 	1 	4 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Carlos Washington 	4/2 	1.0 	0/0 	0/0 	0/0
+Quentin Smith 	4/0 	1.0 	0/0 	0/0 	0/0
+Ron Mobley 	7/0 	- 	0/0 	1/0 	0/0
+Ronnie Bailey 	2/0 	- 	0/2 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Michael Turner 	0/1 	1/1 	- 48 

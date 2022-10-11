@@ -1,0 +1,57 @@
+ New England Patriots (5-5) at Los Angeles Rams (7-2)
+
+Inglewood, CA - 76 F :sunny:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:patriots: New England Patriots (5-5) 	0 	0 	7 	7 	- 	14
+:rams: Los Angeles Rams (7-2) 	17 	3 	3 	0 	- 	23
+Team Stats Comparison
+  	:patriots: New England Patriots 	:rams: Los Angeles Rams
+Injuries 	Geno Harris, WR - Mild Concussion 	No Injuries
+Offensive Line Rating 	8.2 	7.8
+Sacks 	3 	1
+Punting 	43.3 	46.7
+Punt Return Yards 	19 	24
+Kick Return Yards 	19 	20
+Turnovers 	2 	1
+3rd Down Conversion 	5/12 	4/12
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/50 	3/20
+:patriots: New England Patriots
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	16/28 	165 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daniel Hutchins 	15 	50 	0 	12 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+George Lewis 	4 	46 	0 	0 	0/0
+Jamel Beckham 	4 	45 	1 	0 	0/0
+Geno Harris 	3 	42 	1 	0 	0/0
+Jake Bates 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Dave Stokley 	2/0 	- 	1/0 	0/0 	0/0
+Mark Logan 	4/0 	1.5 	0/0 	0/0 	0/0
+Joey Davis 	3/0 	1.0 	0/0 	0/0 	0/0
+Mark Craig 	6/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	0/1 	2/2 	- 48
+	
+:rams: Los Angeles Rams
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	20/31 	231 	2 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chad Dess 	16 	54 	0 	13 	0/0
+Terrell Holland 	2 	9 	0 	7 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Allama Banta 	6 	88 	1 	0 	0/0
+Kevin O'Neal 	5 	67 	1 	0 	0/0
+Norman Spencer 	3 	31 	0 	0 	0/0
+Andrew Williamson 	3 	28 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Brandon Sauter 	6/0 	- 	2/1 	0/0 	0/0
+Thomas Henry 	1/0 	1.0 	0/0 	0/0 	0/0
+Jeff Cox 	5/0 	- 	0/1 	0/0 	0/0
+Leigh Davey 	4/0 	- 	0/1 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Hunter Hendrickson 	3/3 	2/2 	28, 25, 36 

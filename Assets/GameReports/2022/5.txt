@@ -1,0 +1,67 @@
+ Buffalo Bills (0-0) at Indianapolis Colts (0-0) ?
+
+Indianapolis, IN - 83 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bills: Buffalo Bills (0-0) 	7 	7 	17 	0 	- 	31
+:colts: Indianapolis Colts (0-0) 	7 	3 	7 	6 	- 	23
+Team Stats Comparison
+  	:bills: Buffalo Bills 	:colts: Indianapolis Colts
+Injuries 	No Injuries 	QB Aaron Shea - Moderate Thumb Dislocation
+Top Player Grade 	WR Isaiah Cronin (8.47) 	DE Anthony Miller (7.85)
+Worst Player Grade 	OG Jim Hutchinson (4.85) 	OT Phillip Edwards (4.19)
+Offensive Line Rating 	8.21 	8.01
+Sacks 	5 	2
+Punting 	45.3 	40.5
+Punt Return Yards 	26 	18
+Kick Return Yards 	64 	43
+Turnovers 	0 	1
+3rd Down Conversion 	6/13 	4/12
+4th Down Conversion 	1/1 	0/0
+Penalties 	7/65 	4/35
+:bills: Buffalo Bills
+Pro Style - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Matt Jones 	24/35 	238 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG ? 	F/L
+Marshawn Matthison 	19 	88 	2 	29 	0/0
+Richard Holt 	2 	6 	1 	5 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Faneca 	6 	82 	0 	0 	0/0
+Isaiah Cronin 	7 	59 	1 	0 	0/0
+Kevin Garvin 	3 	36 	0 	0 	0/0
+Matt Thomas 	2 	21 	0 	0 	0/0
+Drew Abbott 	2 	18 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+D.J. Reed 	2/0 	- 	1/0 	0/0 	0/0
+Anthony Ortiz 	4/2 	2.0 	0/0 	0/0 	0/0
+Rodney Galbreat 	3/0 	1.5 	0/0 	1/0 	0/0
+Brian Hernandez 	4/0 	1.0 	0/0 	0/0 	0/0
+Mark Bassett 	3/0 	0.5 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Derek LeBlanc 	1/1 	4/4 	37
+	
+:colts: Indianapolis Colts
+Vertical - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Robert Martin 	14/26 	146 	1 	1 	1/0
+Aaron Shea 	10/14 	109 	1 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+James Otero 	10 	42 	0 	7 	0/0
+Nathan Coleman 	1 	-2 	0 	-2 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Tyler Dotson 	6 	64 	1 	0 	0/0
+Mosi Batos 	4 	41 	0 	1 	0/0
+Sean McDermott 	4 	40 	0 	0 	0/0
+Rashad Simon 	3 	32 	1 	1 	0/0
+Messiah Bernard 	3 	27 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Anthony Miller 	3/0 	1.0 	0/0 	0/0 	0/0
+Hudson Adam 	2/0 	1.0 	0/0 	0/0 	0/0
+Lukas Forman 	5/0 	- 	0/1 ? 	0/0 	0/0
+Sean Burton 	2/0 	- 	0/2 	0/0 	0/0
+Kelly Mitchell 	4/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Connell 	3/3 	2/2 	45, 23, 35 

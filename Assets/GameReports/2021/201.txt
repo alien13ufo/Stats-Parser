@@ -1,0 +1,57 @@
+ Seattle Seahawks (3-9) at New England Patriots (5-7)
+
+Foxborough, MA - 33 F :windy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:seahawks: Seattle Seahawks (3-9) 	14 	3 	3 	7 	- 	27
+:patriots: New England Patriots (5-7) 	7 	0 	10 	0 	- 	17
+Team Stats Comparison
+  	:seahawks: Seattle Seahawks 	:patriots: New England Patriots
+Injuries 	No Injuries 	George Lewis, WR - Severe Achilles Tendonitis
+Offensive Line Rating 	8.2 	8.4
+Sacks 	0 	0
+Punting 	44.3 	45.3
+Punt Return Yards 	11 	11
+Kick Return Yards 	0 	24
+Turnovers 	0 	2
+3rd Down Conversion 	4/11 	4/14
+4th Down Conversion 	0/0 	1/1
+Penalties 	6/54 	4/68
+:seahawks: Seattle Seahawks
+Spread - Pistol
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Jarius Jones 	20/27 	238 	2 	0 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Marcus Williams 	18 	102 	1 	18 	0/0
+Booker T. Washington 	6 	46 	0 	24 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Josiah McCray 	6 	85 	1 	0 	0/0
+Curtis Settles 	4 	56 	1 	0 	0/0
+Jim Umenyiora 	3 	40 	0 	1 	0/0
+Jaheim Lemons 	3 	31 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Antonio Oliver 	6/0 	- 	1/0 	0/0 	0/0
+Matt Cowan 	2/0 	- 	1/0 	0/0 	0/0
+Zion Adakwa 	6/1 	- 	0/1 	0/0 	0/0
+Kenji Sagatomo 	4/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Chris Ritter 	2/2 	3/3 	55, 37
+	
+:patriots: New England Patriots
+Spread - Pro Style
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Reggie Watkins 	19/34 	249 	2 	2 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Daniel Hutchins 	14 	44 	0 	8 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Gary Jones 	7 	94 	1 	0 	0/0
+Geno Harris 	3 	56 	1 	0 	0/0
+Jamel Beckham 	2 	34 	0 	1 	0/0
+Jake Bates 	2 	23 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Mark Craig 	7/0 	- 	0/0 	0/0 	0/0
+Norris Nolan 	5/0 	- 	0/1 	0/0 	0/0
+Jeremy Owen 	4/1 	- 	0/0 	0/0 	0/0
+Willard Arnold 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Brad Weathersby 	1/1 	2/2 	38 

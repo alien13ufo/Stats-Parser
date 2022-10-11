@@ -1,0 +1,67 @@
+ Arizona Cardinals (2-9) at Los Angeles Rams (3-8) ?
+
+Inglewood, CA - 65 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:cardinals: Arizona Cardinals (2-9) 	0 	0 	14 	0 	- 	14
+:rams: Los Angeles Rams (3-8) 	7 	7 	3 	0 	- 	17
+Team Stats Comparison
+  	:cardinals: Arizona Cardinals 	:rams: Los Angeles Rams
+Injuries 	No Injuries 	No Injuries
+Top Player Grade 	RB Trevon Yeldon (6.54) 	QB Darrell Muyrphy (7.31)
+Worst Player Grade 	ILB Tom Reis (4.01) 	CB Christopher Anthony (2.55)
+Offensive Line Rating 	8.36 	8.22
+Sacks 	1 	1
+Punting 	48.4 	43.7
+Punt Return Yards 	12 	8
+Kick Return Yards 	46 	53
+Turnovers 	1 	1
+3rd Down Conversion 	4/12 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	7/63 	3/15
+:cardinals: Arizona Cardinals
+Wing T - Smash Mouth
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Paul Davenport 	6/11 	67 	1 	0 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Trevon Yeldon 	24 	108 	1 	17 	1/1
+Paul Davenport 	6 	31 	0 	15 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Adrian Allen 	1 	27 	0 	0 	0/0
+Noah Hills 	2 	16 	1 	0 	0/0
+Marcus Banks 	1 	10 	0 	0 	0/0
+Ricky Chambers 	1 	8 	0 	0 	0/0
+Butch Harper 	1 	6 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Asante Willis 	3/0 	- 	1/0 	0/0 	0/0
+Dennis Abdullah 	2/1 	1.0 	0/0 	0/0 	0/0
+Tom Reis 	5/0 	- 	0/0 	0/0 	0/0
+William Thomas 	3/0 	- 	0/0 	0/0 	0/0
+Shaq Turner 	3/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Cliff Chamblin 	0/1 	2/2 	- 53
+	
+:rams: Los Angeles Rams
+Spread - Pistol 2RB
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Darrell Murphy 	17/23 	208 	1 	1 	0/0
+- 	-/- 	- 	- 	- 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Terrell Holland ? 	15 	72 	0 	9 	0/0
+Daveed Knox 	13 	56 	1 	20 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Walt Peck 	6 	80 	0 	0 	0/0
+Derrick Schwartz 	3 	48 ? 	1 	0 	0/0
+Allama Banta 	2 	29 	0 	0 	0/0
+Steve Alexander 	2 	28 	0 	0 	0/0
+Norman Spencer 	1 	15 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Jeff Cox 	5/1 	1.0 	0/0 	0/0 	0/0
+Michael Bruce 	3/0 	- 	0/0 	1/0 	0/0
+Anthony Beltran 	2/0 	- 	0/0 	0/1 	0/0
+Daniel Watkins 	7/1 	- 	0/0 	0/0 	0/0
+Leigh Davey 	5/0 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES ?
+Sam Walsh 	1/1 	2/2 	32 

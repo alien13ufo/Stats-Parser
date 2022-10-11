@@ -1,0 +1,66 @@
+ Cincinnati Bengals (2-6) at Pittsburgh Steelers (4-4)
+
+Pittsburgh, PA - 49 F :cloudy:
+	1ST 	2ND 	3RD 	4TH 	OT 	SCORE
+:bengals: Cincinnati Bengals (2-6) 	0 	3 	3 	3 	- 	9
+:steelers: Pittsburgh Steelers (4-4) 	7 	6 	7 	0 	- 	20
+Team Stats Comparison
+  	:bengals: Cincinnati Bengals 	:steelers: Pittsburgh Steelers
+Injuries 	
+
+Germane Dixon, OLB - Mild Ankle Fracture
+
+ 
+	
+
+Chester Henson, RB - Severe Toe Sprain
+
+Patrick Murphy, OLB - Moderate Quadriceps Strain
+Offensive Line Rating 	7.8 	7.8
+Sacks 	2 	3
+Punting 	43.5 	43.6
+Punt Return Yards 	29 	4
+Kick Return Yards 	20 	26
+Turnovers 	1 	1
+3rd Down Conversion 	4/14 	3/12
+4th Down Conversion 	0/0 	0/0
+Penalties 	5/50 	7/52
+:bengals: Cincinnati Bengals
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+Joel King 	16/31 	200 	0 	0 	1/1
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Ron Thomas 	18 	54 	0 	18 	0/0
+- 	- 	- 	- 	- 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Jamir Blackburn 	5 	75 	0 	0 	0/0
+Adrian Jankowski 	2 	45 	0 	0 	0/0
+Brandon Lane 	3 	36 	0 	0 	0/0
+Christopher Harris 	2 	21 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+Tom Rambo 	2/0 	- 	1/0 	0/0 	0/0
+Brett Bailey 	4/0 	1.0 	0/0 	0/0 	0/0
+Mike Hulsey 	4/0 	1.0 	0/0 	0/0 	0/0
+Sila Lotomau 	5/1 	- 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Justin Nielsen 	3/4 	0/0 	39, 28, 46 - 53
+	
+:steelers: Pittsburgh Steelers
+Pistol - Spread
+PASSING 	C/A 	YDS 	TD 	INT 	F/L
+R.J. Stanford 	20/34 	277 	1 	1 	0/0
+RUSHING 	ATT 	YDS 	TD 	LNG 	F/L
+Chester Henson 	12 	46 	0 	13 	0/0
+Kalei Keil 	14 	42 	1 	18T 	0/0
+RECEIVING 	REC 	YDS 	TD 	DRP 	F/L
+Charlie Paul 	3 	67 	0 	0 	0/0
+Jake Schmidt 	4 	64 	0 	1 	0/0
+Austin Medina 	4 	59 	1 	0 	0/0
+Eric Watson 	3 	49 	0 	0 	0/0
+DEFENSE 	T/TFL 	SCK 	INT/PD 	FF/FR 	TD/SFTY
+David Drake 	2/0 	0.5 	0/0 	1/0 	0/0
+Quentin Smith 	3/0 	1.5 	0/0 	0/0 	0/0
+Jamie Zuman 	5/0 	- 	0/0 	0/1 	0/0
+Charlie Johnson 	3/0 	1.0 	0/0 	0/0 	0/0
+KICKING 	FG 	XP 	KICK DISTANCES
+Michael Turner 	2/2 	2/2 	44, 28 
